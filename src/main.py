@@ -1,111 +1,52 @@
-import requests
-import datetime
 import json
 from collections import defaultdict
+from src.api_client import get_deputies_list, get_deputy_expenses
 
 STATE_FILE = 'estado.json'
+RANKING_FILE = 'ranking_gastos.json'
 
-def load_state():
-    """Carrega o índice do último deputado processado."""
+def load_json(file_path):
+    """Carrega um arquivo JSON."""
     try:
-        with open(STATE_FILE, 'r') as f:
+        with open(file_path, 'r') as f:
             return json.load(f)
     except FileNotFoundError:
-        # Se o arquivo não existe, cria um no diretório do projeto
-        project_dir = '/home/zlimaz/Documentos/Projeto-Sentinela/'
-        with open(project_dir + STATE_FILE, 'w') as f:
-            initial_state = {"last_processed_deputy_index": -1}
-            json.dump(initial_state, f)
-        return initial_state
+        return None
 
-def save_state(state):
-    """Salva o novo estado (índice do deputado processado)."""
-    project_dir = '/home/zlimaz/Documentos/Projeto-Sentinela/'
-    with open(project_dir + STATE_FILE, 'w') as f:
-        json.dump(state, f, indent=2)
-
-def get_deputies_list():
-    """Busca a lista de todos os deputados em exercício."""
-    url = "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
-    headers = {"Accept": "application/json"}
-    try:
-        response = requests.get(url, headers=headers, timeout=15)
-        response.raise_for_status()
-        return response.json()["dados"]
-    except requests.RequestException as e:
-        print(f"Erro ao buscar deputados: {e}")
-        return []
-
-def get_deputy_expenses(deputy_id, months=3):
-    """Busca todas as despesas de um deputado, lidando com paginação."""
-    today = datetime.date.today()
-    # Para garantir que pegamos 3 meses completos, vamos para o primeiro dia do mês inicial
-    end_date = today
-    start_date = (today.replace(day=1) - datetime.timedelta(days=1)).replace(day=1) # vai para o mes anterior
-    for _ in range(months - 1):
-        start_date = (start_date - datetime.timedelta(days=1)).replace(day=1)
-
-    all_expenses = []
-    # Itera por cada mês para garantir que a busca seja precisa
-    current_month = start_date
-    while current_month <= end_date:
-        url = f"https://dadosabertos.camara.leg.br/api/v2/deputados/{deputy_id}/despesas"
-        params = {
-            "ano": current_month.year,
-            "mes": current_month.month,
-            "itens": 100,
-            "pagina": 1
-        }
-        headers = {"Accept": "application/json"}
-        
-        while url:
-            try:
-                response = requests.get(url, headers=headers, params=params, timeout=15)
-                response.raise_for_status()
-                data = response.json()
-                all_expenses.extend(data["dados"])
-                
-                next_link = next((link["href"] for link in data["links"] if link["rel"] == "next"), None)
-                url = next_link
-                params = {} # Params só são necessários na primeira requisição da página
-            except requests.RequestException as e:
-                print(f"Erro ao buscar despesas para o deputado {deputy_id} no mês {current_month.month}/{current_month.year}: {e}")
-                # Tenta continuar para o próximo mês mesmo se um falhar
-                break 
-        
-        # Avança para o próximo mês
-        if current_month.month == 12:
-            current_month = current_month.replace(year=current_month.year + 1, month=1)
-        else:
-            current_month = current_month.replace(month=current_month.month + 1)
-            
-    return all_expenses
+def save_json(data, file_path):
+    """Salva dados em um arquivo JSON."""
+    with open(file_path, 'w') as f:
+        json.dump(data, f, indent=2)
 
 def process_expenses(expenses):
-    """Agrupa as despesas por tipo e calcula o total."""
+    """Agrupa despesas, calcula totais e encontra o maior gasto individual."""
     if not expenses:
-        return 0, {}
+        return 0, {}, None
+
     total_spent = 0
     grouped_expenses = defaultdict(float)
+    largest_single_expense = {"valorLiquido": 0}
+
     for expense in expenses:
         total_spent += expense['valorLiquido']
-        # Simplifica nomes de categorias para melhor visualização
         category_name = expense['tipoDespesa'].replace(".", "").strip().title()
         grouped_expenses[category_name] += expense['valorLiquido']
-    
+        
+        if expense['valorLiquido'] > largest_single_expense['valorLiquido']:
+            largest_single_expense = expense
+
     sorted_grouped_expenses = sorted(grouped_expenses.items(), key=lambda item: item[1], reverse=True)
-    return total_spent, dict(sorted_grouped_expenses)
+    return total_spent, dict(sorted_grouped_expenses), largest_single_expense
 
-def format_tweet(deputy_name, deputy_party, total_spent, grouped_expenses):
-    """Formata os dados de despesa em um texto de tweet pronto para postar."""
-    
-    # Inicia o tweet com as informações principais
-    tweet = f"📊 Gastos Parlamentares (Últimos 3 meses)\n\n"
-    tweet += f"👤 Deputado(a): {deputy_name} ({deputy_party})\n"
-    tweet += f"💰 Total Gasto: R$ {total_spent:,.2f}\n\n"
-    tweet += "Principais Despesas:\n"
+def generate_thread_content(deputy_id, deputy_name, deputy_party, total_spent, grouped_expenses, largest_expense):
+    """Gera o conteúdo para uma thread de 3 tweets."""
+    # ... (código da função mantido, sem alterações)
+    tweet1 = f"📊 Gastos Parlamentares: R$ {total_spent:,.2f}\n\n"
+    tweet1 += f"Deputado(a): {deputy_name} ({deputy_party}) utilizou este valor da cota parlamentar nos últimos 3 meses.\n\n"
+    tweet1 += "👇 Siga o fio para ver os detalhes e as fontes."
+    tweet1 += "\n\n#ProjetoSentinela #TransparenciaBrasil #Fiscalize"
 
-    # Adiciona as top 3-4 categorias para não exceder o limite de caracteres
+    tweet2 = "🧵 Detalhes dos Gastos:\n\n"
     emoji_map = {
         "Divulgação Da Atividade Parlamentar": "📢",
         "Combustíveis E Lubrificantes": "⛽",
@@ -115,57 +56,62 @@ def format_tweet(deputy_name, deputy_party, total_spent, grouped_expenses):
         "Telefonia": "📱",
         "Serviços Postais": "✉️"
     }
-
     count = 0
     for category, value in grouped_expenses.items():
-        if count < 4:
+        if count < 5:
             emoji = emoji_map.get(category, "▪️")
             line = f"{emoji} {category}: R$ {value:,.2f}\n"
-            if len(tweet) + len(line) < 270: # Deixa uma margem para hashtags
-                tweet += line
+            if len(tweet2) + len(line) < 280:
+                tweet2 += line
                 count += 1
-            else:
-                break
+
+    tweet3 = ""
+    if largest_expense and largest_expense['valorLiquido'] > 0:
+        valor = largest_expense['valorLiquido']
+        fornecedor = largest_expense['nomeFornecedor'].title()
+        tweet3 += f"✨ Destaque: O maior gasto único foi de R$ {valor:,.2f} com \"{fornecedor}\".\n\n"
     
-    # Adiciona as hashtags
-    hashtags = f"\n#ProjetoSentinela #TransparenciaBrasil #Fiscalize #CongressoNacional"
-    tweet += hashtags
-    
-    return tweet
+    deputy_page_url = f"https://www.camara.leg.br/deputados/{deputy_id}"
+    tweet3 += f"🔍 Fonte Oficial: Confira todos os gastos e notas fiscais no portal da Câmara:\n{deputy_page_url}"
+
+    return [tweet1, tweet2, tweet3]
 
 def main():
     print("Iniciando ciclo do Projeto Sentinela...")
     
-    state = load_state()
-    deputies = get_deputies_list()
-    if not deputies:
-        print("Não foi possível obter a lista de deputados. Encerrando.")
+    project_dir = '/home/zlimaz/Documentos/Projeto-Sentinela/'
+    state = load_json(project_dir + STATE_FILE) or {"last_processed_deputy_index": -1}
+    ranking = load_json(project_dir + RANKING_FILE)
+
+    if not ranking:
+        print("Arquivo de ranking não encontrado. Por favor, execute o gerador_de_ranking.py primeiro.")
         return
 
     current_index = state["last_processed_deputy_index"]
-    next_index = (current_index + 1) % len(deputies)
+    next_index = (current_index + 1) % len(ranking)
     
-    selected_deputy = deputies[next_index]
+    selected_deputy = ranking[next_index]
     deputy_id = selected_deputy["id"]
     deputy_name = selected_deputy["nome"]
     deputy_party = f"{selected_deputy['siglaPartido']}-{selected_deputy['siglaUf']}"
 
-    print(f"\nProcessando: [{next_index + 1}/{len(deputies)}] {deputy_name} ({deputy_party}) - ID: {deputy_id}")
+    print(f"\nProcessando do Ranking: [Posição {next_index + 1}/{len(ranking)}] {deputy_name} ({deputy_party})")
     expenses = get_deputy_expenses(deputy_id)
-    total_spent, grouped_expenses = process_expenses(expenses)
+    total_spent, grouped_expenses, largest_expense = process_expenses(expenses)
 
-    # Gera o texto do tweet
-    tweet_text = format_tweet(deputy_name, deputy_party, total_spent, grouped_expenses)
+    thread_content = generate_thread_content(deputy_id, deputy_name, deputy_party, total_spent, grouped_expenses, largest_expense)
 
-    print("\n" + "="*40)
-    print("  Texto do Tweet Gerado (Pronto para Copiar)")
-    print("="*40)
-    print(tweet_text)
-    print("="*40 + "\n")
+    print("\n" + "="*50)
+    print("  Conteúdo da Thread Gerado (Pronto para Copiar)")
+    print("="*50)
+    for i, tweet in enumerate(thread_content):
+        print(f"\n--- TWEET {i+1}/3 ---")
+        print(tweet)
+    print("\n" + "="*50 + "\n")
             
     state["last_processed_deputy_index"] = next_index
-    save_state(state)
-    print(f"Estado atualizado. Próxima execução começará do deputado de índice: {next_index + 1}")
+    save_json(state, project_dir + STATE_FILE)
+    print(f"Estado atualizado. Próxima execução começará da posição: {next_index + 1}")
 
 if __name__ == "__main__":
     main()
