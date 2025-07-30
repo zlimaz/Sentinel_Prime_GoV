@@ -49,8 +49,8 @@ def get_deputy_expenses(deputy_id, months=3):
                 break
     return all_expenses
 
-def post_tweet(text):
-    """Posta um tweet no X (Twitter)."""
+def post_tweet(text, reply_to_id=None):
+    """Posta um tweet no X (Twitter), opcionalmente respondendo a outro tweet."""
     try:
         api_key = os.environ.get("X_API_KEY")
         api_secret = os.environ.get("X_API_SECRET")
@@ -59,7 +59,7 @@ def post_tweet(text):
 
         if not all([api_key, api_secret, access_token, access_token_secret]):
             print("Erro: As credenciais da API do X não foram encontradas nas variáveis de ambiente.")
-            return False
+            return None
 
         client = tweepy.Client(
             consumer_key=api_key,
@@ -68,9 +68,10 @@ def post_tweet(text):
             access_token_secret=access_token_secret
         )
 
-        response = client.create_tweet(text=text)
-        print(f"Tweet postado com sucesso: {response.data['id']}")
-        return True
+        response = client.create_tweet(text=text, in_reply_to_tweet_id=reply_to_id)
+        tweet_id = response.data['id']
+        print(f"Tweet postado com sucesso: {tweet_id}")
+        return tweet_id
     except Exception as e:
         print(f"Erro ao postar tweet: {e}")
-        return False
+        return None

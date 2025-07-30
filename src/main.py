@@ -114,9 +114,11 @@ def main():
 
     # Posta a thread no X
     print("Postando no X...")
+    last_tweet_id = None
     post_successful = True
     for tweet in thread_content:
-        if not post_tweet(tweet):
+        last_tweet_id = post_tweet(tweet, reply_to_id=last_tweet_id)
+        if not last_tweet_id:
             print("Falha ao postar um dos tweets. Abortando o ciclo.")
             post_successful = False
             break
