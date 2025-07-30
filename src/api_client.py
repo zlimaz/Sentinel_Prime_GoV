@@ -1,5 +1,7 @@
 import requests
 import datetime
+import os
+import tweepy
 
 def get_deputies_list():
     """Busca a lista de todos os deputados em exercício."""
@@ -46,3 +48,29 @@ def get_deputy_expenses(deputy_id, months=3):
                 # print(f"Aviso: Falha ao buscar despesas para o deputado {deputy_id} no mês {target_date.month}/{target_date.year}: {e}")
                 break
     return all_expenses
+
+def post_tweet(text):
+    """Posta um tweet no X (Twitter)."""
+    try:
+        api_key = os.environ.get("X_API_KEY")
+        api_secret = os.environ.get("X_API_SECRET")
+        access_token = os.environ.get("X_ACCESS_TOKEN")
+        access_token_secret = os.environ.get("X_ACCESS_TOKEN_SECRET")
+
+        if not all([api_key, api_secret, access_token, access_token_secret]):
+            print("Erro: As credenciais da API do X não foram encontradas nas variáveis de ambiente.")
+            return False
+
+        client = tweepy.Client(
+            consumer_key=api_key,
+            consumer_secret=api_secret,
+            access_token=access_token,
+            access_token_secret=access_token_secret
+        )
+
+        response = client.create_tweet(text=text)
+        print(f"Tweet postado com sucesso: {response.data['id']}")
+        return True
+    except Exception as e:
+        print(f"Erro ao postar tweet: {e}")
+        return False

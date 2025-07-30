@@ -1,6 +1,10 @@
 import json
 from collections import defaultdict
-from src.api_client import get_deputies_list, get_deputy_expenses
+from src.api_client import get_deputies_list, get_deputy_expenses, post_tweet
+from dotenv import load_dotenv
+
+# Carrega as variáveis de ambiente do arquivo .env
+load_dotenv()
 
 STATE_FILE = 'estado.json'
 RANKING_FILE = 'ranking_gastos.json'
@@ -102,16 +106,25 @@ def main():
     thread_content = generate_thread_content(deputy_id, deputy_name, deputy_party, total_spent, grouped_expenses, largest_expense)
 
     print("\n" + "="*50)
-    print("  Conteúdo da Thread Gerado (Pronto para Copiar)")
+    print("  Conteúdo da Thread Gerado para Postagem")
     print("="*50)
     for i, tweet in enumerate(thread_content):
-        print(f"\n--- TWEET {i+1}/3 ---")
-        print(tweet)
+        print(f"\n--- TWEET {i+1}/3 ---\n{tweet}")
     print("\n" + "="*50 + "\n")
-            
-    state["last_processed_deputy_index"] = next_index
-    save_json(state, project_dir + STATE_FILE)
-    print(f"Estado atualizado. Próxima execução começará da posição: {next_index + 1}")
+
+    # Posta a thread no X
+    print("Postando no X...")
+    post_successful = True
+    for tweet in thread_content:
+        if not post_tweet(tweet):
+            print("Falha ao postar um dos tweets. Abortando o ciclo.")
+            post_successful = False
+            break
+    
+    if post_successful:
+        state["last_processed_deputy_index"] = next_index
+        save_json(state, project_dir + STATE_FILE)
+        print(f"Estado atualizado. Próxima execução começará da posição: {next_index + 1}")
 
 if __name__ == "__main__":
     main()
