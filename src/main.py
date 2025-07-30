@@ -18,12 +18,10 @@ def load_json(file_path):
         return None
 
 def save_json(data, file_path):
-    """Salva dados em um arquivo JSON."""
     with open(file_path, 'w') as f:
         json.dump(data, f, indent=2)
 
 def process_expenses(expenses):
-    """Agrupa despesas, calcula totais e encontra o maior gasto individual."""
     if not expenses:
         return 0, {}, None
 
@@ -43,8 +41,6 @@ def process_expenses(expenses):
     return total_spent, dict(sorted_grouped_expenses), largest_single_expense
 
 def generate_thread_content(deputy_id, deputy_name, deputy_party, total_spent, grouped_expenses, largest_expense):
-    """Gera o conteúdo para uma thread de 3 tweets."""
-    # ... (código da função mantido, sem alterações)
     tweet1 = f"📊 Gastos Parlamentares: R$ {total_spent:,.2f}\n\n"
     tweet1 += f"Deputado(a): {deputy_name} ({deputy_party}) utilizou este valor da cota parlamentar nos últimos 3 meses.\n\n"
     tweet1 += "👇 Siga o fio para ver os detalhes e as fontes."
@@ -112,7 +108,6 @@ def main():
         print(f"\n--- TWEET {i+1}/3 ---\n{tweet}")
     print("\n" + "="*50 + "\n")
 
-    # Posta a thread no X
     print("Postando no X...")
     last_tweet_id = None
     post_successful = True

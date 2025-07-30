@@ -44,13 +44,10 @@ def get_deputy_expenses(deputy_id, months=3):
                 page_url = next_link
                 params = {} # Params só são necessários na primeira requisição
             except requests.RequestException as e:
-                # Silenciosamente ignora erros de um mês específico para não parar o processo todo
-                # print(f"Aviso: Falha ao buscar despesas para o deputado {deputy_id} no mês {target_date.month}/{target_date.year}: {e}")
                 break
     return all_expenses
 
 def post_tweet(text, reply_to_id=None):
-    """Posta um tweet no X (Twitter), opcionalmente respondendo a outro tweet."""
     try:
         api_key = os.environ.get("X_API_KEY")
         api_secret = os.environ.get("X_API_SECRET")
