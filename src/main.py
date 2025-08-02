@@ -44,7 +44,7 @@ def generate_thread_content(deputy_id, deputy_name, deputy_party, total_spent, g
     tweet1 = f"📊 Gastos Parlamentares: R$ {total_spent:,.2f}\n\n"
     tweet1 += f"Deputado(a): {deputy_name} ({deputy_party}) utilizou este valor da cota parlamentar nos últimos 3 meses.\n\n"
     tweet1 += "👇 Siga o fio para ver os detalhes e as fontes."
-    tweet1 += "\n\n#ProjetoSentinela #TransparenciaBrasil #Fiscalize"
+    tweet1 += "\n\n#ProjetoSentinela #TransparenciaBrasil #Fiscalize #Governo #GastosPúblicos"
 
     tweet2 = "🧵 Detalhes dos Gastos:\n\n"
     emoji_map = {
