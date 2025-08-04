@@ -79,9 +79,8 @@ def generate_thread_content(deputy_id, deputy_name, deputy_party, total_spent, g
 def main():
     print("Iniciando ciclo do Projeto Sentinela...")
     
-    project_dir = '/home/zlimaz/Documentos/Projeto-Sentinela/'
-    state = load_json(project_dir + STATE_FILE) or {"last_processed_deputy_index": -1}
-    ranking = load_json(project_dir + RANKING_FILE)
+    state = load_json(STATE_FILE) or {"last_processed_deputy_index": -1}
+    ranking = load_json(RANKING_FILE)
 
     if not ranking:
         print("Arquivo de ranking não encontrado. Por favor, execute o gerador_de_ranking.py primeiro.")

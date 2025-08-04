@@ -40,8 +40,8 @@ def main():
 
     ranked_list.sort(key=lambda x: x['total_gasto'], reverse=True)
 
-    project_dir = '/home/zlimaz/Documentos/Projeto-Sentinela/'
-    with open(project_dir + RANKING_FILE, 'w') as f:
+    # Salva o ranking no arquivo no diretório atual
+    with open(RANKING_FILE, 'w') as f:
         json.dump(ranked_list, f, indent=2, ensure_ascii=False)
 
     end_time = time.time()
