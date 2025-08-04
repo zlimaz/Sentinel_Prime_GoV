@@ -13,7 +13,7 @@
 
 # --- Configuração ---
 N8N_URL="http://localhost:5678"
-API_KEY="SUA_CHAVE_DE_API_AQUI" 
+API_KEY=
 
 # --- Definição do Workflow (JSON) ---
 WORKFLOW_JSON='{
@@ -21,14 +21,11 @@ WORKFLOW_JSON='{
   "nodes": [
     {
       "parameters": {
-        "triggerTimes": {
-          "mode": "cron",
-          "cronTime": "0 12 * * *",
-          "cronTimezone": "America/Sao_Paulo"
-        }
+        "cronTime": "0 12 * * *",
+        "timezone": "America/Sao_Paulo"
       },
       "name": "Agendado para 12:00",
-      "type": "n8n-nodes-base.schedule",
+      "type": "n8n-nodes-base.cron",
       "typeVersion": 1,
       "position": [ 800, 200 ]
     },
@@ -44,14 +41,11 @@ WORKFLOW_JSON='{
     },
     {
       "parameters": {
-        "triggerTimes": {
-          "mode": "cron",
-          "cronTime": "0 18 * * *",
-          "cronTimezone": "America/Sao_Paulo"
-        }
+        "cronTime": "0 18 * * *",
+        "timezone": "America/Sao_Paulo"
       },
       "name": "Agendado para 18:00",
-      "type": "n8n-nodes-base.schedule",
+      "type": "n8n-nodes-base.cron",
       "typeVersion": 1,
       "position": [ 800, 400 ]
     }
