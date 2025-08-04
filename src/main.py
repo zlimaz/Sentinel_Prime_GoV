@@ -119,7 +119,7 @@ def main():
     
     if post_successful:
         state["last_processed_deputy_index"] = next_index
-        save_json(state, project_dir + STATE_FILE)
+        save_json(state, STATE_FILE)
         print(f"Estado atualizado. Próxima execução começará da posição: {next_index + 1}")
 
 if __name__ == "__main__":
