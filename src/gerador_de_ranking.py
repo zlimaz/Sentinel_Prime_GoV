@@ -5,11 +5,9 @@ from src.api_client import get_deputies_list, get_deputy_expenses
 RANKING_FILE = 'ranking_gastos.json'
 
 def calculate_total_spent(expenses):
-    """Calcula o valor líquido total de uma lista de despesas."""
     return sum(expense['valorLiquido'] for expense in expenses)
 
 def main():
-    """Gera e salva um ranking de deputados por gastos totais."""
     print("Iniciando a geração do ranking de gastos. Este processo pode levar vários minutos...")
     
     deputies = get_deputies_list()
@@ -25,7 +23,6 @@ def main():
         deputy_id = deputy['id']
         deputy_name = deputy['nome']
         
-        # Imprime o progresso para o usuário
         print(f"Processando [{i+1}/{total_deputies}]: {deputy_name}...", end="", flush=True)
         
         expenses = get_deputy_expenses(deputy_id)
@@ -41,10 +38,8 @@ def main():
             })
         print(f" Total: R$ {total_spent:,.2f}")
 
-    # Ordena a lista final do maior para o menor gasto
     ranked_list.sort(key=lambda x: x['total_gasto'], reverse=True)
 
-    # Salva o ranking no arquivo
     project_dir = '/home/zlimaz/Documentos/Projeto-Sentinela/'
     with open(project_dir + RANKING_FILE, 'w') as f:
         json.dump(ranked_list, f, indent=2, ensure_ascii=False)

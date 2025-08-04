@@ -13,7 +13,7 @@
 
 # --- Configuração ---
 N8N_URL="http://localhost:5678"
-API_KEY=
+API_KEY= 
 
 # --- Definição do Workflow (JSON) ---
 WORKFLOW_JSON='{
