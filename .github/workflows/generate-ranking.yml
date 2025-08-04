@@ -14,6 +14,8 @@ on:
 jobs:
   generate-ranking:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       # Passo 1: Baixar o código do repositório
