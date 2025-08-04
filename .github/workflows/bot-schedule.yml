@@ -44,11 +44,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Passo 4: Executar o script principal do bot
+      # Passo 4: Gerar o ranking de gastos atualizado
+      # Este passo executa o script que consome a API da Câmara e gera o arquivo .json
+      - name: 4. Gerando o ranking de gastos
+        run: python3 -m src.gerador_de_ranking
+
+      # Passo 5: Executar o script principal do bot
       # Este é o comando principal que roda a sua lógica.
       # As variáveis de ambiente (env) são preenchidas de forma segura usando
       # os "Secrets" do GitHub, que você configurará no seu repositório.
-      - name: 4. Rodando o bot Sentinela
+      - name: 5. Rodando o bot Sentinela
         run: python3 -m src.main
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
