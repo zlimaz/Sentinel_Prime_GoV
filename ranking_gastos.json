@@ -1,3083 +1,1109 @@
 [
   {
-    "id": 188097,
-    "nome": "Merlong Solano",
-    "siglaPartido": "PT",
-    "siglaUf": "PI",
-    "total_gasto": 161739.53
-  },
-  {
-    "id": 178866,
-    "nome": "Luizianne Lins",
-    "siglaPartido": "PT",
-    "siglaUf": "CE",
-    "total_gasto": 157849.72
-  },
-  {
     "id": 141408,
     "nome": "Cleber Verde",
     "siglaPartido": "MDB",
     "siglaUf": "MA",
-    "total_gasto": 142052.3
-  },
-  {
-    "id": 178954,
-    "nome": "Lucio Mosquini",
-    "siglaPartido": "MDB",
-    "siglaUf": "RO",
-    "total_gasto": 141459.11000000002
-  },
-  {
-    "id": 138286,
-    "nome": "Luciano Alves",
-    "siglaPartido": "PSD",
-    "siglaUf": "PR",
-    "total_gasto": 139996.49
-  },
-  {
-    "id": 74090,
-    "nome": "Átila Lins",
-    "siglaPartido": "PSD",
-    "siglaUf": "AM",
-    "total_gasto": 139944.38
-  },
-  {
-    "id": 220592,
-    "nome": "Zezinho Barbary",
-    "siglaPartido": "PP",
-    "siglaUf": "AC",
-    "total_gasto": 139141.42
-  },
-  {
-    "id": 150418,
-    "nome": "Márcio Marinho",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "BA",
-    "total_gasto": 137843.67
-  },
-  {
-    "id": 143632,
-    "nome": "Domingos Neto",
-    "siglaPartido": "PSD",
-    "siglaUf": "CE",
-    "total_gasto": 132875.39
-  },
-  {
-    "id": 123756,
-    "nome": "Antônia Lúcia",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "AC",
-    "total_gasto": 130054.36
-  },
-  {
-    "id": 141459,
-    "nome": "João Maia",
-    "siglaPartido": "PP",
-    "siglaUf": "RN",
-    "total_gasto": 128981.38
-  },
-  {
-    "id": 220674,
-    "nome": "Dra. Alessandra Haber",
-    "siglaPartido": "MDB",
-    "siglaUf": "PA",
-    "total_gasto": 128450.42
-  },
-  {
-    "id": 74095,
-    "nome": "Pauderney Avelino",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "AM",
-    "total_gasto": 126459.05
-  },
-  {
-    "id": 141456,
-    "nome": "Jilmar Tatto",
-    "siglaPartido": "PT",
-    "siglaUf": "SP",
-    "total_gasto": 123894.06999999999
-  },
-  {
-    "id": 204360,
-    "nome": "Silvia Cristina",
-    "siglaPartido": "PP",
-    "siglaUf": "RO",
-    "total_gasto": 123536.68000000001
-  },
-  {
-    "id": 220599,
-    "nome": "Marcelo Crivella",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "RJ",
-    "total_gasto": 123317.1
-  },
-  {
-    "id": 73778,
-    "nome": "Luiz Carlos Hauly",
-    "siglaPartido": "PODE",
-    "siglaUf": "PR",
-    "total_gasto": 119660.62
-  },
-  {
-    "id": 74383,
-    "nome": "Giacobo",
-    "siglaPartido": "PL",
-    "siglaUf": "PR",
-    "total_gasto": 118861.72
-  },
-  {
-    "id": 160665,
-    "nome": "Augusto Coutinho",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "PE",
-    "total_gasto": 118591.62
-  },
-  {
-    "id": 160591,
-    "nome": "Vinicius Gurgel",
-    "siglaPartido": "PL",
-    "siglaUf": "AP",
-    "total_gasto": 118100.77
-  },
-  {
-    "id": 160535,
-    "nome": "Marcon",
-    "siglaPartido": "PT",
-    "siglaUf": "RS",
-    "total_gasto": 117630.18000000001
-  },
-  {
-    "id": 204441,
-    "nome": "Otoni de Paula",
-    "siglaPartido": "MDB",
-    "siglaUf": "RJ",
-    "total_gasto": 116660.9
-  },
-  {
-    "id": 220591,
-    "nome": "Meire Serafim",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "AC",
-    "total_gasto": 116643.7
-  },
-  {
-    "id": 205865,
-    "nome": "Reinhold Stephanes",
-    "siglaPartido": "PSD",
-    "siglaUf": "PR",
-    "total_gasto": 116514.15
-  },
-  {
-    "id": 220608,
-    "nome": "Cristiane Lopes",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RO",
-    "total_gasto": 115816.78
-  },
-  {
-    "id": 178908,
-    "nome": "Delegado Éder Mauro",
-    "siglaPartido": "PL",
-    "siglaUf": "PA",
-    "total_gasto": 114984.49
-  },
-  {
-    "id": 178963,
-    "nome": "Covatti Filho",
-    "siglaPartido": "PP",
-    "siglaUf": "RS",
-    "total_gasto": 113917.93
-  },
-  {
-    "id": 220660,
-    "nome": "Yury do Paredão",
-    "siglaPartido": "MDB",
-    "siglaUf": "CE",
-    "total_gasto": 113082.26
-  },
-  {
-    "id": 204416,
-    "nome": "Sanderson",
-    "siglaPartido": "PL",
-    "siglaUf": "RS",
-    "total_gasto": 112704.33
-  },
-  {
-    "id": 220575,
-    "nome": "Sonize Barbosa",
-    "siglaPartido": "PL",
-    "siglaUf": "AP",
-    "total_gasto": 112226.96
-  },
-  {
-    "id": 160635,
-    "nome": "Ruy Carneiro",
-    "siglaPartido": "PODE",
-    "siglaUf": "PB",
-    "total_gasto": 112122.05
-  },
-  {
-    "id": 141411,
-    "nome": "Dagoberto Nogueira",
-    "siglaPartido": "PSDB",
-    "siglaUf": "MS",
-    "total_gasto": 111156.87
-  },
-  {
-    "id": 160161,
-    "nome": "Marcelo Queiroz",
-    "siglaPartido": "PP",
-    "siglaUf": "RJ",
-    "total_gasto": 111088.69
-  },
-  {
-    "id": 178989,
-    "nome": "Renata Abreu",
-    "siglaPartido": "PODE",
-    "siglaUf": "SP",
-    "total_gasto": 110264.24
-  },
-  {
-    "id": 74044,
-    "nome": "Wilson Santiago",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "PB",
-    "total_gasto": 110235.2
-  },
-  {
-    "id": 178966,
-    "nome": "Geovania de Sá",
-    "siglaPartido": "PSDB",
-    "siglaUf": "SC",
-    "total_gasto": 110000.39
-  },
-  {
-    "id": 220671,
-    "nome": "Dilvanda Faro",
-    "siglaPartido": "PT",
-    "siglaUf": "PA",
-    "total_gasto": 109621.96
-  },
-  {
-    "id": 73692,
-    "nome": "Osmar Terra",
-    "siglaPartido": "MDB",
-    "siglaUf": "RS",
-    "total_gasto": 109418.79
-  },
-  {
-    "id": 204480,
-    "nome": "Rogério Correia",
-    "siglaPartido": "PT",
-    "siglaUf": "MG",
-    "total_gasto": 109292.24
-  },
-  {
-    "id": 220552,
-    "nome": "Zucco",
-    "siglaPartido": "PL",
-    "siglaUf": "RS",
-    "total_gasto": 109206.63
-  },
-  {
-    "id": 74400,
-    "nome": "Paulo Pimenta",
-    "siglaPartido": "PT",
-    "siglaUf": "RS",
-    "total_gasto": 109098.06
-  },
-  {
-    "id": 74041,
-    "nome": "Luiz Couto",
-    "siglaPartido": "PT",
-    "siglaUf": "PB",
-    "total_gasto": 108859.04
-  },
-  {
-    "id": 220642,
-    "nome": "Delegado Bruno Lima",
-    "siglaPartido": "PP",
-    "siglaUf": "SP",
-    "total_gasto": 108336.94
-  },
-  {
-    "id": 204431,
-    "nome": "Marcos Aurélio Sampaio",
-    "siglaPartido": "PSD",
-    "siglaUf": "PI",
-    "total_gasto": 108243.22
-  },
-  {
-    "id": 74171,
-    "nome": "Chico Alencar",
-    "siglaPartido": "PSOL",
-    "siglaUf": "RJ",
-    "total_gasto": 107809.02
-  },
-  {
-    "id": 204479,
-    "nome": "Nicoletti",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RR",
-    "total_gasto": 107714.84
-  },
-  {
-    "id": 160629,
-    "nome": "Romero Rodrigues",
-    "siglaPartido": "PODE",
-    "siglaUf": "PB",
-    "total_gasto": 107611.72
-  },
-  {
-    "id": 220580,
-    "nome": "Professora Goreth",
-    "siglaPartido": "PDT",
-    "siglaUf": "AP",
-    "total_gasto": 107443.33
-  },
-  {
-    "id": 220600,
-    "nome": "Lebrão",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RO",
-    "total_gasto": 107359.64
-  },
-  {
-    "id": 220574,
-    "nome": "Cabo Gilberto Silva",
-    "siglaPartido": "PL",
-    "siglaUf": "PB",
-    "total_gasto": 107224.61
-  },
-  {
-    "id": 133439,
-    "nome": "André Figueiredo",
-    "siglaPartido": "PDT",
-    "siglaUf": "CE",
-    "total_gasto": 106847.67
-  },
-  {
-    "id": 141421,
-    "nome": "Eduardo da Fonte",
-    "siglaPartido": "PP",
-    "siglaUf": "PE",
-    "total_gasto": 106820.83
-  },
-  {
-    "id": 220551,
-    "nome": "Franciane Bayer",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "RS",
-    "total_gasto": 106797.59
-  },
-  {
-    "id": 74160,
-    "nome": "Patrus Ananias",
-    "siglaPartido": "PT",
-    "siglaUf": "MG",
-    "total_gasto": 106563.27
-  },
-  {
-    "id": 218086,
-    "nome": "Ely Santos",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "SP",
-    "total_gasto": 106396.39
-  },
-  {
-    "id": 204550,
-    "nome": "Júnior Mano",
-    "siglaPartido": "PSB",
-    "siglaUf": "CE",
-    "total_gasto": 106393.13
-  },
-  {
-    "id": 220554,
-    "nome": "Alexandre Lindenmeyer",
-    "siglaPartido": "PT",
-    "siglaUf": "RS",
-    "total_gasto": 106177.71
-  },
-  {
-    "id": 160758,
-    "nome": "Domingos Sávio",
-    "siglaPartido": "PL",
-    "siglaUf": "MG",
-    "total_gasto": 105713.18
-  },
-  {
-    "id": 220615,
-    "nome": "Pastor Henrique Vieira",
-    "siglaPartido": "PSOL",
-    "siglaUf": "RJ",
-    "total_gasto": 105573.33
-  },
-  {
-    "id": 220542,
-    "nome": "Alexandre Guimarães",
-    "siglaPartido": "MDB",
-    "siglaUf": "TO",
-    "total_gasto": 105452.97
-  },
-  {
-    "id": 160600,
-    "nome": "Arthur Oliveira Maia",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "BA",
-    "total_gasto": 105413.62
-  },
-  {
-    "id": 220546,
-    "nome": "Rodolfo Nogueira",
-    "siglaPartido": "PL",
-    "siglaUf": "MS",
-    "total_gasto": 105039.86
-  },
-  {
-    "id": 204419,
-    "nome": "Glaustin da Fokus",
-    "siglaPartido": "PODE",
-    "siglaUf": "GO",
-    "total_gasto": 104959.0
-  },
-  {
-    "id": 204406,
-    "nome": "Pedro Westphalen",
-    "siglaPartido": "PP",
-    "siglaUf": "RS",
-    "total_gasto": 104518.16
-  },
-  {
-    "id": 160674,
-    "nome": "Hugo Motta",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "PB",
-    "total_gasto": 104432.86
-  },
-  {
-    "id": 74159,
-    "nome": "Odair Cunha",
-    "siglaPartido": "PT",
-    "siglaUf": "MG",
-    "total_gasto": 104412.52
-  },
-  {
-    "id": 220703,
-    "nome": "Neto Carletto",
-    "siglaPartido": "AVANTE",
-    "siglaUf": "BA",
-    "total_gasto": 104166.09
-  },
-  {
-    "id": 220597,
-    "nome": "Thiago Flores",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "RO",
-    "total_gasto": 104009.71
-  },
-  {
-    "id": 220685,
-    "nome": "Paulo Litro",
-    "siglaPartido": "PSD",
-    "siglaUf": "PR",
-    "total_gasto": 103585.01
-  },
-  {
-    "id": 160673,
-    "nome": "Giovani Cherini",
-    "siglaPartido": "PL",
-    "siglaUf": "RS",
-    "total_gasto": 103580.89
-  },
-  {
-    "id": 204358,
-    "nome": "Beto Pereira",
-    "siglaPartido": "PSDB",
-    "siglaUf": "MS",
-    "total_gasto": 103538.76
-  },
-  {
-    "id": 220578,
-    "nome": "Josenildo",
-    "siglaPartido": "PDT",
-    "siglaUf": "AP",
-    "total_gasto": 103312.68
-  },
-  {
-    "id": 220579,
-    "nome": "Silvia Waiãpi",
-    "siglaPartido": "PL",
-    "siglaUf": "AP",
-    "total_gasto": 103108.72
-  },
-  {
-    "id": 220561,
-    "nome": "Delegada Katarina",
-    "siglaPartido": "PSD",
-    "siglaUf": "SE",
-    "total_gasto": 103019.20999999999
-  },
-  {
-    "id": 224117,
-    "nome": "Gabriel Mota",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "RR",
-    "total_gasto": 103000.0
-  },
-  {
-    "id": 163321,
-    "nome": "Ronaldo Nogueira",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "RS",
-    "total_gasto": 102935.38
-  },
-  {
-    "id": 204390,
-    "nome": "Professor Alcides",
-    "siglaPartido": "PL",
-    "siglaUf": "GO",
-    "total_gasto": 102533.27
-  },
-  {
-    "id": 220609,
-    "nome": "Maurício Carvalho",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RO",
-    "total_gasto": 102180.45
-  },
-  {
-    "id": 204378,
-    "nome": "Coronel Chrisóstomo",
-    "siglaPartido": "PL",
-    "siglaUf": "RO",
-    "total_gasto": 102136.2
-  },
-  {
-    "id": 220689,
-    "nome": "Detinha",
-    "siglaPartido": "PL",
-    "siglaUf": "MA",
-    "total_gasto": 102066.2
-  },
-  {
-    "id": 74084,
-    "nome": "Raimundo Santos",
-    "siglaPartido": "PSD",
-    "siglaUf": "PA",
-    "total_gasto": 101942.6
-  },
-  {
-    "id": 220548,
-    "nome": "Camila Jara",
-    "siglaPartido": "PT",
-    "siglaUf": "MS",
-    "total_gasto": 101663.99
-  },
-  {
-    "id": 209189,
-    "nome": "Joseildo Ramos",
-    "siglaPartido": "PT",
-    "siglaUf": "BA",
-    "total_gasto": 101498.49
-  },
-  {
-    "id": 107970,
-    "nome": "Ana Paula Leão",
-    "siglaPartido": "PP",
-    "siglaUf": "MG",
-    "total_gasto": 101345.59
-  },
-  {
-    "id": 220544,
-    "nome": "Antonio Andrade",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "TO",
-    "total_gasto": 101079.75
-  },
-  {
-    "id": 220610,
-    "nome": "Dr. Fernando Máximo",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RO",
-    "total_gasto": 100941.04
-  },
-  {
-    "id": 220677,
-    "nome": "Keniston Braga",
-    "siglaPartido": "MDB",
-    "siglaUf": "PA",
-    "total_gasto": 100653.73
-  },
-  {
-    "id": 198783,
-    "nome": "Emanuel Pinheiro Neto",
-    "siglaPartido": "MDB",
-    "siglaUf": "MT",
-    "total_gasto": 100490.37
-  },
-  {
-    "id": 204534,
-    "nome": "Tabata Amaral",
-    "siglaPartido": "PSB",
-    "siglaUf": "SP",
-    "total_gasto": 100221.37
-  },
-  {
-    "id": 220588,
-    "nome": "Roberto Duarte",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "AC",
-    "total_gasto": 100214.86
-  },
-  {
-    "id": 220641,
-    "nome": "Rodrigo Gambale",
-    "siglaPartido": "PODE",
-    "siglaUf": "SP",
-    "total_gasto": 100149.37
-  },
-  {
-    "id": 220537,
-    "nome": "Helena Lima",
-    "siglaPartido": "MDB",
-    "siglaUf": "RR",
-    "total_gasto": 100128.66
-  },
-  {
-    "id": 210989,
-    "nome": "Bruno Farias",
-    "siglaPartido": "AVANTE",
-    "siglaUf": "MG",
-    "total_gasto": 100099.28
-  },
-  {
-    "id": 204426,
-    "nome": "Carlos Veras",
-    "siglaPartido": "PT",
-    "siglaUf": "PE",
-    "total_gasto": 100068.39
-  },
-  {
-    "id": 220558,
-    "nome": "Zé Trovão",
-    "siglaPartido": "PL",
-    "siglaUf": "SC",
-    "total_gasto": 100020.45
-  },
-  {
-    "id": 178992,
-    "nome": "Vitor Lippi",
-    "siglaPartido": "PSDB",
-    "siglaUf": "SP",
-    "total_gasto": 99415.69
-  },
-  {
-    "id": 178843,
-    "nome": "Marx Beltrão",
-    "siglaPartido": "PP",
-    "siglaUf": "AL",
-    "total_gasto": 99367.8
-  },
-  {
-    "id": 178970,
-    "nome": "João Daniel",
-    "siglaPartido": "PT",
-    "siglaUf": "SE",
-    "total_gasto": 99224.36
-  },
-  {
-    "id": 204391,
-    "nome": "José Nelto",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "GO",
-    "total_gasto": 99140.32
-  },
-  {
-    "id": 73486,
-    "nome": "Pompeo de Mattos",
-    "siglaPartido": "PDT",
-    "siglaUf": "RS",
-    "total_gasto": 98863.69
-  },
-  {
-    "id": 74376,
-    "nome": "Vander Loubet",
-    "siglaPartido": "PT",
-    "siglaUf": "MS",
-    "total_gasto": 98825.48
-  },
-  {
-    "id": 220663,
-    "nome": "Eriberto Medeiros",
-    "siglaPartido": "PSB",
-    "siglaUf": "PE",
-    "total_gasto": 98764.0
-  },
-  {
-    "id": 160556,
-    "nome": "Padre João",
-    "siglaPartido": "PT",
-    "siglaUf": "MG",
-    "total_gasto": 98719.45
-  },
-  {
-    "id": 160559,
-    "nome": "Alceu Moreira",
-    "siglaPartido": "MDB",
-    "siglaUf": "RS",
-    "total_gasto": 98645.27
-  },
-  {
-    "id": 74550,
-    "nome": "João Leão",
-    "siglaPartido": "PP",
-    "siglaUf": "BA",
-    "total_gasto": 98634.02
-  },
-  {
-    "id": 178886,
-    "nome": "Juscelino Filho",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "MA",
-    "total_gasto": 98554.44
-  },
-  {
-    "id": 178931,
-    "nome": "Luciano Ducci",
-    "siglaPartido": "PSB",
-    "siglaUf": "PR",
-    "total_gasto": 98547.99
-  },
-  {
-    "id": 204362,
-    "nome": "Ricardo Guidi",
-    "siglaPartido": "PL",
-    "siglaUf": "SC",
-    "total_gasto": 98074.55
-  },
-  {
-    "id": 178993,
-    "nome": "Carlos Henrique Gaguim",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "TO",
-    "total_gasto": 97930.43
-  },
-  {
-    "id": 204455,
-    "nome": "Luiz Lima",
-    "siglaPartido": "NOVO",
-    "siglaUf": "RJ",
-    "total_gasto": 97756.1
-  },
-  {
-    "id": 74374,
-    "nome": "Geraldo Resende",
-    "siglaPartido": "PSDB",
-    "siglaUf": "MS",
-    "total_gasto": 97745.06
-  },
-  {
-    "id": 220669,
-    "nome": "Lula da Fonte",
-    "siglaPartido": "PP",
-    "siglaUf": "PE",
-    "total_gasto": 97607.24
-  },
-  {
-    "id": 204445,
-    "nome": "Fernando Mineiro",
-    "siglaPartido": "PT",
-    "siglaUf": "RN",
-    "total_gasto": 97375.2
-  },
-  {
-    "id": 160632,
-    "nome": "Zé Silva",
-    "siglaPartido": "SOLIDARIEDADE",
-    "siglaUf": "MG",
-    "total_gasto": 97324.43000000001
-  },
-  {
-    "id": 204563,
-    "nome": "Josimar Maranhãozinho",
-    "siglaPartido": "PL",
-    "siglaUf": "MA",
-    "total_gasto": 97269.72
-  },
-  {
-    "id": 178871,
-    "nome": "Evair Vieira de Melo",
-    "siglaPartido": "PP",
-    "siglaUf": "ES",
-    "total_gasto": 97174.39
-  },
-  {
-    "id": 109429,
-    "nome": "Benes Leocádio",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RN",
-    "total_gasto": 97047.99
-  },
-  {
-    "id": 74646,
-    "nome": "Aécio Neves",
-    "siglaPartido": "PSDB",
-    "siglaUf": "MG",
-    "total_gasto": 96549.15
-  },
-  {
-    "id": 225730,
-    "nome": "Enfermeira Ana Paula",
-    "siglaPartido": "PODE",
-    "siglaUf": "CE",
-    "total_gasto": 96485.61
-  },
-  {
-    "id": 157130,
-    "nome": "Túlio Gadêlha",
-    "siglaPartido": "REDE",
-    "siglaUf": "PE",
-    "total_gasto": 96340.36
-  },
-  {
-    "id": 220603,
-    "nome": "Dani Cunha",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RJ",
-    "total_gasto": 96128.34
-  },
-  {
-    "id": 141450,
-    "nome": "Hugo Leal",
-    "siglaPartido": "PSD",
-    "siglaUf": "RJ",
-    "total_gasto": 95934.28
-  },
-  {
-    "id": 220658,
-    "nome": "Luiz Gastão",
-    "siglaPartido": "PSD",
-    "siglaUf": "CE",
-    "total_gasto": 95774.26000000001
-  },
-  {
-    "id": 220708,
-    "nome": "Gabriel Nunes",
-    "siglaPartido": "PSD",
-    "siglaUf": "BA",
-    "total_gasto": 95687.8
-  },
-  {
-    "id": 230762,
-    "nome": "Pastor Claudio Mariano",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "PA",
-    "total_gasto": 95580.68
-  },
-  {
-    "id": 204488,
-    "nome": "Célio Studart",
-    "siglaPartido": "PSD",
-    "siglaUf": "CE",
-    "total_gasto": 95481.54
-  },
-  {
-    "id": 178835,
-    "nome": "Afonso Motta",
-    "siglaPartido": "PDT",
-    "siglaUf": "RS",
-    "total_gasto": 95366.84
-  },
-  {
-    "id": 220569,
-    "nome": "Silvye Alves",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "GO",
-    "total_gasto": 95299.85
-  },
-  {
-    "id": 220553,
-    "nome": "Denise Pessôa",
-    "siglaPartido": "PT",
-    "siglaUf": "RS",
-    "total_gasto": 95242.38
-  },
-  {
-    "id": 220695,
-    "nome": "Rogéria Santos",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "BA",
-    "total_gasto": 95211.76
-  },
-  {
-    "id": 204508,
-    "nome": "Igor Timo",
-    "siglaPartido": "PSD",
-    "siglaUf": "MG",
-    "total_gasto": 95137.56
-  },
-  {
-    "id": 204367,
-    "nome": "Daniel Freitas",
-    "siglaPartido": "PL",
-    "siglaUf": "SC",
-    "total_gasto": 94939.73
-  },
-  {
-    "id": 220536,
-    "nome": "Zé Haroldo Cathedral",
-    "siglaPartido": "PSD",
-    "siglaUf": "RR",
-    "total_gasto": 94932.05
-  },
-  {
-    "id": 191923,
-    "nome": "Flávio Nogueira",
-    "siglaPartido": "PT",
-    "siglaUf": "PI",
-    "total_gasto": 94879.07
-  },
-  {
-    "id": 204423,
-    "nome": "André Ferreira",
-    "siglaPartido": "PL",
-    "siglaUf": "PE",
-    "total_gasto": 94631.0
-  },
-  {
-    "id": 226708,
-    "nome": "Allan Garcês",
-    "siglaPartido": "PP",
-    "siglaUf": "MA",
-    "total_gasto": 94606.74
-  },
-  {
-    "id": 204409,
-    "nome": "Daniel Trzeciak",
-    "siglaPartido": "PSDB",
-    "siglaUf": "RS",
-    "total_gasto": 94535.84
-  },
-  {
-    "id": 220667,
-    "nome": "Pedro Campos",
-    "siglaPartido": "PSB",
-    "siglaUf": "PE",
-    "total_gasto": 94437.3
-  },
-  {
-    "id": 220577,
-    "nome": "Augusto Puppio",
-    "siglaPartido": "MDB",
-    "siglaUf": "AP",
-    "total_gasto": 94409.59
-  },
-  {
-    "id": 178929,
-    "nome": "Diego Garcia",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "PR",
-    "total_gasto": 94328.85
-  },
-  {
-    "id": 92699,
-    "nome": "Fernando Monteiro",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "PE",
-    "total_gasto": 94254.32
-  },
-  {
-    "id": 220665,
-    "nome": "Clarissa Tércio",
-    "siglaPartido": "PP",
-    "siglaUf": "PE",
-    "total_gasto": 94202.5
-  },
-  {
-    "id": 220540,
-    "nome": "Duda Ramos",
-    "siglaPartido": "MDB",
-    "siglaUf": "RR",
-    "total_gasto": 94160.17
-  },
-  {
-    "id": 178933,
-    "nome": "Sergio Souza",
-    "siglaPartido": "MDB",
-    "siglaUf": "PR",
-    "total_gasto": 94112.28
-  },
-  {
-    "id": 98615,
-    "nome": "Ismael",
-    "siglaPartido": "PSD",
-    "siglaUf": "SC",
-    "total_gasto": 93928.54
-  },
-  {
-    "id": 160538,
-    "nome": "Bohn Gass",
-    "siglaPartido": "PT",
-    "siglaUf": "RS",
-    "total_gasto": 93497.43
-  },
-  {
-    "id": 221328,
-    "nome": "Adilson Barroso",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 93472.89
-  },
-  {
-    "id": 220538,
-    "nome": "Albuquerque",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "RR",
-    "total_gasto": 93161.87
-  },
-  {
-    "id": 178997,
-    "nome": "Moses Rodrigues",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "CE",
-    "total_gasto": 93090.14
-  },
-  {
-    "id": 220563,
-    "nome": "Icaro de Valmir",
-    "siglaPartido": "PL",
-    "siglaUf": "SE",
-    "total_gasto": 93087.12
-  },
-  {
-    "id": 74060,
-    "nome": "Daniel Almeida",
-    "siglaPartido": "PCdoB",
-    "siglaUf": "BA",
-    "total_gasto": 92642.25
-  },
-  {
-    "id": 178860,
-    "nome": "Paulo Azi",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "BA",
-    "total_gasto": 92472.46
-  },
-  {
-    "id": 204453,
-    "nome": "Natália Bonavides",
-    "siglaPartido": "PT",
-    "siglaUf": "RN",
-    "total_gasto": 92355.95
-  },
-  {
-    "id": 74270,
-    "nome": "Gilberto Nascimento",
-    "siglaPartido": "PSD",
-    "siglaUf": "SP",
-    "total_gasto": 92334.85
-  },
-  {
-    "id": 160569,
-    "nome": "Waldenor Pereira",
-    "siglaPartido": "PT",
-    "siglaUf": "BA",
-    "total_gasto": 92316.83
-  },
-  {
-    "id": 220534,
-    "nome": "Fred Linhares",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "DF",
-    "total_gasto": 92308.59
-  },
-  {
-    "id": 179001,
-    "nome": "Márcio Biolchi",
-    "siglaPartido": "MDB",
-    "siglaUf": "RS",
-    "total_gasto": 92162.7
-  },
-  {
-    "id": 204504,
-    "nome": "Cezinha de Madureira",
-    "siglaPartido": "PSD",
-    "siglaUf": "SP",
-    "total_gasto": 92139.96
-  },
-  {
-    "id": 74057,
-    "nome": "Alice Portugal",
-    "siglaPartido": "PCdoB",
-    "siglaUf": "BA",
-    "total_gasto": 92043.53
-  },
-  {
-    "id": 162067,
-    "nome": "Kiko Celeguim",
-    "siglaPartido": "PT",
-    "siglaUf": "SP",
-    "total_gasto": 92024.73
-  },
-  {
-    "id": 220590,
-    "nome": "Coronel Ulysses",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "AC",
-    "total_gasto": 91828.83
-  },
-  {
-    "id": 178887,
-    "nome": "Rubens Pereira Júnior",
-    "siglaPartido": "PT",
-    "siglaUf": "MA",
-    "total_gasto": 91770.24
-  },
-  {
-    "id": 179000,
-    "nome": "Marcelo Álvaro Antônio",
-    "siglaPartido": "PL",
-    "siglaUf": "MG",
-    "total_gasto": 91762.41
-  },
-  {
-    "id": 220656,
-    "nome": "Fernanda Pessoa",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "CE",
-    "total_gasto": 91646.56999999999
-  },
-  {
-    "id": 220606,
-    "nome": "Reimont",
-    "siglaPartido": "PT",
-    "siglaUf": "RJ",
-    "total_gasto": 91627.53
-  },
-  {
-    "id": 153423,
-    "nome": "Renilce Nicodemos",
-    "siglaPartido": "MDB",
-    "siglaUf": "PA",
-    "total_gasto": 91611.33
-  },
-  {
-    "id": 204388,
-    "nome": "Bibo Nunes",
-    "siglaPartido": "PL",
-    "siglaUf": "RS",
-    "total_gasto": 91511.83
-  },
-  {
-    "id": 180214,
-    "nome": "Pastor Diniz",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RR",
-    "total_gasto": 91084.54
-  },
-  {
-    "id": 220573,
-    "nome": "Dorinaldo Malafaia",
-    "siglaPartido": "PDT",
-    "siglaUf": "AP",
-    "total_gasto": 91008.8
-  },
-  {
-    "id": 204560,
-    "nome": "Adolfo Viana",
-    "siglaPartido": "PSDB",
-    "siglaUf": "BA",
-    "total_gasto": 90960.06
+    "total_gasto": 135849.92
   },
   {
     "id": 204506,
     "nome": "Marcos Pereira",
     "siglaPartido": "REPUBLICANOS",
     "siglaUf": "SP",
-    "total_gasto": 90946.91
+    "total_gasto": 115932.08
   },
   {
-    "id": 81055,
-    "nome": "Márcio Jerry",
-    "siglaPartido": "PCdoB",
-    "siglaUf": "MA",
-    "total_gasto": 90914.47
-  },
-  {
-    "id": 220682,
-    "nome": "Tadeu Veneri",
-    "siglaPartido": "PT",
+    "id": 138286,
+    "nome": "Luciano Alves",
+    "siglaPartido": "PSD",
     "siglaUf": "PR",
-    "total_gasto": 90667.43000000001
+    "total_gasto": 109697.84
   },
   {
-    "id": 220555,
-    "nome": "Daiana Santos",
-    "siglaPartido": "PCdoB",
-    "siglaUf": "RS",
-    "total_gasto": 90636.68
-  },
-  {
-    "id": 204364,
-    "nome": "Eli Borges",
-    "siglaPartido": "PL",
-    "siglaUf": "TO",
-    "total_gasto": 90587.17
-  },
-  {
-    "id": 204571,
-    "nome": "Alex Santana",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "BA",
-    "total_gasto": 90584.51
-  },
-  {
-    "id": 220632,
-    "nome": "Ana Pimentel",
-    "siglaPartido": "PT",
-    "siglaUf": "MG",
-    "total_gasto": 90556.56999999999
-  },
-  {
-    "id": 204473,
-    "nome": "General Girão",
-    "siglaPartido": "PL",
-    "siglaUf": "RN",
-    "total_gasto": 90453.64
-  },
-  {
-    "id": 88256,
-    "nome": "Clodoaldo Magalhães",
-    "siglaPartido": "PV",
-    "siglaUf": "PE",
-    "total_gasto": 90379.07
-  },
-  {
-    "id": 220566,
-    "nome": "Lêda Borges",
-    "siglaPartido": "PSDB",
-    "siglaUf": "GO",
-    "total_gasto": 90355.73
-  },
-  {
-    "id": 104552,
-    "nome": "Socorro Neri",
-    "siglaPartido": "PP",
-    "siglaUf": "AC",
-    "total_gasto": 90351.95
-  },
-  {
-    "id": 220584,
-    "nome": "Murilo Galdino",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "PB",
-    "total_gasto": 90348.4
-  },
-  {
-    "id": 204394,
-    "nome": "Gervásio Maia",
-    "siglaPartido": "PSB",
-    "siglaUf": "PB",
-    "total_gasto": 90333.67
-  },
-  {
-    "id": 230767,
-    "nome": "Rodrigo da Zaeli",
-    "siglaPartido": "PL",
-    "siglaUf": "MT",
-    "total_gasto": 90222.79
-  },
-  {
-    "id": 91228,
-    "nome": "Waldemar Oliveira",
-    "siglaPartido": "AVANTE",
-    "siglaUf": "PE",
-    "total_gasto": 90149.33
-  },
-  {
-    "id": 98057,
-    "nome": "Lafayette de Andrada",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "MG",
-    "total_gasto": 90071.71
-  },
-  {
-    "id": 204559,
-    "nome": "Zé Neto",
-    "siglaPartido": "PT",
-    "siglaUf": "BA",
-    "total_gasto": 89871.17
-  },
-  {
-    "id": 74585,
-    "nome": "Lincoln Portela",
-    "siglaPartido": "PL",
-    "siglaUf": "MG",
-    "total_gasto": 89696.04
-  },
-  {
-    "id": 204574,
-    "nome": "Junior Lourenço",
-    "siglaPartido": "PL",
-    "siglaUf": "MA",
-    "total_gasto": 89668.95
-  },
-  {
-    "id": 204494,
-    "nome": "Fred Costa",
-    "siglaPartido": "PRD",
-    "siglaUf": "MG",
-    "total_gasto": 89650.17
-  },
-  {
-    "id": 204427,
-    "nome": "Fernando Rodolfo",
-    "siglaPartido": "PL",
-    "siglaUf": "PE",
-    "total_gasto": 89569.87
-  },
-  {
-    "id": 141470,
-    "nome": "José Guimarães",
+    "id": 178866,
+    "nome": "Luizianne Lins",
     "siglaPartido": "PT",
     "siglaUf": "CE",
-    "total_gasto": 89444.95
-  },
-  {
-    "id": 92776,
-    "nome": "Stefano Aguiar",
-    "siglaPartido": "PSD",
-    "siglaUf": "MG",
-    "total_gasto": 89429.11
-  },
-  {
-    "id": 220654,
-    "nome": "Delegado Paulo Bilynskyj",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 89320.08
-  },
-  {
-    "id": 220700,
-    "nome": "Florentino Neto",
-    "siglaPartido": "PT",
-    "siglaUf": "PI",
-    "total_gasto": 89104.73
-  },
-  {
-    "id": 220618,
-    "nome": "Sargento Portugal",
-    "siglaPartido": "PODE",
-    "siglaUf": "RJ",
-    "total_gasto": 89021.87
-  },
-  {
-    "id": 204489,
-    "nome": "Robério Monteiro",
-    "siglaPartido": "PDT",
-    "siglaUf": "CE",
-    "total_gasto": 88823.11
-  },
-  {
-    "id": 74398,
-    "nome": "Maria do Rosário",
-    "siglaPartido": "PT",
-    "siglaUf": "RS",
-    "total_gasto": 88812.84
-  },
-  {
-    "id": 220585,
-    "nome": "Mersinho Lucena",
-    "siglaPartido": "PP",
-    "siglaUf": "PB",
-    "total_gasto": 88791.87
-  },
-  {
-    "id": 220530,
-    "nome": "Messias Donato",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "ES",
-    "total_gasto": 88647.21
-  },
-  {
-    "id": 213762,
-    "nome": "Carla Dickson",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RN",
-    "total_gasto": 88460.06
-  },
-  {
-    "id": 204355,
-    "nome": "Da Vitoria",
-    "siglaPartido": "PP",
-    "siglaUf": "ES",
-    "total_gasto": 88408.13
-  },
-  {
-    "id": 178964,
-    "nome": "Heitor Schuch",
-    "siglaPartido": "PSB",
-    "siglaUf": "RS",
-    "total_gasto": 88172.71
-  },
-  {
-    "id": 220704,
-    "nome": "Carol Dartora",
-    "siglaPartido": "PT",
-    "siglaUf": "PR",
-    "total_gasto": 88165.25
-  },
-  {
-    "id": 204524,
-    "nome": "Pinheirinho",
-    "siglaPartido": "PP",
-    "siglaUf": "MG",
-    "total_gasto": 88075.9
-  },
-  {
-    "id": 220655,
-    "nome": "Mario Frias",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 87988.3
-  },
-  {
-    "id": 121948,
-    "nome": "Adriano do Baldy",
-    "siglaPartido": "PP",
-    "siglaUf": "GO",
-    "total_gasto": 87811.3
-  },
-  {
-    "id": 204356,
-    "nome": "Amaro Neto",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "ES",
-    "total_gasto": 87721.68
-  },
-  {
-    "id": 220683,
-    "nome": "Beto Richa",
-    "siglaPartido": "PSDB",
-    "siglaUf": "PR",
-    "total_gasto": 87628.14
-  },
-  {
-    "id": 220576,
-    "nome": "Alfredo Gaspar",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "AL",
-    "total_gasto": 87615.22
-  },
-  {
-    "id": 204474,
-    "nome": "Juarez Costa",
-    "siglaPartido": "MDB",
-    "siglaUf": "MT",
-    "total_gasto": 87426.84
-  },
-  {
-    "id": 204481,
-    "nome": "Dr. Jaziel",
-    "siglaPartido": "PL",
-    "siglaUf": "CE",
-    "total_gasto": 87355.01
-  },
-  {
-    "id": 72442,
-    "nome": "Felipe Carreras",
-    "siglaPartido": "PSB",
-    "siglaUf": "PE",
-    "total_gasto": 87303.55
-  },
-  {
-    "id": 74537,
-    "nome": "Claudio Cajado",
-    "siglaPartido": "PP",
-    "siglaUf": "BA",
-    "total_gasto": 87170.97
-  },
-  {
-    "id": 204512,
-    "nome": "Delegado Marcelo Freitas",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "MG",
-    "total_gasto": 87099.22
-  },
-  {
-    "id": 220612,
-    "nome": "Bebeto",
-    "siglaPartido": "PP",
-    "siglaUf": "RJ",
-    "total_gasto": 87088.79
-  },
-  {
-    "id": 74156,
-    "nome": "Leonardo Monteiro",
-    "siglaPartido": "PT",
-    "siglaUf": "MG",
-    "total_gasto": 87048.16
-  },
-  {
-    "id": 230957,
-    "nome": "João Cury",
-    "siglaPartido": "MDB",
-    "siglaUf": "SP",
-    "total_gasto": 86350.24
-  },
-  {
-    "id": 220581,
-    "nome": "Luciano Amaral",
-    "siglaPartido": "PSD",
-    "siglaUf": "AL",
-    "total_gasto": 86055.15
-  },
-  {
-    "id": 220662,
-    "nome": "Lucas Ramos",
-    "siglaPartido": "PSB",
-    "siglaUf": "PE",
-    "total_gasto": 86047.4
-  },
-  {
-    "id": 220626,
-    "nome": "Rafael Simoes",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "MG",
-    "total_gasto": 85857.6
-  },
-  {
-    "id": 160553,
-    "nome": "Antonio Brito",
-    "siglaPartido": "PSD",
-    "siglaUf": "BA",
-    "total_gasto": 85682.6
-  },
-  {
-    "id": 220570,
-    "nome": "Dr. Ismael Alexandrino",
-    "siglaPartido": "PSD",
-    "siglaUf": "GO",
-    "total_gasto": 85642.12
-  },
-  {
-    "id": 224333,
-    "nome": "Welter",
-    "siglaPartido": "PT",
-    "siglaUf": "PR",
-    "total_gasto": 85492.92
-  },
-  {
-    "id": 220664,
-    "nome": "Guilherme Uchoa",
-    "siglaPartido": "PSB",
-    "siglaUf": "PE",
-    "total_gasto": 85478.11
-  },
-  {
-    "id": 220693,
-    "nome": "Roberta Roma",
-    "siglaPartido": "PL",
-    "siglaUf": "BA",
-    "total_gasto": 85403.51
-  },
-  {
-    "id": 205476,
-    "nome": "Charles Fernandes",
-    "siglaPartido": "PSD",
-    "siglaUf": "BA",
-    "total_gasto": 85357.08
-  },
-  {
-    "id": 175765,
-    "nome": "Ribamar Silva",
-    "siglaPartido": "PSD",
-    "siglaUf": "SP",
-    "total_gasto": 85168.92
-  },
-  {
-    "id": 205550,
-    "nome": "Jorge Braz",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "RJ",
-    "total_gasto": 85000.52
-  },
-  {
-    "id": 220661,
-    "nome": "Matheus Noronha",
-    "siglaPartido": "PL",
-    "siglaUf": "CE",
-    "total_gasto": 84968.04
-  },
-  {
-    "id": 178947,
-    "nome": "Sóstenes Cavalcante",
-    "siglaPartido": "PL",
-    "siglaUf": "RJ",
-    "total_gasto": 84883.66
-  },
-  {
-    "id": 220646,
-    "nome": "Felipe Becari",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "SP",
-    "total_gasto": 84723.59
-  },
-  {
-    "id": 139285,
-    "nome": "Lídice da Mata",
-    "siglaPartido": "PSB",
-    "siglaUf": "BA",
-    "total_gasto": 84656.95999999999
-  },
-  {
-    "id": 204525,
-    "nome": "Rosana Valle",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 84561.46
-  },
-  {
-    "id": 160527,
-    "nome": "Aguinaldo Ribeiro",
-    "siglaPartido": "PP",
-    "siglaUf": "PB",
-    "total_gasto": 84414.33
-  },
-  {
-    "id": 204407,
-    "nome": "Fernanda Melchionna",
-    "siglaPartido": "PSOL",
-    "siglaUf": "RS",
-    "total_gasto": 84374.29000000001
-  },
-  {
-    "id": 73768,
-    "nome": "Dilceu Sperafico",
-    "siglaPartido": "PP",
-    "siglaUf": "PR",
-    "total_gasto": 84273.28
-  },
-  {
-    "id": 220648,
-    "nome": "Marangoni",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "SP",
-    "total_gasto": 84259.72
-  },
-  {
-    "id": 74856,
-    "nome": "Laura Carneiro",
-    "siglaPartido": "PSD",
-    "siglaUf": "RJ",
-    "total_gasto": 84174.78
-  },
-  {
-    "id": 178884,
-    "nome": "Hildo Rocha",
-    "siglaPartido": "MDB",
-    "siglaUf": "MA",
-    "total_gasto": 84114.68
-  },
-  {
-    "id": 220629,
-    "nome": "Dandara",
-    "siglaPartido": "PT",
-    "siglaUf": "MG",
-    "total_gasto": 84065.31
-  },
-  {
-    "id": 178895,
-    "nome": "Misael Varella",
-    "siglaPartido": "PSD",
-    "siglaUf": "MG",
-    "total_gasto": 83817.49
-  },
-  {
-    "id": 223128,
-    "nome": "Rodrigo Estacho",
-    "siglaPartido": "PSD",
-    "siglaUf": "PR",
-    "total_gasto": 83649.36
-  },
-  {
-    "id": 220714,
-    "nome": "Adail Filho",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "AM",
-    "total_gasto": 83461.54
-  },
-  {
-    "id": 136811,
-    "nome": "Afonso Hamm",
-    "siglaPartido": "PP",
-    "siglaUf": "RS",
-    "total_gasto": 82838.02
-  },
-  {
-    "id": 226179,
-    "nome": "Gisela Simona",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "MT",
-    "total_gasto": 82833.78
-  },
-  {
-    "id": 66828,
-    "nome": "Fausto Pinato",
-    "siglaPartido": "PP",
-    "siglaUf": "SP",
-    "total_gasto": 82829.05
-  },
-  {
-    "id": 220550,
-    "nome": "Mauricio Marcon",
-    "siglaPartido": "PODE",
-    "siglaUf": "RS",
-    "total_gasto": 82592.71
-  },
-  {
-    "id": 220670,
-    "nome": "Iza Arruda",
-    "siglaPartido": "MDB",
-    "siglaUf": "PE",
-    "total_gasto": 82562.43
-  },
-  {
-    "id": 204457,
-    "nome": "Juninho do Pneu",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RJ",
-    "total_gasto": 82559.41
-  },
-  {
-    "id": 160558,
-    "nome": "Paulo Freire Costa",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 82437.85
-  },
-  {
-    "id": 220620,
-    "nome": "Rosângela Reis",
-    "siglaPartido": "PL",
-    "siglaUf": "MG",
-    "total_gasto": 82338.44
-  },
-  {
-    "id": 141518,
-    "nome": "Paulinho da Força",
-    "siglaPartido": "SOLIDARIEDADE",
-    "siglaUf": "SP",
-    "total_gasto": 82318.58
-  },
-  {
-    "id": 220688,
-    "nome": "Dr. Francisco",
-    "siglaPartido": "PT",
-    "siglaUf": "PI",
-    "total_gasto": 82046.93
-  },
-  {
-    "id": 226837,
-    "nome": "Saulo Pedroso",
-    "siglaPartido": "PSD",
-    "siglaUf": "SP",
-    "total_gasto": 82021.66
-  },
-  {
-    "id": 178934,
-    "nome": "Toninho Wandscheer",
-    "siglaPartido": "PP",
-    "siglaUf": "PR",
-    "total_gasto": 81985.94
-  },
-  {
-    "id": 204396,
-    "nome": "Vermelho",
-    "siglaPartido": "PP",
-    "siglaUf": "PR",
-    "total_gasto": 81912.1
-  },
-  {
-    "id": 220560,
-    "nome": "Thiago de Joaldo",
-    "siglaPartido": "PP",
-    "siglaUf": "SE",
-    "total_gasto": 81886.32
-  },
-  {
-    "id": 123086,
-    "nome": "Átila Lira",
-    "siglaPartido": "PP",
-    "siglaUf": "PI",
-    "total_gasto": 81823.58
-  },
-  {
-    "id": 204449,
-    "nome": "Nelson Barbudo",
-    "siglaPartido": "PL",
-    "siglaUf": "MT",
-    "total_gasto": 81789.22
-  },
-  {
-    "id": 220640,
-    "nome": "Juliana Cardoso",
-    "siglaPartido": "PT",
-    "siglaUf": "SP",
-    "total_gasto": 81739.38
-  },
-  {
-    "id": 160588,
-    "nome": "Diego Andrade",
-    "siglaPartido": "PSD",
-    "siglaUf": "MG",
-    "total_gasto": 81544.31999999999
-  },
-  {
-    "id": 74158,
-    "nome": "Mário Heringer",
-    "siglaPartido": "PDT",
-    "siglaUf": "MG",
-    "total_gasto": 81499.74
-  },
-  {
-    "id": 74141,
-    "nome": "Josias Gomes",
-    "siglaPartido": "PT",
-    "siglaUf": "BA",
-    "total_gasto": 81222.13
-  },
-  {
-    "id": 204376,
-    "nome": "Coronel Armando",
-    "siglaPartido": "PP",
-    "siglaUf": "SC",
-    "total_gasto": 81194.91
-  },
-  {
-    "id": 220666,
-    "nome": "Coronel Meira",
-    "siglaPartido": "PL",
-    "siglaUf": "PE",
-    "total_gasto": 81117.29
-  },
-  {
-    "id": 220531,
-    "nome": "Gilvan Maximo",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "DF",
-    "total_gasto": 81085.85
-  },
-  {
-    "id": 160575,
-    "nome": "Erika Kokay",
-    "siglaPartido": "PT",
-    "siglaUf": "DF",
-    "total_gasto": 81071.54
-  },
-  {
-    "id": 220633,
-    "nome": "Ricardo Salles",
-    "siglaPartido": "NOVO",
-    "siglaUf": "SP",
-    "total_gasto": 80800.76
-  },
-  {
-    "id": 141531,
-    "nome": "Rodrigo de Castro",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "MG",
-    "total_gasto": 80795.58
-  },
-  {
-    "id": 220651,
-    "nome": "Simone Marquetto",
-    "siglaPartido": "MDB",
-    "siglaUf": "SP",
-    "total_gasto": 80730.2
-  },
-  {
-    "id": 220706,
-    "nome": "Padovani",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "PR",
-    "total_gasto": 80595.47
-  },
-  {
-    "id": 92102,
-    "nome": "Leur Lomanto Júnior",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "BA",
-    "total_gasto": 80556.48
-  },
-  {
-    "id": 220543,
-    "nome": "Ricardo Ayres",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "TO",
-    "total_gasto": 80510.95
-  },
-  {
-    "id": 178829,
-    "nome": "Capitão Augusto",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 80415.04
-  },
-  {
-    "id": 220617,
-    "nome": "Murillo Gouvea",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RJ",
-    "total_gasto": 80399.06
-  },
-  {
-    "id": 220701,
-    "nome": "Delegado Matheus Laiola",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "PR",
-    "total_gasto": 80269.72
-  },
-  {
-    "id": 160610,
-    "nome": "Valmir Assunção",
-    "siglaPartido": "PT",
-    "siglaUf": "BA",
-    "total_gasto": 80233.59
-  },
-  {
-    "id": 220607,
-    "nome": "Max Lemos",
-    "siglaPartido": "PDT",
-    "siglaUf": "RJ",
-    "total_gasto": 80076.89
-  },
-  {
-    "id": 204540,
-    "nome": "Maria Rosas",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "SP",
-    "total_gasto": 80070.09
-  },
-  {
-    "id": 160599,
-    "nome": "Dimas Fabiano",
-    "siglaPartido": "PP",
-    "siglaUf": "MG",
-    "total_gasto": 79792.36
-  },
-  {
-    "id": 221329,
-    "nome": "Ricardo Abrão",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RJ",
-    "total_gasto": 79767.75
-  },
-  {
-    "id": 220645,
-    "nome": "Erika Hilton",
-    "siglaPartido": "PSOL",
-    "siglaUf": "SP",
-    "total_gasto": 79754.35
-  },
-  {
-    "id": 220567,
-    "nome": "Jeferson Rodrigues",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "GO",
-    "total_gasto": 79559.9
-  },
-  {
-    "id": 198197,
-    "nome": "Greyce Elias",
-    "siglaPartido": "AVANTE",
-    "siglaUf": "MG",
-    "total_gasto": 79507.34
-  },
-  {
-    "id": 74317,
-    "nome": "Júlio Cesar",
-    "siglaPartido": "PSD",
-    "siglaUf": "PI",
-    "total_gasto": 79476.05
-  },
-  {
-    "id": 204492,
-    "nome": "Paulo Guedes",
-    "siglaPartido": "PT",
-    "siglaUf": "MG",
-    "total_gasto": 79454.22
-  },
-  {
-    "id": 204501,
-    "nome": "Alencar Santana",
-    "siglaPartido": "PT",
-    "siglaUf": "SP",
-    "total_gasto": 79441.66
-  },
-  {
-    "id": 220623,
-    "nome": "Duda Salabert",
-    "siglaPartido": "PDT",
-    "siglaUf": "MG",
-    "total_gasto": 79369.09
-  },
-  {
-    "id": 74467,
-    "nome": "Damião Feliciano",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "PB",
-    "total_gasto": 79356.3
-  },
-  {
-    "id": 220691,
-    "nome": "Diego Coronel",
-    "siglaPartido": "PSD",
-    "siglaUf": "BA",
-    "total_gasto": 79339.22
-  },
-  {
-    "id": 141391,
-    "nome": "Arnaldo Jardim",
-    "siglaPartido": "CIDADANIA",
-    "siglaUf": "SP",
-    "total_gasto": 79227.48
-  },
-  {
-    "id": 220605,
-    "nome": "Bandeira de Mello",
-    "siglaPartido": "PSB",
-    "siglaUf": "RJ",
-    "total_gasto": 79223.42
-  },
-  {
-    "id": 178896,
-    "nome": "Newton Cardoso Jr",
-    "siglaPartido": "MDB",
-    "siglaUf": "MG",
-    "total_gasto": 79172.24
-  },
-  {
-    "id": 204410,
-    "nome": "Luisa Canziani",
-    "siglaPartido": "PSD",
-    "siglaUf": "PR",
-    "total_gasto": 79049.91
-  },
-  {
-    "id": 220557,
-    "nome": "Daniela Reinehr",
-    "siglaPartido": "PL",
-    "siglaUf": "SC",
-    "total_gasto": 78873.11
-  },
-  {
-    "id": 73788,
-    "nome": "Ricardo Barros",
-    "siglaPartido": "PP",
-    "siglaUf": "PR",
-    "total_gasto": 78737.0
-  },
-  {
-    "id": 74784,
-    "nome": "Luiza Erundina",
-    "siglaPartido": "PSOL",
-    "siglaUf": "SP",
-    "total_gasto": 78724.52
-  },
-  {
-    "id": 66385,
-    "nome": "Julio Arcoverde",
-    "siglaPartido": "PP",
-    "siglaUf": "PI",
-    "total_gasto": 78637.31
-  },
-  {
-    "id": 204460,
-    "nome": "Carlos Jordy",
-    "siglaPartido": "PL",
-    "siglaUf": "RJ",
-    "total_gasto": 78547.97
-  },
-  {
-    "id": 204412,
-    "nome": "Dr. Zacharias Calil",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "GO",
-    "total_gasto": 78502.75
-  },
-  {
-    "id": 178986,
-    "nome": "Nilto Tatto",
-    "siglaPartido": "PT",
-    "siglaUf": "SP",
-    "total_gasto": 78426.93000000001
-  },
-  {
-    "id": 220583,
-    "nome": "Delegado Fabio Costa",
-    "siglaPartido": "PP",
-    "siglaUf": "AL",
-    "total_gasto": 78313.02
-  },
-  {
-    "id": 160518,
-    "nome": "Weliton Prado",
-    "siglaPartido": "SOLIDARIEDADE",
-    "siglaUf": "MG",
-    "total_gasto": 78229.85
-  },
-  {
-    "id": 178857,
-    "nome": "Jorge Solla",
-    "siglaPartido": "PT",
-    "siglaUf": "BA",
-    "total_gasto": 78169.95
-  },
-  {
-    "id": 204486,
-    "nome": "Mauro Benevides Filho",
-    "siglaPartido": "PDT",
-    "siglaUf": "CE",
-    "total_gasto": 78127.09
-  },
-  {
-    "id": 220572,
-    "nome": "Marussa Boldrin",
-    "siglaPartido": "MDB",
-    "siglaUf": "GO",
-    "total_gasto": 77971.43
-  },
-  {
-    "id": 178987,
-    "nome": "Orlando Silva",
-    "siglaPartido": "PCdoB",
-    "siglaUf": "SP",
-    "total_gasto": 77938.06
-  },
-  {
-    "id": 220644,
-    "nome": "Rosangela Moro",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "SP",
-    "total_gasto": 77881.33
-  },
-  {
-    "id": 220652,
-    "nome": "Delegado Palumbo",
-    "siglaPartido": "MDB",
-    "siglaUf": "SP",
-    "total_gasto": 77839.38
-  },
-  {
-    "id": 204368,
-    "nome": "Fabio Schiochet",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "SC",
-    "total_gasto": 77713.58
-  },
-  {
-    "id": 74299,
-    "nome": "Leônidas Cristino",
-    "siglaPartido": "PDT",
-    "siglaUf": "CE",
-    "total_gasto": 77698.52
-  },
-  {
-    "id": 220602,
-    "nome": "Dimas Gadelha",
-    "siglaPartido": "PT",
-    "siglaUf": "RJ",
-    "total_gasto": 77609.54
-  },
-  {
-    "id": 204567,
-    "nome": "Raimundo Costa",
-    "siglaPartido": "PODE",
-    "siglaUf": "BA",
-    "total_gasto": 77459.01
-  },
-  {
-    "id": 204472,
-    "nome": "José Medeiros",
-    "siglaPartido": "PL",
-    "siglaUf": "MT",
-    "total_gasto": 77392.52
-  },
-  {
-    "id": 220659,
-    "nome": "Dayany Bittencourt",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "CE",
-    "total_gasto": 77377.11
-  },
-  {
-    "id": 80815,
-    "nome": "Leo Prates",
-    "siglaPartido": "PDT",
-    "siglaUf": "BA",
-    "total_gasto": 77314.73
-  },
-  {
-    "id": 220611,
-    "nome": "General Pazuello",
-    "siglaPartido": "PL",
-    "siglaUf": "RJ",
-    "total_gasto": 77213.33
-  },
-  {
-    "id": 204498,
-    "nome": "Olival Marques",
-    "siglaPartido": "MDB",
-    "siglaUf": "PA",
-    "total_gasto": 76876.35
-  },
-  {
-    "id": 74273,
-    "nome": "Jefferson Campos",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 76863.6
-  },
-  {
-    "id": 220529,
-    "nome": "Gilson Daniel",
-    "siglaPartido": "PODE",
-    "siglaUf": "ES",
-    "total_gasto": 76711.51
-  },
-  {
-    "id": 160604,
-    "nome": "Pedro Uczai",
-    "siglaPartido": "PT",
-    "siglaUf": "SC",
-    "total_gasto": 76584.79
-  },
-  {
-    "id": 141487,
-    "nome": "Luiz Fernando Faria",
-    "siglaPartido": "PSD",
-    "siglaUf": "MG",
-    "total_gasto": 76439.24
-  },
-  {
-    "id": 220628,
-    "nome": "Mauricio do Vôlei",
-    "siglaPartido": "PL",
-    "siglaUf": "MG",
-    "total_gasto": 76406.92
-  },
-  {
-    "id": 220631,
-    "nome": "Samuel Viana",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "MG",
-    "total_gasto": 76319.28
-  },
-  {
-    "id": 178927,
-    "nome": "Aliel Machado",
-    "siglaPartido": "PV",
-    "siglaUf": "PR",
-    "total_gasto": 76249.15
-  },
-  {
-    "id": 74262,
-    "nome": "Carlos Sampaio",
-    "siglaPartido": "PSD",
-    "siglaUf": "SP",
-    "total_gasto": 76181.07
-  },
-  {
-    "id": 220687,
-    "nome": "Márcio Honaiser",
-    "siglaPartido": "PDT",
-    "siglaUf": "MA",
-    "total_gasto": 75985.96
-  },
-  {
-    "id": 74428,
-    "nome": "Mendonça Filho",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "PE",
-    "total_gasto": 75973.14
-  },
-  {
-    "id": 221148,
-    "nome": "Alfredinho",
-    "siglaPartido": "PT",
-    "siglaUf": "SP",
-    "total_gasto": 75890.02
-  },
-  {
-    "id": 204518,
-    "nome": "Dr. Frederico",
-    "siglaPartido": "PRD",
-    "siglaUf": "MG",
-    "total_gasto": 75569.69
-  },
-  {
-    "id": 141485,
-    "nome": "Luiz Carlos Busato",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RS",
-    "total_gasto": 75520.78
-  },
-  {
-    "id": 220533,
-    "nome": "Prof. Reginaldo Veras",
-    "siglaPartido": "PV",
-    "siglaUf": "DF",
-    "total_gasto": 75418.35
-  },
-  {
-    "id": 171786,
-    "nome": "Miguel Ângelo",
-    "siglaPartido": "PT",
-    "siglaUf": "MG",
-    "total_gasto": 75259.39
-  },
-  {
-    "id": 73604,
-    "nome": "Rui Falcão",
-    "siglaPartido": "PT",
-    "siglaUf": "SP",
-    "total_gasto": 75254.55
-  },
-  {
-    "id": 160510,
-    "nome": "Luis Tibé",
-    "siglaPartido": "AVANTE",
-    "siglaUf": "MG",
-    "total_gasto": 75193.4
-  },
-  {
-    "id": 162332,
-    "nome": "Luiz Nishimori",
-    "siglaPartido": "PSD",
-    "siglaUf": "PR",
-    "total_gasto": 75176.38
-  },
-  {
-    "id": 141516,
-    "nome": "Paulo Abi-Ackel",
-    "siglaPartido": "PSDB",
-    "siglaUf": "MG",
-    "total_gasto": 75136.87
-  },
-  {
-    "id": 220672,
-    "nome": "Henderson Pinto",
-    "siglaPartido": "MDB",
-    "siglaUf": "PA",
-    "total_gasto": 75002.99
-  },
-  {
-    "id": 204566,
-    "nome": "Marreca Filho",
-    "siglaPartido": "PRD",
-    "siglaUf": "MA",
-    "total_gasto": 74909.48
-  },
-  {
-    "id": 141464,
-    "nome": "José Airton Félix Cirilo",
-    "siglaPartido": "PT",
-    "siglaUf": "CE",
-    "total_gasto": 74825.69
-  },
-  {
-    "id": 204535,
-    "nome": "Sâmia Bomfim",
-    "siglaPartido": "PSOL",
-    "siglaUf": "SP",
-    "total_gasto": 74825.6
-  },
-  {
-    "id": 220625,
-    "nome": "Delegada Ione",
-    "siglaPartido": "AVANTE",
-    "siglaUf": "MG",
-    "total_gasto": 74688.3
-  },
-  {
-    "id": 220616,
-    "nome": "Luciano Vieira",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "RJ",
-    "total_gasto": 74452.22
-  },
-  {
-    "id": 220630,
-    "nome": "Pedro Aihara",
-    "siglaPartido": "PRD",
-    "siglaUf": "MG",
-    "total_gasto": 73670.72
-  },
-  {
-    "id": 204374,
-    "nome": "Bia Kicis",
-    "siglaPartido": "PL",
-    "siglaUf": "DF",
-    "total_gasto": 73587.41
-  },
-  {
-    "id": 220702,
-    "nome": "Geraldo Mendes",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "PR",
-    "total_gasto": 73539.19
-  },
-  {
-    "id": 160640,
-    "nome": "Eros Biondini",
-    "siglaPartido": "PL",
-    "siglaUf": "MG",
-    "total_gasto": 73210.04
-  },
-  {
-    "id": 160552,
-    "nome": "Danrlei de Deus Hinterholz",
-    "siglaPartido": "PSD",
-    "siglaUf": "RS",
-    "total_gasto": 73197.63
-  },
-  {
-    "id": 160548,
-    "nome": "Jonas Donizette",
-    "siglaPartido": "PSB",
-    "siglaUf": "SP",
-    "total_gasto": 73195.59
-  },
-  {
-    "id": 220532,
-    "nome": "Rafael Prudente",
-    "siglaPartido": "MDB",
-    "siglaUf": "DF",
-    "total_gasto": 73185.63
-  },
-  {
-    "id": 220647,
-    "nome": "Mauricio Neves",
-    "siglaPartido": "PP",
-    "siglaUf": "SP",
-    "total_gasto": 73140.72
-  },
-  {
-    "id": 62881,
-    "nome": "Danilo Forte",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "CE",
-    "total_gasto": 73099.0
-  },
-  {
-    "id": 222429,
-    "nome": "Luis Carlos Gomes",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "RJ",
-    "total_gasto": 72998.07
-  },
-  {
-    "id": 141398,
-    "nome": "Carlos Zarattini",
-    "siglaPartido": "PT",
-    "siglaUf": "SP",
-    "total_gasto": 72975.43000000001
-  },
-  {
-    "id": 74043,
-    "nome": "Wellington Roberto",
-    "siglaPartido": "PL",
-    "siglaUf": "PB",
-    "total_gasto": 72804.84
-  },
-  {
-    "id": 204379,
-    "nome": "Acácio Favacho",
-    "siglaPartido": "MDB",
-    "siglaUf": "AP",
-    "total_gasto": 72755.39
-  },
-  {
-    "id": 220690,
-    "nome": "Capitão Alden",
-    "siglaPartido": "PL",
-    "siglaUf": "BA",
-    "total_gasto": 72692.81
-  },
-  {
-    "id": 220565,
-    "nome": "Delegada Adriana Accorsi",
-    "siglaPartido": "PT",
-    "siglaUf": "GO",
-    "total_gasto": 72606.41
-  },
-  {
-    "id": 122158,
-    "nome": "Pedro Paulo",
-    "siglaPartido": "PSD",
-    "siglaUf": "RJ",
-    "total_gasto": 72103.59
-  },
-  {
-    "id": 220545,
-    "nome": "Filipe Martins",
-    "siglaPartido": "PL",
-    "siglaUf": "TO",
-    "total_gasto": 71926.85
-  },
-  {
-    "id": 204411,
-    "nome": "Filipe Barros",
-    "siglaPartido": "PL",
-    "siglaUf": "PR",
-    "total_gasto": 71754.6
-  },
-  {
-    "id": 166402,
-    "nome": "Magda Mofatto",
-    "siglaPartido": "PRD",
-    "siglaUf": "GO",
-    "total_gasto": 71629.44
-  },
-  {
-    "id": 160601,
-    "nome": "Pr. Marco Feliciano",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 71054.62
-  },
-  {
-    "id": 178910,
-    "nome": "Joaquim Passarinho",
-    "siglaPartido": "PL",
-    "siglaUf": "PA",
-    "total_gasto": 70677.02
-  },
-  {
-    "id": 73701,
-    "nome": "Benedita da Silva",
-    "siglaPartido": "PT",
-    "siglaUf": "RJ",
-    "total_gasto": 70618.81
-  },
-  {
-    "id": 220539,
-    "nome": "Defensor Stélio Dener",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "RR",
-    "total_gasto": 70318.48
-  },
-  {
-    "id": 160666,
-    "nome": "Félix Mendonça Júnior",
-    "siglaPartido": "PDT",
-    "siglaUf": "BA",
-    "total_gasto": 70068.27
-  },
-  {
-    "id": 220622,
-    "nome": "Nely Aquino",
-    "siglaPartido": "PODE",
-    "siglaUf": "MG",
-    "total_gasto": 69932.98
-  },
-  {
-    "id": 220639,
-    "nome": "Guilherme Boulos",
-    "siglaPartido": "PSOL",
-    "siglaUf": "SP",
-    "total_gasto": 69911.81
-  },
-  {
-    "id": 204511,
-    "nome": "David Soares",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "SP",
-    "total_gasto": 69714.84
-  },
-  {
-    "id": 220613,
-    "nome": "Roberto Monteiro Pai",
-    "siglaPartido": "PL",
-    "siglaUf": "RJ",
-    "total_gasto": 69661.3
-  },
-  {
-    "id": 178943,
-    "nome": "Marcos Soares",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RJ",
-    "total_gasto": 69551.86
-  },
-  {
-    "id": 152605,
-    "nome": "Glauber Braga",
-    "siglaPartido": "PSOL",
-    "siglaUf": "RJ",
-    "total_gasto": 69324.71
-  },
-  {
-    "id": 221338,
-    "nome": "Professora Luciene Cavalcante",
-    "siglaPartido": "PSOL",
-    "siglaUf": "SP",
-    "total_gasto": 69294.2
-  },
-  {
-    "id": 220676,
-    "nome": "Andreia Siqueira",
-    "siglaPartido": "MDB",
-    "siglaUf": "PA",
-    "total_gasto": 69268.77
-  },
-  {
-    "id": 73579,
-    "nome": "Alberto Fraga",
-    "siglaPartido": "PL",
-    "siglaUf": "DF",
-    "total_gasto": 69090.41
-  },
-  {
-    "id": 220668,
-    "nome": "Maria Arraes",
-    "siglaPartido": "SOLIDARIEDADE",
-    "siglaUf": "PE",
-    "total_gasto": 69029.79
+    "total_gasto": 109009.54000000001
   },
   {
     "id": 178876,
     "nome": "Célio Silveira",
     "siglaPartido": "MDB",
     "siglaUf": "GO",
-    "total_gasto": 68858.4
-  },
-  {
-    "id": 160598,
-    "nome": "Flávia Morais",
-    "siglaPartido": "PDT",
-    "siglaUf": "GO",
-    "total_gasto": 68769.14
-  },
-  {
-    "id": 220594,
-    "nome": "Coronel Assis",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "MT",
-    "total_gasto": 68573.73
-  },
-  {
-    "id": 229432,
-    "nome": "Luiz Fernando Vampiro",
-    "siglaPartido": "MDB",
-    "siglaUf": "SC",
-    "total_gasto": 68535.85
-  },
-  {
-    "id": 230768,
-    "nome": "Zé Adriano",
-    "siglaPartido": "PP",
-    "siglaUf": "AC",
-    "total_gasto": 68402.87
-  },
-  {
-    "id": 74161,
-    "nome": "Reginaldo Lopes",
-    "siglaPartido": "PT",
-    "siglaUf": "MG",
-    "total_gasto": 68256.38
-  },
-  {
-    "id": 220684,
-    "nome": "Tião Medeiros",
-    "siglaPartido": "PP",
-    "siglaUf": "PR",
-    "total_gasto": 67577.12
-  },
-  {
-    "id": 220673,
-    "nome": "Delegado Caveira",
-    "siglaPartido": "PL",
-    "siglaUf": "PA",
-    "total_gasto": 67530.14
-  },
-  {
-    "id": 220619,
-    "nome": "Delegado Ramagem",
-    "siglaPartido": "PL",
-    "siglaUf": "RJ",
-    "total_gasto": 67446.12
-  },
-  {
-    "id": 74371,
-    "nome": "Rubens Otoni",
-    "siglaPartido": "PT",
-    "siglaUf": "GO",
-    "total_gasto": 67228.77
-  },
-  {
-    "id": 204351,
-    "nome": "Dr. Luiz Ovando",
-    "siglaPartido": "PP",
-    "siglaUf": "MS",
-    "total_gasto": 67105.87
-  },
-  {
-    "id": 204456,
-    "nome": "Gutemberg Reis",
-    "siglaPartido": "MDB",
-    "siglaUf": "RJ",
-    "total_gasto": 66845.94
-  },
-  {
-    "id": 220694,
-    "nome": "Ricardo Maia",
-    "siglaPartido": "MDB",
-    "siglaUf": "BA",
-    "total_gasto": 66775.35
-  },
-  {
-    "id": 161440,
-    "nome": "Pezenti",
-    "siglaPartido": "MDB",
-    "siglaUf": "SC",
-    "total_gasto": 66755.28
-  },
-  {
-    "id": 204372,
-    "nome": "Julio Cesar Ribeiro",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "DF",
-    "total_gasto": 66662.68
-  },
-  {
-    "id": 220699,
-    "nome": "Castro Neto",
-    "siglaPartido": "PSD",
-    "siglaUf": "PI",
-    "total_gasto": 66356.07
-  },
-  {
-    "id": 220589,
-    "nome": "Eduardo Velloso",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "AC",
-    "total_gasto": 65804.92
-  },
-  {
-    "id": 204422,
-    "nome": "Ossesio Silva",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "PE",
-    "total_gasto": 65664.03
-  },
-  {
-    "id": 160592,
-    "nome": "Zeca Dirceu",
-    "siglaPartido": "PT",
-    "siglaUf": "PR",
-    "total_gasto": 65630.59
-  },
-  {
-    "id": 204526,
-    "nome": "Luiz Philippe de Orleans e Bragança",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 65477.98
-  },
-  {
-    "id": 220649,
-    "nome": "Delegado da Cunha",
-    "siglaPartido": "PP",
-    "siglaUf": "SP",
-    "total_gasto": 65312.38
-  },
-  {
-    "id": 69871,
-    "nome": "Bacelar",
-    "siglaPartido": "PV",
-    "siglaUf": "BA",
-    "total_gasto": 65101.98
-  },
-  {
-    "id": 204395,
-    "nome": "Pedro Lupion",
-    "siglaPartido": "PP",
-    "siglaUf": "PR",
-    "total_gasto": 64753.75
-  },
-  {
-    "id": 74848,
-    "nome": "Jandira Feghali",
-    "siglaPartido": "PCdoB",
-    "siglaUf": "RJ",
-    "total_gasto": 64695.03
-  },
-  {
-    "id": 160517,
-    "nome": "Paulo Folletto",
-    "siglaPartido": "PSB",
-    "siglaUf": "ES",
-    "total_gasto": 64586.83
-  },
-  {
-    "id": 220686,
-    "nome": "Duarte Jr.",
-    "siglaPartido": "PSB",
-    "siglaUf": "MA",
-    "total_gasto": 64044.38
-  },
-  {
-    "id": 220549,
-    "nome": "Any Ortiz",
-    "siglaPartido": "CIDADANIA",
-    "siglaUf": "RS",
-    "total_gasto": 64024.23
-  },
-  {
-    "id": 74574,
-    "nome": "Paulo Magalhães",
-    "siglaPartido": "PSD",
-    "siglaUf": "BA",
-    "total_gasto": 63805.13
-  },
-  {
-    "id": 220598,
-    "nome": "Tarcísio Motta",
-    "siglaPartido": "PSOL",
-    "siglaUf": "RJ",
-    "total_gasto": 63297.02
-  },
-  {
-    "id": 204572,
-    "nome": "Capitão Alberto Neto",
-    "siglaPartido": "PL",
-    "siglaUf": "AM",
-    "total_gasto": 63169.28
-  },
-  {
-    "id": 204495,
-    "nome": "Airton Faleiro",
-    "siglaPartido": "PT",
-    "siglaUf": "PA",
-    "total_gasto": 63168.37
-  },
-  {
-    "id": 204491,
-    "nome": "Gilberto Abramo",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "MG",
-    "total_gasto": 63104.31
-  },
-  {
-    "id": 74253,
-    "nome": "Julio Lopes",
-    "siglaPartido": "PP",
-    "siglaUf": "RJ",
-    "total_gasto": 62998.98
-  },
-  {
-    "id": 122974,
-    "nome": "Pedro Lucas Fernandes",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "MA",
-    "total_gasto": 62995.52
-  },
-  {
-    "id": 220586,
-    "nome": "Rafael Brito",
-    "siglaPartido": "MDB",
-    "siglaUf": "AL",
-    "total_gasto": 62892.27
-  },
-  {
-    "id": 178946,
-    "nome": "Soraya Santos",
-    "siglaPartido": "PL",
-    "siglaUf": "RJ",
-    "total_gasto": 62628.76
-  },
-  {
-    "id": 160561,
-    "nome": "Missionário José Olimpio",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 62568.19
-  },
-  {
-    "id": 73801,
-    "nome": "Renildo Calheiros",
-    "siglaPartido": "PCdoB",
-    "siglaUf": "PE",
-    "total_gasto": 62208.77
-  },
-  {
-    "id": 209787,
-    "nome": "Nikolas Ferreira",
-    "siglaPartido": "PL",
-    "siglaUf": "MG",
-    "total_gasto": 62056.98
-  },
-  {
-    "id": 204404,
-    "nome": "Lucas Redecker",
-    "siglaPartido": "PSDB",
-    "siglaUf": "RS",
-    "total_gasto": 61863.85
-  },
-  {
-    "id": 220638,
-    "nome": "Antonio Carlos Rodrigues",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 61691.56
-  },
-  {
-    "id": 204549,
-    "nome": "AJ Albuquerque",
-    "siglaPartido": "PP",
-    "siglaUf": "CE",
-    "total_gasto": 61618.51
-  },
-  {
-    "id": 98148,
-    "nome": "Cobalchini",
-    "siglaPartido": "MDB",
-    "siglaUf": "SC",
-    "total_gasto": 60794.83
-  },
-  {
-    "id": 73531,
-    "nome": "Ivan Valente",
-    "siglaPartido": "PSOL",
-    "siglaUf": "SP",
-    "total_gasto": 60583.88
-  },
-  {
-    "id": 204573,
-    "nome": "Otto Alencar Filho",
-    "siglaPartido": "PSD",
-    "siglaUf": "BA",
-    "total_gasto": 60113.95
-  },
-  {
-    "id": 171617,
-    "nome": "Paulão",
-    "siglaPartido": "PT",
-    "siglaUf": "AL",
-    "total_gasto": 60083.61
-  },
-  {
-    "id": 178937,
-    "nome": "Altineu Côrtes",
-    "siglaPartido": "PL",
-    "siglaUf": "RJ",
-    "total_gasto": 60038.53
-  },
-  {
-    "id": 220604,
-    "nome": "Marcos Tavares",
-    "siglaPartido": "PDT",
-    "siglaUf": "RJ",
-    "total_gasto": 60032.89
-  },
-  {
-    "id": 141458,
-    "nome": "João Carlos Bacelar",
-    "siglaPartido": "PL",
-    "siglaUf": "BA",
-    "total_gasto": 59904.26
-  },
-  {
-    "id": 178881,
-    "nome": "Aluisio Mendes",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "MA",
-    "total_gasto": 59790.04
-  },
-  {
-    "id": 165470,
-    "nome": "Rodrigo Valadares",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "SE",
-    "total_gasto": 59518.45
-  },
-  {
-    "id": 204369,
-    "nome": "Caroline de Toni",
-    "siglaPartido": "PL",
-    "siglaUf": "SC",
-    "total_gasto": 59511.28
-  },
-  {
-    "id": 74283,
-    "nome": "Vicentinho",
-    "siglaPartido": "PT",
-    "siglaUf": "SP",
-    "total_gasto": 59431.99
-  },
-  {
-    "id": 204464,
-    "nome": "Talíria Petrone",
-    "siglaPartido": "PSOL",
-    "siglaUf": "RJ",
-    "total_gasto": 58899.21
+    "total_gasto": 107901.69
   },
   {
     "id": 178858,
     "nome": "Mário Negromonte Jr.",
     "siglaPartido": "PP",
     "siglaUf": "BA",
-    "total_gasto": 58298.26
+    "total_gasto": 96650.59000000001
   },
   {
-    "id": 220559,
-    "nome": "Julia Zanatta",
+    "id": 204378,
+    "nome": "Coronel Chrisóstomo",
+    "siglaPartido": "PL",
+    "siglaUf": "RO",
+    "total_gasto": 95046.17000000001
+  },
+  {
+    "id": 220608,
+    "nome": "Cristiane Lopes",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RO",
+    "total_gasto": 92941.25
+  },
+  {
+    "id": 220599,
+    "nome": "Marcelo Crivella",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "RJ",
+    "total_gasto": 92228.62
+  },
+  {
+    "id": 188097,
+    "nome": "Merlong Solano",
+    "siglaPartido": "PT",
+    "siglaUf": "PI",
+    "total_gasto": 91770.11
+  },
+  {
+    "id": 224117,
+    "nome": "Gabriel Mota",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "RR",
+    "total_gasto": 89000.0
+  },
+  {
+    "id": 178993,
+    "nome": "Carlos Henrique Gaguim",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "TO",
+    "total_gasto": 88842.42
+  },
+  {
+    "id": 220558,
+    "nome": "Zé Trovão",
     "siglaPartido": "PL",
     "siglaUf": "SC",
-    "total_gasto": 57875.92
+    "total_gasto": 88397.20999999999
   },
   {
-    "id": 220692,
-    "nome": "Dal Barreto",
+    "id": 160635,
+    "nome": "Ruy Carneiro",
+    "siglaPartido": "PODE",
+    "siglaUf": "PB",
+    "total_gasto": 88354.90000000001
+  },
+  {
+    "id": 204426,
+    "nome": "Carlos Veras",
+    "siglaPartido": "PT",
+    "siglaUf": "PE",
+    "total_gasto": 88119.58
+  },
+  {
+    "id": 143632,
+    "nome": "Domingos Neto",
+    "siglaPartido": "PSD",
+    "siglaUf": "CE",
+    "total_gasto": 85967.92000000001
+  },
+  {
+    "id": 141411,
+    "nome": "Dagoberto Nogueira",
+    "siglaPartido": "PSDB",
+    "siglaUf": "MS",
+    "total_gasto": 85435.81000000003
+  },
+  {
+    "id": 204358,
+    "nome": "Beto Pereira",
+    "siglaPartido": "PSDB",
+    "siglaUf": "MS",
+    "total_gasto": 84401.95999999999
+  },
+  {
+    "id": 160674,
+    "nome": "Hugo Motta",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "PB",
+    "total_gasto": 83695.3
+  },
+  {
+    "id": 141459,
+    "nome": "João Maia",
+    "siglaPartido": "PP",
+    "siglaUf": "RN",
+    "total_gasto": 83455.73
+  },
+  {
+    "id": 220573,
+    "nome": "Dorinaldo Malafaia",
+    "siglaPartido": "PDT",
+    "siglaUf": "AP",
+    "total_gasto": 83171.12
+  },
+  {
+    "id": 191923,
+    "nome": "Flávio Nogueira",
+    "siglaPartido": "PT",
+    "siglaUf": "PI",
+    "total_gasto": 82955.82
+  },
+  {
+    "id": 220592,
+    "nome": "Zezinho Barbary",
+    "siglaPartido": "PP",
+    "siglaUf": "AC",
+    "total_gasto": 82875.11
+  },
+  {
+    "id": 74044,
+    "nome": "Wilson Santiago",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "PB",
+    "total_gasto": 80992.20999999999
+  },
+  {
+    "id": 205865,
+    "nome": "Reinhold Stephanes",
+    "siglaPartido": "PSD",
+    "siglaUf": "PR",
+    "total_gasto": 80521.48999999998
+  },
+  {
+    "id": 220576,
+    "nome": "Alfredo Gaspar",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "AL",
+    "total_gasto": 80399.31
+  },
+  {
+    "id": 204408,
+    "nome": "Gustinho Ribeiro",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "SE",
+    "total_gasto": 80373.91
+  },
+  {
+    "id": 178997,
+    "nome": "Moses Rodrigues",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "CE",
+    "total_gasto": 79869.81
+  },
+  {
+    "id": 220584,
+    "nome": "Murilo Galdino",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "PB",
+    "total_gasto": 79720.03
+  },
+  {
+    "id": 74090,
+    "nome": "Átila Lins",
+    "siglaPartido": "PSD",
+    "siglaUf": "AM",
+    "total_gasto": 79225.91
+  },
+  {
+    "id": 160629,
+    "nome": "Romero Rodrigues",
+    "siglaPartido": "PODE",
+    "siglaUf": "PB",
+    "total_gasto": 78853.47
+  },
+  {
+    "id": 160575,
+    "nome": "Erika Kokay",
+    "siglaPartido": "PT",
+    "siglaUf": "DF",
+    "total_gasto": 78472.0700000001
+  },
+  {
+    "id": 160559,
+    "nome": "Alceu Moreira",
+    "siglaPartido": "MDB",
+    "siglaUf": "RS",
+    "total_gasto": 76787.17000000001
+  },
+  {
+    "id": 220591,
+    "nome": "Meire Serafim",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "AC",
+    "total_gasto": 76170.75000000001
+  },
+  {
+    "id": 74171,
+    "nome": "Chico Alencar",
+    "siglaPartido": "PSOL",
+    "siglaUf": "RJ",
+    "total_gasto": 76000.73999999998
+  },
+  {
+    "id": 220701,
+    "nome": "Delegado Matheus Laiola",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "PR",
+    "total_gasto": 75787.81999999999
+  },
+  {
+    "id": 204488,
+    "nome": "Célio Studart",
+    "siglaPartido": "PSD",
+    "siglaUf": "CE",
+    "total_gasto": 75616.2
+  },
+  {
+    "id": 220607,
+    "nome": "Max Lemos",
+    "siglaPartido": "PDT",
+    "siglaUf": "RJ",
+    "total_gasto": 75473.72
+  },
+  {
+    "id": 74376,
+    "nome": "Vander Loubet",
+    "siglaPartido": "PT",
+    "siglaUf": "MS",
+    "total_gasto": 74742.62000000001
+  },
+  {
+    "id": 204534,
+    "nome": "Tabata Amaral",
+    "siglaPartido": "PSB",
+    "siglaUf": "SP",
+    "total_gasto": 74702.73999999996
+  },
+  {
+    "id": 178954,
+    "nome": "Lucio Mosquini",
+    "siglaPartido": "MDB",
+    "siglaUf": "RO",
+    "total_gasto": 74695.80999999998
+  },
+  {
+    "id": 160161,
+    "nome": "Marcelo Queiroz",
+    "siglaPartido": "PP",
+    "siglaUf": "RJ",
+    "total_gasto": 74537.56999999999
+  },
+  {
+    "id": 220529,
+    "nome": "Gilson Daniel",
+    "siglaPartido": "PODE",
+    "siglaUf": "ES",
+    "total_gasto": 73740.20999999999
+  },
+  {
+    "id": 204388,
+    "nome": "Bibo Nunes",
+    "siglaPartido": "PL",
+    "siglaUf": "RS",
+    "total_gasto": 73330.83
+  },
+  {
+    "id": 74041,
+    "nome": "Luiz Couto",
+    "siglaPartido": "PT",
+    "siglaUf": "PB",
+    "total_gasto": 73272.12999999999
+  },
+  {
+    "id": 209189,
+    "nome": "Joseildo Ramos",
+    "siglaPartido": "PT",
+    "siglaUf": "BA",
+    "total_gasto": 73185.56000000001
+  },
+  {
+    "id": 220642,
+    "nome": "Delegado Bruno Lima",
+    "siglaPartido": "PP",
+    "siglaUf": "SP",
+    "total_gasto": 73174.89000000001
+  },
+  {
+    "id": 178992,
+    "nome": "Vitor Lippi",
+    "siglaPartido": "PSDB",
+    "siglaUf": "SP",
+    "total_gasto": 72591.09999999998
+  },
+  {
+    "id": 74270,
+    "nome": "Gilberto Nascimento",
+    "siglaPartido": "PSD",
+    "siglaUf": "SP",
+    "total_gasto": 72207.79
+  },
+  {
+    "id": 160632,
+    "nome": "Zé Silva",
+    "siglaPartido": "SOLIDARIEDADE",
+    "siglaUf": "MG",
+    "total_gasto": 72050.19999999998
+  },
+  {
+    "id": 204364,
+    "nome": "Eli Borges",
+    "siglaPartido": "PL",
+    "siglaUf": "TO",
+    "total_gasto": 71628.15
+  },
+  {
+    "id": 178934,
+    "nome": "Toninho Wandscheer",
+    "siglaPartido": "PP",
+    "siglaUf": "PR",
+    "total_gasto": 71496.35
+  },
+  {
+    "id": 74550,
+    "nome": "João Leão",
+    "siglaPartido": "PP",
+    "siglaUf": "BA",
+    "total_gasto": 70750.57
+  },
+  {
+    "id": 230767,
+    "nome": "Rodrigo da Zaeli",
+    "siglaPartido": "PL",
+    "siglaUf": "MT",
+    "total_gasto": 70232.84
+  },
+  {
+    "id": 220665,
+    "nome": "Clarissa Tércio",
+    "siglaPartido": "PP",
+    "siglaUf": "PE",
+    "total_gasto": 70161.35
+  },
+  {
+    "id": 220685,
+    "nome": "Paulo Litro",
+    "siglaPartido": "PSD",
+    "siglaUf": "PR",
+    "total_gasto": 69944.85
+  },
+  {
+    "id": 141470,
+    "nome": "José Guimarães",
+    "siglaPartido": "PT",
+    "siglaUf": "CE",
+    "total_gasto": 69434.27
+  },
+  {
+    "id": 141456,
+    "nome": "Jilmar Tatto",
+    "siglaPartido": "PT",
+    "siglaUf": "SP",
+    "total_gasto": 69296.38
+  },
+  {
+    "id": 204473,
+    "nome": "General Girão",
+    "siglaPartido": "PL",
+    "siglaUf": "RN",
+    "total_gasto": 69226.0
+  },
+  {
+    "id": 160665,
+    "nome": "Augusto Coutinho",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "PE",
+    "total_gasto": 69225.48000000004
+  },
+  {
+    "id": 74374,
+    "nome": "Geraldo Resende",
+    "siglaPartido": "PSDB",
+    "siglaUf": "MS",
+    "total_gasto": 69135.28
+  },
+  {
+    "id": 220662,
+    "nome": "Lucas Ramos",
+    "siglaPartido": "PSB",
+    "siglaUf": "PE",
+    "total_gasto": 69025.26999999999
+  },
+  {
+    "id": 220581,
+    "nome": "Luciano Amaral",
+    "siglaPartido": "PSD",
+    "siglaUf": "AL",
+    "total_gasto": 68998.78
+  },
+  {
+    "id": 204409,
+    "nome": "Daniel Trzeciak",
+    "siglaPartido": "PSDB",
+    "siglaUf": "RS",
+    "total_gasto": 68949.15
+  },
+  {
+    "id": 74159,
+    "nome": "Odair Cunha",
+    "siglaPartido": "PT",
+    "siglaUf": "MG",
+    "total_gasto": 68827.94999999997
+  },
+  {
+    "id": 220615,
+    "nome": "Pastor Henrique Vieira",
+    "siglaPartido": "PSOL",
+    "siglaUf": "RJ",
+    "total_gasto": 68693.59
+  },
+  {
+    "id": 220554,
+    "nome": "Alexandre Lindenmeyer",
+    "siglaPartido": "PT",
+    "siglaUf": "RS",
+    "total_gasto": 68426.1099999999
+  },
+  {
+    "id": 220538,
+    "nome": "Albuquerque",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "RR",
+    "total_gasto": 68020.06999999999
+  },
+  {
+    "id": 204441,
+    "nome": "Otoni de Paula",
+    "siglaPartido": "MDB",
+    "siglaUf": "RJ",
+    "total_gasto": 67851.95000000001
+  },
+  {
+    "id": 220566,
+    "nome": "Lêda Borges",
+    "siglaPartido": "PSDB",
+    "siglaUf": "GO",
+    "total_gasto": 67552.43000000002
+  },
+  {
+    "id": 123756,
+    "nome": "Antônia Lúcia",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "AC",
+    "total_gasto": 66984.0
+  },
+  {
+    "id": 74383,
+    "nome": "Giacobo",
+    "siglaPartido": "PL",
+    "siglaUf": "PR",
+    "total_gasto": 66833.01
+  },
+  {
+    "id": 178963,
+    "nome": "Covatti Filho",
+    "siglaPartido": "PP",
+    "siglaUf": "RS",
+    "total_gasto": 66765.80000000002
+  },
+  {
+    "id": 220597,
+    "nome": "Thiago Flores",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "RO",
+    "total_gasto": 66740.57
+  },
+  {
+    "id": 178860,
+    "nome": "Paulo Azi",
     "siglaPartido": "UNIÃO",
     "siglaUf": "BA",
-    "total_gasto": 56910.27
+    "total_gasto": 66330.3
   },
   {
-    "id": 206018,
-    "nome": "Célia Xakriabá",
-    "siglaPartido": "PSOL",
-    "siglaUf": "MG",
-    "total_gasto": 56897.64
-  },
-  {
-    "id": 160976,
-    "nome": "Tiririca",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 56572.94
-  },
-  {
-    "id": 141431,
-    "nome": "Fernando Coelho Filho",
+    "id": 204512,
+    "nome": "Delegado Marcelo Freitas",
     "siglaPartido": "UNIÃO",
-    "siglaUf": "PE",
-    "total_gasto": 56325.61
+    "siglaUf": "MG",
+    "total_gasto": 66256.37999999999
   },
   {
-    "id": 204485,
-    "nome": "Luiz Carlos Motta",
+    "id": 220570,
+    "nome": "Dr. Ismael Alexandrino",
+    "siglaPartido": "PSD",
+    "siglaUf": "GO",
+    "total_gasto": 66089.54000000001
+  },
+  {
+    "id": 204525,
+    "nome": "Rosana Valle",
     "siglaPartido": "PL",
     "siglaUf": "SP",
-    "total_gasto": 56179.33
+    "total_gasto": 66022.37
   },
   {
-    "id": 161550,
-    "nome": "Emidinho Madeira",
+    "id": 121948,
+    "nome": "Adriano do Baldy",
+    "siglaPartido": "PP",
+    "siglaUf": "GO",
+    "total_gasto": 65090.13000000002
+  },
+  {
+    "id": 204391,
+    "nome": "José Nelto",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "GO",
+    "total_gasto": 65046.82
+  },
+  {
+    "id": 107970,
+    "nome": "Ana Paula Leão",
+    "siglaPartido": "PP",
+    "siglaUf": "MG",
+    "total_gasto": 64794.200000000004
+  },
+  {
+    "id": 141421,
+    "nome": "Eduardo da Fonte",
+    "siglaPartido": "PP",
+    "siglaUf": "PE",
+    "total_gasto": 64765.14
+  },
+  {
+    "id": 220534,
+    "nome": "Fred Linhares",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "DF",
+    "total_gasto": 64716.59000000001
+  },
+  {
+    "id": 220703,
+    "nome": "Neto Carletto",
+    "siglaPartido": "AVANTE",
+    "siglaUf": "BA",
+    "total_gasto": 64606.810000000005
+  },
+  {
+    "id": 220673,
+    "nome": "Delegado Caveira",
+    "siglaPartido": "PL",
+    "siglaUf": "PA",
+    "total_gasto": 64582.14
+  },
+  {
+    "id": 221328,
+    "nome": "Adilson Barroso",
+    "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 64068.92000000001
+  },
+  {
+    "id": 220567,
+    "nome": "Jeferson Rodrigues",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "GO",
+    "total_gasto": 63972.840000000004
+  },
+  {
+    "id": 204571,
+    "nome": "Alex Santana",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "BA",
+    "total_gasto": 63826.38
+  },
+  {
+    "id": 220588,
+    "nome": "Roberto Duarte",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "AC",
+    "total_gasto": 63680.560000000005
+  },
+  {
+    "id": 220555,
+    "nome": "Daiana Santos",
+    "siglaPartido": "PCdoB",
+    "siglaUf": "RS",
+    "total_gasto": 63649.59999999999
+  },
+  {
+    "id": 220561,
+    "nome": "Delegada Katarina",
+    "siglaPartido": "PSD",
+    "siglaUf": "SE",
+    "total_gasto": 63627.33000000001
+  },
+  {
+    "id": 220706,
+    "nome": "Padovani",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "PR",
+    "total_gasto": 63570.25
+  },
+  {
+    "id": 220550,
+    "nome": "Mauricio Marcon",
+    "siglaPartido": "PODE",
+    "siglaUf": "RS",
+    "total_gasto": 63372.47
+  },
+  {
+    "id": 178931,
+    "nome": "Luciano Ducci",
+    "siglaPartido": "PSB",
+    "siglaUf": "PR",
+    "total_gasto": 63361.15999999999
+  },
+  {
+    "id": 160758,
+    "nome": "Domingos Sávio",
     "siglaPartido": "PL",
     "siglaUf": "MG",
-    "total_gasto": 55712.7
+    "total_gasto": 63301.930000000015
+  },
+  {
+    "id": 220536,
+    "nome": "Zé Haroldo Cathedral",
+    "siglaPartido": "PSD",
+    "siglaUf": "RR",
+    "total_gasto": 63139.45999999999
+  },
+  {
+    "id": 73778,
+    "nome": "Luiz Carlos Hauly",
+    "siglaPartido": "PODE",
+    "siglaUf": "PR",
+    "total_gasto": 63129.54
+  },
+  {
+    "id": 220548,
+    "nome": "Camila Jara",
+    "siglaPartido": "PT",
+    "siglaUf": "MS",
+    "total_gasto": 62919.85999999999
+  },
+  {
+    "id": 220552,
+    "nome": "Zucco",
+    "siglaPartido": "PL",
+    "siglaUf": "RS",
+    "total_gasto": 62769.159999999996
+  },
+  {
+    "id": 204524,
+    "nome": "Pinheirinho",
+    "siglaPartido": "PP",
+    "siglaUf": "MG",
+    "total_gasto": 62688.36
+  },
+  {
+    "id": 220708,
+    "nome": "Gabriel Nunes",
+    "siglaPartido": "PSD",
+    "siglaUf": "BA",
+    "total_gasto": 62551.22999999999
+  },
+  {
+    "id": 220606,
+    "nome": "Reimont",
+    "siglaPartido": "PT",
+    "siglaUf": "RJ",
+    "total_gasto": 62202.719999999994
+  },
+  {
+    "id": 204416,
+    "nome": "Sanderson",
+    "siglaPartido": "PL",
+    "siglaUf": "RS",
+    "total_gasto": 62183.65
+  },
+  {
+    "id": 204406,
+    "nome": "Pedro Westphalen",
+    "siglaPartido": "PP",
+    "siglaUf": "RS",
+    "total_gasto": 61986.65
+  },
+  {
+    "id": 74371,
+    "nome": "Rubens Otoni",
+    "siglaPartido": "PT",
+    "siglaUf": "GO",
+    "total_gasto": 61882.950000000004
+  },
+  {
+    "id": 220704,
+    "nome": "Carol Dartora",
+    "siglaPartido": "PT",
+    "siglaUf": "PR",
+    "total_gasto": 61862.95000000001
+  },
+  {
+    "id": 220574,
+    "nome": "Cabo Gilberto Silva",
+    "siglaPartido": "PL",
+    "siglaUf": "PB",
+    "total_gasto": 61541.84
+  },
+  {
+    "id": 160600,
+    "nome": "Arthur Oliveira Maia",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "BA",
+    "total_gasto": 61336.29
+  },
+  {
+    "id": 220546,
+    "nome": "Rodolfo Nogueira",
+    "siglaPartido": "PL",
+    "siglaUf": "MS",
+    "total_gasto": 61317.74
+  },
+  {
+    "id": 73768,
+    "nome": "Dilceu Sperafico",
+    "siglaPartido": "PP",
+    "siglaUf": "PR",
+    "total_gasto": 61191.54
+  },
+  {
+    "id": 73692,
+    "nome": "Osmar Terra",
+    "siglaPartido": "MDB",
+    "siglaUf": "RS",
+    "total_gasto": 61142.33000000001
+  },
+  {
+    "id": 139285,
+    "nome": "Lídice da Mata",
+    "siglaPartido": "PSB",
+    "siglaUf": "BA",
+    "total_gasto": 61133.640000000014
+  },
+  {
+    "id": 220666,
+    "nome": "Coronel Meira",
+    "siglaPartido": "PL",
+    "siglaUf": "PE",
+    "total_gasto": 60900.10999999999
+  },
+  {
+    "id": 98057,
+    "nome": "Lafayette de Andrada",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "MG",
+    "total_gasto": 60797.649999999994
+  },
+  {
+    "id": 178966,
+    "nome": "Geovania de Sá",
+    "siglaPartido": "PSDB",
+    "siglaUf": "SC",
+    "total_gasto": 60621.41000000001
+  },
+  {
+    "id": 220691,
+    "nome": "Diego Coronel",
+    "siglaPartido": "PSD",
+    "siglaUf": "BA",
+    "total_gasto": 60500.479999999996
+  },
+  {
+    "id": 178986,
+    "nome": "Nilto Tatto",
+    "siglaPartido": "PT",
+    "siglaUf": "SP",
+    "total_gasto": 60154.26
+  },
+  {
+    "id": 204494,
+    "nome": "Fred Costa",
+    "siglaPartido": "PRD",
+    "siglaUf": "MG",
+    "total_gasto": 60116.63000000003
+  },
+  {
+    "id": 204481,
+    "nome": "Dr. Jaziel",
+    "siglaPartido": "PL",
+    "siglaUf": "CE",
+    "total_gasto": 60041.829999999994
+  },
+  {
+    "id": 220677,
+    "nome": "Keniston Braga",
+    "siglaPartido": "MDB",
+    "siglaUf": "PA",
+    "total_gasto": 60001.13999999999
+  },
+  {
+    "id": 220649,
+    "nome": "Delegado da Cunha",
+    "siglaPartido": "PP",
+    "siglaUf": "SP",
+    "total_gasto": 59973.33
+  },
+  {
+    "id": 223128,
+    "nome": "Rodrigo Estacho",
+    "siglaPartido": "PSD",
+    "siglaUf": "PR",
+    "total_gasto": 59926.27999999998
+  },
+  {
+    "id": 198197,
+    "nome": "Greyce Elias",
+    "siglaPartido": "AVANTE",
+    "siglaUf": "MG",
+    "total_gasto": 59902.670000000006
+  },
+  {
+    "id": 220540,
+    "nome": "Duda Ramos",
+    "siglaPartido": "MDB",
+    "siglaUf": "RR",
+    "total_gasto": 59844.53999999999
+  },
+  {
+    "id": 92699,
+    "nome": "Fernando Monteiro",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "PE",
+    "total_gasto": 59650.549999999996
+  },
+  {
+    "id": 204407,
+    "nome": "Fernanda Melchionna",
+    "siglaPartido": "PSOL",
+    "siglaUf": "RS",
+    "total_gasto": 59510.52
+  },
+  {
+    "id": 220618,
+    "nome": "Sargento Portugal",
+    "siglaPartido": "PODE",
+    "siglaUf": "RJ",
+    "total_gasto": 59257.47
+  },
+  {
+    "id": 213762,
+    "nome": "Carla Dickson",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RN",
+    "total_gasto": 59232.11
+  },
+  {
+    "id": 74784,
+    "nome": "Luiza Erundina",
+    "siglaPartido": "PSOL",
+    "siglaUf": "SP",
+    "total_gasto": 59157.05000000002
+  },
+  {
+    "id": 141485,
+    "nome": "Luiz Carlos Busato",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RS",
+    "total_gasto": 59150.29999999999
+  },
+  {
+    "id": 204431,
+    "nome": "Marcos Aurélio Sampaio",
+    "siglaPartido": "PSD",
+    "siglaUf": "PI",
+    "total_gasto": 58913.71
+  },
+  {
+    "id": 204508,
+    "nome": "Igor Timo",
+    "siglaPartido": "PSD",
+    "siglaUf": "MG",
+    "total_gasto": 58886.360000000015
+  },
+  {
+    "id": 160556,
+    "nome": "Padre João",
+    "siglaPartido": "PT",
+    "siglaUf": "MG",
+    "total_gasto": 58374.48999999999
+  },
+  {
+    "id": 205476,
+    "nome": "Charles Fernandes",
+    "siglaPartido": "PSD",
+    "siglaUf": "BA",
+    "total_gasto": 58259.04000000001
+  },
+  {
+    "id": 220667,
+    "nome": "Pedro Campos",
+    "siglaPartido": "PSB",
+    "siglaUf": "PE",
+    "total_gasto": 58003.64
+  },
+  {
+    "id": 204445,
+    "nome": "Fernando Mineiro",
+    "siglaPartido": "PT",
+    "siglaUf": "RN",
+    "total_gasto": 57852.38
+  },
+  {
+    "id": 153423,
+    "nome": "Renilce Nicodemos",
+    "siglaPartido": "MDB",
+    "siglaUf": "PA",
+    "total_gasto": 57690.0
+  },
+  {
+    "id": 74160,
+    "nome": "Patrus Ananias",
+    "siglaPartido": "PT",
+    "siglaUf": "MG",
+    "total_gasto": 57569.21000000003
+  },
+  {
+    "id": 162067,
+    "nome": "Kiko Celeguim",
+    "siglaPartido": "PT",
+    "siglaUf": "SP",
+    "total_gasto": 57432.05000000001
+  },
+  {
+    "id": 220585,
+    "nome": "Mersinho Lucena",
+    "siglaPartido": "PP",
+    "siglaUf": "PB",
+    "total_gasto": 57381.16999999999
+  },
+  {
+    "id": 204480,
+    "nome": "Rogério Correia",
+    "siglaPartido": "PT",
+    "siglaUf": "MG",
+    "total_gasto": 57335.700000000026
+  },
+  {
+    "id": 66828,
+    "nome": "Fausto Pinato",
+    "siglaPartido": "PP",
+    "siglaUf": "SP",
+    "total_gasto": 57071.79000000001
+  },
+  {
+    "id": 210989,
+    "nome": "Bruno Farias",
+    "siglaPartido": "AVANTE",
+    "siglaUf": "MG",
+    "total_gasto": 57020.51
+  },
+  {
+    "id": 220682,
+    "nome": "Tadeu Veneri",
+    "siglaPartido": "PT",
+    "siglaUf": "PR",
+    "total_gasto": 56841.59
+  },
+  {
+    "id": 141450,
+    "nome": "Hugo Leal",
+    "siglaPartido": "PSD",
+    "siglaUf": "RJ",
+    "total_gasto": 56660.62000000002
+  },
+  {
+    "id": 66385,
+    "nome": "Julio Arcoverde",
+    "siglaPartido": "PP",
+    "siglaUf": "PI",
+    "total_gasto": 56586.299999999996
+  },
+  {
+    "id": 220648,
+    "nome": "Marangoni",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "SP",
+    "total_gasto": 56445.27
+  },
+  {
+    "id": 204394,
+    "nome": "Gervásio Maia",
+    "siglaPartido": "PSB",
+    "siglaUf": "PB",
+    "total_gasto": 56416.47
+  },
+  {
+    "id": 204472,
+    "nome": "José Medeiros",
+    "siglaPartido": "PL",
+    "siglaUf": "MT",
+    "total_gasto": 56192.16
+  },
+  {
+    "id": 220578,
+    "nome": "Josenildo",
+    "siglaPartido": "PDT",
+    "siglaUf": "AP",
+    "total_gasto": 56157.69000000001
+  },
+  {
+    "id": 220532,
+    "nome": "Rafael Prudente",
+    "siglaPartido": "MDB",
+    "siglaUf": "DF",
+    "total_gasto": 56076.81000000001
+  },
+  {
+    "id": 220583,
+    "nome": "Delegado Fabio Costa",
+    "siglaPartido": "PP",
+    "siglaUf": "AL",
+    "total_gasto": 56070.68000000001
+  },
+  {
+    "id": 220670,
+    "nome": "Iza Arruda",
+    "siglaPartido": "MDB",
+    "siglaUf": "PE",
+    "total_gasto": 55777.229999999996
+  },
+  {
+    "id": 204360,
+    "nome": "Silvia Cristina",
+    "siglaPartido": "PP",
+    "siglaUf": "RO",
+    "total_gasto": 55761.51
+  },
+  {
+    "id": 178835,
+    "nome": "Afonso Motta",
+    "siglaPartido": "PDT",
+    "siglaUf": "RS",
+    "total_gasto": 55519.28
+  },
+  {
+    "id": 220590,
+    "nome": "Coronel Ulysses",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "AC",
+    "total_gasto": 55479.89
+  },
+  {
+    "id": 178989,
+    "nome": "Renata Abreu",
+    "siglaPartido": "PODE",
+    "siglaUf": "SP",
+    "total_gasto": 55264.170000000006
+  },
+  {
+    "id": 204479,
+    "nome": "Nicoletti",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RR",
+    "total_gasto": 55205.08
   },
   {
     "id": 233218,
@@ -3087,472 +1113,2376 @@
     "total_gasto": 55200.0
   },
   {
-    "id": 178854,
-    "nome": "Elmar Nascimento",
-    "siglaPartido": "UNIÃO",
+    "id": 178929,
+    "nome": "Diego Garcia",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "PR",
+    "total_gasto": 55166.88000000003
+  },
+  {
+    "id": 157130,
+    "nome": "Túlio Gadêlha",
+    "siglaPartido": "REDE",
+    "siglaUf": "PE",
+    "total_gasto": 54820.29
+  },
+  {
+    "id": 72442,
+    "nome": "Felipe Carreras",
+    "siglaPartido": "PSB",
+    "siglaUf": "PE",
+    "total_gasto": 54807.11
+  },
+  {
+    "id": 204559,
+    "nome": "Zé Neto",
+    "siglaPartido": "PT",
     "siglaUf": "BA",
-    "total_gasto": 55162.88
+    "total_gasto": 54746.060000000005
   },
   {
-    "id": 156190,
-    "nome": "Marcel van Hattem",
-    "siglaPartido": "NOVO",
+    "id": 74057,
+    "nome": "Alice Portugal",
+    "siglaPartido": "PCdoB",
+    "siglaUf": "BA",
+    "total_gasto": 54595.95
+  },
+  {
+    "id": 74398,
+    "nome": "Maria do Rosário",
+    "siglaPartido": "PT",
     "siglaUf": "RS",
-    "total_gasto": 55110.27
+    "total_gasto": 54594.52000000001
   },
   {
-    "id": 220712,
-    "nome": "Fausto Santos Jr.",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "AM",
-    "total_gasto": 54929.45
+    "id": 204491,
+    "nome": "Gilberto Abramo",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "MG",
+    "total_gasto": 54425.34
   },
   {
-    "id": 204462,
-    "nome": "Chris Tonietto",
-    "siglaPartido": "PL",
-    "siglaUf": "RJ",
-    "total_gasto": 54742.71
+    "id": 204356,
+    "nome": "Amaro Neto",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "ES",
+    "total_gasto": 54306.99999999999
   },
   {
-    "id": 220707,
-    "nome": "Amanda Gentil",
+    "id": 226708,
+    "nome": "Allan Garcês",
     "siglaPartido": "PP",
     "siglaUf": "MA",
-    "total_gasto": 54408.11
+    "total_gasto": 54101.97
   },
   {
-    "id": 220624,
-    "nome": "Robinson Faria",
-    "siglaPartido": "PP",
-    "siglaUf": "RN",
-    "total_gasto": 54316.2
+    "id": 133439,
+    "nome": "André Figueiredo",
+    "siglaPartido": "PDT",
+    "siglaUf": "CE",
+    "total_gasto": 53772.280000000006
   },
   {
-    "id": 160512,
-    "nome": "Aureo Ribeiro",
-    "siglaPartido": "SOLIDARIEDADE",
-    "siglaUf": "RJ",
-    "total_gasto": 54288.88
+    "id": 204518,
+    "nome": "Dr. Frederico",
+    "siglaPartido": "PRD",
+    "siglaUf": "MG",
+    "total_gasto": 53613.450000000004
   },
   {
-    "id": 220527,
-    "nome": "Jack Rocha",
+    "id": 178970,
+    "nome": "João Daniel",
     "siglaPartido": "PT",
-    "siglaUf": "ES",
-    "total_gasto": 54190.25
+    "siglaUf": "SE",
+    "total_gasto": 53541.35000000001
   },
   {
-    "id": 220528,
-    "nome": "Dr. Victor Linhalis",
-    "siglaPartido": "PODE",
+    "id": 73701,
+    "nome": "Benedita da Silva",
+    "siglaPartido": "PT",
+    "siglaUf": "RJ",
+    "total_gasto": 53494.61000000001
+  },
+  {
+    "id": 73486,
+    "nome": "Pompeo de Mattos",
+    "siglaPartido": "PDT",
+    "siglaUf": "RS",
+    "total_gasto": 53464.55000000001
+  },
+  {
+    "id": 104552,
+    "nome": "Socorro Neri",
+    "siglaPartido": "PP",
+    "siglaUf": "AC",
+    "total_gasto": 53287.869999999995
+  },
+  {
+    "id": 178933,
+    "nome": "Sergio Souza",
+    "siglaPartido": "MDB",
+    "siglaUf": "PR",
+    "total_gasto": 53171.46
+  },
+  {
+    "id": 74585,
+    "nome": "Lincoln Portela",
+    "siglaPartido": "PL",
+    "siglaUf": "MG",
+    "total_gasto": 53104.19000000001
+  },
+  {
+    "id": 204457,
+    "nome": "Juninho do Pneu",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RJ",
+    "total_gasto": 52905.469999999994
+  },
+  {
+    "id": 220542,
+    "nome": "Alexandre Guimarães",
+    "siglaPartido": "MDB",
+    "siglaUf": "TO",
+    "total_gasto": 52889.15
+  },
+  {
+    "id": 179001,
+    "nome": "Márcio Biolchi",
+    "siglaPartido": "MDB",
+    "siglaUf": "RS",
+    "total_gasto": 52763.36000000001
+  },
+  {
+    "id": 220689,
+    "nome": "Detinha",
+    "siglaPartido": "PL",
+    "siglaUf": "MA",
+    "total_gasto": 52741.11
+  },
+  {
+    "id": 220646,
+    "nome": "Felipe Becari",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "SP",
+    "total_gasto": 52576.63999999999
+  },
+  {
+    "id": 74428,
+    "nome": "Mendonça Filho",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "PE",
+    "total_gasto": 52575.85000000001
+  },
+  {
+    "id": 220543,
+    "nome": "Ricardo Ayres",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "TO",
+    "total_gasto": 52566.46000000001
+  },
+  {
+    "id": 204535,
+    "nome": "Sâmia Bomfim",
+    "siglaPartido": "PSOL",
+    "siglaUf": "SP",
+    "total_gasto": 52542.39000000001
+  },
+  {
+    "id": 220605,
+    "nome": "Bandeira de Mello",
+    "siglaPartido": "PSB",
+    "siglaUf": "RJ",
+    "total_gasto": 52518.83
+  },
+  {
+    "id": 160569,
+    "nome": "Waldenor Pereira",
+    "siglaPartido": "PT",
+    "siglaUf": "BA",
+    "total_gasto": 52501.84000000001
+  },
+  {
+    "id": 220553,
+    "nome": "Denise Pessôa",
+    "siglaPartido": "PT",
+    "siglaUf": "RS",
+    "total_gasto": 52400.07000000001
+  },
+  {
+    "id": 160561,
+    "nome": "Missionário José Olimpio",
+    "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 52234.61
+  },
+  {
+    "id": 220699,
+    "nome": "Castro Neto",
+    "siglaPartido": "PSD",
+    "siglaUf": "PI",
+    "total_gasto": 52156.25
+  },
+  {
+    "id": 178857,
+    "nome": "Jorge Solla",
+    "siglaPartido": "PT",
+    "siglaUf": "BA",
+    "total_gasto": 52153.27999999999
+  },
+  {
+    "id": 204504,
+    "nome": "Cezinha de Madureira",
+    "siglaPartido": "PSD",
+    "siglaUf": "SP",
+    "total_gasto": 51862.35999999999
+  },
+  {
+    "id": 224333,
+    "nome": "Welter",
+    "siglaPartido": "PT",
+    "siglaUf": "PR",
+    "total_gasto": 51852.11999999999
+  },
+  {
+    "id": 220530,
+    "nome": "Messias Donato",
+    "siglaPartido": "REPUBLICANOS",
     "siglaUf": "ES",
-    "total_gasto": 53555.16
+    "total_gasto": 51691.990000000005
+  },
+  {
+    "id": 220544,
+    "nome": "Antonio Andrade",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "TO",
+    "total_gasto": 51621.700000000004
+  },
+  {
+    "id": 225730,
+    "nome": "Enfermeira Ana Paula",
+    "siglaPartido": "PODE",
+    "siglaUf": "CE",
+    "total_gasto": 51488.37
+  },
+  {
+    "id": 179000,
+    "nome": "Marcelo Álvaro Antônio",
+    "siglaPartido": "PL",
+    "siglaUf": "MG",
+    "total_gasto": 51429.96000000001
+  },
+  {
+    "id": 178947,
+    "nome": "Sóstenes Cavalcante",
+    "siglaPartido": "PL",
+    "siglaUf": "RJ",
+    "total_gasto": 51390.33
+  },
+  {
+    "id": 204560,
+    "nome": "Adolfo Viana",
+    "siglaPartido": "PSDB",
+    "siglaUf": "BA",
+    "total_gasto": 51312.79
+  },
+  {
+    "id": 204367,
+    "nome": "Daniel Freitas",
+    "siglaPartido": "PL",
+    "siglaUf": "SC",
+    "total_gasto": 51170.19000000001
+  },
+  {
+    "id": 220612,
+    "nome": "Bebeto",
+    "siglaPartido": "PP",
+    "siglaUf": "RJ",
+    "total_gasto": 50916.229999999996
+  },
+  {
+    "id": 74317,
+    "nome": "Júlio Cesar",
+    "siglaPartido": "PSD",
+    "siglaUf": "PI",
+    "total_gasto": 50838.32
+  },
+  {
+    "id": 109429,
+    "nome": "Benes Leocádio",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RN",
+    "total_gasto": 50706.49
+  },
+  {
+    "id": 160591,
+    "nome": "Vinicius Gurgel",
+    "siglaPartido": "PL",
+    "siglaUf": "AP",
+    "total_gasto": 50660.0
+  },
+  {
+    "id": 220656,
+    "nome": "Fernanda Pessoa",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "CE",
+    "total_gasto": 50561.310000000005
+  },
+  {
+    "id": 92102,
+    "nome": "Leur Lomanto Júnior",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "BA",
+    "total_gasto": 50496.72
+  },
+  {
+    "id": 220602,
+    "nome": "Dimas Gadelha",
+    "siglaPartido": "PT",
+    "siglaUf": "RJ",
+    "total_gasto": 50411.30000000001
+  },
+  {
+    "id": 220645,
+    "nome": "Erika Hilton",
+    "siglaPartido": "PSOL",
+    "siglaUf": "SP",
+    "total_gasto": 50366.759999999995
+  },
+  {
+    "id": 220663,
+    "nome": "Eriberto Medeiros",
+    "siglaPartido": "PSB",
+    "siglaUf": "PE",
+    "total_gasto": 50337.68
+  },
+  {
+    "id": 81055,
+    "nome": "Márcio Jerry",
+    "siglaPartido": "PCdoB",
+    "siglaUf": "MA",
+    "total_gasto": 50299.11
+  },
+  {
+    "id": 74156,
+    "nome": "Leonardo Monteiro",
+    "siglaPartido": "PT",
+    "siglaUf": "MG",
+    "total_gasto": 50270.98999999999
+  },
+  {
+    "id": 220674,
+    "nome": "Dra. Alessandra Haber",
+    "siglaPartido": "MDB",
+    "siglaUf": "PA",
+    "total_gasto": 50214.69
+  },
+  {
+    "id": 220647,
+    "nome": "Mauricio Neves",
+    "siglaPartido": "PP",
+    "siglaUf": "SP",
+    "total_gasto": 50181.520000000004
+  },
+  {
+    "id": 204362,
+    "nome": "Ricardo Guidi",
+    "siglaPartido": "PL",
+    "siglaUf": "SC",
+    "total_gasto": 50154.740000000005
+  },
+  {
+    "id": 204423,
+    "nome": "André Ferreira",
+    "siglaPartido": "PL",
+    "siglaUf": "PE",
+    "total_gasto": 50084.76
+  },
+  {
+    "id": 220654,
+    "nome": "Delegado Paulo Bilynskyj",
+    "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 50033.77
+  },
+  {
+    "id": 204540,
+    "nome": "Maria Rosas",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "SP",
+    "total_gasto": 49940.39
+  },
+  {
+    "id": 73579,
+    "nome": "Alberto Fraga",
+    "siglaPartido": "PL",
+    "siglaUf": "DF",
+    "total_gasto": 49845.0
+  },
+  {
+    "id": 198783,
+    "nome": "Emanuel Pinheiro Neto",
+    "siglaPartido": "MDB",
+    "siglaUf": "MT",
+    "total_gasto": 49786.280000000006
+  },
+  {
+    "id": 220603,
+    "nome": "Dani Cunha",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RJ",
+    "total_gasto": 49730.21999999998
+  },
+  {
+    "id": 178908,
+    "nome": "Delegado Éder Mauro",
+    "siglaPartido": "PL",
+    "siglaUf": "PA",
+    "total_gasto": 49600.0
+  },
+  {
+    "id": 220669,
+    "nome": "Lula da Fonte",
+    "siglaPartido": "PP",
+    "siglaUf": "PE",
+    "total_gasto": 49565.98
+  },
+  {
+    "id": 160673,
+    "nome": "Giovani Cherini",
+    "siglaPartido": "PL",
+    "siglaUf": "RS",
+    "total_gasto": 49280.51999999999
+  },
+  {
+    "id": 204410,
+    "nome": "Luisa Canziani",
+    "siglaPartido": "PSD",
+    "siglaUf": "PR",
+    "total_gasto": 49200.180000000015
+  },
+  {
+    "id": 220652,
+    "nome": "Delegado Palumbo",
+    "siglaPartido": "MDB",
+    "siglaUf": "SP",
+    "total_gasto": 49195.43000000001
+  },
+  {
+    "id": 220609,
+    "nome": "Maurício Carvalho",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RO",
+    "total_gasto": 49082.42
+  },
+  {
+    "id": 220700,
+    "nome": "Florentino Neto",
+    "siglaPartido": "PT",
+    "siglaUf": "PI",
+    "total_gasto": 49046.62
+  },
+  {
+    "id": 220617,
+    "nome": "Murillo Gouvea",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RJ",
+    "total_gasto": 49008.79
+  },
+  {
+    "id": 220626,
+    "nome": "Rafael Simoes",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "MG",
+    "total_gasto": 48947.41
+  },
+  {
+    "id": 220563,
+    "nome": "Icaro de Valmir",
+    "siglaPartido": "PL",
+    "siglaUf": "SE",
+    "total_gasto": 48923.0
+  },
+  {
+    "id": 204422,
+    "nome": "Ossesio Silva",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "PE",
+    "total_gasto": 48669.35999999999
+  },
+  {
+    "id": 160535,
+    "nome": "Marcon",
+    "siglaPartido": "PT",
+    "siglaUf": "RS",
+    "total_gasto": 48655.42999999999
+  },
+  {
+    "id": 74646,
+    "nome": "Aécio Neves",
+    "siglaPartido": "PSDB",
+    "siglaUf": "MG",
+    "total_gasto": 48339.39
+  },
+  {
+    "id": 230957,
+    "nome": "João Cury",
+    "siglaPartido": "MDB",
+    "siglaUf": "SP",
+    "total_gasto": 48068.58
+  },
+  {
+    "id": 204390,
+    "nome": "Professor Alcides",
+    "siglaPartido": "PL",
+    "siglaUf": "GO",
+    "total_gasto": 48017.51
+  },
+  {
+    "id": 220683,
+    "nome": "Beto Richa",
+    "siglaPartido": "PSDB",
+    "siglaUf": "PR",
+    "total_gasto": 47515.92
+  },
+  {
+    "id": 160599,
+    "nome": "Dimas Fabiano",
+    "siglaPartido": "PP",
+    "siglaUf": "MG",
+    "total_gasto": 47440.24000000001
+  },
+  {
+    "id": 204550,
+    "nome": "Júnior Mano",
+    "siglaPartido": "PSB",
+    "siglaUf": "CE",
+    "total_gasto": 47370.04
+  },
+  {
+    "id": 178895,
+    "nome": "Misael Varella",
+    "siglaPartido": "PSD",
+    "siglaUf": "MG",
+    "total_gasto": 47295.0
+  },
+  {
+    "id": 220604,
+    "nome": "Marcos Tavares",
+    "siglaPartido": "PDT",
+    "siglaUf": "RJ",
+    "total_gasto": 47250.0
+  },
+  {
+    "id": 204404,
+    "nome": "Lucas Redecker",
+    "siglaPartido": "PSDB",
+    "siglaUf": "RS",
+    "total_gasto": 47238.310000000005
+  },
+  {
+    "id": 204563,
+    "nome": "Josimar Maranhãozinho",
+    "siglaPartido": "PL",
+    "siglaUf": "MA",
+    "total_gasto": 47226.88
+  },
+  {
+    "id": 220625,
+    "nome": "Delegada Ione",
+    "siglaPartido": "AVANTE",
+    "siglaUf": "MG",
+    "total_gasto": 47215.1
+  },
+  {
+    "id": 74299,
+    "nome": "Leônidas Cristino",
+    "siglaPartido": "PDT",
+    "siglaUf": "CE",
+    "total_gasto": 47096.09000000001
+  },
+  {
+    "id": 204355,
+    "nome": "Da Vitoria",
+    "siglaPartido": "PP",
+    "siglaUf": "ES",
+    "total_gasto": 47094.299999999996
+  },
+  {
+    "id": 220676,
+    "nome": "Andreia Siqueira",
+    "siglaPartido": "MDB",
+    "siglaUf": "PA",
+    "total_gasto": 47040.0
+  },
+  {
+    "id": 204453,
+    "nome": "Natália Bonavides",
+    "siglaPartido": "PT",
+    "siglaUf": "RN",
+    "total_gasto": 47028.39000000003
+  },
+  {
+    "id": 69871,
+    "nome": "Bacelar",
+    "siglaPartido": "PV",
+    "siglaUf": "BA",
+    "total_gasto": 46980.81
+  },
+  {
+    "id": 221329,
+    "nome": "Ricardo Abrão",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RJ",
+    "total_gasto": 46906.979999999996
+  },
+  {
+    "id": 230762,
+    "nome": "Pastor Claudio Mariano",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "PA",
+    "total_gasto": 46800.21000000001
+  },
+  {
+    "id": 220702,
+    "nome": "Geraldo Mendes",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "PR",
+    "total_gasto": 46771.14
+  },
+  {
+    "id": 141487,
+    "nome": "Luiz Fernando Faria",
+    "siglaPartido": "PSD",
+    "siglaUf": "MG",
+    "total_gasto": 46600.049999999996
+  },
+  {
+    "id": 74856,
+    "nome": "Laura Carneiro",
+    "siglaPartido": "PSD",
+    "siglaUf": "RJ",
+    "total_gasto": 46519.909999999996
+  },
+  {
+    "id": 92776,
+    "nome": "Stefano Aguiar",
+    "siglaPartido": "PSD",
+    "siglaUf": "MG",
+    "total_gasto": 46488.41000000002
+  },
+  {
+    "id": 220551,
+    "nome": "Franciane Bayer",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "RS",
+    "total_gasto": 46422.42000000002
+  },
+  {
+    "id": 204374,
+    "nome": "Bia Kicis",
+    "siglaPartido": "PL",
+    "siglaUf": "DF",
+    "total_gasto": 45930.62
+  },
+  {
+    "id": 204573,
+    "nome": "Otto Alencar Filho",
+    "siglaPartido": "PSD",
+    "siglaUf": "BA",
+    "total_gasto": 45883.09000000001
+  },
+  {
+    "id": 74084,
+    "nome": "Raimundo Santos",
+    "siglaPartido": "PSD",
+    "siglaUf": "PA",
+    "total_gasto": 45836.46000000001
+  },
+  {
+    "id": 160538,
+    "nome": "Bohn Gass",
+    "siglaPartido": "PT",
+    "siglaUf": "RS",
+    "total_gasto": 45772.59000000001
+  },
+  {
+    "id": 220631,
+    "nome": "Samuel Viana",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "MG",
+    "total_gasto": 45698.92
+  },
+  {
+    "id": 220688,
+    "nome": "Dr. Francisco",
+    "siglaPartido": "PT",
+    "siglaUf": "PI",
+    "total_gasto": 45672.99999999999
+  },
+  {
+    "id": 160592,
+    "nome": "Zeca Dirceu",
+    "siglaPartido": "PT",
+    "siglaUf": "PR",
+    "total_gasto": 45631.17
+  },
+  {
+    "id": 163321,
+    "nome": "Ronaldo Nogueira",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "RS",
+    "total_gasto": 45613.23999999999
+  },
+  {
+    "id": 178886,
+    "nome": "Juscelino Filho",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "MA",
+    "total_gasto": 45536.57
+  },
+  {
+    "id": 204379,
+    "nome": "Acácio Favacho",
+    "siglaPartido": "MDB",
+    "siglaUf": "AP",
+    "total_gasto": 45222.76
+  },
+  {
+    "id": 226179,
+    "nome": "Gisela Simona",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "MT",
+    "total_gasto": 45193.729999999996
+  },
+  {
+    "id": 178964,
+    "nome": "Heitor Schuch",
+    "siglaPartido": "PSB",
+    "siglaUf": "RS",
+    "total_gasto": 45099.439999999995
+  },
+  {
+    "id": 160553,
+    "nome": "Antonio Brito",
+    "siglaPartido": "PSD",
+    "siglaUf": "BA",
+    "total_gasto": 44964.47000000001
+  },
+  {
+    "id": 74095,
+    "nome": "Pauderney Avelino",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "AM",
+    "total_gasto": 44946.42
+  },
+  {
+    "id": 178884,
+    "nome": "Hildo Rocha",
+    "siglaPartido": "MDB",
+    "siglaUf": "MA",
+    "total_gasto": 44939.44
+  },
+  {
+    "id": 220664,
+    "nome": "Guilherme Uchoa",
+    "siglaPartido": "PSB",
+    "siglaUf": "PE",
+    "total_gasto": 44775.780000000006
+  },
+  {
+    "id": 141398,
+    "nome": "Carlos Zarattini",
+    "siglaPartido": "PT",
+    "siglaUf": "SP",
+    "total_gasto": 44719.59999999999
+  },
+  {
+    "id": 73801,
+    "nome": "Renildo Calheiros",
+    "siglaPartido": "PCdoB",
+    "siglaUf": "PE",
+    "total_gasto": 44616.799999999996
+  },
+  {
+    "id": 91228,
+    "nome": "Waldemar Oliveira",
+    "siglaPartido": "AVANTE",
+    "siglaUf": "PE",
+    "total_gasto": 44593.56
+  },
+  {
+    "id": 136811,
+    "nome": "Afonso Hamm",
+    "siglaPartido": "PP",
+    "siglaUf": "RS",
+    "total_gasto": 44355.77
+  },
+  {
+    "id": 220660,
+    "nome": "Yury do Paredão",
+    "siglaPartido": "MDB",
+    "siglaUf": "CE",
+    "total_gasto": 44318.72
+  },
+  {
+    "id": 220693,
+    "nome": "Roberta Roma",
+    "siglaPartido": "PL",
+    "siglaUf": "BA",
+    "total_gasto": 44278.22
+  },
+  {
+    "id": 178927,
+    "nome": "Aliel Machado",
+    "siglaPartido": "PV",
+    "siglaUf": "PR",
+    "total_gasto": 43965.159999999996
+  },
+  {
+    "id": 74537,
+    "nome": "Claudio Cajado",
+    "siglaPartido": "PP",
+    "siglaUf": "BA",
+    "total_gasto": 43780.700000000004
+  },
+  {
+    "id": 204489,
+    "nome": "Robério Monteiro",
+    "siglaPartido": "PDT",
+    "siglaUf": "CE",
+    "total_gasto": 43682.270000000004
+  },
+  {
+    "id": 98615,
+    "nome": "Ismael",
+    "siglaPartido": "PSD",
+    "siglaUf": "SC",
+    "total_gasto": 43516.170000000006
+  },
+  {
+    "id": 141516,
+    "nome": "Paulo Abi-Ackel",
+    "siglaPartido": "PSDB",
+    "siglaUf": "MG",
+    "total_gasto": 43435.2
+  },
+  {
+    "id": 74141,
+    "nome": "Josias Gomes",
+    "siglaPartido": "PT",
+    "siglaUf": "BA",
+    "total_gasto": 43343.32000000001
+  },
+  {
+    "id": 160548,
+    "nome": "Jonas Donizette",
+    "siglaPartido": "PSB",
+    "siglaUf": "SP",
+    "total_gasto": 43293.689999999995
+  },
+  {
+    "id": 166402,
+    "nome": "Magda Mofatto",
+    "siglaPartido": "PRD",
+    "siglaUf": "GO",
+    "total_gasto": 43276.530000000006
+  },
+  {
+    "id": 220672,
+    "nome": "Henderson Pinto",
+    "siglaPartido": "MDB",
+    "siglaUf": "PA",
+    "total_gasto": 43149.62
   },
   {
     "id": 227433,
     "nome": "Douglas Viegas",
     "siglaPartido": "UNIÃO",
     "siglaUf": "SP",
-    "total_gasto": 53371.32
+    "total_gasto": 43115.63
   },
   {
-    "id": 204408,
-    "nome": "Gustinho Ribeiro",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "SE",
-    "total_gasto": 52802.43
+    "id": 204456,
+    "nome": "Gutemberg Reis",
+    "siglaPartido": "MDB",
+    "siglaUf": "RJ",
+    "total_gasto": 43059.689999999995
   },
   {
-    "id": 220635,
-    "nome": "Bruno Ganem",
-    "siglaPartido": "PODE",
+    "id": 220644,
+    "nome": "Rosangela Moro",
+    "siglaPartido": "UNIÃO",
     "siglaUf": "SP",
-    "total_gasto": 52737.86
+    "total_gasto": 42861.19000000002
   },
   {
-    "id": 220696,
-    "nome": "Ivoneide Caetano",
-    "siglaPartido": "PT",
+    "id": 74060,
+    "nome": "Daniel Almeida",
+    "siglaPartido": "PCdoB",
     "siglaUf": "BA",
-    "total_gasto": 52722.1
+    "total_gasto": 42805.74
   },
   {
-    "id": 204557,
-    "nome": "Sidney Leite",
-    "siglaPartido": "PSD",
-    "siglaUf": "AM",
-    "total_gasto": 52570.07
+    "id": 160527,
+    "nome": "Aguinaldo Ribeiro",
+    "siglaPartido": "PP",
+    "siglaUf": "PB",
+    "total_gasto": 42744.54
   },
   {
-    "id": 178972,
-    "nome": "Alex Manente",
-    "siglaPartido": "CIDADANIA",
-    "siglaUf": "SP",
-    "total_gasto": 51950.48
-  },
-  {
-    "id": 160642,
-    "nome": "Pastor Eurico",
+    "id": 204411,
+    "nome": "Filipe Barros",
     "siglaPartido": "PL",
-    "siglaUf": "PE",
-    "total_gasto": 51490.49
+    "siglaUf": "PR",
+    "total_gasto": 42673.21000000002
   },
   {
-    "id": 220697,
-    "nome": "Jadyel Alencar",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "PI",
-    "total_gasto": 51102.04
-  },
-  {
-    "id": 220595,
-    "nome": "Coronel Fernanda",
+    "id": 204449,
+    "nome": "Nelson Barbudo",
     "siglaPartido": "PL",
     "siglaUf": "MT",
-    "total_gasto": 50092.75
+    "total_gasto": 42666.83
   },
   {
-    "id": 204450,
-    "nome": "Doutor Luizinho",
-    "siglaPartido": "PP",
-    "siglaUf": "RJ",
-    "total_gasto": 49814.46
+    "id": 160558,
+    "nome": "Paulo Freire Costa",
+    "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 42657.57
   },
   {
-    "id": 220564,
-    "nome": "Yandra Moura",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "SE",
-    "total_gasto": 48884.31
-  },
-  {
-    "id": 178873,
-    "nome": "Helder Salomão",
+    "id": 221148,
+    "nome": "Alfredinho",
     "siglaPartido": "PT",
-    "siglaUf": "ES",
-    "total_gasto": 47917.62
+    "siglaUf": "SP",
+    "total_gasto": 42611.23
   },
   {
-    "id": 230765,
-    "nome": "Enfermeira Rejane",
+    "id": 160588,
+    "nome": "Diego Andrade",
+    "siglaPartido": "PSD",
+    "siglaUf": "MG",
+    "total_gasto": 42607.27999999999
+  },
+  {
+    "id": 220632,
+    "nome": "Ana Pimentel",
+    "siglaPartido": "PT",
+    "siglaUf": "MG",
+    "total_gasto": 42539.49999999999
+  },
+  {
+    "id": 220560,
+    "nome": "Thiago de Joaldo",
+    "siglaPartido": "PP",
+    "siglaUf": "SE",
+    "total_gasto": 42510.549999999996
+  },
+  {
+    "id": 74848,
+    "nome": "Jandira Feghali",
     "siglaPartido": "PCdoB",
     "siglaUf": "RJ",
-    "total_gasto": 47849.229999999996
+    "total_gasto": 42500.98
   },
   {
-    "id": 204398,
-    "nome": "Felipe Francischini",
-    "siglaPartido": "UNIÃO",
+    "id": 178946,
+    "nome": "Soraya Santos",
+    "siglaPartido": "PL",
+    "siglaUf": "RJ",
+    "total_gasto": 42474.04
+  },
+  {
+    "id": 204526,
+    "nome": "Luiz Philippe de Orleans e Bragança",
+    "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 42454.75000000001
+  },
+  {
+    "id": 178843,
+    "nome": "Marx Beltrão",
+    "siglaPartido": "PP",
+    "siglaUf": "AL",
+    "total_gasto": 42433.11
+  },
+  {
+    "id": 204396,
+    "nome": "Vermelho",
+    "siglaPartido": "PP",
     "siglaUf": "PR",
-    "total_gasto": 47548.99
+    "total_gasto": 42391.159999999996
   },
   {
-    "id": 141555,
-    "nome": "Vinicius Carvalho",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "SP",
-    "total_gasto": 47379.14
+    "id": 178854,
+    "nome": "Elmar Nascimento",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "BA",
+    "total_gasto": 42284.039999999986
   },
   {
-    "id": 73441,
-    "nome": "Celso Russomanno",
-    "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "SP",
-    "total_gasto": 46280.46
+    "id": 220613,
+    "nome": "Roberto Monteiro Pai",
+    "siglaPartido": "PL",
+    "siglaUf": "RJ",
+    "total_gasto": 42188.869999999995
   },
   {
-    "id": 178985,
-    "nome": "Miguel Lombardi",
+    "id": 74400,
+    "nome": "Paulo Pimenta",
+    "siglaPartido": "PT",
+    "siglaUf": "RS",
+    "total_gasto": 42173.3
+  },
+  {
+    "id": 220610,
+    "nome": "Dr. Fernando Máximo",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RO",
+    "total_gasto": 42118.94
+  },
+  {
+    "id": 204485,
+    "nome": "Luiz Carlos Motta",
     "siglaPartido": "PL",
     "siglaUf": "SP",
-    "total_gasto": 44993.06
+    "total_gasto": 42104.590000000004
   },
   {
-    "id": 220568,
-    "nome": "Gustavo Gayer",
+    "id": 220533,
+    "nome": "Prof. Reginaldo Veras",
+    "siglaPartido": "PV",
+    "siglaUf": "DF",
+    "total_gasto": 41995.4
+  },
+  {
+    "id": 74273,
+    "nome": "Jefferson Campos",
     "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 41858.5
+  },
+  {
+    "id": 178871,
+    "nome": "Evair Vieira de Melo",
+    "siglaPartido": "PP",
+    "siglaUf": "ES",
+    "total_gasto": 41857.05
+  },
+  {
+    "id": 204511,
+    "nome": "David Soares",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "SP",
+    "total_gasto": 41764.69
+  },
+  {
+    "id": 220549,
+    "nome": "Any Ortiz",
+    "siglaPartido": "CIDADANIA",
+    "siglaUf": "RS",
+    "total_gasto": 41722.469999999994
+  },
+  {
+    "id": 220620,
+    "nome": "Rosângela Reis",
+    "siglaPartido": "PL",
+    "siglaUf": "MG",
+    "total_gasto": 41659.64
+  },
+  {
+    "id": 220527,
+    "nome": "Jack Rocha",
+    "siglaPartido": "PT",
+    "siglaUf": "ES",
+    "total_gasto": 41589.68
+  },
+  {
+    "id": 220628,
+    "nome": "Mauricio do Vôlei",
+    "siglaPartido": "PL",
+    "siglaUf": "MG",
+    "total_gasto": 41570.62
+  },
+  {
+    "id": 204464,
+    "nome": "Talíria Petrone",
+    "siglaPartido": "PSOL",
+    "siglaUf": "RJ",
+    "total_gasto": 41411.92999999999
+  },
+  {
+    "id": 206018,
+    "nome": "Célia Xakriabá",
+    "siglaPartido": "PSOL",
+    "siglaUf": "MG",
+    "total_gasto": 41396.51
+  },
+  {
+    "id": 220589,
+    "nome": "Eduardo Velloso",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "AC",
+    "total_gasto": 41083.94
+  },
+  {
+    "id": 220633,
+    "nome": "Ricardo Salles",
+    "siglaPartido": "NOVO",
+    "siglaUf": "SP",
+    "total_gasto": 41060.69
+  },
+  {
+    "id": 220539,
+    "nome": "Defensor Stélio Dener",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "RR",
+    "total_gasto": 40793.59
+  },
+  {
+    "id": 229432,
+    "nome": "Luiz Fernando Vampiro",
+    "siglaPartido": "MDB",
+    "siglaUf": "SC",
+    "total_gasto": 40511.63999999999
+  },
+  {
+    "id": 178943,
+    "nome": "Marcos Soares",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RJ",
+    "total_gasto": 40435.05999999999
+  },
+  {
+    "id": 204474,
+    "nome": "Juarez Costa",
+    "siglaPartido": "MDB",
+    "siglaUf": "MT",
+    "total_gasto": 40360.86
+  },
+  {
+    "id": 220694,
+    "nome": "Ricardo Maia",
+    "siglaPartido": "MDB",
+    "siglaUf": "BA",
+    "total_gasto": 40360.63
+  },
+  {
+    "id": 220641,
+    "nome": "Rodrigo Gambale",
+    "siglaPartido": "PODE",
+    "siglaUf": "SP",
+    "total_gasto": 40338.98000000001
+  },
+  {
+    "id": 204412,
+    "nome": "Dr. Zacharias Calil",
+    "siglaPartido": "UNIÃO",
     "siglaUf": "GO",
-    "total_gasto": 44907.81
+    "total_gasto": 40305.350000000006
+  },
+  {
+    "id": 178829,
+    "nome": "Capitão Augusto",
+    "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 40191.00000000001
+  },
+  {
+    "id": 220611,
+    "nome": "General Pazuello",
+    "siglaPartido": "PL",
+    "siglaUf": "RJ",
+    "total_gasto": 40105.34
+  },
+  {
+    "id": 205550,
+    "nome": "Jorge Braz",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "RJ",
+    "total_gasto": 39796.75
+  },
+  {
+    "id": 204455,
+    "nome": "Luiz Lima",
+    "siglaPartido": "NOVO",
+    "siglaUf": "RJ",
+    "total_gasto": 39739.649999999994
+  },
+  {
+    "id": 141391,
+    "nome": "Arnaldo Jardim",
+    "siglaPartido": "CIDADANIA",
+    "siglaUf": "SP",
+    "total_gasto": 39703.17999999999
+  },
+  {
+    "id": 204376,
+    "nome": "Coronel Armando",
+    "siglaPartido": "PP",
+    "siglaUf": "SC",
+    "total_gasto": 39584.81
+  },
+  {
+    "id": 220537,
+    "nome": "Helena Lima",
+    "siglaPartido": "MDB",
+    "siglaUf": "RR",
+    "total_gasto": 39407.609999999986
+  },
+  {
+    "id": 220714,
+    "nome": "Adail Filho",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "AM",
+    "total_gasto": 39364.94
+  },
+  {
+    "id": 204501,
+    "nome": "Alencar Santana",
+    "siglaPartido": "PT",
+    "siglaUf": "SP",
+    "total_gasto": 39140.43
+  },
+  {
+    "id": 220640,
+    "nome": "Juliana Cardoso",
+    "siglaPartido": "PT",
+    "siglaUf": "SP",
+    "total_gasto": 39026.170000000006
+  },
+  {
+    "id": 171786,
+    "nome": "Miguel Ângelo",
+    "siglaPartido": "PT",
+    "siglaUf": "MG",
+    "total_gasto": 38979.29
+  },
+  {
+    "id": 80815,
+    "nome": "Leo Prates",
+    "siglaPartido": "PDT",
+    "siglaUf": "BA",
+    "total_gasto": 38971.909999999996
+  },
+  {
+    "id": 220651,
+    "nome": "Simone Marquetto",
+    "siglaPartido": "MDB",
+    "siglaUf": "SP",
+    "total_gasto": 38824.00000000001
+  },
+  {
+    "id": 204351,
+    "nome": "Dr. Luiz Ovando",
+    "siglaPartido": "PP",
+    "siglaUf": "MS",
+    "total_gasto": 38651.34
+  },
+  {
+    "id": 220594,
+    "nome": "Coronel Assis",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "MT",
+    "total_gasto": 38635.479999999996
+  },
+  {
+    "id": 160518,
+    "nome": "Weliton Prado",
+    "siglaPartido": "SOLIDARIEDADE",
+    "siglaUf": "MG",
+    "total_gasto": 38575.33
+  },
+  {
+    "id": 204549,
+    "nome": "AJ Albuquerque",
+    "siglaPartido": "PP",
+    "siglaUf": "CE",
+    "total_gasto": 38544.280000000006
+  },
+  {
+    "id": 180214,
+    "nome": "Pastor Diniz",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "RR",
+    "total_gasto": 38499.229999999996
+  },
+  {
+    "id": 220598,
+    "nome": "Tarcísio Motta",
+    "siglaPartido": "PSOL",
+    "siglaUf": "RJ",
+    "total_gasto": 38424.44
+  },
+  {
+    "id": 74467,
+    "nome": "Damião Feliciano",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "PB",
+    "total_gasto": 38397.12999999999
+  },
+  {
+    "id": 160666,
+    "nome": "Félix Mendonça Júnior",
+    "siglaPartido": "PDT",
+    "siglaUf": "BA",
+    "total_gasto": 38285.479999999996
+  },
+  {
+    "id": 204567,
+    "nome": "Raimundo Costa",
+    "siglaPartido": "PODE",
+    "siglaUf": "BA",
+    "total_gasto": 38175.39999999999
+  },
+  {
+    "id": 204372,
+    "nome": "Julio Cesar Ribeiro",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "DF",
+    "total_gasto": 38034.100000000006
+  },
+  {
+    "id": 161550,
+    "nome": "Emidinho Madeira",
+    "siglaPartido": "PL",
+    "siglaUf": "MG",
+    "total_gasto": 37942.9
+  },
+  {
+    "id": 204368,
+    "nome": "Fabio Schiochet",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "SC",
+    "total_gasto": 37899.63
+  },
+  {
+    "id": 88256,
+    "nome": "Clodoaldo Magalhães",
+    "siglaPartido": "PV",
+    "siglaUf": "PE",
+    "total_gasto": 37886.869999999995
+  },
+  {
+    "id": 204574,
+    "nome": "Junior Lourenço",
+    "siglaPartido": "PL",
+    "siglaUf": "MA",
+    "total_gasto": 37835.329999999994
+  },
+  {
+    "id": 220695,
+    "nome": "Rogéria Santos",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "BA",
+    "total_gasto": 37689.60999999999
+  },
+  {
+    "id": 220659,
+    "nome": "Dayany Bittencourt",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "CE",
+    "total_gasto": 37263.46
+  },
+  {
+    "id": 220668,
+    "nome": "Maria Arraes",
+    "siglaPartido": "SOLIDARIEDADE",
+    "siglaUf": "PE",
+    "total_gasto": 37166.340000000004
+  },
+  {
+    "id": 175765,
+    "nome": "Ribamar Silva",
+    "siglaPartido": "PSD",
+    "siglaUf": "SP",
+    "total_gasto": 37084.05999999998
+  },
+  {
+    "id": 73788,
+    "nome": "Ricardo Barros",
+    "siglaPartido": "PP",
+    "siglaUf": "PR",
+    "total_gasto": 36982.80999999999
+  },
+  {
+    "id": 141518,
+    "nome": "Paulinho da Força",
+    "siglaPartido": "SOLIDARIEDADE",
+    "siglaUf": "SP",
+    "total_gasto": 36966.38999999999
+  },
+  {
+    "id": 74574,
+    "nome": "Paulo Magalhães",
+    "siglaPartido": "PSD",
+    "siglaUf": "BA",
+    "total_gasto": 36947.12999999999
+  },
+  {
+    "id": 226837,
+    "nome": "Saulo Pedroso",
+    "siglaPartido": "PSD",
+    "siglaUf": "SP",
+    "total_gasto": 36880.56000000001
+  },
+  {
+    "id": 73604,
+    "nome": "Rui Falcão",
+    "siglaPartido": "PT",
+    "siglaUf": "SP",
+    "total_gasto": 36817.85
+  },
+  {
+    "id": 98148,
+    "nome": "Cobalchini",
+    "siglaPartido": "MDB",
+    "siglaUf": "SC",
+    "total_gasto": 36622.68000000001
+  },
+  {
+    "id": 220671,
+    "nome": "Dilvanda Faro",
+    "siglaPartido": "PT",
+    "siglaUf": "PA",
+    "total_gasto": 36588.58
   },
   {
     "id": 178975,
     "nome": "Baleia Rossi",
     "siglaPartido": "MDB",
     "siglaUf": "SP",
-    "total_gasto": 44813.69
+    "total_gasto": 36385.64000000001
   },
   {
-    "id": 74079,
-    "nome": "José Priante",
-    "siglaPartido": "MDB",
-    "siglaUf": "PA",
-    "total_gasto": 44761.51
+    "id": 74158,
+    "nome": "Mário Heringer",
+    "siglaPartido": "PDT",
+    "siglaUf": "MG",
+    "total_gasto": 35882.66
   },
   {
-    "id": 204387,
-    "nome": "Sargento Fahur",
-    "siglaPartido": "PSD",
-    "siglaUf": "PR",
-    "total_gasto": 44418.37
-  },
-  {
-    "id": 74478,
-    "nome": "Luciano Bivar",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "PE",
-    "total_gasto": 44254.65
+    "id": 74043,
+    "nome": "Wellington Roberto",
+    "siglaPartido": "PL",
+    "siglaUf": "PB",
+    "total_gasto": 35731.54
   },
   {
     "id": 220582,
     "nome": "Daniel Barbosa",
     "siglaPartido": "PP",
     "siglaUf": "AL",
-    "total_gasto": 43208.72
+    "total_gasto": 35626.31
   },
   {
-    "id": 204497,
-    "nome": "Júnior Ferrari",
-    "siglaPartido": "PSD",
-    "siglaUf": "PA",
-    "total_gasto": 41292.99
-  },
-  {
-    "id": 220556,
-    "nome": "Ana Paula Lima",
-    "siglaPartido": "PT",
-    "siglaUf": "SC",
-    "total_gasto": 40298.77
-  },
-  {
-    "id": 133810,
-    "nome": "Marcelo Moraes",
-    "siglaPartido": "PL",
-    "siglaUf": "RS",
-    "total_gasto": 40287.22
-  },
-  {
-    "id": 74554,
-    "nome": "José Rocha",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "BA",
-    "total_gasto": 40195.67
-  },
-  {
-    "id": 220621,
-    "nome": "Sargento Gonçalves",
-    "siglaPartido": "PL",
-    "siglaUf": "RN",
-    "total_gasto": 40117.68
-  },
-  {
-    "id": 141480,
-    "nome": "Lázaro Botelho",
+    "id": 123086,
+    "nome": "Átila Lira",
     "siglaPartido": "PP",
-    "siglaUf": "TO",
-    "total_gasto": 39073.07
+    "siglaUf": "PI",
+    "total_gasto": 35503.96000000001
   },
   {
-    "id": 231911,
-    "nome": "Lenir de Assis",
+    "id": 141464,
+    "nome": "José Airton Félix Cirilo",
     "siglaPartido": "PT",
-    "siglaUf": "PR",
-    "total_gasto": 38526.98
+    "siglaUf": "CE",
+    "total_gasto": 34935.75
+  },
+  {
+    "id": 160517,
+    "nome": "Paulo Folletto",
+    "siglaPartido": "PSB",
+    "siglaUf": "ES",
+    "total_gasto": 34736.840000000004
+  },
+  {
+    "id": 220690,
+    "nome": "Capitão Alden",
+    "siglaPartido": "PL",
+    "siglaUf": "BA",
+    "total_gasto": 34504.57000000001
+  },
+  {
+    "id": 220616,
+    "nome": "Luciano Vieira",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "RJ",
+    "total_gasto": 34459.37
   },
   {
     "id": 220547,
     "nome": "Marcos Pollon",
     "siglaPartido": "PL",
     "siglaUf": "MS",
-    "total_gasto": 38042.38
+    "total_gasto": 34413.83
   },
   {
-    "id": 220653,
-    "nome": "Fábio Teruel",
-    "siglaPartido": "MDB",
+    "id": 204492,
+    "nome": "Paulo Guedes",
+    "siglaPartido": "PT",
+    "siglaUf": "MG",
+    "total_gasto": 34413.22
+  },
+  {
+    "id": 204486,
+    "nome": "Mauro Benevides Filho",
+    "siglaPartido": "PDT",
+    "siglaUf": "CE",
+    "total_gasto": 34357.42
+  },
+  {
+    "id": 141531,
+    "nome": "Rodrigo de Castro",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "MG",
+    "total_gasto": 34277.64
+  },
+  {
+    "id": 178881,
+    "nome": "Aluisio Mendes",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "MA",
+    "total_gasto": 34198.340000000004
+  },
+  {
+    "id": 160601,
+    "nome": "Pr. Marco Feliciano",
+    "siglaPartido": "PL",
     "siglaUf": "SP",
-    "total_gasto": 37985.55
+    "total_gasto": 34196.4
   },
   {
-    "id": 220571,
-    "nome": "Daniel Agrobom",
+    "id": 220639,
+    "nome": "Guilherme Boulos",
+    "siglaPartido": "PSOL",
+    "siglaUf": "SP",
+    "total_gasto": 34167.670000000006
+  },
+  {
+    "id": 220622,
+    "nome": "Nely Aquino",
+    "siglaPartido": "PODE",
+    "siglaUf": "MG",
+    "total_gasto": 33942.71
+  },
+  {
+    "id": 160604,
+    "nome": "Pedro Uczai",
+    "siglaPartido": "PT",
+    "siglaUf": "SC",
+    "total_gasto": 33835.75
+  },
+  {
+    "id": 160610,
+    "nome": "Valmir Assunção",
+    "siglaPartido": "PT",
+    "siglaUf": "BA",
+    "total_gasto": 33632.46
+  },
+  {
+    "id": 160598,
+    "nome": "Flávia Morais",
+    "siglaPartido": "PDT",
+    "siglaUf": "GO",
+    "total_gasto": 33500.0
+  },
+  {
+    "id": 161440,
+    "nome": "Pezenti",
+    "siglaPartido": "MDB",
+    "siglaUf": "SC",
+    "total_gasto": 33267.29
+  },
+  {
+    "id": 74283,
+    "nome": "Vicentinho",
+    "siglaPartido": "PT",
+    "siglaUf": "SP",
+    "total_gasto": 33204.869999999995
+  },
+  {
+    "id": 220623,
+    "nome": "Duda Salabert",
+    "siglaPartido": "PDT",
+    "siglaUf": "MG",
+    "total_gasto": 33094.17
+  },
+  {
+    "id": 220559,
+    "nome": "Julia Zanatta",
+    "siglaPartido": "PL",
+    "siglaUf": "SC",
+    "total_gasto": 32670.110000000004
+  },
+  {
+    "id": 204566,
+    "nome": "Marreca Filho",
+    "siglaPartido": "PRD",
+    "siglaUf": "MA",
+    "total_gasto": 32516.81
+  },
+  {
+    "id": 220697,
+    "nome": "Jadyel Alencar",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "PI",
+    "total_gasto": 32399.850000000006
+  },
+  {
+    "id": 220655,
+    "nome": "Mario Frias",
+    "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 32394.83
+  },
+  {
+    "id": 230768,
+    "nome": "Zé Adriano",
+    "siglaPartido": "PP",
+    "siglaUf": "AC",
+    "total_gasto": 32226.220000000005
+  },
+  {
+    "id": 160552,
+    "nome": "Danrlei de Deus Hinterholz",
+    "siglaPartido": "PSD",
+    "siglaUf": "RS",
+    "total_gasto": 32164.729999999996
+  },
+  {
+    "id": 178987,
+    "nome": "Orlando Silva",
+    "siglaPartido": "PCdoB",
+    "siglaUf": "SP",
+    "total_gasto": 32061.51
+  },
+  {
+    "id": 204498,
+    "nome": "Olival Marques",
+    "siglaPartido": "MDB",
+    "siglaUf": "PA",
+    "total_gasto": 32022.1
+  },
+  {
+    "id": 178985,
+    "nome": "Miguel Lombardi",
+    "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 31977.03
+  },
+  {
+    "id": 204398,
+    "nome": "Felipe Francischini",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "PR",
+    "total_gasto": 31966.28
+  },
+  {
+    "id": 220661,
+    "nome": "Matheus Noronha",
+    "siglaPartido": "PL",
+    "siglaUf": "CE",
+    "total_gasto": 31962.29
+  },
+  {
+    "id": 178910,
+    "nome": "Joaquim Passarinho",
+    "siglaPartido": "PL",
+    "siglaUf": "PA",
+    "total_gasto": 31844.520000000004
+  },
+  {
+    "id": 178937,
+    "nome": "Altineu Côrtes",
+    "siglaPartido": "PL",
+    "siglaUf": "RJ",
+    "total_gasto": 31800.0
+  },
+  {
+    "id": 204369,
+    "nome": "Caroline de Toni",
+    "siglaPartido": "PL",
+    "siglaUf": "SC",
+    "total_gasto": 31571.120000000003
+  },
+  {
+    "id": 171617,
+    "nome": "Paulão",
+    "siglaPartido": "PT",
+    "siglaUf": "AL",
+    "total_gasto": 31332.989999999998
+  },
+  {
+    "id": 220712,
+    "nome": "Fausto Santos Jr.",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "AM",
+    "total_gasto": 31235.06
+  },
+  {
+    "id": 220684,
+    "nome": "Tião Medeiros",
+    "siglaPartido": "PP",
+    "siglaUf": "PR",
+    "total_gasto": 31194.870000000003
+  },
+  {
+    "id": 74262,
+    "nome": "Carlos Sampaio",
+    "siglaPartido": "PSD",
+    "siglaUf": "SP",
+    "total_gasto": 31151.27999999999
+  },
+  {
+    "id": 74161,
+    "nome": "Reginaldo Lopes",
+    "siglaPartido": "PT",
+    "siglaUf": "MG",
+    "total_gasto": 31138.61
+  },
+  {
+    "id": 204460,
+    "nome": "Carlos Jordy",
+    "siglaPartido": "PL",
+    "siglaUf": "RJ",
+    "total_gasto": 31060.799999999992
+  },
+  {
+    "id": 220619,
+    "nome": "Delegado Ramagem",
+    "siglaPartido": "PL",
+    "siglaUf": "RJ",
+    "total_gasto": 31057.83
+  },
+  {
+    "id": 220638,
+    "nome": "Antonio Carlos Rodrigues",
+    "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 31021.010000000002
+  },
+  {
+    "id": 220658,
+    "nome": "Luiz Gastão",
+    "siglaPartido": "PSD",
+    "siglaUf": "CE",
+    "total_gasto": 30888.600000000002
+  },
+  {
+    "id": 150418,
+    "nome": "Márcio Marinho",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "BA",
+    "total_gasto": 30779.530000000002
+  },
+  {
+    "id": 160510,
+    "nome": "Luis Tibé",
+    "siglaPartido": "AVANTE",
+    "siglaUf": "MG",
+    "total_gasto": 30369.21
+  },
+  {
+    "id": 204427,
+    "nome": "Fernando Rodolfo",
+    "siglaPartido": "PL",
+    "siglaUf": "PE",
+    "total_gasto": 29937.010000000002
+  },
+  {
+    "id": 152605,
+    "nome": "Glauber Braga",
+    "siglaPartido": "PSOL",
+    "siglaUf": "RJ",
+    "total_gasto": 29810.679999999997
+  },
+  {
+    "id": 178887,
+    "nome": "Rubens Pereira Júnior",
+    "siglaPartido": "PT",
+    "siglaUf": "MA",
+    "total_gasto": 29736.72
+  },
+  {
+    "id": 204462,
+    "nome": "Chris Tonietto",
+    "siglaPartido": "PL",
+    "siglaUf": "RJ",
+    "total_gasto": 29419.99999999999
+  },
+  {
+    "id": 160640,
+    "nome": "Eros Biondini",
+    "siglaPartido": "PL",
+    "siglaUf": "MG",
+    "total_gasto": 29413.68
+  },
+  {
+    "id": 62881,
+    "nome": "Danilo Forte",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "CE",
+    "total_gasto": 29335.859999999997
+  },
+  {
+    "id": 220568,
+    "nome": "Gustavo Gayer",
     "siglaPartido": "PL",
     "siglaUf": "GO",
-    "total_gasto": 36098.0
+    "total_gasto": 29274.039999999997
   },
   {
-    "id": 204570,
-    "nome": "Pastor Gil",
+    "id": 220569,
+    "nome": "Silvye Alves",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "GO",
+    "total_gasto": 29088.829999999998
+  },
+  {
+    "id": 220545,
+    "nome": "Filipe Martins",
     "siglaPartido": "PL",
-    "siglaUf": "MA",
-    "total_gasto": 35388.33
+    "siglaUf": "TO",
+    "total_gasto": 29057.04
   },
   {
-    "id": 74858,
-    "nome": "Lindbergh Farias",
-    "siglaPartido": "PT",
-    "siglaUf": "RJ",
-    "total_gasto": 35092.01
-  },
-  {
-    "id": 220650,
-    "nome": "Paulo Alexandre Barbosa",
-    "siglaPartido": "PSDB",
+    "id": 73531,
+    "nome": "Ivan Valente",
+    "siglaPartido": "PSOL",
     "siglaUf": "SP",
-    "total_gasto": 34565.51
+    "total_gasto": 29029.03
   },
   {
     "id": 204517,
     "nome": "Zé Vitor",
     "siglaPartido": "PL",
     "siglaUf": "MG",
-    "total_gasto": 34530.62
+    "total_gasto": 28925.0
   },
   {
-    "id": 143942,
-    "nome": "Caio Vianna",
-    "siglaPartido": "PSD",
+    "id": 74253,
+    "nome": "Julio Lopes",
+    "siglaPartido": "PP",
     "siglaUf": "RJ",
-    "total_gasto": 33904.64
+    "total_gasto": 28846.34
   },
   {
-    "id": 204365,
-    "nome": "Gilson Marques",
-    "siglaPartido": "NOVO",
-    "siglaUf": "SC",
-    "total_gasto": 33835.21
+    "id": 141431,
+    "nome": "Fernando Coelho Filho",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "PE",
+    "total_gasto": 28754.309999999998
   },
   {
-    "id": 204444,
-    "nome": "Helio Lopes",
+    "id": 133810,
+    "nome": "Marcelo Moraes",
     "siglaPartido": "PL",
-    "siglaUf": "RJ",
-    "total_gasto": 33177.48
+    "siglaUf": "RS",
+    "total_gasto": 28729.770000000004
   },
   {
-    "id": 204436,
-    "nome": "Isnaldo Bulhões Jr.",
-    "siglaPartido": "MDB",
-    "siglaUf": "AL",
-    "total_gasto": 32637.73
-  },
-  {
-    "id": 73433,
-    "nome": "Arlindo Chinaglia",
+    "id": 231911,
+    "nome": "Lenir de Assis",
     "siglaPartido": "PT",
-    "siglaUf": "SP",
-    "total_gasto": 31084.63
+    "siglaUf": "PR",
+    "total_gasto": 28710.97
   },
   {
-    "id": 204539,
-    "nome": "Hercílio Coelho Diniz",
-    "siglaPartido": "MDB",
-    "siglaUf": "MG",
-    "total_gasto": 30687.14
+    "id": 220557,
+    "nome": "Daniela Reinehr",
+    "siglaPartido": "PL",
+    "siglaUf": "SC",
+    "total_gasto": 28696.2
   },
   {
-    "id": 204459,
-    "nome": "Daniela do Waguinho",
-    "siglaPartido": "UNIÃO",
-    "siglaUf": "RJ",
-    "total_gasto": 29976.7
+    "id": 220624,
+    "nome": "Robinson Faria",
+    "siglaPartido": "PP",
+    "siglaUf": "RN",
+    "total_gasto": 28669.98
   },
   {
-    "id": 74356,
-    "nome": "Silas Câmara",
+    "id": 222429,
+    "nome": "Luis Carlos Gomes",
     "siglaPartido": "REPUBLICANOS",
-    "siglaUf": "AM",
-    "total_gasto": 29814.37
+    "siglaUf": "RJ",
+    "total_gasto": 28655.22
   },
   {
-    "id": 215043,
-    "nome": "Josivaldo JP",
-    "siglaPartido": "PSD",
-    "siglaUf": "MA",
-    "total_gasto": 25223.75
-  },
-  {
-    "id": 137070,
-    "nome": "Vicentinho Júnior",
-    "siglaPartido": "PP",
-    "siglaUf": "TO",
-    "total_gasto": 23621.69
-  },
-  {
-    "id": 220657,
-    "nome": "André Fernandes",
-    "siglaPartido": "PL",
-    "siglaUf": "CE",
-    "total_gasto": 23451.56
-  },
-  {
-    "id": 204528,
-    "nome": "Adriana Ventura",
-    "siglaPartido": "NOVO",
+    "id": 141555,
+    "nome": "Vinicius Carvalho",
+    "siglaPartido": "REPUBLICANOS",
     "siglaUf": "SP",
-    "total_gasto": 21623.16
+    "total_gasto": 28551.980000000007
   },
   {
-    "id": 204520,
-    "nome": "Junio Amaral",
-    "siglaPartido": "PL",
-    "siglaUf": "MG",
-    "total_gasto": 19973.25
-  },
-  {
-    "id": 74075,
-    "nome": "Elcione Barbalho",
+    "id": 220572,
+    "nome": "Marussa Boldrin",
     "siglaPartido": "MDB",
-    "siglaUf": "PA",
-    "total_gasto": 18784.49
+    "siglaUf": "GO",
+    "total_gasto": 28027.38
   },
   {
-    "id": 160541,
-    "nome": "Arthur Lira",
+    "id": 204395,
+    "nome": "Pedro Lupion",
     "siglaPartido": "PP",
-    "siglaUf": "AL",
-    "total_gasto": 13572.45
+    "siglaUf": "PR",
+    "total_gasto": 28021.54
   },
   {
-    "id": 204536,
-    "nome": "Kim Kataguiri",
-    "siglaPartido": "UNIÃO",
+    "id": 221338,
+    "nome": "Professora Luciene Cavalcante",
+    "siglaPartido": "PSOL",
     "siglaUf": "SP",
-    "total_gasto": 11390.54
-  },
-  {
-    "id": 220675,
-    "nome": "Antônio Doido",
-    "siglaPartido": "MDB",
-    "siglaUf": "PA",
-    "total_gasto": 11257.61
-  },
-  {
-    "id": 220715,
-    "nome": "Amom Mandel",
-    "siglaPartido": "CIDADANIA",
-    "siglaUf": "AM",
-    "total_gasto": 9205.5
-  },
-  {
-    "id": 204553,
-    "nome": "Pastor Sargento Isidório",
-    "siglaPartido": "AVANTE",
-    "siglaUf": "BA",
-    "total_gasto": 7061.5
-  },
-  {
-    "id": 178983,
-    "nome": "Marcio Alvino",
-    "siglaPartido": "PL",
-    "siglaUf": "SP",
-    "total_gasto": 5200.12
+    "total_gasto": 28007.2
   },
   {
     "id": 204482,
     "nome": "Euclydes Pettersen",
     "siglaPartido": "REPUBLICANOS",
     "siglaUf": "MG",
-    "total_gasto": 1500.0
+    "total_gasto": 27825.2
+  },
+  {
+    "id": 220586,
+    "nome": "Rafael Brito",
+    "siglaPartido": "MDB",
+    "siglaUf": "AL",
+    "total_gasto": 27537.700000000004
+  },
+  {
+    "id": 141458,
+    "nome": "João Carlos Bacelar",
+    "siglaPartido": "PL",
+    "siglaUf": "BA",
+    "total_gasto": 27340.570000000007
+  },
+  {
+    "id": 162332,
+    "nome": "Luiz Nishimori",
+    "siglaPartido": "PSD",
+    "siglaUf": "PR",
+    "total_gasto": 27325.34
+  },
+  {
+    "id": 220696,
+    "nome": "Ivoneide Caetano",
+    "siglaPartido": "PT",
+    "siglaUf": "BA",
+    "total_gasto": 27226.96
+  },
+  {
+    "id": 220653,
+    "nome": "Fábio Teruel",
+    "siglaPartido": "MDB",
+    "siglaUf": "SP",
+    "total_gasto": 27212.06
+  },
+  {
+    "id": 165470,
+    "nome": "Rodrigo Valadares",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "SE",
+    "total_gasto": 26562.71
+  },
+  {
+    "id": 160976,
+    "nome": "Tiririca",
+    "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 25858.66
+  },
+  {
+    "id": 204450,
+    "nome": "Doutor Luizinho",
+    "siglaPartido": "PP",
+    "siglaUf": "RJ",
+    "total_gasto": 25794.52
+  },
+  {
+    "id": 230765,
+    "nome": "Enfermeira Rejane",
+    "siglaPartido": "PCdoB",
+    "siglaUf": "RJ",
+    "total_gasto": 25437.370000000003
+  },
+  {
+    "id": 73441,
+    "nome": "Celso Russomanno",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "SP",
+    "total_gasto": 25367.39
+  },
+  {
+    "id": 209787,
+    "nome": "Nikolas Ferreira",
+    "siglaPartido": "PL",
+    "siglaUf": "MG",
+    "total_gasto": 24980.760000000006
+  },
+  {
+    "id": 204497,
+    "nome": "Júnior Ferrari",
+    "siglaPartido": "PSD",
+    "siglaUf": "PA",
+    "total_gasto": 24605.45
+  },
+  {
+    "id": 178873,
+    "nome": "Helder Salomão",
+    "siglaPartido": "PT",
+    "siglaUf": "ES",
+    "total_gasto": 24367.119999999995
+  },
+  {
+    "id": 220629,
+    "nome": "Dandara",
+    "siglaPartido": "PT",
+    "siglaUf": "MG",
+    "total_gasto": 24275.019999999997
+  },
+  {
+    "id": 122158,
+    "nome": "Pedro Paulo",
+    "siglaPartido": "PSD",
+    "siglaUf": "RJ",
+    "total_gasto": 24237.05
+  },
+  {
+    "id": 220707,
+    "nome": "Amanda Gentil",
+    "siglaPartido": "PP",
+    "siglaUf": "MA",
+    "total_gasto": 23900.0
+  },
+  {
+    "id": 220630,
+    "nome": "Pedro Aihara",
+    "siglaPartido": "PRD",
+    "siglaUf": "MG",
+    "total_gasto": 23456.64
+  },
+  {
+    "id": 204572,
+    "nome": "Capitão Alberto Neto",
+    "siglaPartido": "PL",
+    "siglaUf": "AM",
+    "total_gasto": 23273.670000000002
+  },
+  {
+    "id": 160642,
+    "nome": "Pastor Eurico",
+    "siglaPartido": "PL",
+    "siglaUf": "PE",
+    "total_gasto": 22536.89
+  },
+  {
+    "id": 220556,
+    "nome": "Ana Paula Lima",
+    "siglaPartido": "PT",
+    "siglaUf": "SC",
+    "total_gasto": 22318.61
+  },
+  {
+    "id": 204387,
+    "nome": "Sargento Fahur",
+    "siglaPartido": "PSD",
+    "siglaUf": "PR",
+    "total_gasto": 22124.28
+  },
+  {
+    "id": 220528,
+    "nome": "Dr. Victor Linhalis",
+    "siglaPartido": "PODE",
+    "siglaUf": "ES",
+    "total_gasto": 21717.420000000002
+  },
+  {
+    "id": 156190,
+    "nome": "Marcel van Hattem",
+    "siglaPartido": "NOVO",
+    "siglaUf": "RS",
+    "total_gasto": 21431.25
+  },
+  {
+    "id": 143942,
+    "nome": "Caio Vianna",
+    "siglaPartido": "PSD",
+    "siglaUf": "RJ",
+    "total_gasto": 21237.920000000002
+  },
+  {
+    "id": 220686,
+    "nome": "Duarte Jr.",
+    "siglaPartido": "PSB",
+    "siglaUf": "MA",
+    "total_gasto": 20772.309999999998
+  },
+  {
+    "id": 74554,
+    "nome": "José Rocha",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "BA",
+    "total_gasto": 20738.72
+  },
+  {
+    "id": 204365,
+    "nome": "Gilson Marques",
+    "siglaPartido": "NOVO",
+    "siglaUf": "SC",
+    "total_gasto": 20300.600000000006
+  },
+  {
+    "id": 73433,
+    "nome": "Arlindo Chinaglia",
+    "siglaPartido": "PT",
+    "siglaUf": "SP",
+    "total_gasto": 20208.3
+  },
+  {
+    "id": 220565,
+    "nome": "Delegada Adriana Accorsi",
+    "siglaPartido": "PT",
+    "siglaUf": "GO",
+    "total_gasto": 19253.03
+  },
+  {
+    "id": 218086,
+    "nome": "Ely Santos",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "SP",
+    "total_gasto": 18836.21
+  },
+  {
+    "id": 74079,
+    "nome": "José Priante",
+    "siglaPartido": "MDB",
+    "siglaUf": "PA",
+    "total_gasto": 18811.5
+  },
+  {
+    "id": 220571,
+    "nome": "Daniel Agrobom",
+    "siglaPartido": "PL",
+    "siglaUf": "GO",
+    "total_gasto": 17858.350000000006
+  },
+  {
+    "id": 220635,
+    "nome": "Bruno Ganem",
+    "siglaPartido": "PODE",
+    "siglaUf": "SP",
+    "total_gasto": 17425.43
+  },
+  {
+    "id": 178972,
+    "nome": "Alex Manente",
+    "siglaPartido": "CIDADANIA",
+    "siglaUf": "SP",
+    "total_gasto": 17368.87
+  },
+  {
+    "id": 74478,
+    "nome": "Luciano Bivar",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "PE",
+    "total_gasto": 16731.16
+  },
+  {
+    "id": 204444,
+    "nome": "Helio Lopes",
+    "siglaPartido": "PL",
+    "siglaUf": "RJ",
+    "total_gasto": 16542.63
+  },
+  {
+    "id": 220692,
+    "nome": "Dal Barreto",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "BA",
+    "total_gasto": 16327.94
+  },
+  {
+    "id": 122974,
+    "nome": "Pedro Lucas Fernandes",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "MA",
+    "total_gasto": 15769.720000000001
+  },
+  {
+    "id": 220595,
+    "nome": "Coronel Fernanda",
+    "siglaPartido": "PL",
+    "siglaUf": "MT",
+    "total_gasto": 15743.970000000001
+  },
+  {
+    "id": 220687,
+    "nome": "Márcio Honaiser",
+    "siglaPartido": "PDT",
+    "siglaUf": "MA",
+    "total_gasto": 15298.710000000001
+  },
+  {
+    "id": 220621,
+    "nome": "Sargento Gonçalves",
+    "siglaPartido": "PL",
+    "siglaUf": "RN",
+    "total_gasto": 14896.89
+  },
+  {
+    "id": 204570,
+    "nome": "Pastor Gil",
+    "siglaPartido": "PL",
+    "siglaUf": "MA",
+    "total_gasto": 14832.61
+  },
+  {
+    "id": 204539,
+    "nome": "Hercílio Coelho Diniz",
+    "siglaPartido": "MDB",
+    "siglaUf": "MG",
+    "total_gasto": 14545.2
+  },
+  {
+    "id": 220564,
+    "nome": "Yandra Moura",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "SE",
+    "total_gasto": 13923.370000000003
+  },
+  {
+    "id": 160512,
+    "nome": "Aureo Ribeiro",
+    "siglaPartido": "SOLIDARIEDADE",
+    "siglaUf": "RJ",
+    "total_gasto": 13655.82
+  },
+  {
+    "id": 137070,
+    "nome": "Vicentinho Júnior",
+    "siglaPartido": "PP",
+    "siglaUf": "TO",
+    "total_gasto": 13588.25
+  },
+  {
+    "id": 204495,
+    "nome": "Airton Faleiro",
+    "siglaPartido": "PT",
+    "siglaUf": "PA",
+    "total_gasto": 13481.740000000002
+  },
+  {
+    "id": 178896,
+    "nome": "Newton Cardoso Jr",
+    "siglaPartido": "MDB",
+    "siglaUf": "MG",
+    "total_gasto": 11495.91
+  },
+  {
+    "id": 204436,
+    "nome": "Isnaldo Bulhões Jr.",
+    "siglaPartido": "MDB",
+    "siglaUf": "AL",
+    "total_gasto": 11358.74
+  },
+  {
+    "id": 215043,
+    "nome": "Josivaldo JP",
+    "siglaPartido": "PSD",
+    "siglaUf": "MA",
+    "total_gasto": 11106.24
+  },
+  {
+    "id": 220650,
+    "nome": "Paulo Alexandre Barbosa",
+    "siglaPartido": "PSDB",
+    "siglaUf": "SP",
+    "total_gasto": 9092.41
+  },
+  {
+    "id": 204557,
+    "nome": "Sidney Leite",
+    "siglaPartido": "PSD",
+    "siglaUf": "AM",
+    "total_gasto": 8396.66
+  },
+  {
+    "id": 74858,
+    "nome": "Lindbergh Farias",
+    "siglaPartido": "PT",
+    "siglaUf": "RJ",
+    "total_gasto": 7910.280000000001
+  },
+  {
+    "id": 160541,
+    "nome": "Arthur Lira",
+    "siglaPartido": "PP",
+    "siglaUf": "AL",
+    "total_gasto": 7140.570000000001
+  },
+  {
+    "id": 220657,
+    "nome": "André Fernandes",
+    "siglaPartido": "PL",
+    "siglaUf": "CE",
+    "total_gasto": 6921.110000000001
+  },
+  {
+    "id": 178983,
+    "nome": "Marcio Alvino",
+    "siglaPartido": "PL",
+    "siglaUf": "SP",
+    "total_gasto": 4283.22
+  },
+  {
+    "id": 74356,
+    "nome": "Silas Câmara",
+    "siglaPartido": "REPUBLICANOS",
+    "siglaUf": "AM",
+    "total_gasto": 3594.97
+  },
+  {
+    "id": 74075,
+    "nome": "Elcione Barbalho",
+    "siglaPartido": "MDB",
+    "siglaUf": "PA",
+    "total_gasto": 3484.86
+  },
+  {
+    "id": 204528,
+    "nome": "Adriana Ventura",
+    "siglaPartido": "NOVO",
+    "siglaUf": "SP",
+    "total_gasto": 3415.5299999999997
+  },
+  {
+    "id": 220675,
+    "nome": "Antônio Doido",
+    "siglaPartido": "MDB",
+    "siglaUf": "PA",
+    "total_gasto": 3291.9900000000002
+  },
+  {
+    "id": 204520,
+    "nome": "Junio Amaral",
+    "siglaPartido": "PL",
+    "siglaUf": "MG",
+    "total_gasto": 2021.96
+  },
+  {
+    "id": 204553,
+    "nome": "Pastor Sargento Isidório",
+    "siglaPartido": "AVANTE",
+    "siglaUf": "BA",
+    "total_gasto": 1613.6699999999998
+  },
+  {
+    "id": 204536,
+    "nome": "Kim Kataguiri",
+    "siglaPartido": "UNIÃO",
+    "siglaUf": "SP",
+    "total_gasto": 1232.64
   }
 ]
