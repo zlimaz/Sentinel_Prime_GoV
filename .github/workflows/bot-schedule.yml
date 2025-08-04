@@ -37,6 +37,7 @@ jobs:
         with:
           name: bot-state
           path: .
+        continue-on-error: true
 
       # Passo 3: Configurar o ambiente Python
       # Esta action configura a versão do Python que queremos usar.
