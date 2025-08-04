@@ -2,19 +2,13 @@
 
 # --- Script para Configurar o Workflow do Projeto Sentinela no n8n ---
 #
-# Este script cria e ativa um workflow no n8n para executar o bot
+# Este script cria e ATIVA um workflow no n8n para executar o bot
 # de postagens automaticamente.
 #
-# PRÉ-REQUISITOS:
-#   1. Ter o n8n rodando (ex: via Docker) e acessível em http://localhost:5678.
-#   2. Ter uma chave de API do n8n.
-#
 # COMO USAR:
-#   1. Abra este arquivo em um editor de texto.
-#   2. Substitua a string "SUA_CHAVE_DE_API_AQUI" pela sua chave de API real.
-#   3. Salve o arquivo.
-#   4. Abra o terminal, navegue até a pasta 'scripts' e execute:
-#      bash setup_n8n_workflow.sh
+#   1. Abra este arquivo e substitua "SUA_CHAVE_DE_API_AQUI" pela sua chave.
+#   2. Salve o arquivo.
+#   3. Execute no terminal: ./scripts/setup_n8n_workflow.sh
 #
 
 # --- Configuração ---
@@ -66,15 +60,41 @@ WORKFLOW_JSON='{
     "Agendado para 12:00": { "main": [ [ { "node": "Executar Bot Sentinela", "type": "main" } ] ] },
     "Agendado para 18:00": { "main": [ [ { "node": "Executar Bot Sentinela", "type": "main" } ] ] }
   },
-  "active": true,
   "settings": {}
 }'
 
-# --- Execução do Comando ---
+# --- Passo 1: Criar o Workflow ---
 echo "Criando workflow no n8n..."
-curl -X POST "${N8N_URL}/api/v1/workflows" \
--H "Content-Type: application/json" \
--H "X-N8N-API-KEY: ${API_KEY}" \
--d "${WORKFLOW_JSON}"
 
-echo -e "\n\nWorkflow criado! Verifique a interface do n8n."
+RESPONSE=$(curl -s -X POST "${N8N_URL}/api/v1/workflows" \
+  -H "Content-Type: application/json" \
+  -H "X-N8N-API-KEY: ${API_KEY}" \
+  -d "${WORKFLOW_JSON}")
+
+WORKFLOW_ID=$(echo ${RESPONSE} | jq -r '.id')
+
+if [ -z "${WORKFLOW_ID}" ] || [ "${WORKFLOW_ID}" == "null" ]; then
+  echo "Erro: Não foi possível criar o workflow ou extrair seu ID."
+  echo "Resposta do n8n: ${RESPONSE}"
+  exit 1
+fi
+
+echo "Workflow criado com sucesso! ID: ${WORKFLOW_ID}"
+
+# --- Passo 2: Ativar o Workflow ---
+echo "Ativando o workflow..."
+
+ACTIVATION_RESPONSE=$(curl -s -X POST "${N8N_URL}/api/v1/workflows/${WORKFLOW_ID}/activate" \
+  -H "Content-Type: application/json" \
+  -H "X-N8N-API-KEY: ${API_KEY}")
+
+ACTIVATION_SUCCESS=$(echo ${ACTIVATION_RESPONSE} | jq -r '.active')
+
+if [ "${ACTIVATION_SUCCESS}" == "true" ]; then
+  echo -e "\nWorkflow ativado com sucesso!"
+  echo "O Projeto Sentinela agora está automatizado."
+else
+  echo "Erro: Falha ao ativar o workflow."
+  echo "Resposta do n8n: ${ACTIVATION_RESPONSE}"
+  exit 1
+fi
