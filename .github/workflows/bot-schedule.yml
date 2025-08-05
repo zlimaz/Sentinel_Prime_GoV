@@ -23,6 +23,8 @@ jobs:
   run-bot:
     # O job vai rodar na versão mais recente do Ubuntu fornecida pelo GitHub.
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       # Passo 1: Baixar o código do repositório
