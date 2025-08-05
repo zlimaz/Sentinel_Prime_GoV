@@ -118,9 +118,14 @@ def main():
             break
     
     if post_successful:
-        state["last_processed_deputy_index"] = next_index
-        save_json(state, STATE_FILE)
-        print(f"Estado atualizado. Próxima execução começará da posição: {next_index + 1}")
+        print(f"Postagem concluída para {deputy_name}.")
+    else:
+        print(f"Postagem falhou para {deputy_name}.")
+
+    # Sempre atualiza o estado para o próximo deputado, independentemente do sucesso da postagem
+    state["last_processed_deputy_index"] = next_index
+    save_json(state, STATE_FILE)
+    print(f"Estado atualizado. Próxima execução começará da posição: {next_index + 1}")
 
 if __name__ == "__main__":
     main()
