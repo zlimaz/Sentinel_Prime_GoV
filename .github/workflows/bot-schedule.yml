@@ -30,34 +30,25 @@ jobs:
       - name: 1. Baixando o código do projeto
         uses: actions/checkout@v3
 
-      # Passo 2: Baixar o estado anterior (se existir)
-      # Isso garante que o bot continue de onde parou na última execução.
-      - name: 2. Baixando estado anterior
-        uses: actions/download-artifact@v4
-        with:
-          name: bot-state
-          path: .
-        continue-on-error: true
-
-      # Passo 3: Configurar o ambiente Python
+      # Passo 2: Configurar o ambiente Python
       # Esta action configura a versão do Python que queremos usar.
-      - name: 3. Configurando o ambiente Python 3.10
+      - name: 2. Configurando o ambiente Python 3.10
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      # Passo 4: Instalar as dependências do projeto
+      # Passo 3: Instalar as dependências do projeto
       # Este passo usa o pip para instalar as bibliotecas listadas no requirements.txt.
-      - name: 4. Instalando dependências
+      - name: 3. Instalando dependências
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Passo 5: Rodando o script principal do bot
+      # Passo 4: Rodando o script principal do bot
       # Este é o comando principal que roda a sua lógica.
       # As variáveis de ambiente (env) são preenchidas de forma segura usando
       # os "Secrets" do GitHub, que você configurará no seu repositório.
-      - name: 5. Rodando o bot Sentinela
+      - name: 4. Rodando o bot Sentinela
         run: python3 -m src.main
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
@@ -65,10 +56,10 @@ jobs:
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
 
-      # Passo 6: Salvar o estado atualizado para a próxima execução
-      # O arquivo estado.json é salvo como um artifact para persistência.
-      - name: 6. Salvando estado atualizado
-        uses: actions/upload-artifact@v4
+      # Passo 5: Salvar o estado atualizado no repositório
+      # O arquivo estado.json é commitado de volta para o repositório para persistência.
+      - name: 5. Commit do estado atualizado
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          name: bot-state
-          path: estado.json
+          commit_message: 'chore: Atualiza estado do bot'
+          file_pattern: estado.json
