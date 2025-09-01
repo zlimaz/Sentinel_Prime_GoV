@@ -1,3 +1,5 @@
 requests
 tweepy
 python-dotenv
+feedparser
+python-dateutil
