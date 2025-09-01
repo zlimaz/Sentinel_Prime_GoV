@@ -1,10 +1,16 @@
 import feedparser
 import logging
+import requests
 
 # Configuração básica de logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 SENADO_NEWS_RSS_URL = "https://www12.senado.leg.br/noticias/rss/agencia"
+
+# Cabeçalho para simular um navegador
+HEADERS = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+}
 
 def fetch_senado_news():
     """
@@ -17,7 +23,12 @@ def fetch_senado_news():
     """
     logging.info(f"Buscando notícias do feed: {SENADO_NEWS_RSS_URL}")
     try:
-        feed = feedparser.parse(SENADO_NEWS_RSS_URL)
+        # Usando requests para buscar o conteúdo com headers
+        response = requests.get(SENADO_NEWS_RSS_URL, headers=HEADERS, timeout=15)
+        response.raise_for_status() # Lança exceção para status de erro (4xx ou 5xx)
+
+        # Passando o conteúdo para o feedparser
+        feed = feedparser.parse(response.content)
 
         if feed.bozo:
             # feed.bozo é 1 se o feed estiver malformado
@@ -36,8 +47,11 @@ def fetch_senado_news():
         logging.info(f"{len(news_list)} notícias encontradas no feed do Senado.")
         return news_list
 
+    except requests.RequestException as e:
+        logging.error(f"Falha ao fazer a requisição para o feed do Senado: {e}")
+        return []
     except Exception as e:
-        logging.error(f"Falha ao buscar ou analisar o feed de notícias do Senado: {e}")
+        logging.error(f"Falha ao analisar o feed de notícias do Senado: {e}")
         return []
 
 # Bloco para teste direto do script

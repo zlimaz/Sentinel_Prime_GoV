@@ -4,7 +4,7 @@ import logging
 # Configuração básica de logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-CAMARA_NEWS_RSS_URL = "https://www.camara.leg.br/internet/agencia/rss/ultimasNoticias.xml"
+CAMARA_NEWS_RSS_URL = "https://www.camara.leg.br/noticias/rss/ultimas-noticias.xml"
 
 def fetch_camara_news():
     """
