@@ -1,38 +1,53 @@
-Roteiro para Implementação da Feature de Notícias - Projeto Sentinela
+## Roteiro do Projeto ##
 
-**Objetivo:** Expandir as capacidades do bot para que ele também publique notícias sobre a política nacional, aumentando a relevância e o alcance das informações.
+---
 
-**Fontes de Dados:**
-1. Agência Senado (via RSS Feed) - Notícias diretas do Senado Federal.
-2. Agência Câmara (via RSS Feed) - Notícias diretas da Câmara dos Deputados.
+### Feature 1: Bot de Notícias (Status: Em Testes)
 
-**Formato da Postagem (Thread no X):**
-- **Tweet 1 (Principal):** Manchete e resumo da notícia.
-- **Tweet 2 (Comentário):** Continuação do texto, se necessário.
-- **Tweet 3 (Comentário):** Link para a fonte original da notícia.
+**Objetivo:** Expandir as capacidades do bot para que ele também publique notícias sobre a política nacional.
 
 **Passo a Passo da Implementação:**
 
-**1. Infraestrutura de Automação (GitHub Actions):**
-   - Criar um novo arquivo de workflow: `.github/workflows/noticias-bot.yml`.
-   - Configurar o workflow para rodar em um agendamento próprio (ex: a cada 2 horas, com o cron `0 */2 * * *`).
-   - O workflow irá executar um novo script principal: `src/main_noticias.py`.
+**1. Infraestrutura de Automação (GitHub Actions):** - CONCLUÍDO
+   - Criado o arquivo de workflow: `.github/workflows/noticias-bot.yml`.
+   - Configurado para rodar a cada 2 horas e manualmente.
 
-**2. Desenvolvimento dos Módulos de Coleta (Python):**
-   - Criar a pasta `src/coletores/`.
-   - Dentro dela, criar `coleta_senado.py` e `coleta_camara.py`.
-   - Cada módulo será responsável por acessar o respectivo feed RSS, extrair as notícias mais recentes e padronizá-las (título, link, conteúdo).
+**2. Desenvolvimento dos Módulos de Coleta (Python):** - CONCLUÍDO
+   - Criada a pasta `src/coletores/`.
+   - Criados e corrigidos os coletores `coleta_senado.py` e `coleta_camara.py`.
 
-**3. Lógica de Análise e Formatação (Python):**
-   - Criar a pasta `src/analisador/` e `src/formatadores/`.
-   - `analisador_noticias.py`: Receberá as notícias, aplicará filtros (se necessário) e usará o `estado.json` para evitar duplicatas.
-   - `formatador_noticias.py`: Receberá uma notícia e a transformará no formato de 3 tweets para a thread.
+**3. Lógica de Análise e Formatação (Python):** - CONCLUÍDO
+   - Criadas as pastas `src/analisador/` e `src/formatadores/`.
+   - Criado o `analisador_noticias.py` para evitar duplicatas.
+   - Criado o `formatador_noticias.py` para montar as threads.
 
-**4. Orquestração e Publicação (Python):**
-   - Criar o script principal `src/main_noticias.py`:
-     - Orquestrará o fluxo: chamar coletores -> chamar analisador -> chamar formatador.
-     - Usará a função `post_tweet` (existente em `api_client.py`) em um loop para publicar a thread.
-     - Atualizará o `estado.json` com o link da notícia publicada para evitar repetições.
+**4. Orquestração e Publicação (Python):** - CONCLUÍDO
+   - Criado o script principal `src/main_noticias.py` para orquestrar todo o fluxo.
 
-**5. Dependências:**
-   - Adicionar a biblioteca `feedparser` ao arquivo `requirements.txt` para podermos ler os feeds RSS.
+**5. Dependências:** - CONCLUÍDO
+   - Adicionadas as bibliotecas `feedparser` e `python-dateutil` ao `requirements.txt`.
+
+**6. Próximo Passo Imediato:**
+   - **TESTAR:** Executar o workflow no GitHub Actions e verificar se as correções funcionaram e uma notícia é postada.
+
+---
+
+### Feature 2: Acompanhamento de Projetos de Lei (Status: A Fazer)
+
+**Objetivo:** Divulgar o andamento de projetos de lei (PLs) importantes.
+
+**Fonte de Dados:**
+- APIs dos portais de Dados Abertos da Câmara dos Deputados e do Senado Federal.
+
+**Ideia do Roteiro:**
+1.  **Pesquisa e Desenvolvimento dos Coletores:**
+    - Estudar as APIs de proposições da Câmara e do Senado.
+    - Criar coletores para buscar PLs que tiveram atualizações recentes (ex: mudança de status, aprovação em comissão).
+2.  **Lógica de Análise e Seleção:**
+    - Definir critérios para o que é uma "atualização importante" a ser noticiada.
+    - Evitar duplicatas, salvando o estado das proposições já noticiadas.
+3.  **Desenvolvimento do Formatador:**
+    - Criar um formato de thread claro para anunciar as atualizações dos projetos de lei.
+4.  **Infraestrutura e Orquestração:**
+    - Criar um novo workflow no GitHub Actions (ou adicionar ao existente) para rodar o bot de PLs (ex: uma vez por dia).
+    - Criar um script principal para orquestrar o fluxo da nova feature.

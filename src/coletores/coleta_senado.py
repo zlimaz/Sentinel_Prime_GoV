@@ -5,7 +5,7 @@ import requests
 # Configuração básica de logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-SENADO_NEWS_RSS_URL = "https://www12.senado.leg.br/noticias/rss/agencia"
+SENADO_NEWS_RSS_URL = "https://www12.senado.leg.br/noticias/rss"
 
 # Cabeçalho para simular um navegador
 HEADERS = {
@@ -40,7 +40,7 @@ def fetch_senado_news():
             news_item = {
                 'title': entry.title,
                 'link': entry.link,
-                'summary': entry.summary
+                'summary': getattr(entry, 'summary', '')
             }
             news_list.append(news_item)
         
