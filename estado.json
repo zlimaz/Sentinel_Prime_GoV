@@ -2,22 +2,6 @@
   "last_processed_deputy_index": 81,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/08/plenario-vota-pena-maior-a-quem-fornece-droga-ou-alcool-a-menor-de-18-anos",
-      "posted_at": "2025-09-08T15:06:22.094908+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/08/cma-analisa-projetos-sobre-protecao-animal-nesta-terca",
-      "posted_at": "2025-09-08T16:18:27.192631+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/onibus-interestadual-gratuito-para-idosos-e-um-dos-destaques-das-comissoes",
-      "posted_at": "2025-09-08T18:22:28.041979+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/08/veneziano-destaca-entregas-na-paraiba-e-critica-ato-de-7-de-setembro-em-sao-paulo",
-      "posted_at": "2025-09-08T20:16:35.991585+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/carnaval-de-salvador-agora-e-manifestacao-da-cultura-nacional",
       "posted_at": "2025-09-08T22:14:08.395770+00:00"
     },
@@ -96,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/prevencao-ao-sofrimento-psiquico-de-jovens-avanca",
       "posted_at": "2025-09-11T08:20:05.718748+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/11/senado-deve-confirmar-incentivos-a-doacao-de-alimentos",
+      "posted_at": "2025-09-11T22:14:00.438185+00:00"
     }
   ]
 }
