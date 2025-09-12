@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 81,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/carlos-lupi-diz-a-cpmi-que-inss-so-percebeu-tamanho-da-fraude-apos-acao-da-pf",
-      "posted_at": "2025-09-09T04:18:40.488296+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/boa-vista-e-reconhecida-como-capital-nacional-da-pacoca-de-carne-com-farinha",
       "posted_at": "2025-09-09T06:23:13.912780+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1199212-comissao-aprova-projeto-que-reconhece-escolas-de-saude-publica-como-estrategicas-para-o-sus/",
       "posted_at": "2025-09-12T04:17:46.930501+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1199383-ex-ministro-do-governo-bolsonaro-afirma-a-cpmi-do-inss-que-nao-soube-de-descontos-irregulares/",
+      "posted_at": "2025-09-12T06:22:39.698057+00:00"
     }
   ]
 }
