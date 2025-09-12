@@ -1,4 +1,6 @@
-"Coletor de notícias do Senado Federal."
+
+"""
+Coletor de notícias da Agência Brasil."""
 import logging
 import feedparser
 import requests
@@ -7,7 +9,7 @@ import requests
 # Configuração básica de logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-SENADO_NEWS_RSS_URL = "https://www12.senado.leg.br/noticias/rss"
+AGENCIABRASIL_NEWS_RSS_URL = "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"
 
 # Cabeçalho para simular um navegador
 HEADERS = {
@@ -16,28 +18,25 @@ HEADERS = {
 }
 
 
-def fetch_senado_news():
+def fetch_agenciabrasil_news():
     """
-    Busca as últimas notícias do feed RSS da Agência Senado.
+    Busca as últimas notícias do feed RSS da Agência Brasil.
 
     Retorna:
         list: Uma lista de dicionários, onde cada dicionário representa uma notícia
               com as chaves 'title', 'link' e 'summary'.
               Retorna uma lista vazia em caso de erro.
     """
-    logging.info(f"Buscando notícias do feed: {SENADO_NEWS_RSS_URL}")
+    logging.info(f"Buscando notícias do feed: {AGENCIABRASIL_NEWS_RSS_URL}")
     try:
-        # Usando requests para buscar o conteúdo com headers
-        response = requests.get(SENADO_NEWS_RSS_URL, headers=HEADERS,
+        response = requests.get(AGENCIABRASIL_NEWS_RSS_URL, headers=HEADERS,
                                 timeout=15, verify=False)
-        response.raise_for_status()  # Lança exceção para status de erro (4xx ou 5xx)
+        response.raise_for_status()
 
-        # Passando o conteúdo para o feedparser
         feed = feedparser.parse(response.content)
 
         if feed.bozo:
-            # feed.bozo é 1 se o feed estiver malformado
-            logging.error("O feed RSS está malformado. Causa: %s",
+            logging.error("O feed RSS da Agência Brasil está malformado. Causa: %s",
                           feed.bozo_exception)
             return []
 
@@ -50,20 +49,20 @@ def fetch_senado_news():
             }
             news_list.append(news_item)
 
-        logging.info("%d notícias encontradas no feed do Senado.", len(news_list))
+        logging.info("%d notícias encontradas no feed da Agência Brasil.", len(news_list))
         return news_list
 
     except requests.RequestException as e:
-        logging.error("Falha ao fazer a requisição para o feed do Senado: %s", e)
+        logging.error("Falha ao fazer a requisição para o feed da Agência Brasil: %s", e)
         return []
     except Exception as e:  # pylint: disable=broad-except
-        logging.error("Falha ao analisar o feed de notícias do Senado: %s", e)
+        logging.error("Falha ao analisar o feed de notícias da Agência Brasil: %s", e)
         return []
 
 
 if __name__ == '__main__':
-    print("--- Testando o coletor de notícias do Senado ---")
-    latest_news = fetch_senado_news()
+    print("--- Testando o coletor de notícias da Agência Brasil ---")
+    latest_news = fetch_agenciabrasil_news()
     if latest_news:
         print(f"\nEncontradas {len(latest_news)} notícias.")
         print("\n--- Exemplo da primeira notícia encontrada ---")

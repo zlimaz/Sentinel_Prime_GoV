@@ -4,6 +4,9 @@ from datetime import datetime, timezone
 # Importando nossas funções dos módulos que criamos
 from src.coletores.coleta_senado import fetch_senado_news
 from src.coletores.coleta_camara import fetch_camara_news
+from src.coletores.coleta_stf import fetch_stf_news
+from src.coletores.coleta_tse import fetch_tse_news
+from src.coletores.coleta_agenciabrasil import fetch_agenciabrasil_news
 from src.analisador.analisador_noticias import prune_old_posted_articles, filter_new_articles
 from src.formatadores.formatador_noticias import format_news_thread
 
@@ -27,7 +30,7 @@ def main():
 
     # 2. Buscar notícias de todas as fontes
     logging.info("Buscando notícias das fontes...")
-    all_news = fetch_senado_news() + fetch_camara_news()
+    all_news = fetch_senado_news() + fetch_camara_news() + fetch_stf_news() + fetch_tse_news() + fetch_agenciabrasil_news()
     # Ordena por garantia, embora feeds RSS já costumem ser cronológicos
     # (Assumindo que o feedparser popula uma data que pode ser usada para ordenar, ex: entry.published_parsed)
     # Para simplificar, vamos confiar na ordem do feed por enquanto.

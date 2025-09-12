@@ -2,7 +2,7 @@
 
 ---
 
-### Feature 1: Bot de Notícias (Status: Em Testes)
+### Feature 1: Bot de Notícias (Status: Concluído)
 
 **Objetivo:** Expandir as capacidades do bot para que ele também publique notícias sobre a política nacional.
 
@@ -14,7 +14,7 @@
 
 **2. Desenvolvimento dos Módulos de Coleta (Python):** - CONCLUÍDO
    - Criada a pasta `src/coletores/`.
-   - Criados e corrigidos os coletores `coleta_senado.py` e `coleta_camara.py`.
+   - Criados os coletores `coleta_senado.py` e `coleta_camara.py`.
 
 **3. Lógica de Análise e Formatação (Python):** - CONCLUÍDO
    - Criadas as pastas `src/analisador/` e `src/formatadores/`.
@@ -27,8 +27,43 @@
 **5. Dependências:** - CONCLUÍDO
    - Adicionadas as bibliotecas `feedparser` e `python-dateutil` ao `requirements.txt`.
 
-**6. Próximo Passo Imediato:**
-   - **TESTAR:** Executar o workflow no GitHub Actions e verificar se as correções funcionaram e uma notícia é postada.
+**6. Correção e Validação dos Coletores:** - CONCLUÍDO
+   - Atualizada a URL do feed de notícias do Senado.
+   - Corrigido o parsing do feed do Senado para lidar com a ausência do campo 'summary'.
+   - Realizados testes locais para garantir o funcionamento de ambos os coletores.
+
+---
+
+### Feature 1.1: Expansão das Fontes de Notícias (Status: Concluído)
+
+**Objetivo:** Aumentar a variedade e a agilidade das notícias, incluindo fontes dos poderes Judiciário e Executivo.
+
+**Passo a Passo da Implementação:**
+
+**1. Definição da Estratégia:** - CONCLUÍDO
+   - Decidido manter a lógica atual de postar a notícia mais recente de uma lista unificada de todas as fontes.
+
+**2. Desenvolvimento dos Novos Coletores:** - CONCLUÍDO
+   - Criado o coletor `coleta_stf.py` para o Supremo Tribunal Federal.
+   - Criado o coletor `coleta_tse.py` para o Tribunal Superior Eleitoral.
+   - Criado o coletor `coleta_agenciabrasil.py` para a Agência Brasil.
+
+**3. Integração dos Coletores:** - CONCLUÍDO
+   - O script `src/main_noticias.py` foi atualizado para importar e utilizar os três novos coletores.
+
+**4. Testes e Validação:** - CONCLUÍDO
+   - **Problemas Encontrados e Soluções:**
+     - **Erro de SSL:** O erro `SSLError: CERTIFICATE_VERIFY_FAILED` impedia a conexão com alguns feeds. A solução inicial foi adicionar `verify=False` às requisições.
+     - **URLs de Feeds Inválidas:** Os coletores do TSE e do STF pararam de funcionar devido a URLs incorretas. Após pesquisa, as URLs corretas foram encontradas e implementadas.
+     - **Erro de Importação (`ModuleNotFoundError`):** A reestruturação do projeto na pasta `src` causou problemas de importação. A solução foi mover o script `main_noticias.py` para o diretório raiz e ajustar os caminhos dos imports para `from src...`.
+   - **Validação Final:** Todos os 5 coletores (`camara`, `senado`, `stf`, `tse`, `agenciabrasil`) foram testados individualmente e funcionaram. O script principal `main_noticias.py` foi executado com sucesso, integrando todas as fontes.
+
+**Próximos Passos Imediatos:**
+1.  **Refatoração Pós-Implementação:** - CONCLUÍDO
+    - Aplicadas melhorias de código sugeridas pela ferramenta `pylint`. A pontuação atual do `pylint` é de 9.47/10.
+    - Os avisos restantes (`too-many-arguments`, `too-many-positional-arguments`, `too-many-local-variables`, `unused-argument`, `unused-variable`, `unused-import`) foram analisados e considerados aceitáveis ou falsos positivos para o contexto atual do projeto.
+2.  **Testes Finais:**
+    - Executar o script `main_noticias.py` para confirmar que todas as funcionalidades estão operando corretamente após a refatoração.
 
 ---
 

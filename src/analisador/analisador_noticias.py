@@ -1,7 +1,10 @@
+"""Módulo para análise e filtragem de notícias."""
 import logging
 from datetime import datetime, timedelta, timezone
 
+
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
 
 def prune_old_posted_articles(posted_articles, days_to_keep=3):
     """
@@ -27,9 +30,10 @@ def prune_old_posted_articles(posted_articles, days_to_keep=3):
         if posted_date >= cutoff_date:
             pruned_list.append(article)
         else:
-            logging.info(f"Removendo artigo antigo da lista de estado: {article['link']}")
+            logging.info("Removendo artigo antigo da lista de estado: %s", article['link'])
 
     return pruned_list
+
 
 def filter_new_articles(all_fetched_articles, posted_articles):
     """
@@ -51,7 +55,7 @@ def filter_new_articles(all_fetched_articles, posted_articles):
     for article in all_fetched_articles:
         if article['link'] not in posted_links:
             new_articles.append(article)
-    
-    logging.info(f"Filtragem concluída. {len(new_articles)} novas notícias encontradas.")
+
+    logging.info("Filtragem concluída. %d novas notícias encontradas.", len(new_articles))
     # A lista de notícias do feed já vem em ordem cronológica (mais novas primeiro)
     return new_articles

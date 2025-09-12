@@ -20,7 +20,7 @@ sdist/
 var/
 wheels/
 *.egg-info/
-.installed.cfg
+.installed_cfg
 *.egg
 
 # PyInstaller
@@ -78,3 +78,5 @@ venv.bak
 # IDEs
 .idea/
 .vscode/
+
+roteiro_feature_noticias.txt
