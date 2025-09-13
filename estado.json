@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 83,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/marco-do-comercio-exterior-segue-para-votacao-no-plenario-do-senado",
-      "posted_at": "2025-09-09T22:12:36.900858+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/militares-e-industria-belica-defendem-mais-recursos-durante-tensoes-geopoliticas",
       "posted_at": "2025-09-10T01:08:11.006204+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/reducao-de-produto-devera-ser-informada-no-rotulo-por-dois-anos",
       "posted_at": "2025-09-12T20:16:21.140405+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/12/cais-do-valongo-e-reconhecido-patrimonio-historico-e-cultural-afro-brasileiro",
+      "posted_at": "2025-09-13T01:04:12.607621+00:00"
     }
   ]
 }
