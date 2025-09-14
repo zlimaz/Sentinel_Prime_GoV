@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 85,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/10/sessao-especial-vai-celebrar-os-135-anos-do-tcu",
-      "posted_at": "2025-09-11T02:57:32.221361+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/especialistas-cobram-investimentos-para-pesquisa-sobre-terras-raras",
       "posted_at": "2025-09-11T04:18:34.888403+00:00"
     },
@@ -72,6 +68,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/12/senado-vai-comemorar-125-anos-da-fiocruz",
       "posted_at": "2025-09-14T01:13:43.112245+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/12/lupicinio-rodrigues-e-pixinguinha-agora-sao-patronos-da-mpb",
+      "posted_at": "2025-09-14T02:59:17.117328+00:00"
     }
   ]
 }
