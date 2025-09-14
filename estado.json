@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 85,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/10/magno-malta-critica-ativismo-judicial",
-      "posted_at": "2025-09-11T06:23:08.684255+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/prevencao-ao-sofrimento-psiquico-de-jovens-avanca",
       "posted_at": "2025-09-11T08:20:05.718748+00:00"
     },
@@ -76,6 +72,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/12/cas-vota-projeto-que-libera-venda-de-remedio-em-supermercados",
       "posted_at": "2025-09-14T06:20:05.985043+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/programas-internacionais-podem-ajudar-esporte-de-base-no-pais-aponta-debate",
+      "posted_at": "2025-09-14T08:17:32.807355+00:00"
     }
   ]
 }
