@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 87,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/prevencao-ao-sofrimento-psiquico-de-jovens-avanca",
-      "posted_at": "2025-09-11T08:20:05.718748+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/11/senado-deve-confirmar-incentivos-a-doacao-de-alimentos",
-      "posted_at": "2025-09-11T22:14:00.438185+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1199374-motta-quer-gestao-moderna-e-inovadora-e-anuncia-medidas-para-aumentar-a-eficiencia-na-camara/",
-      "posted_at": "2025-09-12T01:06:53.673400+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1199161-comissao-debate-oferta-de-ensino-da-lingua-brasileira-de-sinais/",
       "posted_at": "2025-09-12T02:51:56.826013+00:00"
     },
@@ -76,6 +64,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/programas-internacionais-podem-ajudar-esporte-de-base-no-pais-aponta-debate",
       "posted_at": "2025-09-14T08:17:32.807355+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/cpmi-do-inss-presidente-confirma-presenca-do-careca-do-inss-na-segunda",
+      "posted_at": "2025-09-15T01:13:57.288804+00:00"
     }
   ]
 }
