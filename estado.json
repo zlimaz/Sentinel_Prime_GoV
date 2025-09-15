@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 87,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1199545-camara-autoriza-a-realizacao-de-concurso-publico-para-analista-legislativo-e-tecnico-legislativo/",
-      "posted_at": "2025-09-12T14:14:34.985072+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/reducao-de-produto-devera-ser-informada-no-rotulo-por-dois-anos",
       "posted_at": "2025-09-12T20:16:21.140405+00:00"
     },
@@ -76,6 +72,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/09/15-de-setembro-e-dia-internacional-da-democracia",
       "posted_at": "2025-09-15T12:31:22.600711+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/15/lei-da-mais-5-anos-para-regularizacao-de-imoveis-na-faixa-de-fronteira",
+      "posted_at": "2025-09-15T14:16:07.913524+00:00"
     }
   ]
 }
