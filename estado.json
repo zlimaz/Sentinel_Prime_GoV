@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 87,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1199161-comissao-debate-oferta-de-ensino-da-lingua-brasileira-de-sinais/",
-      "posted_at": "2025-09-12T02:51:56.826013+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1199212-comissao-aprova-projeto-que-reconhece-escolas-de-saude-publica-como-estrategicas-para-o-sus/",
       "posted_at": "2025-09-12T04:17:46.930501+00:00"
     },
@@ -68,6 +64,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/09/cpmi-do-inss-presidente-confirma-presenca-do-careca-do-inss-na-segunda",
       "posted_at": "2025-09-15T01:13:57.288804+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/senado-aprova-teste-genetico-no-sus-para-mulheres-com-alto-risco-de-cancer",
+      "posted_at": "2025-09-15T03:04:31.042226+00:00"
     }
   ]
 }
