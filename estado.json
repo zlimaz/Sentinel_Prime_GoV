@@ -2,22 +2,6 @@
   "last_processed_deputy_index": 89,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/12/cais-do-valongo-e-reconhecido-patrimonio-historico-e-cultural-afro-brasileiro",
-      "posted_at": "2025-09-13T01:04:12.607621+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/09/educacao-digital-tecnologia-e-inovacao-na-escola",
-      "posted_at": "2025-09-13T02:43:05.259738+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/12/programa-calha-norte-transforma-a-vida-de-brasileiros-dizem-debatedores",
-      "posted_at": "2025-09-13T04:16:41.965749+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/09/mundo-digital-esconde-perigos-para-as-criancas-saiba-como-protege-las",
-      "posted_at": "2025-09-13T06:19:38.728978+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/comissao-aprova-regras-para-cartao-corporativo-e-contratos-com-ongs",
       "posted_at": "2025-09-13T08:17:17.292278+00:00"
     },
@@ -76,6 +60,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/15/congresso-vai-comemorar-53-anos-do-hub",
       "posted_at": "2025-09-15T20:16:27.079903+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/15/cpmi-vai-convocar-familiares-e-socios-do-careca-do-inss",
+      "posted_at": "2025-09-16T06:22:56.626692+00:00"
     }
   ]
 }
