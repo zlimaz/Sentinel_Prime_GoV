@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 89,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/comissao-aprova-regras-para-cartao-corporativo-e-contratos-com-ongs",
-      "posted_at": "2025-09-13T08:17:17.292278+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/12/senado-vai-comemorar-125-anos-da-fiocruz",
       "posted_at": "2025-09-14T01:13:43.112245+00:00"
     },
@@ -64,6 +60,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/15/cpmi-vai-convocar-familiares-e-socios-do-careca-do-inss",
       "posted_at": "2025-09-16T06:22:56.626692+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/15/humberto-costa-e-o-novo-presidente-do-parlasul",
+      "posted_at": "2025-09-16T08:21:02.533172+00:00"
     }
   ]
 }
