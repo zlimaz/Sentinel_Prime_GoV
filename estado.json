@@ -2,26 +2,6 @@
   "last_processed_deputy_index": 91,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/12/senado-vai-comemorar-125-anos-da-fiocruz",
-      "posted_at": "2025-09-14T01:13:43.112245+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/12/lupicinio-rodrigues-e-pixinguinha-agora-sao-patronos-da-mpb",
-      "posted_at": "2025-09-14T02:59:17.117328+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/lei-que-cria-carteira-nacional-de-docente-e-sancionada",
-      "posted_at": "2025-09-14T04:17:15.918278+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/12/cas-vota-projeto-que-libera-venda-de-remedio-em-supermercados",
-      "posted_at": "2025-09-14T06:20:05.985043+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/programas-internacionais-podem-ajudar-esporte-de-base-no-pais-aponta-debate",
-      "posted_at": "2025-09-14T08:17:32.807355+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/09/cpmi-do-inss-presidente-confirma-presenca-do-careca-do-inss-na-segunda",
       "posted_at": "2025-09-15T01:13:57.288804+00:00"
     },
@@ -92,6 +72,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1200684-especialistas-afirmam-que-digitalizacao-do-comercio-no-brics-deve-manter-dolar-como-referencia/",
       "posted_at": "2025-09-16T22:13:53.386404+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/ao-vivo-ccj-analisa-criacao-do-comite-gestor-do-imposto-sobre-bens-e-servicos-2013-17-9-25",
+      "posted_at": "2025-09-17T12:31:07.163008+00:00"
     }
   ]
 }
