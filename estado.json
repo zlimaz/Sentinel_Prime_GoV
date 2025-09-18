@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 93,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/cpmi-do-inss-presidente-confirma-presenca-do-careca-do-inss-na-segunda",
-      "posted_at": "2025-09-15T01:13:57.288804+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/09/senado-aprova-teste-genetico-no-sus-para-mulheres-com-alto-risco-de-cancer",
       "posted_at": "2025-09-15T03:04:31.042226+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/17/senado-aprova-conta-de-luz-gratuita-para-familias-de-baixa-renda",
       "posted_at": "2025-09-18T01:07:38.776670+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/no-setembro-amarelo-senado-aprova-reforcos-a-medidas-de-prevencao-ao-suicidio",
+      "posted_at": "2025-09-18T02:54:23.825805+00:00"
     }
   ]
 }
