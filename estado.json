@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 94,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/15/lei-da-mais-5-anos-para-regularizacao-de-imoveis-na-faixa-de-fronteira",
-      "posted_at": "2025-09-15T14:16:07.913524+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/15/congresso-vai-comemorar-53-anos-do-hub",
       "posted_at": "2025-09-15T20:16:27.079903+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/18/cpmi-ouve-nelson-wilians-advogado-ligado-a-camisotti",
       "posted_at": "2025-09-18T14:15:32.451326+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/18/cpmi-do-inss-aprova-174-requerimentos-convocacoes-de-ministros-viram-convites",
+      "posted_at": "2025-09-18T16:18:21.098285+00:00"
     }
   ]
 }
