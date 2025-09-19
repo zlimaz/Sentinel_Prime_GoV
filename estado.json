@@ -2,26 +2,6 @@
   "last_processed_deputy_index": 96,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/15/cpmi-vai-convocar-familiares-e-socios-do-careca-do-inss",
-      "posted_at": "2025-09-16T06:22:56.626692+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/15/humberto-costa-e-o-novo-presidente-do-parlasul",
-      "posted_at": "2025-09-16T08:21:02.533172+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/plenario-vota-aumento-de-pena-para-quem-oferecer-bebida-a-menores",
-      "posted_at": "2025-09-16T10:16:05.674201+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/ao-vivo-ci-analisa-plano-de-navegabilidade-e-conservacao-de-rios-da-amazonia-2013-16-9-25",
-      "posted_at": "2025-09-16T12:31:07.697258+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/16/contrato-especial-de-trabalho-para-pesquisadores-segue-ao-plenario",
-      "posted_at": "2025-09-16T14:15:43.292997+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/16/cae-aprova-retirada-de-despesas-com-tarifaco-do-teto-de-gastos",
       "posted_at": "2025-09-16T16:18:59.392920+00:00"
     },
@@ -92,6 +72,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/09/depoente-nega-sociedade-com-careca-do-inss-e-afirma-que-foi-prestador-de-servico",
       "posted_at": "2025-09-19T01:10:03.977725+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/o-senado-abriu-consulta-sobre-a-anistia",
+      "posted_at": "2025-09-19T16:17:56.782359+00:00"
     }
   ]
 }
