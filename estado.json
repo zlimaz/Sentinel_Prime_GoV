@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 99,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/17/dueire-quer-que-bancos-informem-clientes-sobre-valores-a-serem-devolvidos",
-      "posted_at": "2025-09-17T20:16:17.230359+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/17/girao-diz-que-stf-golpeia-a-democracia-brasileira-desde-2019",
       "posted_at": "2025-09-17T22:13:37.726860+00:00"
     },
@@ -72,6 +68,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/sessao-destaca-importancia-social-do-sistema-s",
       "posted_at": "2025-09-20T20:14:11.516725+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/cpmi-ouve-ex-diretor-financeiro-apontado-como-socio-do-careca-do-inss",
+      "posted_at": "2025-09-20T22:21:38.198330+00:00"
     }
   ]
 }
