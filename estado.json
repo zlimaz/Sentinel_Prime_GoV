@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 98,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/supermercados-poderao-instalar-farmacia-e-vender-remedios-aprova-cas",
-      "posted_at": "2025-09-17T16:19:14.567080+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/senadores-vao-ao-amazonas-para-investigar-acao-da-pf-contra-garimpo-ilegal",
       "posted_at": "2025-09-17T18:21:38.780931+00:00"
     },
@@ -72,6 +68,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/projeto-do-governo-regula-atuacao-economica-das-big-techs-no-brasil",
       "posted_at": "2025-09-20T16:16:23.023240+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/csp-projeto-preve-que-aplicativos-identifiquem-areas-com-alto-risco-de-crime",
+      "posted_at": "2025-09-20T18:18:17.900012+00:00"
     }
   ]
 }
