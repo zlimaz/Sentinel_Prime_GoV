@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 98,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/senadores-vao-ao-amazonas-para-investigar-acao-da-pf-contra-garimpo-ilegal",
-      "posted_at": "2025-09-17T18:21:38.780931+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/17/dueire-quer-que-bancos-informem-clientes-sobre-valores-a-serem-devolvidos",
       "posted_at": "2025-09-17T20:16:17.230359+00:00"
     },
@@ -72,6 +68,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/csp-projeto-preve-que-aplicativos-identifiquem-areas-com-alto-risco-de-crime",
       "posted_at": "2025-09-20T18:18:17.900012+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/sessao-destaca-importancia-social-do-sistema-s",
+      "posted_at": "2025-09-20T20:14:11.516725+00:00"
     }
   ]
 }
