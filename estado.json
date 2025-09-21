@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 100,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/18/cpmi-ouve-nelson-wilians-advogado-ligado-a-camisotti",
-      "posted_at": "2025-09-18T14:15:32.451326+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/18/cpmi-do-inss-aprova-174-requerimentos-convocacoes-de-ministros-viram-convites",
-      "posted_at": "2025-09-18T16:18:21.098285+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/18/cre-debate-relevancia-do-brasil-no-cenario-internacional",
-      "posted_at": "2025-09-18T18:22:26.788759+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/18/cdh-vai-debater-sindrome-do-x-fragil-que-causa-deficiencia-intelectual",
       "posted_at": "2025-09-18T20:16:54.633352+00:00"
     },
@@ -72,6 +60,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/ci-vota-plano-de-conservacao-e-navegabilidade-da-amazonia",
       "posted_at": "2025-09-21T04:17:37.069570+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/ao-vivo-sessao-especial-do-plenario-homenageia-o-sistema-s-2013-19-9-25",
+      "posted_at": "2025-09-21T20:15:26.912362+00:00"
     }
   ]
 }
