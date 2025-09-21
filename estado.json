@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 99,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/no-setembro-amarelo-senado-aprova-reforcos-a-medidas-de-prevencao-ao-suicidio",
-      "posted_at": "2025-09-18T02:54:23.825805+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/18/cpmi-ouve-nelson-wilians-advogado-ligado-a-camisotti",
       "posted_at": "2025-09-18T14:15:32.451326+00:00"
     },
@@ -68,6 +64,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/cdh-debate-medidas-de-protecao-a-mulheres-indigenas-vitimas-de-violencia",
       "posted_at": "2025-09-21T01:24:22.225449+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/ifi-receitas-incertas-podem-comprometer-crescimento-do-pib",
+      "posted_at": "2025-09-21T03:04:29.020758+00:00"
     }
   ]
 }
