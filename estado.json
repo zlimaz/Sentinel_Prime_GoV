@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 99,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/17/girao-diz-que-stf-golpeia-a-democracia-brasileira-desde-2019",
-      "posted_at": "2025-09-17T22:13:37.726860+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/17/senado-aprova-conta-de-luz-gratuita-para-familias-de-baixa-renda",
-      "posted_at": "2025-09-18T01:07:38.776670+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/09/no-setembro-amarelo-senado-aprova-reforcos-a-medidas-de-prevencao-ao-suicidio",
       "posted_at": "2025-09-18T02:54:23.825805+00:00"
     },
@@ -72,6 +64,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/cpmi-ouve-ex-diretor-financeiro-apontado-como-socio-do-careca-do-inss",
       "posted_at": "2025-09-20T22:21:38.198330+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/cdh-debate-medidas-de-protecao-a-mulheres-indigenas-vitimas-de-violencia",
+      "posted_at": "2025-09-21T01:24:22.225449+00:00"
     }
   ]
 }
