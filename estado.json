@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 103,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/projeto-da-prioridade-a-trabalhadoras-rurais-na-titulacao-de-terras",
-      "posted_at": "2025-09-19T20:25:16.324721+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/proposta-no-congresso-muda-estrutura-da-autoridade-nacional-de-protecao-de-dados",
       "posted_at": "2025-09-19T22:14:10.734249+00:00"
     },
@@ -72,6 +68,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/lei-garante-participacao-indigena-quilombola-e-camponesa-na-nomeacao-de-escolas",
       "posted_at": "2025-09-22T20:16:37.204480+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/alessandro-vieira-diz-que-apresentara-relatorio-que-rejeita-pec-do-mandato",
+      "posted_at": "2025-09-22T22:14:06.634044+00:00"
     }
   ]
 }
