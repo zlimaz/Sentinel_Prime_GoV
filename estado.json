@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 101,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/depoente-nega-sociedade-com-careca-do-inss-e-afirma-que-foi-prestador-de-servico",
-      "posted_at": "2025-09-19T01:10:03.977725+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/o-senado-abriu-consulta-sobre-a-anistia",
       "posted_at": "2025-09-19T16:17:56.782359+00:00"
     },
@@ -60,6 +56,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/09/educacao-financeira-prevencao-de-dividas-comeca-na-escola",
       "posted_at": "2025-09-21T22:13:28.905570+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/abertura-da-cpi-do-crime-organizado-aguarda-indicacoes-dos-lideres-partidarios",
+      "posted_at": "2025-09-22T01:14:43.467630+00:00"
     }
   ]
 }
