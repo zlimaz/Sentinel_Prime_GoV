@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 103,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/proposta-no-congresso-muda-estrutura-da-autoridade-nacional-de-protecao-de-dados",
-      "posted_at": "2025-09-19T22:14:10.734249+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/comissao-debate-regularizacao-de-terras-na-fronteira",
-      "posted_at": "2025-09-20T01:06:24.932339+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/projeto-do-governo-regula-atuacao-economica-das-big-techs-no-brasil",
       "posted_at": "2025-09-20T16:16:23.023240+00:00"
     },
@@ -72,6 +64,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/09/alessandro-vieira-diz-que-apresentara-relatorio-que-rejeita-pec-do-mandato",
       "posted_at": "2025-09-22T22:14:06.634044+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/relator-questiona-afastamento-de-depoente-de-empresas-do-careca-do-inss",
+      "posted_at": "2025-09-23T01:08:04.959058+00:00"
     }
   ]
 }
