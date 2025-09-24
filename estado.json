@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 105,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/ifi-receitas-incertas-podem-comprometer-crescimento-do-pib",
-      "posted_at": "2025-09-21T03:04:29.020758+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/19/ci-vota-plano-de-conservacao-e-navegabilidade-da-amazonia",
-      "posted_at": "2025-09-21T04:17:37.069570+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/09/ao-vivo-sessao-especial-do-plenario-homenageia-o-sistema-s-2013-19-9-25",
       "posted_at": "2025-09-21T20:15:26.912362+00:00"
     },
@@ -80,6 +72,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/23/cdh-atendimento-a-mulher-indigena-vitima-de-violencia-deve-respeitar-especificidades",
       "posted_at": "2025-09-24T02:56:32.316160+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/senado-amplia-e-agiliza-pagamento-do-beneficio-garantia-safra",
+      "posted_at": "2025-09-24T04:18:14.004198+00:00"
     }
   ]
 }
