@@ -1,49 +1,55 @@
 # Projeto Sentinela 🤖🔍
 
-**Um bot de transparência que monitora e divulga os gastos da Cota Parlamentar de deputados federais brasileiros no X (antigo Twitter).**
+**Um bot de transparência que monitora gastos parlamentares e agrega notícias dos Três Poderes do Brasil, publicando tudo no X (antigo Twitter).**
 
 ---
 
 ## 🎯 O que é o Projeto Sentinela?
 
-O Projeto Sentinela é uma ferramenta de fiscalização cívica criada para dar mais visibilidade aos gastos públicos. Ele consome dados diretamente da API de Dados Abertos da Câmara dos Deputados, processa essas informações e as publica de forma clara e acessível em uma thread no X, permitindo que qualquer cidadão acompanhe como a Cota Parlamentar está sendo utilizada.
+O Projeto Sentinela é uma ferramenta de fiscalização cívica com duas funções principais:
 
-O objetivo é simples: transformar dados públicos em conhecimento acessível para todos.
+1.  **Monitor de Gastos:** Divulga os gastos da Cota Parlamentar de deputados federais, transformando dados públicos da Câmara dos Deputados em um ranking claro e acessível.
+2.  **Agregador de Notícias:** Centraliza e publica as últimas notícias de fontes oficiais do Legislativo, Executivo e Judiciário, mantendo o cidadão informado sobre as atividades dos Três Poderes.
+
+O objetivo é simples: transformar dados e notícias públicas em conhecimento acessível para todos.
 
 ## ⚙️ Como Funciona?
 
-O projeto é dividido em três fases principais:
+O projeto opera em duas frentes principais, ambas automatizadas com GitHub Actions.
 
-1.  **Fase 1: Coleta e Ranking (Concluída)**
-    -   Um script (`src/gerador_de_ranking.py`) consome a API da Câmara para buscar todos os deputados em exercício.
-    -   Para cada deputado, ele calcula o total de gastos nos últimos 90 dias.
-    -   Ao final, gera o arquivo `ranking_gastos.json`, que ordena os deputados do maior para o menor gastador.
+### 1. Monitor de Gastos de Deputados
 
-2.  **Fase 2: Automação da Postagem (Concluída)**
-    -   O script principal (`src/main.py`) lê o ranking e o estado atual (`estado.json`) para selecionar o próximo deputado da fila.
-    -   Ele busca os detalhes das despesas desse deputado.
-    -   Gera uma thread informativa com 3 tweets: o primeiro com o valor total, o segundo com os principais tipos de despesa, e o terceiro com o maior gasto único e o link para a fonte oficial.
-    -   Posta essa thread no X de forma automática.
+Este módulo foca na Cota Parlamentar da Câmara dos Deputados.
 
-3.  **Fase 3: Automação Contínua (Concluída)**
-    -   A execução do bot agora é totalmente automatizada e gerenciada pelo GitHub Actions, eliminando a necessidade de intervenção manual ou de manter uma máquina local ligada.
-    -   **Workflow de Geração de Ranking (`.github/workflows/generate-ranking.yml`):** Roda quinzenalmente (dias 1 e 15 do mês) para atualizar o `ranking_gastos.json` diretamente no repositório, garantindo que o bot sempre utilize dados recentes.
-    -   **Workflow de Postagem (`.github/workflows/bot-schedule.yml`):** Roda duas vezes ao dia (12:00 e 18:00 BRT) para selecionar o próximo deputado do ranking e postar a thread. O estado da aplicação (`estado.json`) é persistido diretamente no repositório a cada execução, assegurando que o bot continue de onde parou.
+-   **Coleta e Ranking:** Um workflow do GitHub Actions (`.github/workflows/generate-ranking.yml`) é executado quinzenalmente. Ele roda o script `src/gerador_de_ranking.py` que busca todos os deputados, calcula seus gastos nos últimos 90 dias e gera um ranking (`ranking_gastos.json`).
+-   **Postagem Automática:** Outro workflow (`.github/workflows/bot-schedule.yml`) roda duas vezes ao dia. Ele executa o script `src/main.py`, que lê o ranking, seleciona o próximo deputado da fila, detalha suas despesas e posta uma thread informativa no X. O estado da fila é controlado pelo arquivo `estado.json`.
+
+### 2. Agregador de Notícias
+
+Este módulo coleta notícias de fontes oficiais dos Três Poderes.
+
+-   **Fontes Coletadas:**
+    -   **Legislativo:** Agência Senado e Agência Câmara.
+    -   **Judiciário:** Supremo Tribunal Federal (STF) e Tribunal Superior Eleitoral (TSE).
+    -   **Executivo:** Agência Brasil.
+-   **Coleta e Postagem:** Um workflow dedicado (`.github/workflows/noticias-bot.yml`) roda em intervalos regulares. Ele executa o script `main_noticias.py`, que:
+    1.  Chama os coletores na pasta `src/coletores/` para buscar as últimas notícias de todas as fontes via feeds RSS.
+    2.  Filtra as notícias para não repetir posts, usando o `estado.json` como referência.
+    3.  Seleciona a notícia mais recente, a formata em uma thread com título, resumo e link, e a publica no X.
 
 ## 🛠️ Tecnologias Utilizadas
 
 -   **Linguagem:** Python 3
--   **Bibliotecas Principais:** `requests`, `tweepy`, `python-dotenv`
--   **Fonte de Dados:** [API de Dados Abertos da Câmara dos Deputados](https://dadosabertos.camara.leg.br/)
+-   **Bibliotecas Principais:** `requests`, `tweepy`, `python-dotenv`, `feedparser`
+-   **Fontes de Dados:**
+    -   [API de Dados Abertos da Câmara dos Deputados](https://dadosabertos.camara.leg.br/)
+    -   Feeds RSS do Senado, Câmara, STF, TSE e Agência Brasil.
 -   **Publicação:** API do X (Twitter)
--   **Automação:** GitHub Actions (para agendamento, execução e persistência de estado na nuvem)
-    *   *Nota sobre a escolha da automação:* Inicialmente, ferramentas como `cron` ou o n8n foram consideradas para agendamento local. No entanto, para garantir uma automação robusta, escalável e independente de infraestrutura local, optou-se pelo GitHub Actions. Esta plataforma oferece integração nativa com o repositório, gerenciamento seguro de credenciais (GitHub Secrets) e mecanismos eficientes para persistência de estado, como o versionamento do `estado.json` diretamente no Git.
+-   **Automação:** GitHub Actions
 
-## 🚀 Como Executar o Projeto (e a Automação)
+## 🚀 Como Executar o Projeto Localmente
 
-O Projeto Sentinela agora opera de forma autônoma via GitHub Actions. No entanto, você ainda pode executá-lo manualmente em sua máquina local para desenvolvimento, testes ou depuração.
-
-Siga os passos abaixo para configurar e rodar o projeto em sua máquina local.
+Embora o bot opere de forma autônoma, você pode executá-lo em sua máquina para testes e desenvolvimento.
 
 **1. Pré-requisitos:**
    - Python 3.8 ou superior
@@ -54,7 +60,6 @@ Siga os passos abaixo para configurar e rodar o projeto em sua máquina local.
    git clone https://github.com/zlimaz/Projeto-Sentinela.git
    cd Projeto-Sentinela
    ```
-   *Nota:* Após clonar, é recomendável executar `git pull` periodicamente para garantir que seu ambiente local esteja sincronizado com as últimas atualizações do `ranking_gastos.json` e `estado.json` que são gerados pela automação na nuvem.
 
 **3. Crie e Ative o Ambiente Virtual:**
    ```bash
@@ -68,43 +73,51 @@ Siga os passos abaixo para configurar e rodar o projeto em sua máquina local.
    ```
 
 **5. Configure as Credenciais:**
-   - Renomeie o arquivo `.env.example` para `.env` (ou crie um novo).
-   - Abra o arquivo `.env` e preencha com suas credenciais da API do X:
-     ```
-     X_API_KEY=SUA_API_KEY
-     X_API_SECRET=SUA_API_SECRET
-     X_ACCESS_TOKEN=SEU_ACCESS_TOKEN
-     X_ACCESS_TOKEN_SECRET=SEU_ACCESS_TOKEN_SECRET
-     ```
-   *Nota:* Para a automação na nuvem (GitHub Actions), as credenciais são configuradas como GitHub Secrets no repositório, não no arquivo `.env`.
+   - Crie um arquivo `.env` (pode copiar do `.env.example`) e preencha com suas credenciais da API do X.
 
 **6. Execute os Scripts Manualmente:**
-   - Para gerar o ranking de gastos (se necessário, para testes locais):
+
+   - **Para o Monitor de Gastos:**
      ```bash
+     # Gerar o ranking de gastos (opcional, para testes)
      python3 -m src.gerador_de_ranking
-     ```
-   - Para postar o próximo deputado do ranking no X:
-     ```bash
+
+     # Postar o próximo deputado do ranking
      python3 -m src.main
+     ```
+
+   - **Para o Agregador de Notícias:**
+     ```bash
+     # Coletar e postar a última notícia
+     python3 main_noticias.py
      ```
 
 ## 🗂️ Estrutura de Arquivos
 
 ```
 .
-├── .venv/               # Ambiente virtual Python
-├── src/                 # Código fonte do projeto
-│   ├── api_client.py    # Funções para interagir com as APIs (Câmara e X)
-│   ├── gerador_de_ranking.py # Script para gerar o ranking de gastos
-│   └── main.py          # Script principal que gera e posta a thread
-├── .env                 # Arquivo para guardar as credenciais (NÃO versionado)
-├── .github/             # Configurações do GitHub (workflows de automação)
+├── .github/
 │   └── workflows/
-│       ├── bot-schedule.yml     # Workflow para postagem diária
-│       └── generate-ranking.yml # Workflow para geração quinzenal do ranking
-├── .gitignore           # Arquivos e pastas ignorados pelo Git
-├── estado.json          # Guarda o estado da aplicação (último deputado processado)
-├── ranking_gastos.json  # Lista de deputados ordenada por gastos
-├── requirements.txt     # Lista de dependências Python
-└── README.md            # Esta documentação
+│       ├── bot-schedule.yml       # Workflow para postar gastos
+│       ├── generate-ranking.yml   # Workflow para gerar ranking de gastos
+│       └── noticias-bot.yml       # Workflow para postar notícias
+├── src/
+│   ├── analisador/
+│   │   └── analisador_noticias.py # Filtra e gerencia notícias postadas
+│   ├── api_client.py            # Cliente para a API do X (Twitter)
+│   ├── coletores/               # Scripts que coletam notícias das fontes
+│   │   ├── coleta_agenciabrasil.py
+│   │   ├── coleta_camara.py
+│   │   ├── coleta_senado.py
+│   │   ├── coleta_stf.py
+│   │   └── coleta_tse.py
+│   ├── formatadores/
+│   │   └── formatador_noticias.py # Formata notícias para o X
+│   ├── gerador_de_ranking.py    # Script do monitor de gastos
+│   └── main.py                  # Script principal do monitor de gastos
+├── main_noticias.py             # Script principal do agregador de notícias
+├── estado.json                  # Guarda o estado da aplicação (últimos posts)
+├── ranking_gastos.json          # Ranking de deputados por gastos
+├── requirements.txt             # Dependências Python
+└── README.md                    # Esta documentação
 ```
