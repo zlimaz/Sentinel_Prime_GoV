@@ -30,7 +30,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: 4. Rodando o bot de notícias
-        run: python3 -m src.main_noticias
+        run: python3 main_noticias.py
         env:
           X_API_KEY: ${{ secrets.X_API_KEY }}
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
