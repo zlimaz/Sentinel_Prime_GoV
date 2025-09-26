@@ -55,11 +55,20 @@ def main():
     last_tweet_id = None
     post_successful = True
     for tweet in thread_content:
-        last_tweet_id = post_tweet(tweet, reply_to_id=last_tweet_id)
-        if not last_tweet_id:
+        result = post_tweet(tweet, reply_to_id=last_tweet_id)
+        
+        if result == "duplicate":
+            logging.warning("Tweet duplicado detectado. A notícia será marcada como postada para evitar repetições.")
+            # Consideramos sucesso para que o estado seja atualizado e não tente postar de novo.
+            post_successful = True
+            break  # Sai do loop da thread, já que não podemos continuar a sequência
+        
+        if not result:
             logging.error("Falha ao postar um dos tweets da notícia. Abortando.")
             post_successful = False
             break
+            
+        last_tweet_id = result
 
     # 7. Atualizar e salvar o estado se a postagem foi bem-sucedida
     if post_successful:

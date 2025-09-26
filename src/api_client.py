@@ -79,7 +79,7 @@ def post_tweet(text, reply_to_id=None):
                                      Padrão é None.
 
     Retorna:
-        str: O ID do tweet postado, ou None em caso de erro.
+        str: O ID do tweet postado, "duplicate" se o conteúdo for duplicado, ou None em caso de outro erro.
     """
     try:
         api_key = os.environ.get("X_API_KEY")
@@ -104,5 +104,9 @@ def post_tweet(text, reply_to_id=None):
         print(f"Tweet postado com sucesso: {tweet_id}")
         return tweet_id
     except tweepy.TweepyException as e:
+        if "duplicate content" in str(e):
+            print("Aviso: Conteúdo de tweet duplicado. Marcando como tratado para não repetir.")
+            return "duplicate"
+        
         print(f"Erro ao postar tweet: {e}")
         return None
