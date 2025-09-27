@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/23/contarato-pede-legislacao-de-transito-mais-rigorosa",
-      "posted_at": "2025-09-23T22:13:51.086933+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/09/senado-aprova-mudancas-no-beneficio-garantia-safra",
       "posted_at": "2025-09-24T01:09:19.521611+00:00"
     },
@@ -36,6 +32,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/e-preciso-aumentar-a-conscientizacao-sobre-demencias-aponta-debate",
       "posted_at": "2025-09-26T22:13:28.085640+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/26/igualdade-de-genero-ainda-enfrenta-desafios-nas-americas-aponta-encontro",
+      "posted_at": "2025-09-27T01:06:23.573368+00:00"
     }
   ]
 }
