@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/26/navegabilidade-dos-rios-da-amazonia-esta-na-pauta-da-comissao-de-infraestrutura",
-      "posted_at": "2025-09-26T15:06:58.883653+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/premio-transito-seguro-destaca-iniciativas-para-reduzir-acidentes",
-      "posted_at": "2025-09-26T16:19:07.397833+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/26/csp-vota-projeto-que-obriga-aplicativos-a-listarem-areas-com-alto-risco-de-crime",
-      "posted_at": "2025-09-26T18:20:05.704593+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/plenario-vai-decidir-sobre-programa-nacional-para-cuidados-paliativos",
       "posted_at": "2025-09-26T20:16:09.719040+00:00"
     },
@@ -100,6 +88,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1204909-comissao-aprova-projeto-com-novas-exigencias-para-educacao-de-jovens-e-adultos/",
       "posted_at": "2025-09-29T10:17:41.685487+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/29/sancionada-lei-que-cria-o-sistema-nacional-de-informacao-sobre-a-primeira-infancia",
+      "posted_at": "2025-09-29T18:22:36.458553+00:00"
     }
   ]
 }
