@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/09/fundeb-debatedores-criticam-vinculacao-de-financiamento-a-resultados",
-      "posted_at": "2025-09-27T10:13:53.601034+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/26/advocacia-do-senado-defende-regras-para-impeachment-de-ministros-do-stf",
       "posted_at": "2025-09-27T16:16:55.447442+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/lei-garante-ampliacao-da-licenca-maternidade-por-complicacao-no-parto",
       "posted_at": "2025-09-30T06:23:33.762699+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/30/autismo-primeiro-projeto-de-iniciativa-de-cidadaos-pode-se-tornar-lei",
+      "posted_at": "2025-09-30T12:32:48.064441+00:00"
     }
   ]
 }
