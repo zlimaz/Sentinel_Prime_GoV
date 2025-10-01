@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/26/senadores-relatam-caos-em-operacao-contra-garimpo-no-amazonas",
-      "posted_at": "2025-09-28T18:19:02.438898+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1204853-comissao-aprova-regras-para-producao-de-provas-em-crimes-de-violencia-sexual-contra-mulher/",
       "posted_at": "2025-09-28T20:15:32.359806+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/30/sessao-especial-homenageara-as-vitimas-dos-ataques-do-hamas-em-2023",
       "posted_at": "2025-10-01T06:23:24.944098+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/01/pronaf-e-plano-safra-para-agricultura-familiar-sao-transformados-em-lei",
+      "posted_at": "2025-10-01T18:21:48.446755+00:00"
     }
   ]
 }
