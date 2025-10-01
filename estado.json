@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/26/senado-avalia-que-belem-do-para-seja-a-capital-do-brasil-durante-a-cop-30",
-      "posted_at": "2025-09-28T01:16:18.510962+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/26/cesp-vota-reconhecimento-oficial-do-futevolei",
       "posted_at": "2025-09-28T03:05:20.742442+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/30/regulamentacao-da-profissao-de-condutor-de-ambulancia-volta-a-camara",
       "posted_at": "2025-09-30T22:13:49.725816+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/30/plenario-ratifica-acordo-com-paises-baixos-sobre-informacoes-classificadas",
+      "posted_at": "2025-10-01T01:17:45.510062+00:00"
     }
   ]
 }
