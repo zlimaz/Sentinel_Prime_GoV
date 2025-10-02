@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1204534-comissao-de-legislacao-participativa-debate-fortalecimento-da-orientacao-educacional/",
-      "posted_at": "2025-09-29T01:11:29.917587+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1204757-cpmi-do-inss-ouve-novas-testemunhas-na-segunda-feira/",
       "posted_at": "2025-09-29T03:01:09.743355+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/volta-a-camara-projeto-que-proibe-emprestimo-consignado-sem-autorizacao",
       "posted_at": "2025-10-02T01:08:00.322233+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/tratado-de-extradicao-com-marrocos-e-ratificado-pelo-senado",
+      "posted_at": "2025-10-02T02:54:17.768132+00:00"
     }
   ]
 }
