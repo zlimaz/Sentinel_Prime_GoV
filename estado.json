@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1204909-comissao-aprova-projeto-com-novas-exigencias-para-educacao-de-jovens-e-adultos/",
-      "posted_at": "2025-09-29T10:17:41.685487+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/29/sancionada-lei-que-cria-o-sistema-nacional-de-informacao-sobre-a-primeira-infancia",
-      "posted_at": "2025-09-29T18:22:36.458553+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/09/cpmi-do-inss-carlos-viana-critica-pedido-para-arquivar-prisao-de-depoente",
-      "posted_at": "2025-09-29T20:15:20.372007+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/09/senado-debate-pejotizacao-e-condicoes-de-motoristas-de-aplicativos",
       "posted_at": "2025-09-29T22:13:34.727534+00:00"
     },
@@ -96,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/01/seif-critica-tentativas-de-limitar-acao-do-senado-em-pedidos-de-impeachment",
       "posted_at": "2025-10-02T10:15:06.595683+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/02/cpmi-do-inss-carlos-viana-afirma-que-orgaos-de-controle-falharam-em-impedir-fraudes",
+      "posted_at": "2025-10-02T22:13:30.572646+00:00"
     }
   ]
 }
