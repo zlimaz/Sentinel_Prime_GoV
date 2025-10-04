@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/30/modificada-regulamentacao-da-reforma-tributaria-volta-a-camara",
-      "posted_at": "2025-10-01T03:08:25.520289+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/30/comissao-para-interlocucao-com-os-eua-e-prorrogada-ate-dezembro",
       "posted_at": "2025-10-01T04:18:27.310834+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/03/sessao-especial-destaca-alcance-e-beneficios-da-musicoterapia",
       "posted_at": "2025-10-04T02:46:23.221019+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/saiba-o-que-e-a-sindrome-de-rett-que-foi-tema-de-debate-no-senado",
+      "posted_at": "2025-10-04T04:17:15.461383+00:00"
     }
   ]
 }
