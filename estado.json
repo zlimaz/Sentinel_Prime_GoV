@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/01/pronaf-e-plano-safra-para-agricultura-familiar-sao-transformados-em-lei",
-      "posted_at": "2025-10-01T18:21:48.446755+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/01/comissao-mista-da-mp-que-isenta-taxa-de-taximetro-e-instalada",
-      "posted_at": "2025-10-01T20:17:14.682840+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/senado-ratifica-acordo-entre-brasil-e-emirados-arabes-sobre-extradicao-de-pessoas",
       "posted_at": "2025-10-01T22:13:45.408391+00:00"
     },
@@ -88,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/03/cas-vota-portabilidade-de-carencia-de-planos-de-saude",
       "posted_at": "2025-10-04T16:16:32.311797+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/03/sindrome-de-rett-debatedores-apoiam-mes-de-conscientizacao-sobre-a-doenca",
+      "posted_at": "2025-10-04T22:13:12.066614+00:00"
     }
   ]
 }
