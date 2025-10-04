@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/30/sessao-especial-homenageara-as-vitimas-dos-ataques-do-hamas-em-2023",
-      "posted_at": "2025-10-01T06:23:24.944098+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/01/pronaf-e-plano-safra-para-agricultura-familiar-sao-transformados-em-lei",
       "posted_at": "2025-10-01T18:21:48.446755+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/saiba-mais-sobre-a-sindrome-de-rett",
       "posted_at": "2025-10-04T06:20:07.876098+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/senado-pode-votar-condicoes-especiais-para-jovens-no-primeiro-emprego",
+      "posted_at": "2025-10-04T08:17:59.734832+00:00"
     }
   ]
 }
