@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/09/30/plenario-ratifica-acordo-com-paises-baixos-sobre-informacoes-classificadas",
-      "posted_at": "2025-10-01T01:17:45.510062+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/09/30/modificada-regulamentacao-da-reforma-tributaria-volta-a-camara",
       "posted_at": "2025-10-01T03:08:25.520289+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/03/cas-debate-saude-digital-para-recem-nascidos-em-utis-neonatais-neurologicas",
       "posted_at": "2025-10-04T01:05:17.421097+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/03/sessao-especial-destaca-alcance-e-beneficios-da-musicoterapia",
+      "posted_at": "2025-10-04T02:46:23.221019+00:00"
     }
   ]
 }
