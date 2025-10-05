@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/01/debatedores-ressaltam-que-plano-brasil-soberano-ajuda-pais-a-abrir-novos-mercados",
-      "posted_at": "2025-10-02T04:17:42.426059+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/01/humberto-defende-isencao-de-ir-para-salarios-de-ate-r-5-mil",
       "posted_at": "2025-10-02T06:22:26.458277+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/03/csp-vota-sustacao-do-decreto-sobre-uso-de-forca-por-agentes-de-seguranca",
       "posted_at": "2025-10-05T04:17:08.694631+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/03/cct-debate-panorama-da-inteligencia-artificial-no-brasil",
+      "posted_at": "2025-10-05T06:20:16.312997+00:00"
     }
   ]
 }
