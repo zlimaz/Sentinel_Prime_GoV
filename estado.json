@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/01/sergio-moro-defende-liberdade-de-expressao-no-debate-politico",
-      "posted_at": "2025-10-02T08:20:12.778460+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/01/seif-critica-tentativas-de-limitar-acao-do-senado-em-pedidos-de-impeachment",
       "posted_at": "2025-10-02T10:15:06.595683+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/03/subcomissao-debate-na-terca-financiamento-para-vacina-contra-o-cancer",
       "posted_at": "2025-10-05T08:17:32.063283+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-senado-celebra-30-anos-da-uniao-brasileira-das-associacoes-de-musicoterapia-2013-3-10-25",
+      "posted_at": "2025-10-05T10:14:12.557519+00:00"
     }
   ]
 }
