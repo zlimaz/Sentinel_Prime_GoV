@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/nelsinho-trad-cobra-providencias-diante-de-casos-de-bebidas-adulteradas",
-      "posted_at": "2025-10-03T06:22:11.441195+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/03/cae-vai-debater-limite-para-a-divida-consolidada-da-uniao",
       "posted_at": "2025-10-03T18:21:04.282744+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1207798-reforma-administrativa-tera-amplo-debate-diz-presidente-da-camara/",
       "posted_at": "2025-10-06T04:18:16.690574+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1207763-comissao-aprova-atencao-integral-a-pessoa-com-sindrome-de-down-no-sus/",
+      "posted_at": "2025-10-06T06:23:42.385432+00:00"
     }
   ]
 }
