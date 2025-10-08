@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1207784-comissao-aprova-diretrizes-a-serem-seguidas-pelo-sus-para-reduzir-a-mortalidade-materna/",
-      "posted_at": "2025-10-05T16:16:31.143593+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1207262-comissoes-debatem-resolucao-da-anvisa-e-convencao-internacional-sobre-controle-do-tabaco/",
       "posted_at": "2025-10-05T22:13:09.647313+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/08/comissao-temporaria-comeca-a-debater-a-atualizacao-do-codigo-civil",
       "posted_at": "2025-10-08T14:15:55.071075+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/08/ministros-sao-convocados-para-explicar-criterio-de-selecao-para-medicina-na-ufpe",
+      "posted_at": "2025-10-08T16:19:22.746559+00:00"
     }
   ]
 }
