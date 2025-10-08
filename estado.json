@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-senado-celebra-30-anos-da-uniao-brasileira-das-associacoes-de-musicoterapia-2013-3-10-25",
-      "posted_at": "2025-10-05T10:14:12.557519+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/cae-debatera-teto-da-divida-da-uniao-na-quarta-feira",
-      "posted_at": "2025-10-05T12:27:40.808214+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1207500-sancionada-lei-que-muda-regras-sobre-idade-minima-dos-candidatos-a-cargos-eletivos/",
       "posted_at": "2025-10-05T14:12:07.239159+00:00"
     },
@@ -92,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/07/relator-de-mp-quer-solucoes-para-pequenos-exportadores-afetados-por-2018tarifaco2019",
       "posted_at": "2025-10-08T08:21:07.120377+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-prossegue-debate-sobre-medidas-de-mitigacao-do-tarifaco-2013-8-10-25",
+      "posted_at": "2025-10-08T12:32:31.867781+00:00"
     }
   ]
 }
