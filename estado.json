@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/06/especialistas-defendem-monitoramento-neurologico-para-evitar-sequelas-em-bebes",
-      "posted_at": "2025-10-06T16:19:00.941758+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/chico-rodrigues-defende-projeto-que-cria-lei-de-seguranca-do-pix-contra-fraudes",
       "posted_at": "2025-10-06T18:22:32.702664+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/parlamento-da-amazonia-aprova-agenda-para-a-cop-30",
       "posted_at": "2025-10-09T14:15:24.692404+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ajuda-financeira-a-familias-com-criancas-orfas-tem-apoio-em-debate-na-ccj",
+      "posted_at": "2025-10-09T16:20:07.536937+00:00"
     }
   ]
 }
