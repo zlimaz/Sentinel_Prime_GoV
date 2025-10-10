@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/07/adiada-votacao-de-projeto-que-susta-decreto-sobre-uso-de-forca-policial",
-      "posted_at": "2025-10-07T16:18:56.494202+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-comissao-debate-medidas-para-mitigar-tarifaco-dos-eua-2013-7-10-25",
       "posted_at": "2025-10-07T18:22:15.828659+00:00"
     },
@@ -72,6 +68,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/proibicao-da-obsolescencia-programada-esta-na-pauta-da-cct",
       "posted_at": "2025-10-10T16:18:57.823433+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/livre-nomeacao-da-cupula-de-juntas-comerciais-vai-a-plenario",
+      "posted_at": "2025-10-10T18:21:50.606472+00:00"
     }
   ]
 }
