@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/07/plinio-critica-possibilidade-de-desestatizacao-de-hidrovias-amazonicas",
-      "posted_at": "2025-10-07T20:16:38.866200+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/07/relator-de-mp-quer-solucoes-para-pequenos-exportadores-afetados-por-2018tarifaco2019",
       "posted_at": "2025-10-08T08:21:07.120377+00:00"
     },
@@ -72,6 +68,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/senado-entrega-comenda-a-governadores-de-destaque-na-educacao-infantil",
       "posted_at": "2025-10-10T20:16:12.338342+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/ce-analisa-inclusao-de-saberes-indigenas-e-quilombolas-no-ensino-tecnico",
+      "posted_at": "2025-10-10T22:13:41.652007+00:00"
     }
   ]
 }
