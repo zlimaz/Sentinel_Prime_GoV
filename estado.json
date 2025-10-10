@@ -2,26 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/06/cpmi-fernando-cavalcanti-apela-ao-silencio-e-parlamentares-apontam-negocios-suspeitos",
-      "posted_at": "2025-10-07T04:18:27.998851+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/para-presidente-da-cpmi-do-inss-depoente-nao-esclareceu-enriquecimento",
-      "posted_at": "2025-10-07T08:21:04.139010+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/06/cpmi-carlos-viana-afirma-que-depoente-nao-consegue-explicar-enriquecimento",
-      "posted_at": "2025-10-07T10:16:17.834371+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/07/projeto-reserva-dinheiro-das-bets-para-combater-crimes-digitais",
-      "posted_at": "2025-10-07T12:32:04.292838+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-cae-vota-projeto-que-livra-consumidor-do-custo-dos-2018gatos2019-2013-7-10-25",
-      "posted_at": "2025-10-07T14:16:38.180298+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/07/adiada-votacao-de-projeto-que-susta-decreto-sobre-uso-de-forca-policial",
       "posted_at": "2025-10-07T16:18:56.494202+00:00"
     },
@@ -88,6 +68,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/danilo-trento-sera-convocado-para-depor-na-cpmi-do-inss",
       "posted_at": "2025-10-10T01:09:39.893341+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/proibicao-da-obsolescencia-programada-esta-na-pauta-da-cct",
+      "posted_at": "2025-10-10T16:18:57.823433+00:00"
     }
   ]
 }
