@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/09/cpmi-do-inss-relator-ve-organizacao-criminosa-em-sindicato",
-      "posted_at": "2025-10-09T18:21:47.741483+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/09/regulamentacao-da-profissao-de-condutor-de-ambulancia-segue-para-sancao",
       "posted_at": "2025-10-09T20:17:30.739983+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1210588-comissao-aprova-permissao-para-pequena-empresa-ceder-creditos-a-receber-da-administracao-publica/",
       "posted_at": "2025-10-12T18:19:23.870542+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1209811-comissao-aprova-projeto-que-proibe-demissao-arbitraria-dos-concursados-de-empresas-publicas/",
+      "posted_at": "2025-10-12T20:15:33.850738+00:00"
     }
   ]
 }
