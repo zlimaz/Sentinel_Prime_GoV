@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/isencao-do-ir-comeca-a-ser-discutida-com-haddad-e-tebet-na-proxima-terca",
-      "posted_at": "2025-10-09T04:18:46.269854+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-cpmi-do-inss-ouve-presidente-do-sindicato-nacional-dos-aposentados-9-10-25",
       "posted_at": "2025-10-09T12:31:51.958602+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/senado-aprova-punicao-maior-para-exploracao-sexual-de-criancas-e-adolescentes",
       "posted_at": "2025-10-12T04:17:48.350995+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/conta-de-luz-gratuita-para-familias-de-baixa-renda-e-sancionada",
+      "posted_at": "2025-10-12T10:14:30.579985+00:00"
     }
   ]
 }
