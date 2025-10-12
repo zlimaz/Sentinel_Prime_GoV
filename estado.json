@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-cpmi-do-inss-ouve-presidente-do-sindicato-nacional-dos-aposentados-9-10-25",
-      "posted_at": "2025-10-09T12:31:51.958602+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/parlamento-da-amazonia-aprova-agenda-para-a-cop-30",
-      "posted_at": "2025-10-09T14:15:24.692404+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ajuda-financeira-a-familias-com-criancas-orfas-tem-apoio-em-debate-na-ccj",
-      "posted_at": "2025-10-09T16:20:07.536937+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/09/cpmi-do-inss-relator-ve-organizacao-criminosa-em-sindicato",
       "posted_at": "2025-10-09T18:21:47.741483+00:00"
     },
@@ -92,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/conta-de-luz-gratuita-para-familias-de-baixa-renda-e-sancionada",
       "posted_at": "2025-10-12T10:14:30.579985+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1210588-comissao-aprova-permissao-para-pequena-empresa-ceder-creditos-a-receber-da-administracao-publica/",
+      "posted_at": "2025-10-12T18:19:23.870542+00:00"
     }
   ]
 }
