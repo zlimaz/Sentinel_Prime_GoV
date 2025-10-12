@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/09/regulamentacao-da-profissao-de-condutor-de-ambulancia-segue-para-sancao",
-      "posted_at": "2025-10-09T20:17:30.739983+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/cpmi-presidente-do-sindnapi-permanece-em-silencio-viana-quer-convocar-frei-chico",
       "posted_at": "2025-10-09T22:13:43.987656+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1209811-comissao-aprova-projeto-que-proibe-demissao-arbitraria-dos-concursados-de-empresas-publicas/",
       "posted_at": "2025-10-12T20:15:33.850738+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1209805-comissao-aprova-projeto-que-preve-pelo-menos-20-da-propaganda-do-governo-para-midia-regional/",
+      "posted_at": "2025-10-12T22:13:27.365038+00:00"
     }
   ]
 }
