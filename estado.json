@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/livre-nomeacao-da-cupula-de-juntas-comerciais-vai-a-plenario",
-      "posted_at": "2025-10-10T18:21:50.606472+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/senado-entrega-comenda-a-governadores-de-destaque-na-educacao-infantil",
-      "posted_at": "2025-10-10T20:16:12.338342+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/ce-analisa-inclusao-de-saberes-indigenas-e-quilombolas-no-ensino-tecnico",
       "posted_at": "2025-10-10T22:13:41.652007+00:00"
     },
@@ -96,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/13/senado-premia-governadores-por-avancos-na-alfabetizacao-infantil",
       "posted_at": "2025-10-13T18:21:21.466771+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/ouca-o-que-os-governadores-disseram-durante-a-cerimonia",
+      "posted_at": "2025-10-13T20:17:04.214262+00:00"
     }
   ]
 }
