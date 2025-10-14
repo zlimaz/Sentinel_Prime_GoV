@@ -8,7 +8,7 @@ name: Gerador de Ranking Quinzenal
 on:
   schedule:
     # Roda às 05:00 UTC dos dias 1 e 15 de cada mês.
-    - cron: '0 5 1,15 * *'
+    - cron: '0 5 1 * *'
   workflow_dispatch:
 
 jobs:
@@ -38,11 +38,14 @@ jobs:
       - name: 4. Gerando o ranking de gastos
         run: python3 -m src.gerador_de_ranking
 
-      # Passo 5: Fazer o commit e push do novo ranking para o repositório
+      # Passo 5: Sincronizar com o repositório remoto
+      - name: 5. Sincronizando com o repositório
+        run: git pull --rebase
+
+      # Passo 6: Fazer o commit e push do novo ranking para o repositório
       # Esta action verifica se houve mudanças nos arquivos e, se houver,
-      # cria um commit e envia para o repositório. Isso mantém o
-      # arquivo ranking_gastos.json sempre atualizado.
-      - name: 5. Commit do novo ranking
+      # cria um commit e envia para o repositório.
+      - name: 6. Commit do novo ranking
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: Atualiza ranking de gastos parlamentares'
