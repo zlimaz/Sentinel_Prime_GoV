@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/cas-debate-fortalecimento-das-instituicoes-filantropicas-de-saude",
-      "posted_at": "2025-10-11T18:18:12.382112+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/senado-vai-comemorar-o-dia-do-professor-na-terca-feira",
       "posted_at": "2025-10-11T20:14:56.181657+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-csp-debate-regras-para-uso-de-drones-pela-policia-2013-14-10-25",
       "posted_at": "2025-10-14T14:16:18.361404+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1209608-relator-apresenta-parecer-sobre-o-plano-nacional-de-educacao-assista/",
+      "posted_at": "2025-10-14T18:22:42.183156+00:00"
     }
   ]
 }
