@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/csp-debate-regras-para-uso-de-drones-pela-policia",
-      "posted_at": "2025-10-11T06:20:05.490100+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/estudo-da-ifi-questiona-modelo-de-financiamento-publico",
-      "posted_at": "2025-10-11T10:14:21.902918+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/cas-debate-fortalecimento-das-instituicoes-filantropicas-de-saude",
       "posted_at": "2025-10-11T18:18:12.382112+00:00"
     },
@@ -92,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/13/cpmi-ve-falhas-na-atuacao-de-stefanutto-ex-presidente-do-inss-nega-omissao",
       "posted_at": "2025-10-14T04:18:42.592518+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-csp-debate-regras-para-uso-de-drones-pela-policia-2013-14-10-25",
+      "posted_at": "2025-10-14T14:16:18.361404+00:00"
     }
   ]
 }
