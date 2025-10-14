@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/ci-debatera-concessoes-rodoviarias-na-terca-feira",
-      "posted_at": "2025-10-11T22:13:06.903629+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/senado-tem-reunioes-pre-cop-30-na-terca",
       "posted_at": "2025-10-12T01:12:40.747263+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/14/vai-a-sancao-projeto-que-revoga-leis-antigas-da-previdencia-social",
       "posted_at": "2025-10-14T20:17:02.440216+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/pacote-anticrimes-violentos-e-aprovado-pelo-senado-e-vai-a-camara",
+      "posted_at": "2025-10-14T22:14:29.823894+00:00"
     }
   ]
 }
