@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/10/senado-tem-reunioes-pre-cop-30-na-terca",
-      "posted_at": "2025-10-12T01:12:40.747263+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/projeto-que-reconhece-o-futevolei-como-modalidade-esportiva-vai-a-camara",
-      "posted_at": "2025-10-12T02:59:29.502543+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/senado-aprova-punicao-maior-para-exploracao-sexual-de-criancas-e-adolescentes",
       "posted_at": "2025-10-12T04:17:48.350995+00:00"
     },
@@ -92,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/debatedores-ressaltam-beneficios-de-programa-paradesporto-para-pessoas-com-deficiencia",
       "posted_at": "2025-10-15T01:11:38.928660+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/debatedores-pedem-aperfeicoamento-de-avaliacao-para-o-icms-educacional",
+      "posted_at": "2025-10-15T03:02:01.345366+00:00"
     }
   ]
 }
