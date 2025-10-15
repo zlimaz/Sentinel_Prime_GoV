@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/conta-de-luz-gratuita-para-familias-de-baixa-renda-e-sancionada",
-      "posted_at": "2025-10-12T10:14:30.579985+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1210588-comissao-aprova-permissao-para-pequena-empresa-ceder-creditos-a-receber-da-administracao-publica/",
       "posted_at": "2025-10-12T18:19:23.870542+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/ce-aprova-inclusao-de-saberes-indigenas-e-quilombolas-na-educacao-profissional",
       "posted_at": "2025-10-15T08:21:50.085510+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/produtores-rurais-em-areas-de-fronteira-podem-ter-registros-regularizados",
+      "posted_at": "2025-10-15T10:17:39.756705+00:00"
     }
   ]
 }
