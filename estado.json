@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/senado-aprova-punicao-maior-para-exploracao-sexual-de-criancas-e-adolescentes",
-      "posted_at": "2025-10-12T04:17:48.350995+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/conta-de-luz-gratuita-para-familias-de-baixa-renda-e-sancionada",
       "posted_at": "2025-10-12T10:14:30.579985+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/debatedores-pedem-aperfeicoamento-de-avaliacao-para-o-icms-educacional",
       "posted_at": "2025-10-15T03:02:01.345366+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/vai-a-camara-projeto-com-penas-mais-duras-para-crimes-violentos",
+      "posted_at": "2025-10-15T04:18:34.931755+00:00"
     }
   ]
 }
