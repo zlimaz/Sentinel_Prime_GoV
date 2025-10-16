@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1209805-comissao-aprova-projeto-que-preve-pelo-menos-20-da-propaganda-do-governo-para-midia-regional/",
-      "posted_at": "2025-10-12T22:13:27.365038+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1210633-camara-tera-semana-de-votacao-de-projetos-sobre-educacao-diz-hugo-motta/",
       "posted_at": "2025-10-13T01:14:28.071040+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/15/soraya-quer-cpi-para-investigar-planos-de-saude",
       "posted_at": "2025-10-15T22:13:00.772738+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/15/marinho-situacao-dos-correios-demonstra-ma-gestao-das-estatais",
+      "posted_at": "2025-10-16T01:11:04.722400+00:00"
     }
   ]
 }
