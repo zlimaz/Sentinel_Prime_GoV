@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1210506-relator-alerta-para-aumento-de-custos-para-micro-e-pequenas-empresas-com-fim-da-escala-6-por-1/",
-      "posted_at": "2025-10-13T04:18:55.807041+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1210294-comissao-aprova-proposta-de-combate-as-chamadas-telefonicas-automaticas-abusivas/",
-      "posted_at": "2025-10-13T10:18:42.745465+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-audiencia-na-cdh-debate-o-novo-estatuto-do-trabalho-2013-13-10-25",
-      "posted_at": "2025-10-13T12:32:25.973156+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/13/senado-premia-governadores-por-avancos-na-alfabetizacao-infantil",
       "posted_at": "2025-10-13T18:21:21.466771+00:00"
     },
@@ -100,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/15/jorge-seif-rebate-criticas-de-lula-ao-congresso",
       "posted_at": "2025-10-16T04:18:07.387623+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/senado-lanca-colecao-de-livros-com-teses-e-dissertacoes-de-servidores-da-casa",
+      "posted_at": "2025-10-16T16:20:13.634769+00:00"
     }
   ]
 }
