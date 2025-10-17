@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/13/cpmi-ve-falhas-na-atuacao-de-stefanutto-ex-presidente-do-inss-nega-omissao",
-      "posted_at": "2025-10-14T04:18:42.592518+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-csp-debate-regras-para-uso-de-drones-pela-policia-2013-14-10-25",
       "posted_at": "2025-10-14T14:16:18.361404+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/durante-audiencia-sobre-mp-debatedores-defendem-armazenamento-de-energia",
       "posted_at": "2025-10-17T04:27:40.391717+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/debatedores-divergem-sobre-inclusao-de-livro-sobre-direito-digital-no-codigo-civil",
+      "posted_at": "2025-10-17T06:22:45.973881+00:00"
     }
   ]
 }
