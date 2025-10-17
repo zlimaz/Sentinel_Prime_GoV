@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1209608-relator-apresenta-parecer-sobre-o-plano-nacional-de-educacao-assista/",
-      "posted_at": "2025-10-14T18:22:42.183156+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/14/vai-a-sancao-projeto-que-revoga-leis-antigas-da-previdencia-social",
-      "posted_at": "2025-10-14T20:17:02.440216+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/pacote-anticrimes-violentos-e-aprovado-pelo-senado-e-vai-a-camara",
       "posted_at": "2025-10-14T22:14:29.823894+00:00"
     },
@@ -96,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/17/busca-e-apreensao-no-congresso-precisam-de-autorizacao-do-stf",
       "posted_at": "2025-10-17T16:18:51.467853+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/soraya-quer-investigar-transferencia-de-custos-de-planos-de-saude-para-o-sus",
+      "posted_at": "2025-10-17T20:17:14.061515+00:00"
     }
   ]
 }
