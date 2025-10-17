@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-csp-debate-regras-para-uso-de-drones-pela-policia-2013-14-10-25",
-      "posted_at": "2025-10-14T14:16:18.361404+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1209608-relator-apresenta-parecer-sobre-o-plano-nacional-de-educacao-assista/",
       "posted_at": "2025-10-14T18:22:42.183156+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/representantes-de-trabalhadores-defendem-isencao-de-ir-para-quem-ganha-ate-r-5-mil",
       "posted_at": "2025-10-17T08:21:25.134976+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/17/busca-e-apreensao-no-congresso-precisam-de-autorizacao-do-stf",
+      "posted_at": "2025-10-17T16:18:51.467853+00:00"
     }
   ]
 }
