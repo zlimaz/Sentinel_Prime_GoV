@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/14/heinze-cobra-agilidade-na-renegociacao-de-dividas-de-agricultores-do-rs",
-      "posted_at": "2025-10-15T06:23:42.222329+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/ce-aprova-inclusao-de-saberes-indigenas-e-quilombolas-na-educacao-profissional",
       "posted_at": "2025-10-15T08:21:50.085510+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/17/ce-vota-garantia-de-acesso-a-agua-potavel-nas-escolas-na-terca",
       "posted_at": "2025-10-18T06:20:45.366110+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/10/musica-popular-brasileira-pixinguinha-e-lupicinio-agora-sao-patronos",
+      "posted_at": "2025-10-18T08:18:29.115151+00:00"
     }
   ]
 }
