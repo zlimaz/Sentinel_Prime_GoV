@@ -2,26 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/ce-aprova-inclusao-de-saberes-indigenas-e-quilombolas-na-educacao-profissional",
-      "posted_at": "2025-10-15T08:21:50.085510+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/produtores-rurais-em-areas-de-fronteira-podem-ter-registros-regularizados",
-      "posted_at": "2025-10-15T10:17:39.756705+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1212209-comissao-aprova-proposta-que-amplia-conceito-de-nascente-no-codigo-florestal/",
-      "posted_at": "2025-10-15T18:23:07.500103+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/15/cas-discute-como-melhorar-o-rastreamento-de-bebidas-adulteradas",
-      "posted_at": "2025-10-15T20:17:46.035379+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/15/soraya-quer-cpi-para-investigar-planos-de-saude",
-      "posted_at": "2025-10-15T22:13:00.772738+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/15/marinho-situacao-dos-correios-demonstra-ma-gestao-das-estatais",
       "posted_at": "2025-10-16T01:11:04.722400+00:00"
     },
@@ -96,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/10/musica-popular-brasileira-pixinguinha-e-lupicinio-agora-sao-patronos",
       "posted_at": "2025-10-18T08:18:29.115151+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/17/senado-comemora-os-100-anos-da-academia-de-ciencias-farmaceuticas-do-brasil",
+      "posted_at": "2025-10-18T22:13:24.816970+00:00"
     }
   ]
 }
