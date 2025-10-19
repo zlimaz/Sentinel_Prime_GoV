@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/erradicacao-do-trabalho-infantil-requer-articulacao-intersetorial-dizem-debatedores",
-      "posted_at": "2025-10-16T03:00:16.458747+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/15/jorge-seif-rebate-criticas-de-lula-ao-congresso",
       "posted_at": "2025-10-16T04:18:07.387623+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/17/comissao-mista-de-orcamento-vota-ldo-na-terca-feira",
       "posted_at": "2025-10-19T01:18:55.761414+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/incentivo-a-contratacao-de-mulheres-em-tratamento-de-cancer-vai-a-cas",
+      "posted_at": "2025-10-19T03:12:27.152574+00:00"
     }
   ]
 }
