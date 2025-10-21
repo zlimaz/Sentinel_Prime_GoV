@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/17/senado-homenageia-os-35-anos-da-universidade-estadual-do-tocantins",
-      "posted_at": "2025-10-18T01:07:17.268086+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/17/cdh-debate-acoes-de-prevencao-ao-feminicidio",
       "posted_at": "2025-10-18T02:52:07.693058+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/comissao-mista-de-orcamento-pode-votar-ldo-nesta-terca",
       "posted_at": "2025-10-20T22:14:23.020973+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/especialistas-defendem-incorporacao-de-novas-tecnologias-na-saude",
+      "posted_at": "2025-10-21T01:13:08.712979+00:00"
     }
   ]
 }
