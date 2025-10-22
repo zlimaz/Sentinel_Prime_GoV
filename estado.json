@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1213341-comissao-aprova-projeto-que-preve-campanhas-para-divulgar-politica-nacional-de-cuidados/",
-      "posted_at": "2025-10-19T14:12:34.159821+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1213201-sancionada-lei-que-amplia-acesso-de-agricultores-familiares-ao-garantia-safra/",
       "posted_at": "2025-10-19T22:13:46.953704+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/confirmado-acordo-do-mercosul-para-recuperacao-de-bens-do-crime-organizado",
       "posted_at": "2025-10-22T12:33:59.244813+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/22/outubro-sera-mes-de-conscientizacao-da-sindrome-de-rett-aprova-cas",
+      "posted_at": "2025-10-22T14:17:07.925889+00:00"
     }
   ]
 }
