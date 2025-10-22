@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/17/cas-debate-incorporacao-de-novas-tecnologias-no-setor-de-saude",
-      "posted_at": "2025-10-19T08:17:56.749835+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/17/sancionada-lei-que-amplia-acesso-de-agricultores-familiares-ao-garantia-safra",
       "posted_at": "2025-10-19T10:14:28.033498+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/21/zap-delas-senado-lanca-ferramenta-de-combate-a-violencia-politica-de-genero",
       "posted_at": "2025-10-22T06:24:49.283083+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/21/lucas-barreto-comemora-licenca-para-prospeccao-de-petroleo",
+      "posted_at": "2025-10-22T08:23:22.039763+00:00"
     }
   ]
 }
