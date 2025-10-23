@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1213238-comissao-aprova-projeto-para-permitir-vacinacao-sem-documentos-de-identificacao/",
-      "posted_at": "2025-10-20T04:21:22.057895+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1213240-comissao-aprova-proposta-que-repassa-1-do-itr-para-qualificacao-profissional-no-campo/",
       "posted_at": "2025-10-20T06:24:26.484064+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/22/sessao-especial-vai-celebrar-os-10-anos-do-arquivo-s",
       "posted_at": "2025-10-23T04:18:33.832319+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/22/damares-critica-criacao-de-bet-da-caixa-economica-federal",
+      "posted_at": "2025-10-23T06:23:32.909589+00:00"
     }
   ]
 }
