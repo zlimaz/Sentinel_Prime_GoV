@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/21/pacto-de-prevencao-ainda-nao-e-efetivo-contra-feminicidios-dizem-debatedores",
-      "posted_at": "2025-10-21T22:13:46.535496+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/21/zap-delas-senado-lanca-ferramenta-de-combate-a-violencia-politica-de-genero",
       "posted_at": "2025-10-22T06:24:49.283083+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/24/cra-analisa-projeto-sobre-regularizacao-fundiaria-na-amazonia-legal",
       "posted_at": "2025-10-24T20:17:34.045194+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/24/sindrome-de-phelan-mcdermid-cct-estuda-criacao-do-dia-nacional",
+      "posted_at": "2025-10-24T22:15:02.873416+00:00"
     }
   ]
 }
