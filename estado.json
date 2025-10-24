@@ -2,22 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/20/gaspar-parentes-de-assessora-do-sindnapi-teriam-recebido-r-20-milhoes-do-sindicato",
-      "posted_at": "2025-10-21T06:23:43.497939+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/davi-chama-de-historica-decisao-do-ibama-sobre-exploracao-na-margem-equatorial",
-      "posted_at": "2025-10-21T08:21:55.026799+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/debatedores-defendem-fortalecimento-do-complexo-economico-industrial-da-saude",
-      "posted_at": "2025-10-21T10:17:05.009029+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/21/ex-presidente-de-associacao-se-cala-na-cpmi-e-parlamentares-falam-em-prisao",
-      "posted_at": "2025-10-21T12:33:33.222824+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-cdh-debate-acoes-de-prevencao-ao-feminicidio-2013-21-10-25",
       "posted_at": "2025-10-21T14:15:25.179317+00:00"
     },
@@ -100,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/ifi-aponta-a-necessidade-de-superavit-de-r-27-1-bi-no-ultimo-trimestre-de-2025",
       "posted_at": "2025-10-24T04:18:44.333997+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/24/cpmi-parlamentares-veem-conflito-de-interesses-na-atuacao-de-ex-procurador",
+      "posted_at": "2025-10-24T12:34:06.214363+00:00"
     }
   ]
 }
