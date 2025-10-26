@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/relator-da-cpmi-do-inss-critica-silencio-de-depoente-e-detalha-suspeitas-de-desvios",
-      "posted_at": "2025-10-23T20:16:33.861518+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/novo-codigo-civil-especialistas-divergem-sobre-situacoes-juridicas-digitais",
       "posted_at": "2025-10-23T22:14:24.676766+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/10/novas-leis-reforcam-seguranca-alimentar",
       "posted_at": "2025-10-26T20:16:34.211809+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/senado-aprova-misoginia-deve-ser-tratada-como-crime-de-discriminacao",
+      "posted_at": "2025-10-26T22:14:15.315787+00:00"
     }
   ]
 }
