@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/22/sessao-especial-vai-celebrar-os-10-anos-do-arquivo-s",
-      "posted_at": "2025-10-23T04:18:33.832319+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/22/damares-critica-criacao-de-bet-da-caixa-economica-federal",
-      "posted_at": "2025-10-23T06:23:32.909589+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/22/senado-ratifica-atualizacao-de-acordo-internacional-sobre-trafego-maritimo",
       "posted_at": "2025-10-23T08:21:54.521440+00:00"
     },
@@ -104,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/24/cdh-fara-ciclo-de-debates-sobre-direitos-de-criancas-adolescentes-e-jovens",
       "posted_at": "2025-10-26T01:16:51.690729+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/24/csp-vota-projeto-que-permite-a-empresas-gerenciar-o-trabalho-de-detentos",
+      "posted_at": "2025-10-26T08:18:40.129037+00:00"
     }
   ]
 }
