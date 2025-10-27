@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/24/senado-analisara-projeto-que-impoe-limites-a-decisoes-individuais-do-stf",
-      "posted_at": "2025-10-24T16:19:43.445884+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/24/cae-vota-limite-de-endividamento-de-municipios-na-terca",
       "posted_at": "2025-10-24T18:22:17.449481+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1216007-comissao-aprova-propostas-que-dao-nomes-a-trechos-de-rodovias/",
       "posted_at": "2025-10-27T14:16:53.460029+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1215419-comissao-debate-solucoes-para-excesso-de-trafico-de-veiculos-entre-municipios-catarinenses/",
+      "posted_at": "2025-10-27T16:20:23.831910+00:00"
     }
   ]
 }
