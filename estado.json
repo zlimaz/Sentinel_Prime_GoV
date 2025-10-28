@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/programa-de-apoio-a-microempresas-podera-incluir-cooperativas",
-      "posted_at": "2025-10-25T22:13:20.677908+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/24/cdh-fara-ciclo-de-debates-sobre-direitos-de-criancas-adolescentes-e-jovens",
       "posted_at": "2025-10-26T01:16:51.690729+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1216665-hugo-motta-comenta-violencia-no-rio-e-reafirma-apoio-a-luta-contra-crime-organizado/",
       "posted_at": "2025-10-28T20:18:26.955765+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1216767-motta-diz-que-busca-um-servico-publico-cada-vez-mais-eficiente-e-parabeniza-servidores-da-camara/",
+      "posted_at": "2025-10-28T22:15:05.934368+00:00"
     }
   ]
 }
