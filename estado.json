@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/10/senado-aprova-misoginia-deve-ser-tratada-como-crime-de-discriminacao",
-      "posted_at": "2025-10-26T22:14:15.315787+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1215949-camara-deve-votar-projetos-sobre-falsificacao-de-bebidas-e-enfrentamento-ao-cancer-de-mama/",
       "posted_at": "2025-10-27T01:18:19.831724+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/29/programa-de-prevencao-a-depressao-retorna-para-a-camara",
       "posted_at": "2025-10-29T20:18:21.725930+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/maes-pedem-conscientizacao-sobre-sindrome-de-phelan-mcdermid",
+      "posted_at": "2025-10-29T22:15:15.154560+00:00"
     }
   ]
 }
