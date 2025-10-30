@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/presidente-da-cpmi-do-inss-pedira-prisao-de-convocados-que-nao-comparecerem",
-      "posted_at": "2025-10-27T22:14:17.741317+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/governo-deve-ampliar-arrecadacao-no-ultimo-trimestre-para-cumprir-meta-diz-ifi",
       "posted_at": "2025-10-28T01:10:50.148190+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/uso-do-fundeb-para-pagar-profissionais-de-apoio-a-aluno-autista-avanca",
       "posted_at": "2025-10-30T20:17:31.984244+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/10/simbolo-do-brasil-ha-200-anos-cafe-busca-superar-danos-ambientais",
+      "posted_at": "2025-10-30T22:14:58.377821+00:00"
     }
   ]
 }
