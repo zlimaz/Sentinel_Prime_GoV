@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1215760-comissao-aprova-projeto-que-prorroga-emprestimos-do-fgts-para-santas-casas/",
-      "posted_at": "2025-10-27T03:16:44.197034+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1215165-comissao-de-seguranca-publica-debate-penas-para-lideres-e-membros-de-faccoes-criminosas/",
       "posted_at": "2025-10-27T04:26:07.290341+00:00"
     },
@@ -104,6 +100,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/cas-aprova-politica-nacional-de-atividade-fisica-para-pessoa-idosa",
       "posted_at": "2025-10-30T03:08:13.776837+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/29/zenaide-celebra-dia-do-hematologista-e-do-hemoterapeuta",
+      "posted_at": "2025-10-30T04:18:26.897792+00:00"
     }
   ]
 }
