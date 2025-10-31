@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/28/congresso-celebra-100-anos-da-gm-e-destaca-potencial-industrial-do-pais",
-      "posted_at": "2025-10-28T18:24:11.039186+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1216665-hugo-motta-comenta-violencia-no-rio-e-reafirma-apoio-a-luta-contra-crime-organizado/",
       "posted_at": "2025-10-28T20:18:26.955765+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/30/sessao-destaca-papel-das-equipes-de-nossa-senhora-no-apoio-a-casais",
       "posted_at": "2025-10-31T18:23:31.827136+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/30/cas-debate-participacao-de-empregados-na-gestao-das-empresas",
+      "posted_at": "2025-10-31T20:17:50.668696+00:00"
     }
   ]
 }
