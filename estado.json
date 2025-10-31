@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/27/cpmi-depoimento-expoe-modus-operandi-de-fraudes-apontam-parlamentares",
-      "posted_at": "2025-10-28T04:18:34.303757+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/28/avanca-criacao-da-politica-nacional-da-bioeconomia",
       "posted_at": "2025-10-28T16:20:58.420261+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/30/cdh-vai-debater-na-terca-feira-sindrome-do-nariz-vazio",
       "posted_at": "2025-10-31T03:07:55.178452+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/30/debatedores-questionam-na-ce-projeto-que-proibe-alterar-textos-da-biblia",
+      "posted_at": "2025-10-31T04:19:56.955079+00:00"
     }
   ]
 }
