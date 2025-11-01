@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1216767-motta-diz-que-busca-um-servico-publico-cada-vez-mais-eficiente-e-parabeniza-servidores-da-camara/",
-      "posted_at": "2025-10-28T22:15:05.934368+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/criterios-para-audiencia-de-custodia-e-prisao-preventiva-vao-a-sancao",
-      "posted_at": "2025-10-29T01:16:06.008785+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/cas-pode-votar-regulamentacao-da-profissao-de-quiropraxista-nesta-quarta",
       "posted_at": "2025-10-29T03:12:27.701585+00:00"
     },
@@ -88,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/projeto-do-codigo-civil-tem-livro-especifico-sobre-direito-digital",
       "posted_at": "2025-10-31T22:15:06.430833+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/30/projeto-que-permite-atualizacao-do-valor-de-bens-no-ir-volta-ao-senado",
+      "posted_at": "2025-11-01T01:17:18.253477+00:00"
     }
   ]
 }
