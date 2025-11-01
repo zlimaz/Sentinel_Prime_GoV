@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/aprovado-projeto-que-garante-fisioterapia-pelo-sus-a-pacientes-submetidos-a-mastectomia",
-      "posted_at": "2025-10-29T08:22:22.739940+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/confirmado-acordo-entre-brasil-e-austria-sobre-previdencia",
       "posted_at": "2025-10-29T10:18:01.378755+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/30/sessao-na-segunda-vai-celebrar-65-anos-da-consultoria-legislativa-do-senado",
       "posted_at": "2025-11-01T08:18:45.284096+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1217990-comissao-aprova-cadastro-nacional-para-interpretes-de-libras/",
+      "posted_at": "2025-11-01T10:14:57.288261+00:00"
     }
   ]
 }
