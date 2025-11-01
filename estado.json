@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/29/cdh-quer-saber-se-protocolos-de-protecao-a-criancas-foram-adotados-em-operacao-policial-no-rj",
-      "posted_at": "2025-10-29T16:21:25.735008+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/29/cpi-do-crime-organizado-sera-instalada-na-terca-feira-informa-davi",
       "posted_at": "2025-10-29T18:23:53.663152+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1218074-comissao-especial-debate-integracao-entre-forcas-de-seguranca/",
       "posted_at": "2025-11-01T12:28:46.187951+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1217962-comissao-aprova-isencao-de-ipi-para-compra-de-automoveis-por-pessoas-com-deficiencia-de-baixa-renda/",
+      "posted_at": "2025-11-01T18:19:58.123966+00:00"
     }
   ]
 }
