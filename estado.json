@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/cas-pode-votar-regulamentacao-da-profissao-de-quiropraxista-nesta-quarta",
-      "posted_at": "2025-10-29T03:12:27.701585+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/aprovado-projeto-que-garante-fisioterapia-pelo-sus-a-pacientes-submetidos-a-mastectomia",
       "posted_at": "2025-10-29T08:22:22.739940+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/10/ao-vivo-senadores-votam-relatorio-sobre-a-mp-que-altera-diversas-leis-do-setor-eletrico-2013-30-10-25",
       "posted_at": "2025-11-01T03:08:41.454673+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/30/ci-debate-na-terca-feira-limite-do-preco-cobrado-pela-energia-de-itaipu-binacional",
+      "posted_at": "2025-11-01T04:16:54.156307+00:00"
     }
   ]
 }
