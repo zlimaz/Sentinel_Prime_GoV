@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/maes-pedem-conscientizacao-sobre-sindrome-de-phelan-mcdermid",
-      "posted_at": "2025-10-29T22:15:15.154560+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/10/projeto-que-regulamentacao-profissao-de-quiropraxista-vai-a-camara",
-      "posted_at": "2025-10-30T01:15:40.047424+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/cas-aprova-politica-nacional-de-atividade-fisica-para-pessoa-idosa",
       "posted_at": "2025-10-30T03:08:13.776837+00:00"
     },
@@ -96,6 +88,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1217770-cpmi-do-inss-ouve-presidente-de-confederacao-de-pescadores-na-segunda/",
       "posted_at": "2025-11-01T22:13:19.170986+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1217925-comissao-aprova-projeto-que-permite-a-ex-conjuges-manter-plano-de-saude-apos-separacao/",
+      "posted_at": "2025-11-02T01:18:12.740236+00:00"
     }
   ]
 }
