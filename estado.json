@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/30/sessao-na-segunda-vai-celebrar-65-anos-da-consultoria-legislativa-do-senado",
-      "posted_at": "2025-11-01T08:18:45.284096+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1217990-comissao-aprova-cadastro-nacional-para-interpretes-de-libras/",
       "posted_at": "2025-11-01T10:14:57.288261+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/03/cpmi-do-inss-identifica-mentiras-de-presidente-de-entidade-de-pescadores",
       "posted_at": "2025-11-04T06:24:24.461597+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/03/izalci-cobra-valorizacao-das-policias-e-defende-educacao-para-combater-crime",
+      "posted_at": "2025-11-04T08:22:19.737771+00:00"
     }
   ]
 }
