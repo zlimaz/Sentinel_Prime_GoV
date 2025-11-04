@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/10/30/cdh-debate-assistencia-estudantil-para-alunos-indigenas-no-ensino-superior",
-      "posted_at": "2025-11-01T06:20:59.258715+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/30/sessao-na-segunda-vai-celebrar-65-anos-da-consultoria-legislativa-do-senado",
       "posted_at": "2025-11-01T08:18:45.284096+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/04/cpmi-do-inss-presidente-da-cbpa-e-preso-em-flagrante",
       "posted_at": "2025-11-04T04:18:19.405683+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/03/cpmi-do-inss-identifica-mentiras-de-presidente-de-entidade-de-pescadores",
+      "posted_at": "2025-11-04T06:24:24.461597+00:00"
     }
   ]
 }
