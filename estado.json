@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/10/pantanal-santuario-da-biodiversidade-agora-tem-estatuto-proprio",
-      "posted_at": "2025-11-02T20:15:20.360251+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/10/uso-do-fundeb-para-pagar-profissionais-de-apoio-a-aluno-autista-avanca",
       "posted_at": "2025-11-02T22:13:33.904037+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1219635-ministra-pede-a-deputados-que-elevem-recursos-para-ciencia-e-tecnologia/",
       "posted_at": "2025-11-05T18:22:58.072698+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/05/paim-destaca-aprovacao-na-cae-de-ir-zero-para-quem-ganha-ate-r-5-mil",
+      "posted_at": "2025-11-05T20:18:26.660577+00:00"
     }
   ]
 }
