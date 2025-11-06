@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://noticias.stf.jus.br/2025/10/27/convenio-fortalece-lacos-entre-stf-e-tribunal-constitucional-do-chile/",
-      "posted_at": "2025-11-03T10:19:02.436732+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/novas-regras-para-o-setor-eletrico-seguem-a-sancao",
       "posted_at": "2025-11-03T12:34:05.642110+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/05/isencao-de-ir-para-quem-ganha-ate-r-5-mil-segue-para-sancao",
       "posted_at": "2025-11-06T10:18:41.544939+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/em-votacao-unanime-plenario-isenta-do-ir-quem-ganha-ate-r-5-mil",
+      "posted_at": "2025-11-06T12:33:08.416764+00:00"
     }
   ]
 }
