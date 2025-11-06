@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/10/simbolo-do-brasil-ha-200-anos-cafe-busca-superar-danos-ambientais",
-      "posted_at": "2025-11-03T03:14:12.225262+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/10/30/cdh-vai-debater-na-terca-feira-sindrome-do-nariz-vazio",
       "posted_at": "2025-11-03T04:24:50.862145+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/pena-mais-severa-para-crimes-sexuais-contra-vulneraveis-avanca-no-senado",
       "posted_at": "2025-11-06T03:11:04.936882+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/05/produtores-defendem-credito-emergencial-para-suprir-falta-de-seguro-rural",
+      "posted_at": "2025-11-06T04:21:59.779790+00:00"
     }
   ]
 }
