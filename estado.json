@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/05/paim-destaca-aprovacao-na-cae-de-ir-zero-para-quem-ganha-ate-r-5-mil",
-      "posted_at": "2025-11-05T20:18:26.660577+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/projeto-traz-mais-clareza-na-definicao-do-crime-de-estupro-de-vulneravel",
       "posted_at": "2025-11-06T01:14:42.747954+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/08/davi-soma-o-senado-aos-esforcos-para-reconstruir-regiao-atingida-por-tornado",
       "posted_at": "2025-11-08T20:15:14.952673+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/07/dirigente-de-associacao-investigada-por-descontos-depoe-a-cpmi-na-segunda",
+      "posted_at": "2025-11-08T22:13:09.324849+00:00"
     }
   ]
 }
