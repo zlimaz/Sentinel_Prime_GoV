@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/04/mecias-critica-centralizacao-da-seguranca-e-defende-autonomia-dos-estados",
-      "posted_at": "2025-11-05T01:15:00.681381+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/04/bittar-critica-atuacao-do-governo-na-seguranca-publica",
       "posted_at": "2025-11-05T03:08:35.110249+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/atualizacao-do-codigo-civil-deve-garantir-regras-contratuais-claras-aponta-debate",
       "posted_at": "2025-11-08T01:10:26.662446+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/cpmi-aprova-acareacao-entre-eli-cohen-e-careca-do-inss",
+      "posted_at": "2025-11-08T02:59:16.106161+00:00"
     }
   ]
 }
