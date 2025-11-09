@@ -2,22 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/ccj-aprova-que-relacao-sexual-com-menor-de-14-anos-e-estupro",
-      "posted_at": "2025-11-06T08:21:58.620242+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/05/isencao-de-ir-para-quem-ganha-ate-r-5-mil-segue-para-sancao",
-      "posted_at": "2025-11-06T10:18:41.544939+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/em-votacao-unanime-plenario-isenta-do-ir-quem-ganha-ate-r-5-mil",
-      "posted_at": "2025-11-06T12:33:08.416764+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/06/codigo-civil-regras-contratuais-devem-garantir-equilibrio-destacam-juristas",
-      "posted_at": "2025-11-06T18:24:12.739654+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/06/transformacao-de-cargos-do-trt-de-cuiaba-sera-analisada-pelo-senado",
       "posted_at": "2025-11-06T20:18:06.149885+00:00"
     },
@@ -100,6 +84,10 @@
     {
       "link": "https://noticias.stf.jus.br/2025/10/29/stf-prorroga-prazo-de-submissao-de-artigos-para-dossie-tematico-sobre-justica-climatica/",
       "posted_at": "2025-11-09T08:27:16.330576+00:00"
+    },
+    {
+      "link": "https://noticias.stf.jus.br/2025/10/27/convenio-fortalece-lacos-entre-stf-e-tribunal-constitucional-do-chile/",
+      "posted_at": "2025-11-09T20:24:31.821184+00:00"
     }
   ]
 }
