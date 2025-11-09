@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/pena-mais-severa-para-crimes-sexuais-contra-vulneraveis-avanca-no-senado",
-      "posted_at": "2025-11-06T03:11:04.936882+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/05/produtores-defendem-credito-emergencial-para-suprir-falta-de-seguro-rural",
       "posted_at": "2025-11-06T04:21:59.779790+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/07/governo-libera-r-230-milhoes-para-acoes-de-seguranca-alimentar",
       "posted_at": "2025-11-09T03:10:27.916966+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/07/sancionada-lei-que-institui-dia-nacional-da-protecao-de-dados",
+      "posted_at": "2025-11-09T04:18:38.654345+00:00"
     }
   ]
 }
