@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/projeto-traz-mais-clareza-na-definicao-do-crime-de-estupro-de-vulneravel",
-      "posted_at": "2025-11-06T01:14:42.747954+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/pena-mais-severa-para-crimes-sexuais-contra-vulneraveis-avanca-no-senado",
       "posted_at": "2025-11-06T03:11:04.936882+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/07/dirigente-de-associacao-investigada-por-descontos-depoe-a-cpmi-na-segunda",
       "posted_at": "2025-11-08T22:13:09.324849+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/11/bagagem-de-mao-pode-ser-gratuita",
+      "posted_at": "2025-11-09T01:17:25.695690+00:00"
     }
   ]
 }
