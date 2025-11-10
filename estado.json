@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/06/licenca-paternidade-de-20-dias-volta-a-analise-do-senado",
-      "posted_at": "2025-11-07T06:24:25.230915+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/comissao-quer-ouvir-guajajara-sobre-conflitos-fundiarios-em-rondonia",
       "posted_at": "2025-11-07T08:21:58.346048+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1220828-ccj-aprova-prioridade-em-matricula-para-filhos-de-mulheres-vitimas-de-violencia-domestica/",
       "posted_at": "2025-11-10T04:23:55.367106+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1220917-comissao-aprova-regulamentacao-da-profissao-de-mergulhador-profissional/",
+      "posted_at": "2025-11-10T06:26:51.719276+00:00"
     }
   ]
 }
