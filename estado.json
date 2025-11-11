@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/senado-vai-avaliar-pena-maior-em-crimes-contra-entregadores-de-aplicativos",
-      "posted_at": "2025-11-08T04:17:56.920242+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/07/reforma-do-codigo-civil-entenda-o-que-esta-em-debate-e-fuja-das-fake-news",
       "posted_at": "2025-11-08T06:21:28.727532+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/acusado-de-desenvolver-sistema-usado-em-fraudes-fica-em-silencio-na-cpmi-do-inss",
       "posted_at": "2025-11-11T03:10:41.985088+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/cpmi-do-inss-apreende-celular-de-igor-delecrode",
+      "posted_at": "2025-11-11T04:20:44.058816+00:00"
     }
   ]
 }
