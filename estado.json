@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/relator-da-cpi-do-crime-organizado-quer-dar-voz-a-policias-e-especialistas",
-      "posted_at": "2025-11-08T16:17:04.650074+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/07/ccj-sabatina-gonet-e-outras-autoridades-na-quarta-feira",
-      "posted_at": "2025-11-08T18:20:23.134189+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/08/davi-soma-o-senado-aos-esforcos-para-reconstruir-regiao-atingida-por-tornado",
-      "posted_at": "2025-11-08T20:15:14.952673+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/07/dirigente-de-associacao-investigada-por-descontos-depoe-a-cpmi-na-segunda",
       "posted_at": "2025-11-08T22:13:09.324849+00:00"
     },
@@ -100,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/11/cop-30-e-celebrada-em-projecao-no-predio-do-congresso",
       "posted_at": "2025-11-11T14:16:29.228086+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/11/girao-anuncia-voto-nao-e-diz-que-senado-tem-dever-moral-de-rejeitar-gonet-a-pgr",
+      "posted_at": "2025-11-11T20:17:35.055068+00:00"
     }
   ]
 }
