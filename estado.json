@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://noticias.stf.jus.br/2025/10/27/convenio-fortalece-lacos-entre-stf-e-tribunal-constitucional-do-chile/",
-      "posted_at": "2025-11-09T20:24:31.821184+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1220093-comissoes-debatem-novas-relacoes-de-trabalho-e-o-papel-do-judiciario/",
-      "posted_at": "2025-11-09T22:13:38.803928+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1221051-hugo-motta-anuncia-relator-do-projeto-que-cria-marco-legal-do-combate-ao-crime-organizado/",
       "posted_at": "2025-11-10T01:17:37.945532+00:00"
     },
@@ -104,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/12/ctfc-aprova-projeto-que-disciplina-a-cobranca-de-diarias-em-hoteis",
       "posted_at": "2025-11-12T20:18:19.903791+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/12/aprovada-indicacao-de-thiago-diaz-para-o-cnmp",
+      "posted_at": "2025-11-13T01:15:24.027352+00:00"
     }
   ]
 }
