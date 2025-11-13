@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1220828-ccj-aprova-prioridade-em-matricula-para-filhos-de-mulheres-vitimas-de-violencia-domestica/",
-      "posted_at": "2025-11-10T04:23:55.367106+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1220917-comissao-aprova-regulamentacao-da-profissao-de-mergulhador-profissional/",
-      "posted_at": "2025-11-10T06:26:51.719276+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1220669-comissao-aprova-obrigacao-de-obras-licenciadas-adotarem-medidas-de-prevencao-de-desastres/",
-      "posted_at": "2025-11-10T08:23:23.027482+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/plenario-vota-aumento-de-pena-para-crimes-sexuais-contra-vulneraveis",
       "posted_at": "2025-11-10T22:15:57.050133+00:00"
     },
@@ -100,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/12/plinio-defende-manifestantes-em-ato-na-cop-30-e-critica-acoes-de-ongs",
       "posted_at": "2025-11-13T04:21:25.406651+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/12/aprovada-indicacao-de-flavio-barbosa-para-o-stm",
+      "posted_at": "2025-11-13T10:18:16.197395+00:00"
     }
   ]
 }
