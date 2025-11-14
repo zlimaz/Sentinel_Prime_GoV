@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/10/programador-acusado-de-facilitar-descontos-ilegais-fica-calado-na-cpmi",
-      "posted_at": "2025-11-11T08:21:41.991406+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/projeto-exige-verificacao-de-caracteristicas-do-asfalto-antes-da-liberacao-de-vias",
-      "posted_at": "2025-11-11T10:18:04.838049+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/na-cop-30-davi-destaca-reducao-do-desmatamento-e-avanco-da-energia-limpa",
       "posted_at": "2025-11-11T12:33:08.611482+00:00"
     },
@@ -104,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/nova-lei-garante-transporte-e-alimentacao-escolar-para-alunos-da-rede-federal",
       "posted_at": "2025-11-14T08:21:33.998926+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/audicencia-revela-preocupacao-com-retrocesso-nos-direitos-das-pcd-em-voos",
+      "posted_at": "2025-11-14T10:18:19.907547+00:00"
     }
   ]
 }
