@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/cpmi-do-inss-apreende-celular-de-igor-delecrode",
-      "posted_at": "2025-11-11T04:20:44.058816+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/cdh-acolhe-sugestao-de-piso-salarial-para-nutricionistas",
-      "posted_at": "2025-11-11T06:24:37.256463+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/10/programador-acusado-de-facilitar-descontos-ilegais-fica-calado-na-cpmi",
       "posted_at": "2025-11-11T08:21:41.991406+00:00"
     },
@@ -104,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/13/para-girao-projeto-aprovado-na-camara-dificulta-a-pedofilia-e-pune-o-estuprador",
       "posted_at": "2025-11-14T04:19:35.234428+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/sessao-pelos-119-anos-de-parceria-entre-brasil-e-el-salvador-destaca-acordo-aereo",
+      "posted_at": "2025-11-14T06:24:50.469360+00:00"
     }
   ]
 }
