@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/plenario-vota-aumento-de-pena-para-crimes-sexuais-contra-vulneraveis",
-      "posted_at": "2025-11-10T22:15:57.050133+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/csp-avalia-inclusao-de-combate-a-crimes-fluviais-entre-competencias-das-policias",
-      "posted_at": "2025-11-11T01:15:13.104284+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/acusado-de-desenvolver-sistema-usado-em-fraudes-fica-em-silencio-na-cpmi-do-inss",
       "posted_at": "2025-11-11T03:10:41.985088+00:00"
     },
@@ -108,6 +100,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1223119-governo-afirma-que-65-dos-professores-da-educacao-basica-ficarao-isentos-do-imposto-de-renda/",
       "posted_at": "2025-11-13T18:23:19.387133+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/13/presidente-da-cpmi-do-inss-sauda-decisao-de-mendonca-suspeitos-foram-presos",
+      "posted_at": "2025-11-14T03:09:51.825317+00:00"
     }
   ]
 }
