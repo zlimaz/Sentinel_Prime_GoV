@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/11/adiada-votacao-de-projeto-que-preve-atuacao-do-servico-social-em-hospitais",
-      "posted_at": "2025-11-12T08:22:22.796312+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/especialistas-destacam-importancia-da-prevencao-ao-parto-prematuro",
       "posted_at": "2025-11-12T12:34:03.846683+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/senado-tera-sala-para-acolhimento-de-pessoas-vitimas-de-violencia",
       "posted_at": "2025-11-15T08:18:51.574967+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/uniao-interparlamentar-oferece-contribuicoes-do-legislativo-para-enfrentar-mudancas-climaticas",
+      "posted_at": "2025-11-15T10:14:46.782423+00:00"
     }
   ]
 }
