@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/11/girao-anuncia-voto-nao-e-diz-que-senado-tem-dever-moral-de-rejeitar-gonet-a-pgr",
-      "posted_at": "2025-11-11T20:17:35.055068+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/sistema-de-saude-tera-diretriz-para-cuidar-de-mulheres-dependentes-do-alcool",
-      "posted_at": "2025-11-12T01:14:52.758750+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/dupla-violencia-contra-mulheres-negras-sera-foco-de-campanha-no-senado",
-      "posted_at": "2025-11-12T03:09:20.129047+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/apos-negociar-com-parlamentares-mec-vai-alterar-politica-de-educacao-inclusiva",
       "posted_at": "2025-11-12T04:19:54.247976+00:00"
     },
@@ -104,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/volta-ao-senado-projeto-que-muda-regras-de-processo-tributario",
       "posted_at": "2025-11-14T16:20:52.643472+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/aquecimento-global-compromete-o-futuro-de-todos-afirma-humberto-costa-na-cop",
+      "posted_at": "2025-11-15T04:18:26.391291+00:00"
     }
   ]
 }
