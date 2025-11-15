@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/11/estrategia-de-saude-para-mulheres-alcoolistas-segue-para-sancao",
-      "posted_at": "2025-11-12T06:24:41.964707+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/11/adiada-votacao-de-projeto-que-preve-atuacao-do-servico-social-em-hospitais",
       "posted_at": "2025-11-12T08:22:22.796312+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/comissoes-aprovam-emendas-ao-orcamento-de-2026",
       "posted_at": "2025-11-15T06:22:12.863334+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/senado-tera-sala-para-acolhimento-de-pessoas-vitimas-de-violencia",
+      "posted_at": "2025-11-15T08:18:51.574967+00:00"
     }
   ]
 }
