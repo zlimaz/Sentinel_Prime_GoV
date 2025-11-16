@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/12/aprovada-indicacao-de-flavio-barbosa-para-o-stm",
-      "posted_at": "2025-11-13T10:18:16.197395+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/13/lei-revoga-normas-ultrapassadas-na-area-de-previdencia-social",
       "posted_at": "2025-11-13T12:34:31.704509+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/cpmi-ouve-na-terca-dois-gestores-de-instituicoes-investigados-por-fraude",
       "posted_at": "2025-11-16T10:15:17.983276+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/reuniao-de-parlamentos-na-cop-reafirma-papel-do-legislativo-nas-decisoes-climaticas",
+      "posted_at": "2025-11-16T12:29:09.497912+00:00"
     }
   ]
 }
