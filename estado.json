@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/12/cre-aprova-convencao-que-facilita-transporte-rodoviario-de-mercadorias",
-      "posted_at": "2025-11-13T03:11:34.817576+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/12/plinio-defende-manifestantes-em-ato-na-cop-30-e-critica-acoes-de-ongs",
-      "posted_at": "2025-11-13T04:21:25.406651+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/12/aprovada-indicacao-de-flavio-barbosa-para-o-stm",
       "posted_at": "2025-11-13T10:18:16.197395+00:00"
     },
@@ -84,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/maior-taxacao-de-bets-e-fintechs-volta-a-pauta-da-cae-na-terca-feira",
       "posted_at": "2025-11-16T01:19:20.885556+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/carlos-chagas-filho-e-reconhecido-como-visionario-em-sessao-de-homenagem",
+      "posted_at": "2025-11-16T04:22:21.800984+00:00"
     }
   ]
 }
