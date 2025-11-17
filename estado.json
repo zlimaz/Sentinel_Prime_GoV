@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/sessao-pelos-119-anos-de-parceria-entre-brasil-e-el-salvador-destaca-acordo-aereo",
-      "posted_at": "2025-11-14T06:24:50.469360+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/nova-lei-garante-transporte-e-alimentacao-escolar-para-alunos-da-rede-federal",
       "posted_at": "2025-11-14T08:21:33.998926+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/senado-participa-de-discussoes-e-lanca-obras-de-tematica-ambiental-na-cop-30",
       "posted_at": "2025-11-17T04:22:43.534294+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1223762-parlamentares-mulheres-defendem-integracao-entre-genero-e-clima-em-debate-na-cop30/",
+      "posted_at": "2025-11-17T06:25:43.196962+00:00"
     }
   ]
 }
