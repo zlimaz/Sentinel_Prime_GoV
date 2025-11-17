@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/cop-30-parlamentares-da-america-latina-e-caribe-lancam-manifesto",
-      "posted_at": "2025-11-14T14:15:44.597826+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/volta-ao-senado-projeto-que-muda-regras-de-processo-tributario",
       "posted_at": "2025-11-14T16:20:52.643472+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/17/meninas-ganham-dia-nacional-11-de-outubro",
       "posted_at": "2025-11-17T12:33:57.181599+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/proposta-de-tarifa-zero-em-transporte-publico-esta-em-analise-na-cae",
+      "posted_at": "2025-11-17T14:16:21.641861+00:00"
     }
   ]
 }
