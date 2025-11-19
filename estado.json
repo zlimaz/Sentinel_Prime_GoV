@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/ao-vivo-sessao-do-senado-homenageia-carlos-chagas",
-      "posted_at": "2025-11-16T14:13:10.455923+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/senado-aprova-proibicao-de-desconto-em-beneficios-do-inss-1",
       "posted_at": "2025-11-16T20:16:46.583596+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/ao-vivo-cpi-do-crime-ouve-antonio-glautter-e-lincoln-gakiya-2013-19-11-25",
       "posted_at": "2025-11-19T12:34:36.936821+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/zequinha-marinho-defende-medidas-contra-importacao-de-leite",
+      "posted_at": "2025-11-19T14:16:13.331527+00:00"
     }
   ]
 }
