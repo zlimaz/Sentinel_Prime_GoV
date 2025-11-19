@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/maior-taxacao-de-bets-e-fintechs-volta-a-pauta-da-cae-na-terca-feira",
-      "posted_at": "2025-11-16T01:19:20.885556+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/14/carlos-chagas-filho-e-reconhecido-como-visionario-em-sessao-de-homenagem",
       "posted_at": "2025-11-16T04:22:21.800984+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/18/damares-alves-critica-condenacao-de-ex-presidente-e-defende-pauta-da-anistia",
       "posted_at": "2025-11-18T20:19:31.636536+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/em-depoimento-a-cpmi-do-inss-investigada-diz-ser-bode-expiatorio",
+      "posted_at": "2025-11-19T03:08:44.452929+00:00"
     }
   ]
 }
