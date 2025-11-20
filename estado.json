@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1223745-motta-debate-sobre-o-marco-legal-de-combate-ao-crime-organizado-tomou-conta-do-brasil/",
-      "posted_at": "2025-11-17T10:18:51.112690+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/17/meninas-ganham-dia-nacional-11-de-outubro",
       "posted_at": "2025-11-17T12:33:57.181599+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/especialistas-defendem-seguranca-e-clareza-em-marco-das-financas-abertas",
       "posted_at": "2025-11-20T10:17:43.446779+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/debate-expoe-falta-de-mapeamento-sobre-mineracao-em-areas-indigenas",
+      "posted_at": "2025-11-20T12:32:58.073723+00:00"
     }
   ]
 }
