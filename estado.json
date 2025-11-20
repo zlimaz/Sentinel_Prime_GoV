@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/cpmi-do-inss-ouve-empresarios-acusados-de-envolvimento-em-esquema-de-fraudes",
-      "posted_at": "2025-11-17T16:21:55.296205+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/17/envelhecimento-da-populacao-exige-planejamento-diz-confucio-moura",
-      "posted_at": "2025-11-17T18:23:21.803390+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/confira-os-projetos-que-podem-ser-votados-pelo-senado-nesta-semana",
       "posted_at": "2025-11-18T06:24:26.276238+00:00"
     },
@@ -92,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/lei-destina-r-30-bilhoes-para-projetos-de-defesa-nacional",
       "posted_at": "2025-11-20T16:20:52.146161+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/na-cre-brasileiras-relatam-nao-ter-acesso-a-filhos-em-paises-muculmanos",
+      "posted_at": "2025-11-20T18:23:48.282699+00:00"
     }
   ]
 }
