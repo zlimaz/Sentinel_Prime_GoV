@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/confira-os-projetos-que-podem-ser-votados-pelo-senado-nesta-semana",
-      "posted_at": "2025-11-18T06:24:26.276238+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/relatorio-do-tcu-aponta-falhas-em-programas-e-politicas-publicas",
-      "posted_at": "2025-11-18T08:21:59.452579+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/17/senador-paim-critica-acoes-de-planos-de-saude-e-cobra-maior-fiscalizacao",
       "posted_at": "2025-11-18T10:19:25.385691+00:00"
     },
@@ -96,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/senado-aprova-incentivo-a-sustentabilidade-na-industria-quimica",
       "posted_at": "2025-11-21T03:07:39.889842+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/demarcacoes-indigenas-cra-cobra-explicacoes-do-governo",
+      "posted_at": "2025-11-21T08:23:07.405900+00:00"
     }
   ]
 }
