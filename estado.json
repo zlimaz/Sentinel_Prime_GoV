@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/ccj-pode-votar-projeto-que-susta-regras-da-aneel-sobre-custo-da-eletricidade",
-      "posted_at": "2025-11-18T18:24:48.615856+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/18/damares-alves-critica-condenacao-de-ex-presidente-e-defende-pauta-da-anistia",
       "posted_at": "2025-11-18T20:19:31.636536+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/cpi-senadores-ouvem-diretor-de-inteligencia-penal-e-pedem-mais-dados-sobre-presidios",
       "posted_at": "2025-11-21T18:21:47.931681+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1225469-comissao-aprova-criacao-da-semana-nacional-de-conscientizacao-sobre-a-febre-oropouche/",
+      "posted_at": "2025-11-21T20:18:33.338201+00:00"
     }
   ]
 }
