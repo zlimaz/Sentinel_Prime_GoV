@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/em-depoimento-a-cpmi-do-inss-investigada-diz-ser-bode-expiatorio",
-      "posted_at": "2025-11-19T03:08:44.452929+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/18/cpmi-depoente-admite-conhecer-investigados-mas-evita-explicar-milhoes-transferidos",
-      "posted_at": "2025-11-19T06:24:27.309040+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/vai-a-sancao-proposta-que-permite-atualizar-valor-de-imovel-e-veiculo-no-ir",
-      "posted_at": "2025-11-19T08:21:36.287741+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/senado-aprova-voto-de-censura-contra-chanceler-alemao",
       "posted_at": "2025-11-19T10:18:06.505709+00:00"
     },
@@ -100,6 +88,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1225317-comissao-aprova-proposta-que-incentiva-presenca-de-mulheres-na-construcao-civil/",
       "posted_at": "2025-11-22T01:11:25.439343+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1225353-comissao-aprova-atualizacao-do-eca-sobre-educacao-obrigatoria-e-gratuita-prevista-na-constituicao/",
+      "posted_at": "2025-11-22T10:15:35.604592+00:00"
     }
   ]
 }
