@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/cas-aprova-mudancas-no-orcamento-para-areas-de-saude-e-assistencia-hospitalar",
-      "posted_at": "2025-11-21T10:17:19.535670+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/presidentes-de-senado-camara-e-stf-se-reunem-para-discutir-temas-do-judiciario",
-      "posted_at": "2025-11-21T12:31:58.774480+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/girao-aponta-censura-e-critica-contrato-bilionario-do-governo-cearense",
       "posted_at": "2025-11-21T14:16:06.354203+00:00"
     },
@@ -120,6 +112,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/demarcacoes-indigenas-cra-cobra-explicacoes-do-governo",
       "posted_at": "2025-11-24T08:23:40.188548+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/volta-ao-senado-projeto-que-regulamenta-arbitragem-tributaria",
+      "posted_at": "2025-11-24T12:34:16.410690+00:00"
     }
   ]
 }
