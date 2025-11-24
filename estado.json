@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1225469-comissao-aprova-criacao-da-semana-nacional-de-conscientizacao-sobre-a-febre-oropouche/",
-      "posted_at": "2025-11-21T20:18:33.338201+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/11/ex-integrantes-da-ditadura-quase-definiram-os-rumos-da-constituinte-diz-pesquisador",
       "posted_at": "2025-11-21T22:15:35.833650+00:00"
     },
@@ -116,6 +112,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/24/aposentadoria-dos-agentes-de-saude-e-o-primeiro-item-do-plenario-do-senado-nesta-terca",
       "posted_at": "2025-11-24T18:25:00.966385+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/24/damares-critica-prisao-de-bolsonaro-e-pede-foco-no-banco-master",
+      "posted_at": "2025-11-24T20:19:05.203827+00:00"
     }
   ]
 }
