@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/cumprimento-de-regras-fiscais-em-2026-depende-do-congresso-diz-ifi",
-      "posted_at": "2025-11-21T16:20:15.827607+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/cpi-senadores-ouvem-diretor-de-inteligencia-penal-e-pedem-mais-dados-sobre-presidios",
-      "posted_at": "2025-11-21T18:21:47.931681+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1225469-comissao-aprova-criacao-da-semana-nacional-de-conscientizacao-sobre-a-febre-oropouche/",
       "posted_at": "2025-11-21T20:18:33.338201+00:00"
     },
@@ -120,6 +112,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/24/nos-21-dias-de-ativismo-senado-reforca-combate-a-violencia-digital-contra-mulheres",
       "posted_at": "2025-11-24T16:18:45.920219+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/24/aposentadoria-dos-agentes-de-saude-e-o-primeiro-item-do-plenario-do-senado-nesta-terca",
+      "posted_at": "2025-11-24T18:25:00.966385+00:00"
     }
   ]
 }
