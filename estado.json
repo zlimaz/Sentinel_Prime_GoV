@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/girao-aponta-censura-e-critica-contrato-bilionario-do-governo-cearense",
-      "posted_at": "2025-11-21T14:16:06.354203+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/cumprimento-de-regras-fiscais-em-2026-depende-do-congresso-diz-ifi",
       "posted_at": "2025-11-21T16:20:15.827607+00:00"
     },
@@ -116,6 +112,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/volta-ao-senado-projeto-que-regulamenta-arbitragem-tributaria",
       "posted_at": "2025-11-24T12:34:16.410690+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/24/gabriel-galipolo-do-bc-e-ricardo-saadi-do-coaf-serao-ouvidos-pela-cae-nesta-terca",
+      "posted_at": "2025-11-24T14:16:33.592411+00:00"
     }
   ]
 }
