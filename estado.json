@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1225159-comissao-debate-alto-preco-das-passagens-aereas-no-brasil/",
-      "posted_at": "2025-11-22T22:14:36.477154+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1225130-comissao-aprova-programa-de-incentivo-ao-esporte-educacional/",
       "posted_at": "2025-11-23T01:24:21.146221+00:00"
     },
@@ -120,6 +116,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/25/sabatina-de-messias-na-ccj-sera-no-dia-10",
       "posted_at": "2025-11-25T20:18:28.648216+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/25/sancionado-com-vetos-novo-marco-regulatorio-do-setor-eletrico",
+      "posted_at": "2025-11-25T22:15:58.509425+00:00"
     }
   ]
 }
