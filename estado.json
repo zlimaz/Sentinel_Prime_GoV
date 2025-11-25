@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/11/ex-integrantes-da-ditadura-quase-definiram-os-rumos-da-constituinte-diz-pesquisador",
-      "posted_at": "2025-11-21T22:15:35.833650+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1225317-comissao-aprova-proposta-que-incentiva-presenca-de-mulheres-na-construcao-civil/",
-      "posted_at": "2025-11-22T01:11:25.439343+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1225353-comissao-aprova-atualizacao-do-eca-sobre-educacao-obrigatoria-e-gratuita-prevista-na-constituicao/",
       "posted_at": "2025-11-22T10:15:35.604592+00:00"
     },
@@ -120,6 +112,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/senado-vai-analisar-projeto-que-cria-estatuto-da-pessoa-com-obesidade",
       "posted_at": "2025-11-24T22:15:27.701177+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/gastos-com-defesa-nacional-ficam-de-fora-do-arcabouco-fiscal",
+      "posted_at": "2025-11-25T03:11:45.169914+00:00"
     }
   ]
 }
