@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/na-cre-brasileiras-relatam-nao-ter-acesso-a-filhos-em-paises-muculmanos",
-      "posted_at": "2025-11-23T22:14:46.786258+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/20/aposentadoria-especial-para-agentes-de-saude-sera-votada-na-terca-anuncia-davi",
       "posted_at": "2025-11-24T01:19:39.442779+00:00"
     },
@@ -108,6 +104,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/adiada-votacao-do-aumento-de-impostos-para-bets-e-fintechs",
       "posted_at": "2025-11-26T20:17:58.634634+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1226940-conselho-de-etica-arquiva-representacao-contra-o-deputado-jose-medeiros/",
+      "posted_at": "2025-11-26T22:15:47.758031+00:00"
     }
   ]
 }
