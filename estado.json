@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/especialistas-defendem-seguranca-e-clareza-em-marco-das-financas-abertas",
-      "posted_at": "2025-11-23T14:13:24.050115+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/debate-expoe-falta-de-mapeamento-sobre-mineracao-em-areas-indigenas",
-      "posted_at": "2025-11-23T16:18:08.192239+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/senado-aprova-projeto-de-incentivo-a-sustentabilidade-na-industria-quimica",
       "posted_at": "2025-11-23T18:21:19.769198+00:00"
     },
@@ -116,6 +108,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/liquidacao-do-banco-master-foi-assunto-extrapauta-na-audiencia-com-galipolo",
       "posted_at": "2025-11-26T12:35:14.964021+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/cas-aprova-marco-regulatorio-contra-o-cancer",
+      "posted_at": "2025-11-26T18:20:11.431879+00:00"
     }
   ]
 }
