@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/senado-aprova-projeto-de-incentivo-a-sustentabilidade-na-industria-quimica",
-      "posted_at": "2025-11-23T18:21:19.769198+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/lei-destina-r-30-bilhoes-para-projetos-de-defesa-nacional",
-      "posted_at": "2025-11-23T20:17:39.737014+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/na-cre-brasileiras-relatam-nao-ter-acesso-a-filhos-em-paises-muculmanos",
       "posted_at": "2025-11-23T22:14:46.786258+00:00"
     },
@@ -112,6 +104,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/cas-aprova-marco-regulatorio-contra-o-cancer",
       "posted_at": "2025-11-26T18:20:11.431879+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/adiada-votacao-do-aumento-de-impostos-para-bets-e-fintechs",
+      "posted_at": "2025-11-26T20:17:58.634634+00:00"
     }
   ]
 }
