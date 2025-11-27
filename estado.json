@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/20/aposentadoria-especial-para-agentes-de-saude-sera-votada-na-terca-anuncia-davi",
-      "posted_at": "2025-11-24T01:19:39.442779+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/senado-aprova-incentivo-a-sustentabilidade-na-industria-quimica",
       "posted_at": "2025-11-24T03:20:45.747889+00:00"
     },
@@ -112,6 +108,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/vai-a-camara-projeto-de-aposentadoria-especial-para-agentes-comunitarios-de-saude",
       "posted_at": "2025-11-27T01:13:49.386202+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/faccoes-do-crime-organizado-estao-em-todos-os-estados-do-pais-diz-especialista",
+      "posted_at": "2025-11-27T03:08:35.347301+00:00"
     }
   ]
 }
