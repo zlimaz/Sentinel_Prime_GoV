@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/24/aposentadoria-dos-agentes-de-saude-e-o-primeiro-item-do-plenario-do-senado-nesta-terca",
-      "posted_at": "2025-11-24T18:25:00.966385+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/24/damares-critica-prisao-de-bolsonaro-e-pede-foco-no-banco-master",
       "posted_at": "2025-11-24T20:19:05.203827+00:00"
     },
@@ -104,6 +100,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/tratado-entre-brasil-e-cazaquistao-deve-agilizar-combate-a-crimes",
       "posted_at": "2025-11-27T18:23:01.263071+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/27/congresso-derruba-52-itens-de-veto-a-lei-geral-do-licenciamento-ambiental",
+      "posted_at": "2025-11-27T20:15:49.953490+00:00"
     }
   ]
 }
