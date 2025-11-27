@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://noticias.stf.jus.br/2025/11/17/seminario-movimentos-negros-e-poder-judiciario/",
-      "posted_at": "2025-11-24T04:30:58.313640+00:00"
-    },
-    {
-      "link": "https://noticias.stf.jus.br/2025/10/27/convenio-fortalece-lacos-entre-stf-e-tribunal-constitucional-do-chile/",
-      "posted_at": "2025-11-24T06:25:50.669646+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/demarcacoes-indigenas-cra-cobra-explicacoes-do-governo",
       "posted_at": "2025-11-24T08:23:40.188548+00:00"
     },
@@ -112,6 +104,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/acordo-deve-eliminar-barreiras-para-comercio-eletronico-no-mercosul",
       "posted_at": "2025-11-27T04:20:11.202155+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/comissao-aprova-diretrizes-para-novas-tecnologias-contra-o-cancer",
+      "posted_at": "2025-11-27T06:26:26.517435+00:00"
     }
   ]
 }
