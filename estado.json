@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/19/demarcacoes-indigenas-cra-cobra-explicacoes-do-governo",
-      "posted_at": "2025-11-24T08:23:40.188548+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/volta-ao-senado-projeto-que-regulamenta-arbitragem-tributaria",
       "posted_at": "2025-11-24T12:34:16.410690+00:00"
     },
@@ -112,6 +108,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/vai-a-plenario-acordo-com-australia-para-agilizar-investigacoes-criminais",
       "posted_at": "2025-11-27T08:23:39.547327+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/especialistas-alertam-para-nova-dinamica-do-crime-organizado-no-brasil",
+      "posted_at": "2025-11-27T10:18:28.576184+00:00"
     }
   ]
 }
