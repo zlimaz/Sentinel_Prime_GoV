@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/25/avanca-projeto-que-fixa-preco-maximo-para-energia-de-itaipu",
-      "posted_at": "2025-11-25T14:17:09.574532+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/25/debate-em-cpi-aponta-falhas-do-estado-no-combate-ao-crime-organizado",
       "posted_at": "2025-11-25T16:22:11.478392+00:00"
     },
@@ -112,6 +108,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/senado-aprova-aposentadoria-especial-para-agentes-de-saude-1",
       "posted_at": "2025-11-28T14:16:33.787580+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/congresso-derruba-vetos-a-lei-do-licenciamento-ambiental-e-ao-propag",
+      "posted_at": "2025-11-28T16:19:54.063403+00:00"
     }
   ]
 }
