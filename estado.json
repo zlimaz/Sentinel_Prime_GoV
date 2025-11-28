@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/ao-vivo-ctfc-analisa-irregularidades-na-gestao-dos-correios-2013-25-11-25",
-      "posted_at": "2025-11-25T18:24:57.179500+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/25/sabatina-de-messias-na-ccj-sera-no-dia-10",
       "posted_at": "2025-11-25T20:18:28.648216+00:00"
     },
@@ -112,6 +108,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/28/cpmi-do-inss-colhe-depoimento-de-sandro-temer-de-oliveira-nesta-segunda",
       "posted_at": "2025-11-28T18:22:51.280801+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/28/senado-lanca-arquivo-s-sobre-historia-do-brasil-em-entrevista-com-christian-lynch",
+      "posted_at": "2025-11-28T20:17:51.379488+00:00"
     }
   ]
 }
