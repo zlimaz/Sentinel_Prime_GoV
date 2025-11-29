@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/liquidacao-do-banco-master-foi-assunto-extrapauta-na-audiencia-com-galipolo",
-      "posted_at": "2025-11-26T12:35:14.964021+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/cas-aprova-marco-regulatorio-contra-o-cancer",
       "posted_at": "2025-11-26T18:20:11.431879+00:00"
     },
@@ -112,6 +108,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/28/cpi-do-crime-organizado-ouve-governador-do-rj-claudio-castro-na-quarta-feira",
       "posted_at": "2025-11-29T12:30:49.313761+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/28/ampliacao-da-coleta-de-dna-de-condenados-segue-para-sancao-presidencial",
+      "posted_at": "2025-11-29T14:14:37.961960+00:00"
     }
   ]
 }
