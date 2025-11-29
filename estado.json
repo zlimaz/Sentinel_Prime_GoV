@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/25/moro-defende-regras-mais-duras-para-soltura-de-presos-em-audiencias-de-custodia",
-      "posted_at": "2025-11-26T04:21:45.205045+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/25/plenario-vai-celebrar-dia-do-evangelico",
       "posted_at": "2025-11-26T08:22:39.611077+00:00"
     },
@@ -112,6 +108,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/28/sessao-pelos-seis-meses-da-morte-do-papa-francisco-destaca-legado-do-pontifice",
       "posted_at": "2025-11-29T04:19:09.113151+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/28/sem-consenso-exame-de-proficiencia-pode-mudar-a-carreira-de-medico",
+      "posted_at": "2025-11-29T08:20:47.604854+00:00"
     }
   ]
 }
