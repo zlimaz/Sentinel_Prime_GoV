@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 106,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/acordo-deve-eliminar-barreiras-para-comercio-eletronico-no-mercosul",
-      "posted_at": "2025-11-27T04:20:11.202155+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/11/comissao-aprova-diretrizes-para-novas-tecnologias-contra-o-cancer",
       "posted_at": "2025-11-27T06:26:26.517435+00:00"
     },
@@ -104,6 +100,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/debatedores-pedem-campanha-de-conscientizacao-sobre-saude-bucal",
       "posted_at": "2025-11-30T03:23:36.860045+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/politica-nacional-de-autocuidado-recebe-apoio-em-audiencia-na-cdh",
+      "posted_at": "2025-11-30T04:31:06.193710+00:00"
     }
   ]
 }
