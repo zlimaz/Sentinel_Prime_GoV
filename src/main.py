@@ -137,24 +137,37 @@ def main():
 
     print("Postando no X...")
     last_tweet_id = None
-    post_successful = True
-    for tweet in thread_content:
-        last_tweet_id = post_tweet(tweet, reply_to_id=last_tweet_id)
-        if not last_tweet_id:
-            print("Falha ao postar um dos tweets. Abortando o ciclo.")
-            post_successful = False
-            break
-        time.sleep(5)  # Pausa de 5 segundos entre os tweets
+    post_result = "success"  # "success", "duplicate", ou "failure"
 
-    if post_successful:
-        print(f"Postagem concluída para {deputy_name}.")
-        # Atualiza o estado apenas se a postagem for bem-sucedida
+    for i, tweet in enumerate(thread_content):
+        response = post_tweet(tweet, reply_to_id=last_tweet_id)
+
+        if response == "duplicate":
+            post_result = "duplicate"
+            break  # Interrompe a postagem desta thread
+
+        if not response:
+            post_result = "failure"
+            break  # Interrompe em caso de outra falha
+
+        last_tweet_id = response
+        print(f"Tweet {i+1}/{len(thread_content)} postado: {last_tweet_id}")
+        time.sleep(5)  # Pausa para evitar limite de taxa
+
+    # Lógica de atualização de estado
+    if post_result == "failure":
+        print(f"Postagem falhou para {deputy_name}. "
+              "O estado não será atualizado para tentar novamente.")
+    else:
+        if post_result == "success":
+            print(f"Postagem concluída para {deputy_name}.")
+        elif post_result == "duplicate":
+            print("Postagem pulada: conteúdo duplicado.")
+
         state["last_processed_deputy_index"] = next_index
         save_json(state, STATE_FILE)
         print("Estado atualizado. Próxima execução começará da posição: "
               f"{next_index + 1}")
-    else:
-        print(f"Postagem falhou para {deputy_name}.")
 
 
 if __name__ == "__main__":
