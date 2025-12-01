@@ -7,21 +7,34 @@ import tweepy
 
 def get_deputies_list():
     """
-    Busca a lista de todos os deputados em exercício.
+    Busca a lista de todos os deputados em exercício, usando paginação para evitar timeouts.
 
     Retorna:
         list: Uma lista de dicionários, onde cada dicionário representa um deputado.
               Retorna uma lista vazia em caso de erro.
     """
-    url = "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome"
+    all_deputies = []
+    url = "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome&itens=100"
     headers = {"Accept": "application/json"}
-    try:
-        response = requests.get(url, headers=headers, timeout=15)
-        response.raise_for_status()
-        return response.json()["dados"]
-    except requests.RequestException as e:
-        print(f"Erro ao buscar lista de deputados: {e}")
-        return []
+
+    while url:
+        try:
+            # Timeout de 30s por página é um valor seguro
+            response = requests.get(url, headers=headers, timeout=30)
+            response.raise_for_status()
+            data = response.json()
+            all_deputies.extend(data["dados"])
+
+            # Procura o link para a próxima página na resposta da API
+            next_link = next((link["href"] for link in data["links"]
+                              if link["rel"] == "next"), None)
+            url = next_link
+        except requests.RequestException as e:
+            print(f"Erro ao buscar página da lista de deputados: {e}")
+            # Retorna o que foi coletado até o momento do erro
+            return all_deputies
+
+    return all_deputies
 
 
 def get_deputy_expenses(deputy_id, months=3):
@@ -55,7 +68,7 @@ def get_deputy_expenses(deputy_id, months=3):
         while page_url:
             try:
                 response = requests.get(page_url, headers=headers,
-                                        params=params, timeout=15)
+                                        params=params, timeout=30)
                 response.raise_for_status()
                 data = response.json()
                 all_expenses.extend(data["dados"])
