@@ -1,5 +1,6 @@
 """Módulo principal para o Projeto Sentinela."""
 import json
+import time
 from collections import defaultdict
 from dotenv import load_dotenv
 
@@ -143,17 +144,17 @@ def main():
             print("Falha ao postar um dos tweets. Abortando o ciclo.")
             post_successful = False
             break
+        time.sleep(5)  # Pausa de 5 segundos entre os tweets
 
     if post_successful:
         print(f"Postagem concluída para {deputy_name}.")
+        # Atualiza o estado apenas se a postagem for bem-sucedida
+        state["last_processed_deputy_index"] = next_index
+        save_json(state, STATE_FILE)
+        print("Estado atualizado. Próxima execução começará da posição: "
+              f"{next_index + 1}")
     else:
         print(f"Postagem falhou para {deputy_name}.")
-
-    # Sempre atualiza o estado para o próximo deputado
-    state["last_processed_deputy_index"] = next_index
-    save_json(state, STATE_FILE)
-    print("Estado atualizado. Próxima execução começará da posição: "
-          f"{next_index + 1}")
 
 
 if __name__ == "__main__":
