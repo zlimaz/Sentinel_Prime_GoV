@@ -58,12 +58,8 @@ jobs:
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
 
-      # Passo 5: Sincronizar com o repositório remoto
-      - name: 5. Sincronizando com o repositório
-        run: git pull --rebase
-
-      # Passo 6: Salvar o estado atualizado no repositório
-      - name: 6. Commit do estado atualizado
+      # Passo 5: Salvar o estado atualizado no repositório
+      - name: 5. Commit do estado atualizado
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: Atualiza estado do bot'
