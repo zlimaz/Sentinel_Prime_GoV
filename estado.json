@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 107,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/11/congresso-derruba-vetos-a-lei-do-licenciamento-ambiental-e-ao-propag",
-      "posted_at": "2025-11-28T16:19:54.063403+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/28/cpmi-do-inss-colhe-depoimento-de-sandro-temer-de-oliveira-nesta-segunda",
-      "posted_at": "2025-11-28T18:22:51.280801+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/11/28/senado-lanca-arquivo-s-sobre-historia-do-brasil-em-entrevista-com-christian-lynch",
       "posted_at": "2025-11-28T20:17:51.379488+00:00"
     },
@@ -112,6 +104,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/01/agora-e-lei-poder-publico-deve-garantir-agua-potavel-nas-escolas",
       "posted_at": "2025-12-01T14:18:06.484493+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/01/apos-22-anos-como-senador-paim-anuncia-ultimo-mandato",
+      "posted_at": "2025-12-01T20:17:09.660022+00:00"
     }
   ]
 }
