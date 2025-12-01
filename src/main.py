@@ -90,3 +90,72 @@ def generate_thread_content(deputy_id, deputy_name, deputy_party,
         fornecedor = largest_expense['nomeFornecedor'].title()
         tweet3 += (f"✨ Destaque: O maior gasto único foi de R$ {valor:,.2f} "
                    f"com \"{fornecedor}\".\n\n")
+
+    deputy_page_url = f"https://www.camara.leg.br/deputados/{deputy_id}"
+    tweet3 += (f"🔍 Fonte Oficial: Confira todos os gastos e notas fiscais no "
+               f"portal da Câmara:\n{deputy_page_url}")
+
+    return [tweet1, tweet2, tweet3]
+
+
+def main():
+    """Função principal que orquestra a execução do bot."""
+    print("Iniciando ciclo do Projeto Sentinela...")
+
+    state = load_json(STATE_FILE) or {"last_processed_deputy_index": -1}
+    ranking = load_json(RANKING_FILE)
+
+    if not ranking:
+        print("Arquivo de ranking não encontrado. "
+              "Por favor, execute o gerador_de_ranking.py primeiro.")
+        return
+
+    current_index = state["last_processed_deputy_index"]
+    next_index = (current_index + 1) % len(ranking)
+
+    selected_deputy = ranking[next_index]
+    deputy_id = selected_deputy["id"]
+    deputy_name = selected_deputy["nome"]
+    deputy_party = f"{selected_deputy['siglaPartido']}-{selected_deputy['siglaUf']}"
+
+    print(f"\nProcessando do Ranking: [Posição {next_index + 1}/{len(ranking)}] "
+          f"{deputy_name} ({deputy_party})")
+    expenses = get_deputy_expenses(deputy_id)
+    total_spent, grouped_expenses, largest_expense = process_expenses(expenses)
+
+    thread_content = generate_thread_content(deputy_id, deputy_name,
+                                             deputy_party, total_spent,
+                                             grouped_expenses, largest_expense)
+
+    print("\n" + "="*50)
+    print("  Conteúdo da Thread Gerado para Postagem")
+    print("="*50)
+    for i, tweet in enumerate(thread_content):
+        print(f"\n--- TWEET {i+1}/3 ---\n{tweet}")
+    print("\n" + "="*50 + "\n")
+
+    print("Postando no X...")
+    last_tweet_id = None
+    post_successful = True
+    for tweet in thread_content:
+        last_tweet_id = post_tweet(tweet, reply_to_id=last_tweet_id)
+        if not last_tweet_id:
+            print("Falha ao postar um dos tweets. Abortando o ciclo.")
+            post_successful = False
+            break
+
+    if post_successful:
+        print(f"Postagem concluída para {deputy_name}.")
+    else:
+        print(f"Postagem falhou para {deputy_name}.")
+
+    # Sempre atualiza o estado para o próximo deputado
+    state["last_processed_deputy_index"] = next_index
+    save_json(state, STATE_FILE)
+    print("Estado atualizado. Próxima execução começará da posição: "
+          f"{next_index + 1}")
+
+
+if __name__ == "__main__":
+    main()
+
