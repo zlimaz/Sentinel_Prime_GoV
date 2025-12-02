@@ -1,10 +1,10 @@
-# Projeto Sentinela 🤖🔍
+# Projeto Sentinela 
 
 **Um bot de transparência que monitora gastos parlamentares e agrega notícias dos Três Poderes do Brasil, publicando tudo no X (antigo Twitter).**
 
 ---
 
-## 🎯 O que é o Projeto Sentinela?
+##  O que é o Projeto Sentinela?
 
 O Projeto Sentinela é uma ferramenta de fiscalização cívica com duas funções principais:
 
@@ -13,7 +13,7 @@ O Projeto Sentinela é uma ferramenta de fiscalização cívica com duas funçõ
 
 O objetivo é simples: transformar dados e notícias públicas em conhecimento acessível para todos.
 
-## ⚙️ Como Funciona?
+##  Como Funciona?
 
 O projeto opera em duas frentes principais, ambas automatizadas com GitHub Actions.
 
@@ -37,7 +37,7 @@ Este módulo coleta notícias de fontes oficiais dos Três Poderes.
     2.  Filtra as notícias para não repetir posts, usando o `estado.json` como referência.
     3.  Seleciona a notícia mais recente, a formata em uma thread com título, resumo e link, e a publica no X.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 -   **Linguagem:** Python 3
 -   **Bibliotecas Principais:** `requests`, `tweepy`, `python-dotenv`, `feedparser`
@@ -47,7 +47,7 @@ Este módulo coleta notícias de fontes oficiais dos Três Poderes.
 -   **Publicação:** API do X (Twitter)
 -   **Automação:** GitHub Actions
 
-## 🚀 Como Executar o Projeto Localmente
+##  Como Executar o Projeto Localmente
 
 Embora o bot opere de forma autônoma, você pode executá-lo em sua máquina para testes e desenvolvimento.
 
@@ -92,7 +92,7 @@ Embora o bot opere de forma autônoma, você pode executá-lo em sua máquina pa
      python3 main_noticias.py
      ```
 
-## 🗂️ Estrutura de Arquivos
+##  Estrutura de Arquivos
 
 ```
 .
