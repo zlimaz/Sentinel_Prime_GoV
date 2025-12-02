@@ -1,12 +1,13 @@
 # Projeto Sentinela 
 
-**Um bot de transparência que monitora gastos parlamentares e agrega notícias dos Três Poderes do Brasil, publicando tudo no X (antigo Twitter).**
+**Um bot de transparência que monitora o poder público brasileiro e transforma dados em
+  informação acessível.**
 
 ---
 
 ##  O que é o Projeto Sentinela?
 
-O Projeto Sentinela é uma ferramenta de fiscalização cívica com duas funções principais:
+O Projeto Sentinela é uma ferramenta de código aberto para fiscalização cívica e transparência. Nossa missão é coletar dados públicos de diversas fontes oficiais, processá-los e apresentá-los de forma clara e acessível no X (antigo Twitter), ajudando a manter o cidadão informado sobre as atividades do governo.
 
 1.  **Monitor de Gastos:** Divulga os gastos da Cota Parlamentar de deputados federais, transformando dados públicos da Câmara dos Deputados em um ranking claro e acessível.
 2.  **Agregador de Notícias:** Centraliza e publica as últimas notícias de fontes oficiais do Legislativo, Executivo e Judiciário, mantendo o cidadão informado sobre as atividades dos Três Poderes.
