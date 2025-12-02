@@ -118,9 +118,9 @@ def post_tweet(text, reply_to_id=None):
         print(f"Tweet postado com sucesso: {tweet_id}")
         return tweet_id
     except TooManyRequests:
-        print("Aviso: Limite de taxa da API do X atingido (429 Too Many Requests). "
-              "Tratando como conteúdo duplicado para avançar o ciclo.")
-        return "duplicate"
+        print("Erro: Limite de taxa da API do X atingido (429 Too Many Requests). "
+              "O ciclo será interrompido para aguardar a liberação.")
+        return "rate_limit"
     except tweepy.TweepyException as e:
         if "duplicate content" in str(e):
             print("Aviso: Conteúdo de tweet duplicado. Marcando como tratado para não repetir.")

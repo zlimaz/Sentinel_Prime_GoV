@@ -1,4 +1,5 @@
 import logging
+import sys
 from datetime import datetime, timezone
 
 # Importando nossas funções dos módulos que criamos
@@ -62,11 +63,14 @@ def main():
             # Consideramos sucesso para que o estado seja atualizado e não tente postar de novo.
             post_successful = True
             break  # Sai do loop da thread, já que não podemos continuar a sequência
+
+        if result == "rate_limit":
+            logging.error("O bot atingiu o limite de taxa da API do X. A execução será interrompida.")
+            sys.exit(1) # Falha o workflow para que ele possa tentar novamente mais tarde
         
         if not result:
-            logging.error("Falha ao postar um dos tweets da notícia. Abortando.")
-            post_successful = False
-            break
+            logging.error("Falha ao postar um dos tweets da notícia. Abortando e sinalizando erro.")
+            sys.exit(1) # Falha o workflow para que ele possa tentar novamente mais tarde
             
         last_tweet_id = result
 
