@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 109,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/11/avanca-projeto-que-estende-pensao-a-todas-as-criancas-com-zika-virus",
-      "posted_at": "2025-11-29T22:14:49.195902+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/11/28/plano-nacional-contra-feminicidio-exige-correcoes-urgentes-aponta-relatorio",
-      "posted_at": "2025-11-30T01:23:37.395169+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/11/debatedores-pedem-campanha-de-conscientizacao-sobre-saude-bucal",
       "posted_at": "2025-11-30T03:23:36.860045+00:00"
     },
@@ -116,6 +108,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/02/cma-considera-prejudicado-projeto-para-sustar-norma-sobre-territorios-quilombolas",
       "posted_at": "2025-12-02T14:18:04.855119+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/02/congresso-busca-acordo-para-levar-ldo-ao-plenario-na-quinta",
+      "posted_at": "2025-12-03T03:14:00.363648+00:00"
     }
   ]
 }
