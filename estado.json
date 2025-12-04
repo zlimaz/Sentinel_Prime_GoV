@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 111,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1227987-comissao-aprova-prioridade-a-pessoas-idosas-ou-com-cancer-em-servicos-odontologicos-do-sus/",
-      "posted_at": "2025-12-01T08:25:47.022853+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1227523-comissao-debate-plano-nacional-de-cultura-e-os-direitos-culturais-do-povo-brasileiro/",
       "posted_at": "2025-12-01T10:20:04.334820+00:00"
     },
@@ -104,6 +100,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/03/descriminalizacao-de-poda-de-arvore-em-caso-de-risco-de-acidente-vai-a-sancao",
       "posted_at": "2025-12-04T08:24:00.899990+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/03/cmo-aprova-aumento-de-r-13-2-bilhoes-nas-receitas-do-orcamento-de-2026",
+      "posted_at": "2025-12-04T10:19:43.487899+00:00"
     }
   ]
 }
