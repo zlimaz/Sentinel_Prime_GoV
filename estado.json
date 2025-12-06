@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 115,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/senado-homenageia-acoes-voluntarias-da-liga-do-bem-que-completa-10-anos",
-      "posted_at": "2025-12-03T08:23:30.021521+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/12/senado-prorroga-incentivo-para-internet-das-coisas",
       "posted_at": "2025-12-03T10:19:21.837629+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/05/girao-cobra-de-messias-mudanca-de-parecer-para-provar-que-e-contra-aborto",
       "posted_at": "2025-12-06T08:20:12.289871+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/05/projeto-antifaccao-pode-ajudar-a-proteger-amazonia-diz-chico-rodrigues",
+      "posted_at": "2025-12-06T10:15:56.925740+00:00"
     }
   ]
 }
