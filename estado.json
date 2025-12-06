@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 115,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/senado-vai-analisar-projeto-que-cria-o-selo-de-engenharia-ou-arquitetura-solidaria",
-      "posted_at": "2025-12-03T06:26:41.744115+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/12/senado-homenageia-acoes-voluntarias-da-liga-do-bem-que-completa-10-anos",
       "posted_at": "2025-12-03T08:23:30.021521+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/05/cpi-do-crime-organizado-ouve-ministro-da-justica-ricardo-levandowski-na-terca",
       "posted_at": "2025-12-06T06:22:48.804764+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/05/girao-cobra-de-messias-mudanca-de-parecer-para-provar-que-e-contra-aborto",
+      "posted_at": "2025-12-06T08:20:12.289871+00:00"
     }
   ]
 }
