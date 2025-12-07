@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 118,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/licenca-ambiental-especial-para-projetos-estrategicos-segue-para-sancao",
-      "posted_at": "2025-12-04T14:17:40.170607+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/04/congresso-insere-artigo-sobre-foruns-na-lei-do-sistema-nacional-de-educacao",
       "posted_at": "2025-12-04T20:19:17.641112+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1230337-comissao-aprova-evento-nao-competitivo-em-via-publica-sem-aval-de-confederacao/",
       "posted_at": "2025-12-07T14:14:25.406647+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1230416-debatedores-apontam-cenario-critico-para-continuacao-das-atividades-das-usinas-angra-1-e-2/",
+      "posted_at": "2025-12-07T16:18:15.596542+00:00"
     }
   ]
 }
