@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 119,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/sessao-especial-celebrou-100-anos-de-jiu-jitsu",
-      "posted_at": "2025-12-05T12:34:43.086098+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/12/falar-e-facil-linguagem-simples-nos-orgaos-publicos",
       "posted_at": "2025-12-05T14:17:24.825531+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1229803-conselho-de-etica-ouve-deputados-e-testemunhas-sobre-ocupacao-do-plenario/",
       "posted_at": "2025-12-08T10:19:14.835537+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/projeto-dispensa-orgaos-publicos-de-licitacao-para-uso-do-exercito-em-obras",
+      "posted_at": "2025-12-08T12:35:24.397524+00:00"
     }
   ]
 }
