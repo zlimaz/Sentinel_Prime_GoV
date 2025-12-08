@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 119,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/04/congresso-insere-artigo-sobre-foruns-na-lei-do-sistema-nacional-de-educacao",
-      "posted_at": "2025-12-04T20:19:17.641112+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/04/veto-a-equiparacao-de-reajustes-para-servidores-da-camara-e-mantido",
       "posted_at": "2025-12-05T04:26:12.173535+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1229850-comissao-de-saude-debate-politica-nacional-de-cuidado-integral-as-pessoas-com-parkinson/",
       "posted_at": "2025-12-07T20:16:58.705269+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1229893-comissao-aprova-obrigatoriedade-de-exame-pre-operatorio-antes-de-procedimentos-esteticos/",
+      "posted_at": "2025-12-08T01:17:16.763333+00:00"
     }
   ]
 }
