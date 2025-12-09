@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 121,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/senado-por-dentro-adultizacao",
-      "posted_at": "2025-12-05T22:15:32.152811+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/movimento-do-custo-de-vida-a-atuacao-das-mulheres-durante-a-ditadura",
-      "posted_at": "2025-12-06T01:13:19.119700+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/05/cpi-do-crime-organizado-ouve-ministro-da-justica-ricardo-levandowski-na-terca",
-      "posted_at": "2025-12-06T06:22:48.804764+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/05/girao-cobra-de-messias-mudanca-de-parecer-para-provar-que-e-contra-aborto",
       "posted_at": "2025-12-06T08:20:12.289871+00:00"
     },
@@ -92,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/08/sessao-especial-destaca-importancia-da-promocao-dos-direitos-humanos",
       "posted_at": "2025-12-08T18:25:48.158811+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/08/girao-ve-indicio-de-envolvimento-de-lulinha-na-fraude-do-inss-e-silencio-da-grande-midia",
+      "posted_at": "2025-12-09T06:26:52.814066+00:00"
     }
   ]
 }
