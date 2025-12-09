@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 121,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/05/girao-cobra-de-messias-mudanca-de-parecer-para-provar-que-e-contra-aborto",
-      "posted_at": "2025-12-06T08:20:12.289871+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/05/projeto-antifaccao-pode-ajudar-a-proteger-amazonia-diz-chico-rodrigues",
-      "posted_at": "2025-12-06T10:15:56.925740+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/05/congresso-busca-garantir-mais-direitos-para-pessoas-com-diabetes-tipo-1",
       "posted_at": "2025-12-06T12:30:56.067598+00:00"
     },
@@ -84,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/08/girao-ve-indicio-de-envolvimento-de-lulinha-na-fraude-do-inss-e-silencio-da-grande-midia",
       "posted_at": "2025-12-09T06:26:52.814066+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/ao-comemorar-dia-dos-direitos-humanos-paim-alerta-para-violencia-contra-mulheres",
+      "posted_at": "2025-12-09T10:19:53.404913+00:00"
     }
   ]
 }
