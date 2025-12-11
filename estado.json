@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 125,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/08/sessao-especial-destaca-importancia-da-promocao-dos-direitos-humanos",
-      "posted_at": "2025-12-08T18:25:48.158811+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/08/girao-ve-indicio-de-envolvimento-de-lulinha-na-fraude-do-inss-e-silencio-da-grande-midia",
       "posted_at": "2025-12-09T06:26:52.814066+00:00"
     },
@@ -76,6 +72,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1232270-motta-afirma-que-pauta-da-educacao-continuara-a-avancar-no-proximo-ano/",
       "posted_at": "2025-12-11T18:24:33.410585+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/fim-da-autoescola-obrigatoria-divide-opinioes-no-senado",
+      "posted_at": "2025-12-11T20:19:26.832278+00:00"
     }
   ]
 }
