@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 126,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/ao-comemorar-dia-dos-direitos-humanos-paim-alerta-para-violencia-contra-mulheres",
-      "posted_at": "2025-12-09T10:19:53.404913+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/12/isencao-do-ipva-para-carros-antigos-sera-promulgada-nesta-terca-feira",
       "posted_at": "2025-12-09T12:36:12.140592+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/12/vai-a-sancao-inclusao-de-professor-da-educacao-infantil-na-carreira-do-magisterio",
       "posted_at": "2025-12-12T10:18:29.084412+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/importancia-de-agentes-comunitarios-de-saude-e-tema-de-programa-da-tv-senado",
+      "posted_at": "2025-12-12T12:35:41.600291+00:00"
     }
   ]
 }
