@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 126,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/08/girao-ve-indicio-de-envolvimento-de-lulinha-na-fraude-do-inss-e-silencio-da-grande-midia",
-      "posted_at": "2025-12-09T06:26:52.814066+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/12/ao-comemorar-dia-dos-direitos-humanos-paim-alerta-para-violencia-contra-mulheres",
       "posted_at": "2025-12-09T10:19:53.404913+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/11/jornada-6x1-e-reforma-tributaria-estao-entre-os-destaques-da-ccj-no-ano",
       "posted_at": "2025-12-12T01:18:52.610569+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/violencia-contra-jornalistas-e-criticada-em-debate-na-comissao-de-direitos-humanos",
+      "posted_at": "2025-12-12T06:27:19.725105+00:00"
     }
   ]
 }
