@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 129,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/10/avanca-proposta-para-evitar-superendividamento-de-aposentados",
-      "posted_at": "2025-12-10T20:20:00.585287+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/10/izalci-critica-pec-que-acaba-com-escala-6x1-e-questiona-programas-sociais",
       "posted_at": "2025-12-10T22:17:12.613442+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/12/senado-aprova-medidas-mais-duras-contra-o-crime-organizado",
       "posted_at": "2025-12-13T20:17:06.369931+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/inclusao-de-professor-da-educacao-infantil-na-carreira-do-magisterio-vai-a-sancao",
+      "posted_at": "2025-12-13T22:14:56.374237+00:00"
     }
   ]
 }
