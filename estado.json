@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 129,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1232200-debatedores-pedem-mais-fiscalizacao-contra-sites-ilegais-de-aposta-assista/",
-      "posted_at": "2025-12-11T16:24:35.711650+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1232270-motta-afirma-que-pauta-da-educacao-continuara-a-avancar-no-proximo-ano/",
       "posted_at": "2025-12-11T18:24:33.410585+00:00"
     },
@@ -112,6 +108,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1232387-comissao-aprova-criacao-da-semana-nacional-do-estatuto-da-juventude/",
       "posted_at": "2025-12-14T16:18:39.134489+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/14/presidente-do-congresso-lamenta-ataque-a-judeus-na-australia",
+      "posted_at": "2025-12-14T18:22:54.646579+00:00"
     }
   ]
 }
