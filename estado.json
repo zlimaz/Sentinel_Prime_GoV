@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 130,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/fim-da-autoescola-obrigatoria-divide-opinioes-no-senado",
-      "posted_at": "2025-12-11T20:19:26.832278+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/11/jornada-6x1-e-reforma-tributaria-foram-destaque-da-ccj-no-ano",
       "posted_at": "2025-12-11T22:16:58.167464+00:00"
     },
@@ -112,6 +108,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1232324-comissao-aprova-prazos-para-municipios-atualizarem-regras-de-instalacao-de-antenas/",
       "posted_at": "2025-12-14T20:17:29.742099+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1232751-comissao-aprova-requisicao-de-dados-de-redes-sociais-em-caso-de-violencia-domestica/",
+      "posted_at": "2025-12-14T22:14:50.309554+00:00"
     }
   ]
 }
