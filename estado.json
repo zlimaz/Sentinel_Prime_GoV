@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 129,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/10/izalci-critica-pec-que-acaba-com-escala-6x1-e-questiona-programas-sociais",
-      "posted_at": "2025-12-10T22:17:12.613442+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/11/plinio-critica-proposta-de-nova-lei-de-impeachment",
       "posted_at": "2025-12-11T12:44:00.892910+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/12/inclusao-de-professor-da-educacao-infantil-na-carreira-do-magisterio-vai-a-sancao",
       "posted_at": "2025-12-13T22:14:56.374237+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/ao-vivo-sessao-especial-lanca-indice-de-instituicoes-empreendedoras-2013-12-12-25",
+      "posted_at": "2025-12-14T01:24:16.432352+00:00"
     }
   ]
 }
