@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 130,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/importancia-de-agentes-comunitarios-de-saude-e-tema-de-programa-da-tv-senado",
-      "posted_at": "2025-12-12T12:35:41.600291+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/12/condutor-de-ambulancia-profissional-da-saude",
-      "posted_at": "2025-12-12T14:16:33.672155+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/12/orcamento-nacional-tem-a-marca-do-parlamento-desde-o-imperio",
       "posted_at": "2025-12-12T16:20:31.714090+00:00"
     },
@@ -108,6 +100,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1232524-comissao-aprova-possibilidade-de-juiz-proibir-entrada-em-estadio-de-agressor-de-mulher/",
       "posted_at": "2025-12-15T10:21:27.251837+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/ao-vivo-cas-debate-atencao-a-hipertensao-intracraniana-2013-15-12-2025",
+      "posted_at": "2025-12-15T14:21:02.172933+00:00"
     }
   ]
 }
