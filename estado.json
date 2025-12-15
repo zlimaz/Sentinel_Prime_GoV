@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 131,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/12/girao-diz-que-deputado-van-hatten-sofre-perseguicao-politica-por-criticar-poderosos",
-      "posted_at": "2025-12-12T22:15:53.640359+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/12/senado-vota-adesao-do-brasil-a-fundo-de-investimentos-do-bid",
       "posted_at": "2025-12-13T01:14:34.855282+00:00"
     },
@@ -104,6 +100,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/15/pl-da-dosimetria-esta-na-pauta-do-senado-de-quarta-feira",
       "posted_at": "2025-12-15T20:19:27.925842+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/15/mecias-defende-anistia-e-pede-prisao-domiciliar-para-bolsonaro",
+      "posted_at": "2025-12-15T22:16:52.750912+00:00"
     }
   ]
 }
