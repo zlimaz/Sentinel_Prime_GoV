@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 131,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/acordo-de-cooperacao-entre-brasil-e-fiji-vai-ao-plenario",
-      "posted_at": "2025-12-13T03:12:41.385503+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/12/plenario-vota-acordo-entre-brasil-e-polonia-sobre-informacoes-classificadas",
       "posted_at": "2025-12-13T10:16:05.416068+00:00"
     },
@@ -104,6 +100,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/15/bittar-critica-conduta-de-ministros-em-caso-do-banco-master",
       "posted_at": "2025-12-16T01:19:57.418264+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/15/paim-apresenta-balanco-do-mandato-de-2025",
+      "posted_at": "2025-12-16T03:21:17.209721+00:00"
     }
   ]
 }
