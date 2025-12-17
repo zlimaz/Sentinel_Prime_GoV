@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 133,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1232751-comissao-aprova-requisicao-de-dados-de-redes-sociais-em-caso-de-violencia-domestica/",
-      "posted_at": "2025-12-14T22:14:50.309554+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1232545-comissao-aprova-punicao-maior-para-trafico-de-drogas-em-estabelecimentos-de-ensino/",
       "posted_at": "2025-12-15T01:21:13.005500+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/17/veneziano-pl-da-dosimetria-favorece-investigados-por-atos-antidemocraticos",
       "posted_at": "2025-12-17T20:19:30.352489+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/17/senado-aprova-incentivos-a-formacao-de-professores-para-educacao-basica",
+      "posted_at": "2025-12-17T22:16:43.869517+00:00"
     }
   ]
 }
