@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 133,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1232524-comissao-aprova-possibilidade-de-juiz-proibir-entrada-em-estadio-de-agressor-de-mulher/",
-      "posted_at": "2025-12-15T10:21:27.251837+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2025/12/ao-vivo-cas-debate-atencao-a-hipertensao-intracraniana-2013-15-12-2025",
       "posted_at": "2025-12-15T14:21:02.172933+00:00"
     },
@@ -104,6 +100,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/17/senado-aprova-reducao-de-incentivos-fiscais-e-maior-tributacao-para-bets-e-fintechs",
       "posted_at": "2025-12-18T10:20:50.885708+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/ao-vivo-ce-celebra-os-15-anos-do-forum-nacional-de-educacao-2013-18-12-25",
+      "posted_at": "2025-12-18T14:18:37.311438+00:00"
     }
   ]
 }
