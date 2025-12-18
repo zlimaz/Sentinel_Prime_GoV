@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 134,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/15/cpmi-do-inss-viana-contesta-decisao-do-stf-sobre-documentos-ligados-ao-master",
-      "posted_at": "2025-12-15T16:25:11.076881+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/ccj-analisa-projeto-de-lei-da-dosimetria-nesta-quarta",
-      "posted_at": "2025-12-15T18:26:45.639326+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/15/pl-da-dosimetria-esta-na-pauta-do-senado-de-quarta-feira",
       "posted_at": "2025-12-15T20:19:27.925842+00:00"
     },
@@ -104,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/18/laercio-oliveira-destaca-premio-da-band-a-municipios-com-gestao-eficiente",
       "posted_at": "2025-12-18T16:24:39.523441+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/projeto-permite-que-boletim-de-ocorrencia-indique-crime-por-preconceito",
+      "posted_at": "2025-12-18T20:17:16.904520+00:00"
     }
   ]
 }
