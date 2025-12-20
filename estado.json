@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 136,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/16/aprovado-projeto-que-libera-imoveis-da-previdencia-para-fins-sociais",
-      "posted_at": "2025-12-17T01:14:48.459818+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/16/vai-a-promulgacao-acordo-com-a-polonia-sobre-informacoes-classificadas",
       "posted_at": "2025-12-17T03:16:53.611509+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/19/aprovados-creditos-para-orgaos-da-area-de-infraestrutura",
       "posted_at": "2025-12-19T22:16:56.275165+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/19/congresso-aprova-r-3-3-milhoes-para-a-petrobras",
+      "posted_at": "2025-12-20T01:15:10.572179+00:00"
     }
   ]
 }
