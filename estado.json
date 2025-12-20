@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 136,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/16/vai-a-promulgacao-acordo-com-a-polonia-sobre-informacoes-classificadas",
-      "posted_at": "2025-12-17T03:16:53.611509+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/16/regulamentacao-do-exercicio-profissional-de-acupuntura-segue-para-sancao",
       "posted_at": "2025-12-17T04:29:45.138926+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/19/aprovado-projeto-que-facilita-acesso-de-entidades-de-saude-a-recursos-da-uniao",
       "posted_at": "2025-12-20T03:12:33.331728+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/19/davi-encerra-ano-legislativo-destacando-uniao-do-congresso-e-desafios-do-pais",
+      "posted_at": "2025-12-20T04:22:34.353935+00:00"
     }
   ]
 }
