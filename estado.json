@@ -2,26 +2,6 @@
   "last_processed_deputy_index": 140,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/17/rejeitada-urgencia-para-votacao-de-projeto-que-libera-cassinos-no-brasil",
-      "posted_at": "2025-12-18T08:24:16.495212+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/17/senado-aprova-reducao-de-incentivos-fiscais-e-maior-tributacao-para-bets-e-fintechs",
-      "posted_at": "2025-12-18T10:20:50.885708+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/videos/2025/12/ao-vivo-ce-celebra-os-15-anos-do-forum-nacional-de-educacao-2013-18-12-25",
-      "posted_at": "2025-12-18T14:18:37.311438+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/18/laercio-oliveira-destaca-premio-da-band-a-municipios-com-gestao-eficiente",
-      "posted_at": "2025-12-18T16:24:39.523441+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/projeto-permite-que-boletim-de-ocorrencia-indique-crime-por-preconceito",
-      "posted_at": "2025-12-18T20:17:16.904520+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/18/com-inflacao-em-queda-ifi-preve-melhora-da-economia-se-houver-controle-de-gastos",
       "posted_at": "2025-12-18T22:16:35.873525+00:00"
     },
@@ -100,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/19/senado-reduz-custos-dos-motoristas-ipva-zero-e-cnh-mais-barata",
       "posted_at": "2025-12-21T08:20:59.149570+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/19/lei-regulamenta-profissao-de-marinheiro-de-esporte-e-recreio",
+      "posted_at": "2025-12-21T22:15:53.177495+00:00"
     }
   ]
 }
