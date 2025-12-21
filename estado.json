@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 138,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/17/aprovada-autorizacao-de-emprestimo-de-r-90-milhoes-paraa-santa-catarina",
-      "posted_at": "2025-12-18T06:26:56.817737+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/17/rejeitada-urgencia-para-votacao-de-projeto-que-libera-cassinos-no-brasil",
       "posted_at": "2025-12-18T08:24:16.495212+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/19/dia-de-conscientizacao-sobre-ausencia-de-membros-em-25-de-agosto-vira-lei",
       "posted_at": "2025-12-21T06:24:52.118239+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/19/senado-reduz-custos-dos-motoristas-ipva-zero-e-cnh-mais-barata",
+      "posted_at": "2025-12-21T08:20:59.149570+00:00"
     }
   ]
 }
