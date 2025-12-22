@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 140,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/18/com-inflacao-em-queda-ifi-preve-melhora-da-economia-se-houver-controle-de-gastos",
-      "posted_at": "2025-12-18T22:16:35.873525+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1234864-projeto-define-diretrizes-para-fortalecer-o-futebol-feminino-no-brasil/",
-      "posted_at": "2025-12-19T01:19:16.670792+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/18/aprovada-na-camara-regulamentacao-da-reforma-tributaria-vai-a-sancao",
       "posted_at": "2025-12-19T03:20:35.054570+00:00"
     },
@@ -84,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/19/lei-regulamenta-profissao-de-marinheiro-de-esporte-e-recreio",
       "posted_at": "2025-12-21T22:15:53.177495+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1234932-comissao-aprova-uso-de-pequenas-barragens-para-recuperar-bacias-hidrograficas/",
+      "posted_at": "2025-12-22T01:22:14.131654+00:00"
     }
   ]
 }
