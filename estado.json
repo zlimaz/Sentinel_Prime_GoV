@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 140,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/18/aprovada-na-camara-regulamentacao-da-reforma-tributaria-vai-a-sancao",
-      "posted_at": "2025-12-19T03:20:35.054570+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/18/girao-propoe-fim-do-recesso-para-congresso-investigar-inss-e-banco-master",
       "posted_at": "2025-12-19T04:30:56.323233+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1234932-comissao-aprova-uso-de-pequenas-barragens-para-recuperar-bacias-hidrograficas/",
       "posted_at": "2025-12-22T01:22:14.131654+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1234900-comissao-aprova-projeto-que-define-regras-para-arbitro-profissional-no-esporte/",
+      "posted_at": "2025-12-22T03:28:43.833695+00:00"
     }
   ]
 }
