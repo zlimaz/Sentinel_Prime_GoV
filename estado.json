@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 144,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/19/congresso-aprova-r-14-2-milhoes-para-justica-e-ministerio-publico",
-      "posted_at": "2025-12-21T01:24:08.031094+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/19/lei-inclui-carnatal-no-calendario-turistico-oficial-do-brasil",
       "posted_at": "2025-12-21T03:26:00.569290+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1234844-comissao-aprova-permissao-para-trafego-de-trator-em-acostamento-de-rodovia/",
       "posted_at": "2025-12-24T01:18:26.475973+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1235841-hugo-motta-faz-balanco-positivo-de-2025-e-aponta-desafios-para-o-ano-eleitoral/",
+      "posted_at": "2025-12-24T03:20:50.363805+00:00"
     }
   ]
 }
