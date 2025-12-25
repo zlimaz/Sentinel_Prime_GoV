@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 146,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1234982-sancionada-lei-que-garante-mamografia-pelo-sus-a-mulheres-a-partir-de-40-anos/",
-      "posted_at": "2025-12-22T06:28:56.841669+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1235223-congresso-aprova-projetos-que-abrem-credito-de-r-30-bilhoes-para-o-orcamento-de-2025/",
       "posted_at": "2025-12-22T08:25:19.175839+00:00"
     },
@@ -104,6 +100,10 @@
     {
       "link": "https://noticias.stf.jus.br/2025/08/29/ap-2668-trial-of-nucleus-1-begins-on-september-2/",
       "posted_at": "2025-12-25T06:27:03.117122+00:00"
+    },
+    {
+      "link": "https://noticias.stf.jus.br/2025/08/22/acao-penal-contra-nucleo-1-da-tentativa-de-golpe-de-estado-comeca-a-ser-julgada-em-2-de-setembro/",
+      "posted_at": "2025-12-25T08:23:24.470508+00:00"
     }
   ]
 }
