@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 146,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1234748-comissao-aprova-incentivo-a-construcao-de-cisternas-em-areas-sem-saneamento/",
-      "posted_at": "2025-12-22T12:35:28.825152+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/22/plenario-do-senado-aprova-quase-800-materias-em-2025",
       "posted_at": "2025-12-22T22:16:46.477447+00:00"
     },
@@ -104,6 +100,10 @@
     {
       "link": "https://noticias.stf.jus.br/2025/08/15/processos-sobre-golpe-entram-em-ultima-fase-e-reus-apresentam-versoes-finais/",
       "posted_at": "2025-12-25T12:34:24.336852+00:00"
+    },
+    {
+      "link": "https://noticias.stf.jus.br/2025/08/15/resumo-dos-processos-sobre-a-tentativa-de-golpe-de-estado-no-brasil-summary-of-the-proceedings-on-the-attempted-coup-detat-in-brazil/",
+      "posted_at": "2025-12-25T14:16:13.247269+00:00"
     }
   ]
 }
