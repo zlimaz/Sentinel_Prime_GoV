@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 148,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/22/lei-reajusta-adicional-de-qualificacao-do-judiciario-federal",
-      "posted_at": "2025-12-23T04:34:46.448627+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/professores-poderao-acumula-cargos-publicos",
-      "posted_at": "2025-12-23T06:27:49.088094+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/12/congresso-aprova-o-orcamento-de-2026-com-minimo-de-r-1.621",
       "posted_at": "2025-12-23T12:36:03.376553+00:00"
     },
@@ -108,6 +100,10 @@
     {
       "link": "https://www.tse.jus.br/comunicacao/noticias/2025/Dezembro/sabe-a-diferenca-entre-diploma-e-diplomacao-na-area-eleitoral-o-glossario-eleitoral-explica",
       "posted_at": "2025-12-26T04:31:56.681255+00:00"
+    },
+    {
+      "link": "https://www.tse.jus.br/comunicacao/noticias/2025/Dezembro/democracia-de-portas-abertas-tse-registra-recorde-de-visitas-de-universitarios-em-2025",
+      "posted_at": "2025-12-26T08:22:50.565848+00:00"
     }
   ]
 }
