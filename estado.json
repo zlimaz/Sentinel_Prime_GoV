@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 149,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1235403-sancionada-com-vetos-lei-que-reajusta-salarios-de-servidores-do-judiciario/",
-      "posted_at": "2025-12-24T12:35:30.818020+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1235003-comissao-de-seguranca-aprova-porte-de-arma-para-defensores-publicos/",
       "posted_at": "2025-12-24T14:16:35.328480+00:00"
     },
@@ -112,6 +108,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/12/sancionada-lei-que-agiliza-licenciamento-ambiental-para-obras-estrategicas",
       "posted_at": "2025-12-27T12:32:05.811252+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/23/sancionadas-leis-que-liberam-recursos-para-a-telebras",
+      "posted_at": "2025-12-27T14:15:04.002913+00:00"
     }
   ]
 }
