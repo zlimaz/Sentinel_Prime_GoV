@@ -2,26 +2,6 @@
   "last_processed_deputy_index": 151,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/procuradora-da-mulher-do-senado-analisa-pesquisa-sobre-violencia-contra-mulheres",
-      "posted_at": "2025-12-26T20:17:51.389936+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/leila-destaca-premio-vencido-por-caio-bonfim-e-maria-clara-pacheco",
-      "posted_at": "2025-12-27T01:17:21.349686+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/sugestao-que-torna-inafiancavel-crime-de-pedofilia-vira-projeto",
-      "posted_at": "2025-12-27T03:19:47.742676+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/26/lei-libera-r-14-4-bi-para-inovacao-em-empresas-saude-e-seguranca",
-      "posted_at": "2025-12-27T04:29:11.366752+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/26/fraudes-no-inss-e-crime-organizado-marcam-cpis-em-2025",
-      "posted_at": "2025-12-27T06:25:18.673783+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/12/presidentes-do-senado-e-da-camara-destacam-parceria-para-aprovar-projetos",
       "posted_at": "2025-12-27T08:21:24.714005+00:00"
     },
@@ -64,6 +44,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/29/lula-veta-realocacao-de-trabalhadores-de-eletricas-privatizadas",
       "posted_at": "2025-12-29T16:21:04.095005+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/29/prorrogacao-de-beneficios-tributarios-a-equipamentos-inteligentes-e-sancionada",
+      "posted_at": "2025-12-30T06:27:15.909578+00:00"
     }
   ]
 }
