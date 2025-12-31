@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 151,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/23/liberados-mais-de-r-100-milhoes-para-infraestrutura-e-projetos-de-inovacao",
-      "posted_at": "2025-12-27T18:22:58.488372+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/plenario-aprova-quase-800-materias-em-2025",
-      "posted_at": "2025-12-28T01:27:48.042241+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/23/lei-libera-recursos-para-petrobras-biocombustivel",
       "posted_at": "2025-12-28T04:40:56.063292+00:00"
     },
@@ -48,6 +40,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2025/12/lei-reduz-parte-de-incentivos-tributarios-e-eleva-impostos-sobre-bets",
       "posted_at": "2025-12-30T16:22:23.746341+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/30/e-fake-senadores-nao-aprovaram-prisao-de-alexandre-de-moraes-em-reuniao-secreta-na-madrugada",
+      "posted_at": "2025-12-31T04:35:33.940233+00:00"
     }
   ]
 }
