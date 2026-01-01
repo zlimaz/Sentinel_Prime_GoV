@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 151,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/23/vetada-regulacao-de-simbolo-de-acessibilidade-para-visao-monocular",
-      "posted_at": "2025-12-29T08:26:16.810762+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/isencao-do-ir-e-taxacao-de-bets-sao-destaques-da-cae-em-2025",
-      "posted_at": "2025-12-29T14:18:08.988140+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/29/lula-veta-realocacao-de-trabalhadores-de-eletricas-privatizadas",
-      "posted_at": "2025-12-29T16:21:04.095005+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/29/prorrogacao-de-beneficios-tributarios-a-equipamentos-inteligentes-e-sancionada",
       "posted_at": "2025-12-30T06:27:15.909578+00:00"
     },
@@ -68,6 +56,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1236250-projeto-reestrutura-servico-publico-federal-com-gastos-de-r-42-bilhoes-em-2026/",
       "posted_at": "2026-01-01T08:24:08.993998+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/29/lula-veta-realocacao-de-trabalhadores-de-eletricas-privatizadas",
+      "posted_at": "2026-01-01T16:21:34.701559+00:00"
     }
   ]
 }
