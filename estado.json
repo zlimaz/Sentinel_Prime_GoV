@@ -2,26 +2,6 @@
   "last_processed_deputy_index": 8,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/29/prorrogacao-de-beneficios-tributarios-a-equipamentos-inteligentes-e-sancionada",
-      "posted_at": "2025-12-30T06:27:15.909578+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/29/nova-lei-eleva-impostos-sobre-bets-e-impoe-limite-para-beneficios-fiscais",
-      "posted_at": "2025-12-30T08:24:21.392873+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/29/preocupacao-com-seguranca-publica-mobilizou-o-senado-em-2025",
-      "posted_at": "2025-12-30T10:18:51.273043+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/30/senado-aprova-marco-temporal-e-busca-saida-para-mineracao-em-terras-indigenas",
-      "posted_at": "2025-12-30T14:17:46.325543+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2025/12/lei-reduz-parte-de-incentivos-tributarios-e-eleva-impostos-sobre-bets",
-      "posted_at": "2025-12-30T16:22:23.746341+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2025/12/30/e-fake-senadores-nao-aprovaram-prisao-de-alexandre-de-moraes-em-reuniao-secreta-na-madrugada",
       "posted_at": "2025-12-31T04:35:33.940233+00:00"
     },
@@ -72,6 +52,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1236033-lei-regulamenta-profissao-de-marinheiro-de-esporte-e-recreio/",
       "posted_at": "2026-01-02T01:21:10.505325+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/02/ldo-e-sancionada-com-prazo-para-pagar-emendas-e-veto-a-fundo-partidario-maior",
+      "posted_at": "2026-01-02T18:24:23.150522+00:00"
     }
   ]
 }
