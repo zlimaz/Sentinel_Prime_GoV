@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 10,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/02/ldo-e-sancionada-com-prazo-para-pagar-emendas-e-veto-a-fundo-partidario-maior",
-      "posted_at": "2026-01-02T18:24:23.150522+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/plenario-vai-avaliar-reducao-da-jornada-de-trabalho-aprovada-na-ccj",
-      "posted_at": "2026-01-02T22:16:33.125684+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/governo-cria-secretaria-para-organizacao-da-copa-do-mundo-feminina-de-2027",
       "posted_at": "2026-01-03T01:16:34.183899+00:00"
     },
@@ -60,6 +52,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/05/senado-vai-analisar-previsao-de-cameras-de-seguranca-em-rodovias-concedidas",
       "posted_at": "2026-01-05T16:22:34.905731+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/05/senadores-divergem-sobre-prisao-de-maduro-em-acao-dos-eua-na-venezuela",
+      "posted_at": "2026-01-05T22:16:53.838060+00:00"
     }
   ]
 }
