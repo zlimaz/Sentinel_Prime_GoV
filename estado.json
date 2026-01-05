@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 8,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1236319-medida-provisoria-prorroga-prazo-para-uniao-identificar-terras-as-margens-de-rios-e-no-litoral/",
-      "posted_at": "2026-01-01T22:16:27.318369+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1236033-lei-regulamenta-profissao-de-marinheiro-de-esporte-e-recreio/",
-      "posted_at": "2026-01-02T01:21:10.505325+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/02/ldo-e-sancionada-com-prazo-para-pagar-emendas-e-veto-a-fundo-partidario-maior",
       "posted_at": "2026-01-02T18:24:23.150522+00:00"
     },
@@ -36,6 +28,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/projeto-preve-criacao-de-academias-gratuitas-para-combater-sedentarismo",
       "posted_at": "2026-01-04T22:16:27.801961+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2025/12/30/e-fake-senadores-nao-aprovaram-prisao-de-alexandre-de-moraes-em-reuniao-secreta-na-madrugada",
+      "posted_at": "2026-01-05T01:27:09.408553+00:00"
     }
   ]
 }
