@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 1,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/07/nova-lei-proibe-descontos-associativos-em-beneficios-do-inss",
-      "posted_at": "2026-01-08T12:37:38.147588+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/08/agenda-do-senado-priorizou-justica-tributaria-com-recomposicao-de-receitas",
       "posted_at": "2026-01-08T14:21:14.139545+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://noticias.stf.jus.br/2026/01/08/relatorio-8-de-janeiro/",
       "posted_at": "2026-01-11T12:33:30.726803+00:00"
+    },
+    {
+      "link": "https://noticias.stf.jus.br/2025/12/02/pagina-do-museu-do-stf/",
+      "posted_at": "2026-01-11T14:15:36.769611+00:00"
     }
   ]
 }
