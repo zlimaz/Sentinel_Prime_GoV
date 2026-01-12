@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 4,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/um-ano-sem-telas-avancos-e-desafios-da-lei-que-restringe-celulares-nas-escolas",
-      "posted_at": "2026-01-09T16:22:13.387578+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1237536-comissao-aprova-preferencia-por-profissionais-mulheres-no-atendimento-a-vitimas-de-violencia-domestica/",
       "posted_at": "2026-01-09T18:26:53.804056+00:00"
     },
@@ -76,6 +72,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1237663-comissao-aprova-projeto-que-preve-uso-de-ferramentas-digitais-para-incentivar-doacao-de-sangue/",
       "posted_at": "2026-01-12T14:21:36.685387+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1237707-lei-obriga-poder-publico-a-divulgar-a-cada-dois-anos-relatorio-com-dados-sobre-violencia-contra-mulheres/",
+      "posted_at": "2026-01-12T16:22:49.144469+00:00"
     }
   ]
 }
