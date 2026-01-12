@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 3,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/09/sancionadas-normas-para-emissao-de-carteira-profissional-de-radialista",
-      "posted_at": "2026-01-09T14:19:59.297704+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/um-ano-sem-telas-avancos-e-desafios-da-lei-que-restringe-celulares-nas-escolas",
       "posted_at": "2026-01-09T16:22:13.387578+00:00"
     },
@@ -76,6 +72,10 @@
     {
       "link": "https://noticias.stf.jus.br/2025/09/18/audiencia-publica-desafios-economicos-e-sociais-da-pejotizacao-no-brasil-2/",
       "posted_at": "2026-01-12T12:39:03.261738+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1237663-comissao-aprova-projeto-que-preve-uso-de-ferramentas-digitais-para-incentivar-doacao-de-sangue/",
+      "posted_at": "2026-01-12T14:21:36.685387+00:00"
     }
   ]
 }
