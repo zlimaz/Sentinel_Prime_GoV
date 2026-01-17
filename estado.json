@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 12,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/14/congresso-se-prepara-para-reabrir-trabalhos-legislativos",
-      "posted_at": "2026-01-14T14:21:31.539898+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/sancionada-lei-de-incentivo-a-producao-de-cacau-de-qualidade",
-      "posted_at": "2026-01-14T16:25:24.942583+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/lei-que-criou-o-salario-minimo-completa-90-anos",
       "posted_at": "2026-01-14T18:27:54.493505+00:00"
     },
@@ -92,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/projeto-integra-centros-dia-para-idosos-ao-sistema-unico-de-assistencia-social",
       "posted_at": "2026-01-17T08:21:24.092599+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1238847-comissao-de-cultura-aprova-exigencia-de-descentralizacao-dos-investimentos-feitos-via-lei-rouanet/",
+      "posted_at": "2026-01-17T18:23:27.584019+00:00"
     }
   ]
 }
