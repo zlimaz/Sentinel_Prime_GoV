@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 14,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/cdh-transforma-sugestoes-da-sociedade-em-projetos-de-lei",
-      "posted_at": "2026-01-15T16:29:59.835045+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/projeto-propoe-medidas-para-baratear-transporte-aereo-na-regiao-norte",
-      "posted_at": "2026-01-15T18:31:09.368242+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/e-cidadania-bate-recorde-de-participacoes-em-2025",
       "posted_at": "2026-01-15T20:20:34.675376+00:00"
     },
@@ -88,6 +80,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1238805-comissao-aprova-criacao-de-plataforma-nacional-com-dados-de-alunos-da-educacao-basica/",
       "posted_at": "2026-01-18T16:19:43.988706+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1238799-comissao-aprova-obrigatoriedade-de-infraestrutura-adequada-em-escolas-publicas/",
+      "posted_at": "2026-01-18T20:18:13.477984+00:00"
     }
   ]
 }
