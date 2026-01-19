@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 16,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/01/por-que-as-emendas-parlamentares-favorecem-mais-as-pequenas-cidades",
-      "posted_at": "2026-01-16T16:23:15.378701+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/16/ci-pode-votar-projeto-que-exige-sinalizacao-em-rodovias-federais-apos-obras",
       "posted_at": "2026-01-16T18:26:48.524751+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1238701-comissao-aprova-fixacao-de-placas-sobre-entrega-de-crianca-para-adocao/",
       "posted_at": "2026-01-19T06:32:56.262302+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/01/banco-master-senado-vai-acompanhar-investigacoes",
+      "posted_at": "2026-01-19T18:26:38.090981+00:00"
     }
   ]
 }
