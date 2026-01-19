@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 15,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/01/congresso-tera-cerimonia-de-reabertura-dos-trabalhos-legislativos-no-dia-2",
-      "posted_at": "2026-01-16T04:36:51.406684+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/01/por-que-as-emendas-parlamentares-favorecem-mais-as-pequenas-cidades",
       "posted_at": "2026-01-16T16:23:15.378701+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/15/cesp-pode-avaliar-inscricao-de-cursos-para-atletas-em-conselho-de-direitos-da-crianca",
       "posted_at": "2026-01-19T03:46:22.908090+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1238788-comissao-aprova-obrigatoriedade-de-protetores-auriculares-para-alunos-autistas-em-escolas/",
+      "posted_at": "2026-01-19T04:48:08.905888+00:00"
     }
   ]
 }
