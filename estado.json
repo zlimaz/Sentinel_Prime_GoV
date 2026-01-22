@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 4,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/01/banco-master-senado-vai-acompanhar-investigacoes",
-      "posted_at": "2026-01-19T18:26:38.090981+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/19/propostas-na-csp-miram-furtos-de-celulares-seguidos-de-fraudes",
-      "posted_at": "2026-01-19T20:19:59.322497+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/projeto-que-facilita-recusa-de-contribuicao-sindical-esta-pronto-para-votacao-na-ccj",
-      "posted_at": "2026-01-19T22:17:45.448551+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/congresso-nacional-pode-retomar-a-analise-de-24-medidas-provisorias",
       "posted_at": "2026-01-20T01:21:12.234425+00:00"
     },
@@ -112,6 +100,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/22/ensino-de-defesa-civil-na-escola-esta-na-pauta-da-comissao-de-educacao",
       "posted_at": "2026-01-22T14:26:12.329171+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/senado-verifica-orienta-eleitores-contra-fake-news-em-ano-eleitoral",
+      "posted_at": "2026-01-22T22:19:04.307220+00:00"
     }
   ]
 }
