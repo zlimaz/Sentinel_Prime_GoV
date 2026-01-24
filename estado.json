@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 6,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/visita-guiada-ao-congresso-ganha-atracoes-teatrais-em-periodo-de-ferias",
-      "posted_at": "2026-01-21T04:40:15.325945+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/16/ano-legislativo-comeca-com-24-medidas-provisorias-pendentes",
       "posted_at": "2026-01-21T06:30:40.068452+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/23/dia-internacional-da-educacao-projetos-no-senado-avancam-na-pauta-educativa",
       "posted_at": "2026-01-24T04:32:28.277859+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/23/ifi-destaca-parceria-com-imprensa-para-cumprimento-de-principios-da-ocde",
+      "posted_at": "2026-01-24T06:26:07.800475+00:00"
     }
   ]
 }
