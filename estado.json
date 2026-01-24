@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 6,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1239270-comissao-aprova-programa-para-treinar-prefeitos-e-servidores-sobre-lei-de-antenas/",
-      "posted_at": "2026-01-21T10:23:34.141931+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/csp-analisa-proibicao-a-limites-de-vagas-para-mulheres-na-seguranca-publica",
       "posted_at": "2026-01-21T20:26:44.953677+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/23/projetos-para-criancas-e-adolescentes-sao-destaque-na-pauta-da-cdh",
       "posted_at": "2026-01-24T10:17:37.556849+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/23/com-45-materias-cma-pode-enfrentar-crimes-ambientais-e-desastres-climaticos",
+      "posted_at": "2026-01-24T12:33:14.402802+00:00"
     }
   ]
 }
