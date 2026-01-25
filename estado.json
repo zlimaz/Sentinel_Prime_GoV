@@ -2,22 +2,6 @@
   "last_processed_deputy_index": 7,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/csp-analisa-proibicao-a-limites-de-vagas-para-mulheres-na-seguranca-publica",
-      "posted_at": "2026-01-21T20:26:44.953677+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/cesp-realizou-ciclo-de-debates-sobre-formacao-de-jovens-atletas-em-2025",
-      "posted_at": "2026-01-21T22:20:28.710571+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/brasil-e-2o-pais-em-terras-raras-mas-faltam-tecnologia-e-garantias-ambientais",
-      "posted_at": "2026-01-22T01:23:46.659964+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/senado-lancara-novo-plano-de-equidade-em-marco",
-      "posted_at": "2026-01-22T03:44:02.457941+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/21/violencia-contra-a-mulher-cct-avalia-inclusao-do-tema-na-voz-do-brasil",
       "posted_at": "2026-01-22T04:44:01.348320+00:00"
     },
@@ -108,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/01/acordo-mercosul-ue-deve-ter-analise-agil-defendem-nelsinho-trad-e-embaixadora",
       "posted_at": "2026-01-24T20:17:46.780959+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/01/forca-das-cores-campanhas-para-mobilizar-1",
+      "posted_at": "2026-01-25T03:50:28.649906+00:00"
     }
   ]
 }
