@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 7,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/ccj-analisara-suspensao-do-decreto-que-permite-destruicao-de-cavernas",
-      "posted_at": "2026-01-22T08:26:32.723115+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/21/ctfc-pode-votar-mudancas-na-cobranca-de-diarias-de-hotel",
       "posted_at": "2026-01-22T10:23:10.545413+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1240036-publicada-medida-provisoria-que-protege-direitos-comerciais-da-copa-feminina-de-2027/",
       "posted_at": "2026-01-25T08:22:39.742326+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/23/plenario-pode-votar-garantia-de-acesso-a-agua-e-alimento-no-semiarido",
+      "posted_at": "2026-01-25T10:18:11.723135+00:00"
     }
   ]
 }
