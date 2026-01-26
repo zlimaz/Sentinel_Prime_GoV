@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 8,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/23/publicada-mp-que-protege-direitos-comerciais-da-copa-feminina-de-2027",
-      "posted_at": "2026-01-23T14:21:28.050251+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/23/dia-internacional-da-educacao-projetos-no-senado-avancam-na-pauta-educativa",
       "posted_at": "2026-01-24T04:32:28.277859+00:00"
     },
@@ -84,6 +80,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1239994-comissao-aprova-ipca-como-indice-para-reajustes-em-novos-contratos-de-energia/",
       "posted_at": "2026-01-26T12:39:38.626417+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/01/medidas-provisorias-sobre-auxilio-gas-e-eca-digital-vencem-em-fevereiro",
+      "posted_at": "2026-01-26T14:25:03.935311+00:00"
     }
   ]
 }
