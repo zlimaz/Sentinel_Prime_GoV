@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 8,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/22/senado-e-camara-querem-rapidez-no-acordo-mercosul-ue-diz-nelsinho",
-      "posted_at": "2026-01-23T04:38:57.509388+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/22/plantacao-perto-de-rodovias-turismo-receptivo-e-sudene-podem-entrar-na-pauta",
-      "posted_at": "2026-01-23T06:28:47.847832+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/22/morre-mayra-cunha-jornalista-da-comunicacao-do-senado",
       "posted_at": "2026-01-23T08:25:17.398794+00:00"
     },
@@ -88,6 +80,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1239997-publicado-edital-do-concurso-para-policial-legislativo-federal-da-camara-dos-deputados/",
       "posted_at": "2026-01-26T03:53:19.654725+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1240067-projeto-estabelece-pena-de-prisao-para-quem-reincidir-em-barulho-excessivo-de-veiculos/",
+      "posted_at": "2026-01-26T06:31:20.931485+00:00"
     }
   ]
 }
