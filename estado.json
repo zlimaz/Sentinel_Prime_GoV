@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 11,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/23/plenario-pode-votar-garantia-de-acesso-a-agua-e-alimento-no-semiarido",
-      "posted_at": "2026-01-25T10:18:11.723135+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/jornalista-mayra-cunha-do-senado-morre-aos-49-anos",
       "posted_at": "2026-01-25T16:20:43.566576+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/cpmi-do-inss-retoma-investigacao-sobre-emprestimos-consignados",
       "posted_at": "2026-01-28T08:26:52.263596+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/28/senado-analisa-indicacoes-para-stf-cvm-e-outros-orgaos",
+      "posted_at": "2026-01-28T14:25:42.195207+00:00"
     }
   ]
 }
