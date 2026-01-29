@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 14,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/visitacao-ao-congresso-tem-teatro-e-experiencia-em-realidade-virtual",
-      "posted_at": "2026-01-26T18:29:17.002361+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/26/projeto-que-cria-exame-de-proficiencia-em-medicina-esta-em-fase-final-no-senado",
       "posted_at": "2026-01-27T01:27:09.019883+00:00"
     },
@@ -76,6 +72,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/29/cpmi-do-inss-convoca-daniel-vorcaro-investigado-por-fraude-no-banco-master",
       "posted_at": "2026-01-29T16:38:36.282994+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/01/daniel-vorcaro-dono-do-banco-master-e-convocado-a-depor-na-cpmi-do-inss",
+      "posted_at": "2026-01-29T18:38:11.278411+00:00"
     }
   ]
 }
