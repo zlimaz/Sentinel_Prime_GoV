@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 13,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1240089-comissao-aprova-novas-regras-para-a-caderneta-de-saude-de-bebes-prematuros/",
-      "posted_at": "2026-01-26T10:22:32.930776+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1239994-comissao-aprova-ipca-como-indice-para-reajustes-em-novos-contratos-de-energia/",
-      "posted_at": "2026-01-26T12:39:38.626417+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/01/medidas-provisorias-sobre-auxilio-gas-e-eca-digital-vencem-em-fevereiro",
-      "posted_at": "2026-01-26T14:25:03.935311+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/sugestao-do-e-cidadania-quer-igualar-auxilios-dos-servidores-dos-tres-poderes",
       "posted_at": "2026-01-26T16:28:38.455445+00:00"
     },
@@ -84,6 +72,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/senado-analisa-expropriacao-de-terras-e-protecao-a-trabalhadores-resgatados",
       "posted_at": "2026-01-29T08:33:58.395433+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/orelhoes-comecam-a-ser-desativados-em-todo-o-pais",
+      "posted_at": "2026-01-29T14:36:01.986423+00:00"
     }
   ]
 }
