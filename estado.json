@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 16,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/01/fim-da-escala-6x1-e-reducao-da-jornada-podem-ser-votados-pelo-senado",
-      "posted_at": "2026-01-27T20:18:51.109676+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/01/congresso-vai-analisar-medida-provisoria-sobre-copa-do-mundo-feminina",
       "posted_at": "2026-01-27T22:19:23.510604+00:00"
     },
@@ -68,6 +64,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/01/cpmi-do-inss-vai-ouvir-dono-do-banco-master-e-presidente-do-inss",
       "posted_at": "2026-01-30T18:35:41.670782+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/30/projeto-cria-delegacias-especializadas-na-busca-de-desaparecidos",
+      "posted_at": "2026-01-30T20:24:37.158655+00:00"
     }
   ]
 }
