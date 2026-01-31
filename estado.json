@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 17,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/01/cpmi-do-inss-retoma-investigacao-sobre-emprestimos-consignados",
-      "posted_at": "2026-01-28T08:26:52.263596+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/28/senado-analisa-indicacoes-para-stf-cvm-e-outros-orgaos",
       "posted_at": "2026-01-28T14:25:42.195207+00:00"
     },
@@ -80,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/ccj-avalia-autorizacao-para-empresa-privada-gerenciar-trabalho-de-presos",
       "posted_at": "2026-01-31T08:24:49.234305+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1241509-comissao-aprova-obrigacao-de-distribuidoras-divulgarem-arrecadacao-da-taxa-de-iluminacao-publica/",
+      "posted_at": "2026-01-31T12:38:44.111213+00:00"
     }
   ]
 }
