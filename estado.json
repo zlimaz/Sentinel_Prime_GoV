@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 0,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/01/daniel-vorcaro-dono-do-banco-master-e-convocado-a-depor-na-cpmi-do-inss",
-      "posted_at": "2026-01-29T18:38:11.278411+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/pl-ultrapassa-psd-e-se-torna-o-maior-partido-do-senado",
       "posted_at": "2026-01-29T20:25:18.259339+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1241466-comissao-aprova-programa-de-socorro-a-empresas-afetadas-por-sobretaxa-dos-eua/",
       "posted_at": "2026-02-01T18:29:07.157313+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1241422-projeto-assegura-a-trabalhador-15-dias-remunerados-para-cuidar-de-familiar-doente/",
+      "posted_at": "2026-02-01T20:21:35.597572+00:00"
     }
   ]
 }
