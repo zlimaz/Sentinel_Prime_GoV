@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 1,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/29/agencia-senado-celebra-29-anos-ampliando-a-transparencia-do-legislativo",
-      "posted_at": "2026-01-30T06:42:00.974614+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/01/propostas-em-debate-na-cdh-buscam-proteger-atletas-de-categorias-de-base",
       "posted_at": "2026-01-30T16:33:46.558869+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1241433-comissao-aprova-criacao-do-farmacia-popular-digital-com-entrega-em-casa-para-idosos/",
       "posted_at": "2026-02-02T04:21:06.648018+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1241178-comissao-aprova-projeto-que-obriga-empresas-a-prevenir-riscos-a-saude-mental/",
+      "posted_at": "2026-02-02T06:58:03.450570+00:00"
     }
   ]
 }
