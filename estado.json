@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 2,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/01/30/cpmi-marca-depoimentos-de-vorcaro-camisotti-e-presidente-do-inss-para-quinta",
-      "posted_at": "2026-01-31T20:20:44.090505+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/30/com-sessao-solene-congresso-nacional-abre-ano-legislativo-nesta-segunda",
       "posted_at": "2026-01-31T22:18:04.712095+00:00"
     },
@@ -104,6 +100,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/02/acompanhe-ao-vivo-sessao-deliberativa-ordinaria-2013-3-2-26",
       "posted_at": "2026-02-03T18:51:10.628759+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/03/dificuldade-de-cadastro-no-seguro-defeso-recebe-criticas-em-comissao-mista",
+      "posted_at": "2026-02-03T20:31:20.609889+00:00"
     }
   ]
 }
