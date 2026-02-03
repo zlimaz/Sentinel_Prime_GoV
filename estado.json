@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 1,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/01/instituicao-fiscal-alerta-para-baixo-investimento-nas-contas-federais-em-2026",
-      "posted_at": "2026-01-31T04:01:48.040533+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/01/30/inscricoes-para-o-jovem-senador-2026-comecam-nesta-segunda",
       "posted_at": "2026-01-31T06:33:08.325101+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/02/presidente-da-camara-aponta-pauta-prioritaria-da-casa-para-este-ano",
       "posted_at": "2026-02-03T01:50:17.223335+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/02/feminicidio-e-crime-organizado-estao-no-foco-do-judiciario-diz-fachin",
+      "posted_at": "2026-02-03T04:11:42.901611+00:00"
     }
   ]
 }
