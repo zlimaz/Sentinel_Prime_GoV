@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 5,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1241099-comissao-aprova-subsidio-para-acesso-a-internet-de-familias-na-amazonia/",
-      "posted_at": "2026-02-02T10:39:39.992821+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/ccj-analisa-permissao-para-servidor-publico-se-tornar-mei",
-      "posted_at": "2026-02-02T12:51:26.043800+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/02/presidente-da-camara-aponta-pauta-prioritaria-da-casa-para-este-ano",
       "posted_at": "2026-02-03T01:50:17.223335+00:00"
     },
@@ -96,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/04/presidente-da-comissao-de-agricultura-defende-ajustes-no-acordo-mercosul-ue",
       "posted_at": "2026-02-05T10:36:27.100269+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/02/pacto-contra-o-feminicidio-e-assinado-por-representantes-dos-tres-poderes",
+      "posted_at": "2026-02-05T12:53:34.251069+00:00"
     }
   ]
 }
