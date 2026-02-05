@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 5,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1241433-comissao-aprova-criacao-do-farmacia-popular-digital-com-entrega-em-casa-para-idosos/",
-      "posted_at": "2026-02-02T04:21:06.648018+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1241178-comissao-aprova-projeto-que-obriga-empresas-a-prevenir-riscos-a-saude-mental/",
-      "posted_at": "2026-02-02T06:58:03.450570+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1241449-comissao-aprova-aumento-de-pena-para-quem-provocar-incendios-em-vegetacao/",
-      "posted_at": "2026-02-02T08:37:49.223684+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1241099-comissao-aprova-subsidio-para-acesso-a-internet-de-familias-na-amazonia/",
       "posted_at": "2026-02-02T10:39:39.992821+00:00"
     },
@@ -100,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/tres-poderes-lancam-pacto-nacional-contra-o-feminicidio",
       "posted_at": "2026-02-05T04:10:54.559230+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/04/cct-recebera-a-pesquisadora-tatiana-coelho-de-sampaio-em-audiencia-publica",
+      "posted_at": "2026-02-05T08:38:06.085085+00:00"
     }
   ]
 }
