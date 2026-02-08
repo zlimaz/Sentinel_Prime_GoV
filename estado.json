@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 9,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/04/comissao-aprova-divulgacao-nos-hospitais-dos-direitos-das-criancas-internadas",
-      "posted_at": "2026-02-04T18:42:08.034076+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/04/ctfc-aprova-projeto-que-disciplina-a-cobranca-de-diarias-em-hoteis",
-      "posted_at": "2026-02-04T20:28:56.097559+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/tres-poderes-lancam-pacto-nacional-contra-o-feminicidio",
       "posted_at": "2026-02-05T04:10:54.559230+00:00"
     },
@@ -92,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/ctfc-aprova-divulgacao-em-hospitais-dos-direitos-de-criancas-internadas",
       "posted_at": "2026-02-07T18:29:08.709807+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/cpmi-ouve-filho-de-mauricio-camisotti-suspeito-de-participar-das-fraudes-no-inss",
+      "posted_at": "2026-02-08T02:09:35.106715+00:00"
     }
   ]
 }
