@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 10,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/05/cpmi-do-inss-aprova-pedidos-de-prisao-e-quebra-de-sigilos-de-servidores-do-inss",
-      "posted_at": "2026-02-05T16:41:16.233506+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/presidente-do-inss-diz-que-banco-liberou-consignados-para-2-mil-mortos",
       "posted_at": "2026-02-06T08:36:15.584075+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1243443-projeto-autoriza-aulas-de-direcao-em-carros-automaticos-nas-autoescolas/",
       "posted_at": "2026-02-08T16:25:17.517964+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1243385-projeto-obriga-operadoras-a-enviar-alerta-por-sms-sobre-pessoas-desaparecidas/",
+      "posted_at": "2026-02-08T18:29:51.591757+00:00"
     }
   ]
 }
