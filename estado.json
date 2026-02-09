@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 12,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/cdh-analisa-classificacao-indicativa-para-musicas-semelhante-a-filmes",
-      "posted_at": "2026-02-06T16:38:51.273818+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/06/representacao-brasileira-analisa-na-terca-acordo-entre-mercosul-e-uniao-europeia",
-      "posted_at": "2026-02-06T18:42:46.845801+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/06/cae-discute-mesma-isencao-tributaria-para-areas-de-livre-comercio-na-regiao-norte",
-      "posted_at": "2026-02-06T20:28:29.569929+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/projeto-cria-delegacias-especializadas-para-buscar-pessoas-desaparecidas",
       "posted_at": "2026-02-06T22:18:50.753261+00:00"
     },
@@ -100,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/09/cdh-vota-cota-em-universidades-para-egressos-de-programas-de-acolhimento",
       "posted_at": "2026-02-09T14:47:40.959571+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/conselho-de-comunicacao-social-vai-priorizar-regulacao-da-ia-e-do-streaming",
+      "posted_at": "2026-02-09T21:59:14.187521+00:00"
     }
   ]
 }
