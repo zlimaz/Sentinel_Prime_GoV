@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 12,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2025/11/agenda-da-semana",
-      "posted_at": "2026-02-07T01:43:26.642208+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/06/comissao-da-mp-do-seguro-defeso-define-plano-de-trabalho-na-terca",
       "posted_at": "2026-02-07T08:25:53.094955+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/09/empossados-novos-integrantes-do-conselho-de-comunicacao-social",
       "posted_at": "2026-02-09T22:44:48.342841+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/09/cdh-debate-direitos-de-criancas-e-adolescentes-na-quinta",
+      "posted_at": "2026-02-10T02:04:05.949757+00:00"
     }
   ]
 }
