@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 15,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1243397-projeto-cria-pacote-de-beneficios-para-maes-de-gemeos-e-trigemeos/",
-      "posted_at": "2026-02-08T20:21:36.628826+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1157473-projeto-estende-lei-maria-da-penha-a-casais-homoafetivos-masculinos/",
       "posted_at": "2026-02-08T22:22:37.278907+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/comissao-vai-discutir-com-moraes-situacao-dos-condenados-pelo-8-de-janeiro",
       "posted_at": "2026-02-11T18:56:57.805154+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/damares-propoe-defesa-em-video-para-sugestoes-legislativas-do-e-cidadania",
+      "posted_at": "2026-02-11T20:34:19.016212+00:00"
     }
   ]
 }
