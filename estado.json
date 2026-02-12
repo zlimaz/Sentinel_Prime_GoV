@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 16,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1243242-projeto-cria-programa-nacional-para-ampliar-acesso-a-psicoterapia-para-pessoas-vulneraveis/",
-      "posted_at": "2026-02-09T04:24:06.326026+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1243358-relator-diz-que-regulamentacao-do-trabalho-por-aplicativo-pode-ser-votada-em-marco-assista/",
-      "posted_at": "2026-02-09T06:59:30.181150+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1243292-projeto-torna-obrigatoria-a-triagem-de-autismo-em-todas-as-criancas-a-partir-dos-16-meses/",
-      "posted_at": "2026-02-09T10:52:40.238386+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/09/cdh-vota-cota-em-universidades-para-egressos-de-programas-de-acolhimento",
       "posted_at": "2026-02-09T14:47:40.959571+00:00"
     },
@@ -88,6 +76,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/02/renan-calheiros-defende-acesso-as-investigacoes-do-banco-master",
       "posted_at": "2026-02-12T04:22:10.611288+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/02/cooperacao-com-japao-pode-ajudar-brasil-a-prevenir-desastres-avaliam-senadores",
+      "posted_at": "2026-02-12T12:58:31.429378+00:00"
     }
   ]
 }
