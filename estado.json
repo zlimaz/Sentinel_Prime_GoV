@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 0,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/09/empossados-novos-integrantes-do-conselho-de-comunicacao-social",
-      "posted_at": "2026-02-09T22:44:48.342841+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/09/cdh-debate-direitos-de-criancas-e-adolescentes-na-quinta",
       "posted_at": "2026-02-10T02:04:05.949757+00:00"
     },
@@ -92,6 +88,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/senadora-pede-esclarecimentos-ao-mec-sobre-oferta-de-livros-em-braile",
       "posted_at": "2026-02-12T22:27:52.715896+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/senadores-debatem-protecao-de-criancas-e-adolescentes-no-carnaval",
+      "posted_at": "2026-02-13T01:55:09.201411+00:00"
     }
   ]
 }
