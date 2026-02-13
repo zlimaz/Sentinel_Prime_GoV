@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 0,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/09/projeto-propoe-acoes-de-educacao-cultura-e-saude-para-combater-racismo-estrutural",
-      "posted_at": "2026-02-10T06:58:47.936504+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/primeira-pec-de-2026-busca-gerar-empregos-e-reduzir-informalidade",
-      "posted_at": "2026-02-10T08:45:22.312448+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/senadores-defendem-decisao-de-flavio-dino-sobre-penduricalhos",
       "posted_at": "2026-02-10T10:51:19.260422+00:00"
     },
@@ -88,6 +80,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/senado-deve-votar-mp-que-transforma-a-anpd-em-agencia-reguladora-ate-o-dia-25",
       "posted_at": "2026-02-13T06:54:42.362034+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/12/semana-nacional-de-retiros-culturais-segue-para-a-sancao",
+      "posted_at": "2026-02-13T10:35:27.508731+00:00"
     }
   ]
 }
