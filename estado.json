@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 4,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/02/renan-calheiros-defende-acesso-as-investigacoes-do-banco-master",
-      "posted_at": "2026-02-12T04:22:10.611288+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/02/cooperacao-com-japao-pode-ajudar-brasil-a-prevenir-desastres-avaliam-senadores",
       "posted_at": "2026-02-12T12:58:31.429378+00:00"
     },
@@ -88,6 +84,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/02/cpi-pode-votar-pedidos-para-ouvir-toffoli-alexandre-de-moraes-e-daniel-vorcaro",
       "posted_at": "2026-02-15T04:19:49.465352+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/o-que-preve-o-acordo-mercosul-uniao-europeia-em-analise-no-congresso",
+      "posted_at": "2026-02-15T06:45:17.991417+00:00"
     }
   ]
 }
