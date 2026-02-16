@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 5,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/cpi-do-crime-organizado-ouve-diretor-geral-da-meta-no-brasil",
-      "posted_at": "2026-02-13T14:38:09.627080+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1242194-projeto-anistia-multas-ambientais-aplicadas-a-produtores-rurais-no-acre/",
       "posted_at": "2026-02-13T16:40:26.929612+00:00"
     },
@@ -100,6 +96,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1245544-plenario-pode-votar-pedido-de-urgencia-para-acelerar-projeto-sobre-concorrencia-nos-mercados-digitais/",
       "posted_at": "2026-02-16T12:54:28.508579+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/cpi-do-crime-organizado-ouve-diretor-geral-da-meta-no-brasil",
+      "posted_at": "2026-02-16T14:38:25.668221+00:00"
     }
   ]
 }
