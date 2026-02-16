@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 5,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/12/semana-nacional-de-retiros-culturais-segue-para-a-sancao",
-      "posted_at": "2026-02-13T10:35:27.508731+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/cpi-do-crime-organizado-ouve-diretor-geral-da-meta-no-brasil",
       "posted_at": "2026-02-13T14:38:09.627080+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1245524-projeto-destina-20-dos-royalties-de-petroleo-da-foz-do-amazonas-para-sus-e-enfermagem/",
       "posted_at": "2026-02-16T08:41:14.316155+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1245491-projeto-cria-sistema-de-rastreabilidade-para-combater-adulteracao-de-bebidas-destiladas/",
+      "posted_at": "2026-02-16T10:44:16.561627+00:00"
     }
   ]
 }
