@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 10,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1245714-projeto-aumenta-pena-de-importunacao-sexual-na-frente-de-crianca/",
-      "posted_at": "2026-02-15T20:21:16.352588+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1245375-proposta-eleva-pena-de-estupro-com-lesao-grave-ou-morte-para-40-anos/",
       "posted_at": "2026-02-16T04:22:18.081126+00:00"
     },
@@ -76,6 +72,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/02/cpi-pode-votar-pedidos-para-ouvir-toffoli-alexandre-de-moraes-e-daniel-vorcaro",
       "posted_at": "2026-02-18T18:48:28.895069+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/o-que-preve-o-acordo-mercosul-uniao-europeia-em-analise-no-congresso",
+      "posted_at": "2026-02-18T20:34:25.180227+00:00"
     }
   ]
 }
