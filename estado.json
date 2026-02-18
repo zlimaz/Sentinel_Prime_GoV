@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 9,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/carnaval-em-pauta-projetos-criam-regras-para-financiamento-da-folia",
-      "posted_at": "2026-02-15T12:40:51.641804+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1245702-projeto-cria-fundo-para-acolhimento-de-animais-para-financiar-abrigos/",
       "posted_at": "2026-02-15T14:23:03.196849+00:00"
     },
@@ -76,6 +72,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/cpmi-do-inss-carlos-viana-pedira-ao-stf-devolucao-de-documentos-sobre-vorcaro",
       "posted_at": "2026-02-18T10:39:49.143279+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/cae-analisa-regulamentacao-da-profissao-de-cuidador",
+      "posted_at": "2026-02-18T12:55:40.875585+00:00"
     }
   ]
 }
