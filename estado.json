@@ -2,26 +2,6 @@
   "last_processed_deputy_index": 11,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1245375-proposta-eleva-pena-de-estupro-com-lesao-grave-ou-morte-para-40-anos/",
-      "posted_at": "2026-02-16T04:22:18.081126+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1245721-projeto-aumenta-pena-para-exploracao-sexual-infantil-em-fronteiras/",
-      "posted_at": "2026-02-16T06:58:12.892533+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1245524-projeto-destina-20-dos-royalties-de-petroleo-da-foz-do-amazonas-para-sus-e-enfermagem/",
-      "posted_at": "2026-02-16T08:41:14.316155+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1245491-projeto-cria-sistema-de-rastreabilidade-para-combater-adulteracao-de-bebidas-destiladas/",
-      "posted_at": "2026-02-16T10:44:16.561627+00:00"
-    },
-    {
-      "link": "https://www.camara.leg.br/noticias/1245544-plenario-pode-votar-pedido-de-urgencia-para-acelerar-projeto-sobre-concorrencia-nos-mercados-digitais/",
-      "posted_at": "2026-02-16T12:54:28.508579+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/cpi-do-crime-organizado-ouve-diretor-geral-da-meta-no-brasil",
       "posted_at": "2026-02-16T14:38:25.668221+00:00"
     },
@@ -84,6 +64,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/novas-regras-reforcam-seguranca-do-pix-senado-analisa-lei-contra-golpes",
       "posted_at": "2026-02-19T01:51:37.846076+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/ccj-pode-votar-aumento-da-pena-para-crimes-cometidos-durante-saidinhas",
+      "posted_at": "2026-02-19T12:56:36.126506+00:00"
     }
   ]
 }
