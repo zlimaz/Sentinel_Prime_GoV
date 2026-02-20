@@ -2,18 +2,6 @@
   "last_processed_deputy_index": 13,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/02/sociedade-civil-desenvolve-metodos-para-vigiar-emendas-parlamentares",
-      "posted_at": "2026-02-17T08:39:42.821921+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/projeto-veta-homenagem-a-autoridades-por-escolas-de-samba-com-verba-federal",
-      "posted_at": "2026-02-17T10:40:52.455945+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/cae-ouve-presidente-interino-da-cvm-no-dia-24",
-      "posted_at": "2026-02-17T12:54:49.619892+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/fim-da-escala-6x1-e-prioridade-do-governo-depois-do-carnaval-diz-lider-do-pt",
       "posted_at": "2026-02-17T14:41:27.140189+00:00"
     },
@@ -80,6 +68,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/projetos-que-criam-universidades-federais-do-esporte-e-indigena-chegam-ao-senado",
       "posted_at": "2026-02-20T04:11:47.813733+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/20/sinalizacao-de-estradas-apos-obras-esta-na-pauta-da-comissao-de-infraestrutura",
+      "posted_at": "2026-02-20T14:36:53.311239+00:00"
     }
   ]
 }
