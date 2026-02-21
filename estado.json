@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 17,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/o-que-preve-o-acordo-mercosul-uniao-europeia-em-analise-no-congresso",
-      "posted_at": "2026-02-18T20:34:25.180227+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/cpi-do-crime-vota-convite-aos-ministros-do-stf-toffoli-e-moraes",
       "posted_at": "2026-02-18T22:28:27.825303+00:00"
     },
@@ -72,6 +68,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/enviado-a-camara-projeto-que-proibe-cobranca-de-acesso-a-cachoeiras-e-praias",
       "posted_at": "2026-02-21T20:19:39.863575+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/02/quiz-sobre-o-senado",
+      "posted_at": "2026-02-21T22:18:35.440334+00:00"
     }
   ]
 }
