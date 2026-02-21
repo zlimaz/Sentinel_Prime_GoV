@@ -2,22 +2,6 @@
   "last_processed_deputy_index": 16,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/cma-pode-votar-em-breve-projeto-sobre-governanca-climatica",
-      "posted_at": "2026-02-18T01:52:42.713021+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/cpmi-do-inss-carlos-viana-pedira-ao-stf-devolucao-de-documentos-sobre-vorcaro",
-      "posted_at": "2026-02-18T10:39:49.143279+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/cae-analisa-regulamentacao-da-profissao-de-cuidador",
-      "posted_at": "2026-02-18T12:55:40.875585+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/vai-a-sancao-projeto-que-cria-a-semana-nacional-de-retiros-culturais",
-      "posted_at": "2026-02-18T14:40:35.321312+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/senado-analisa-projeto-que-cria-dia-em-memoria-das-vitimas-de-transito",
       "posted_at": "2026-02-18T16:58:24.041732+00:00"
     },
@@ -84,6 +68,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/senado-entrega-comenda-ceci-cunha-a-oito-mulheres-de-destaque-na-politica",
       "posted_at": "2026-02-20T22:20:53.089443+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/20/com-negativa-de-vorcaro-cpmi-do-inss-vai-ouvir-investigada-ligada-a-conafer",
+      "posted_at": "2026-02-21T16:23:30.991957+00:00"
     }
   ]
 }
