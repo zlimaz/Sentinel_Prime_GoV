@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 0,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/13/cpi-do-crime-organizado-ouve-diretor-geral-da-meta-no-brasil",
-      "posted_at": "2026-02-19T16:46:00.849368+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/19/lei-torna-programa-gas-do-povo-permanente",
       "posted_at": "2026-02-19T18:44:41.250556+00:00"
     },
@@ -68,6 +64,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/20/csp-vota-projetos-para-derrubar-decreto-que-restringiu-acesso-a-armas",
       "posted_at": "2026-02-22T16:24:09.353624+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/20/comissao-pode-convocar-ministros-para-esclarecer-repasses-a-escolas-de-samba",
+      "posted_at": "2026-02-22T18:29:47.147156+00:00"
     }
   ]
 }
