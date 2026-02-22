@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 1,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/19/comissao-vota-requerimentos-sobre-violencia-economica-e-lei-do-feminicidio",
-      "posted_at": "2026-02-19T20:27:21.790003+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/cdh-analisa-mencoes-ao-brasil-em-arquivos-ligados-a-jeffrey-epstein",
       "posted_at": "2026-02-19T22:27:04.744443+00:00"
     },
@@ -68,6 +64,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/02/cae-analisa-uso-do-fundo-penitenciario-nacional-para-capacitacao-de-servidores",
       "posted_at": "2026-02-22T20:21:35.998888+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/02/cdh-pode-votar-projeto-que-aumenta-a-conectividade-para-ribeirinhos",
+      "posted_at": "2026-02-22T22:19:06.377221+00:00"
     }
   ]
 }
