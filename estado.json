@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 6,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/23/projeto-que-amplia-cotas-em-estagios-esta-na-pauta-da-cas",
-      "posted_at": "2026-02-23T18:56:53.771925+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/02/ao-vivo-cpmi-do-inss-ouve-ingrid-pikinskeni-morais-santos-ligada-a-conafer-2013-23-2-26",
       "posted_at": "2026-02-23T20:39:56.016868+00:00"
     },
@@ -64,6 +60,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/26/debatedores-pedem-identificacao-precoce-e-acoes-pedagogicas-para-superdotados",
       "posted_at": "2026-02-26T18:46:46.635459+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/26/votacao-do-acordo-mercosul-ue-deve-unir-governo-e-oposicao-no-senado",
+      "posted_at": "2026-02-26T20:32:22.866242+00:00"
     }
   ]
 }
