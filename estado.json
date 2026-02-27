@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 7,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/23/izalci-sugere-cpi-no-legislativo-do-df-para-investigar-gestao-do-brb",
-      "posted_at": "2026-02-23T22:36:24.229008+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/23/relator-aponta-fraude-de-mais-de-r-156-milhoes-em-depoimento-de-empresaria",
       "posted_at": "2026-02-24T01:48:40.977743+00:00"
     },
@@ -64,6 +60,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/26/cpmi-familia-camisotti-recebeu-mais-dinheiro-que-careca-do-inss",
       "posted_at": "2026-02-26T22:29:00.584200+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/02/cpmi-do-inss-aprova-quebra-de-sigilos-de-filho-de-lula",
+      "posted_at": "2026-02-27T01:45:32.821569+00:00"
     }
   ]
 }
