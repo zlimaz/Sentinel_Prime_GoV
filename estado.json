@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 9,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/02/26/divida-publica-e-despesas-dos-estados-continuam-a-preocupar-avalia-ifi",
-      "posted_at": "2026-02-27T04:09:43.517420+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/02/26/divulgacao-dos-resultados-do-enamed-pode-se-tornar-obrigatoria",
       "posted_at": "2026-02-27T06:46:49.050528+00:00"
     },
@@ -96,6 +92,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1248733-comissao-aprova-programa-para-reduzir-disputas-judiciais-no-setor-de-beleza/",
       "posted_at": "2026-03-02T01:48:32.289119+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1248692-comissao-mista-debate-violencia-contra-a-mulher-e-aplicacao-da-lei-do-feminicidio-participe/",
+      "posted_at": "2026-03-02T04:10:37.810011+00:00"
     }
   ]
 }
