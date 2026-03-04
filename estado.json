@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 15,
   "posted_news": [
     {
-      "link": "https://noticias.stf.jus.br/2026/02/26/hotsite-135-anos-do-stf/",
-      "posted_at": "2026-03-01T20:28:47.162712+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1248733-comissao-aprova-programa-para-reduzir-disputas-judiciais-no-setor-de-beleza/",
       "posted_at": "2026-03-02T01:48:32.289119+00:00"
     },
@@ -128,6 +124,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/04/garantia-de-oferta-de-vagas-em-creches-de-zonas-rurais-segue-vai-a-sancao",
       "posted_at": "2026-03-04T20:28:01.034831+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/04/girao-cobra-cpmi-para-investigar-escandalo-do-banco-master",
+      "posted_at": "2026-03-04T22:26:58.889029+00:00"
     }
   ]
 }
