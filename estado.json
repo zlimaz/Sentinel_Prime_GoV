@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 17,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/02/confucio-moura-defende-investimento-em-educacao-para-reduzir-violencia",
-      "posted_at": "2026-03-02T22:23:26.989625+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/03/conselho-de-comunicacao-social-destaca-importancia-da-implementacao-do-eca-digital",
       "posted_at": "2026-03-03T01:50:36.152998+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/05/tv-senado-faz-30-anos-com-novidades-e-sessao-especial-no-senado",
       "posted_at": "2026-03-05T20:33:17.558922+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/pec-que-integra-servidores-de-ex-territorios-a-uniao-avanca-na-camara",
+      "posted_at": "2026-03-05T22:26:58.551920+00:00"
     }
   ]
 }
