@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 15,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1248733-comissao-aprova-programa-para-reduzir-disputas-judiciais-no-setor-de-beleza/",
-      "posted_at": "2026-03-02T01:48:32.289119+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1248692-comissao-mista-debate-violencia-contra-a-mulher-e-aplicacao-da-lei-do-feminicidio-participe/",
       "posted_at": "2026-03-02T04:10:37.810011+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/04/por-unanimidade-senado-aprova-acordo-entre-mercosul-e-ue",
       "posted_at": "2026-03-05T01:47:40.686633+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/04/aumento-gradual-da-licenca-paternidade-vai-a-sancao-presidencial",
+      "posted_at": "2026-03-05T04:09:16.412439+00:00"
     }
   ]
 }
