@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 15,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1248692-comissao-mista-debate-violencia-contra-a-mulher-e-aplicacao-da-lei-do-feminicidio-participe/",
-      "posted_at": "2026-03-02T04:10:37.810011+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1248669-comissao-aprova-projeto-que-reduz-a-tributacao-sobre-o-biodiesel-de-dende/",
       "posted_at": "2026-03-02T08:38:55.439796+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/04/aumento-gradual-da-licenca-paternidade-vai-a-sancao-presidencial",
       "posted_at": "2026-03-05T04:09:16.412439+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1250444-camara-aprova-projeto-que-cria-protocolo-de-atendimento-a-vitimas-de-estupro/",
+      "posted_at": "2026-03-05T06:44:40.955467+00:00"
     }
   ]
 }
