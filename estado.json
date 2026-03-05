@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 16,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/02/cae-analisa-isencao-de-itr-em-terras-invadidas-e-mantem-litigio-sob-a-uniao",
-      "posted_at": "2026-03-02T20:32:29.745524+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/02/confucio-moura-defende-investimento-em-educacao-para-reduzir-violencia",
       "posted_at": "2026-03-02T22:23:26.989625+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/05/regra-para-funcionamento-de-farmacia-dentro-de-supermercado-vai-a-sancao",
       "posted_at": "2026-03-05T19:21:20.984885+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/05/tv-senado-faz-30-anos-com-novidades-e-sessao-especial-no-senado",
+      "posted_at": "2026-03-05T20:33:17.558922+00:00"
     }
   ]
 }
