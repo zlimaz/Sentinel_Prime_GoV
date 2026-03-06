@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 18,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/acompanhe-ao-vivo-sessao-deliberativa-ordinaria-2013-3-3-26",
-      "posted_at": "2026-03-03T18:41:14.156651+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/03/girao-defende-quebras-de-sigilo-aprovadas-e-prorrogacao-da-cpmi-do-inss",
       "posted_at": "2026-03-03T20:28:02.072243+00:00"
     },
@@ -128,6 +124,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/06/incentivo-ao-empreendedorismo-no-ensino-medio-esta-na-pauta-da-ce",
       "posted_at": "2026-03-06T18:37:58.169517+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/06/comissao-vota-projeto-que-reconhece-estagio-como-experiencia-profissional",
+      "posted_at": "2026-03-06T20:26:48.352282+00:00"
     }
   ]
 }
