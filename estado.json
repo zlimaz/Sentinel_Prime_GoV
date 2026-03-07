@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 19,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1250044-comissao-aprova-projeto-que-da-prazo-para-renovacao-da-cnh-de-condutor-que-estava-fora-do-pais/",
-      "posted_at": "2026-03-04T16:38:39.715432+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/cae-passe-livre-interestadual-para-pacientes-com-cancer",
       "posted_at": "2026-03-04T18:42:09.686516+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/teresa-leitao-afirma-que-novo-pne-pode-ser-aprovado-em-marco-no-senado",
       "posted_at": "2026-03-07T16:22:19.902659+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/06/cpi-ouve-governador-eduardo-leite-e-vota-requerimentos-sobre-master-na-quarta",
+      "posted_at": "2026-03-07T18:27:30.109939+00:00"
     }
   ]
 }
