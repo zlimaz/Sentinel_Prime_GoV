@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 19,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/nova-regra-do-seguro-defeso-prejudica-pescadores-dizem-associacoes",
-      "posted_at": "2026-03-03T22:24:01.195060+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/03/senado-promove-sessoes-especiais-em-homenagem-ao-mes-da-mulher",
       "posted_at": "2026-03-04T01:44:52.541974+00:00"
     },
@@ -128,6 +124,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/programa-jovem-senador-amplia-chances-de-ingresso-na-faculdade",
       "posted_at": "2026-03-06T22:23:23.924907+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/senado-aprova-acordo-comercial-mercosul-uniao-europeia",
+      "posted_at": "2026-03-07T01:41:22.050572+00:00"
     }
   ]
 }
