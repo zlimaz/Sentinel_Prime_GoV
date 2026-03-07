@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 20,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/04/garantia-de-oferta-de-vagas-em-creches-de-zonas-rurais-segue-vai-a-sancao",
-      "posted_at": "2026-03-04T20:28:01.034831+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/04/girao-cobra-cpmi-para-investigar-escandalo-do-banco-master",
       "posted_at": "2026-03-04T22:26:58.889029+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1251273-comissao-aprova-programa-de-emprego-no-setor-de-turismo-que-permite-manter-bolsa-familia/",
       "posted_at": "2026-03-07T20:20:36.583736+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1251296-comissao-aprova-bpc-vitalicio-para-deficiencia-permanente-e-auxilio-temporario-a-herdeiros/",
+      "posted_at": "2026-03-07T22:18:54.569857+00:00"
     }
   ]
 }
