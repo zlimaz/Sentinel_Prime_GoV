@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 21,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/05/regra-para-funcionamento-de-farmacia-dentro-de-supermercado-vai-a-sancao",
-      "posted_at": "2026-03-05T19:21:20.984885+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/05/tv-senado-faz-30-anos-com-novidades-e-sessao-especial-no-senado",
       "posted_at": "2026-03-05T20:33:17.558922+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://noticias.stf.jus.br/2026/03/02/stf-restabelece-adicional-de-periculosidade-a-guardas-municipais-de-santo-andre-sp/",
       "posted_at": "2026-03-08T18:27:54.098698+00:00"
+    },
+    {
+      "link": "https://noticias.stf.jus.br/2026/02/26/hotsite-135-anos-do-stf/",
+      "posted_at": "2026-03-08T20:21:01.473331+00:00"
     }
   ]
 }
