@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 21,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1250580-motta-diz-que-vai-encaminhar-votacao-de-proposta-que-inclui-servidores-de-ex-territorios-nos-quadros-da-uniao/",
-      "posted_at": "2026-03-05T14:41:27.627431+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1250624-comissao-debate-viabilidade-de-implementacao-do-open-asset/",
       "posted_at": "2026-03-05T17:59:26.666628+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1251123-comissao-aprova-repasse-de-10-do-fundo-de-seguranca-para-combate-a-crimes-na-fronteira/",
       "posted_at": "2026-03-08T14:21:06.602593+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1251008-comissao-debate-acordo-de-reparacao-aos-atingidos-pela-tragedia-de-mariana/",
+      "posted_at": "2026-03-08T16:22:37.744416+00:00"
     }
   ]
 }
