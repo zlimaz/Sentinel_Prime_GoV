@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 23,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/politica-de-governanca-para-a-administracao-publica-vai-ao-plenario",
-      "posted_at": "2026-03-06T16:35:37.445614+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/06/incentivo-ao-empreendedorismo-no-ensino-medio-esta-na-pauta-da-ce",
       "posted_at": "2026-03-06T18:37:58.169517+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/09/cae-espera-ouvir-vorcaro-nesta-terca-feira",
       "posted_at": "2026-03-09T14:45:18.441931+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/comissoes-tem-na-pauta-depoimento-de-daniel-vorcaro-e-combate-a-misoginia",
+      "posted_at": "2026-03-09T16:53:22.706463+00:00"
     }
   ]
 }
