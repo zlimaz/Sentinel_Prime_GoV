@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 22,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/pec-que-integra-servidores-de-ex-territorios-a-uniao-avanca-na-camara",
-      "posted_at": "2026-03-05T22:26:58.551920+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/codigo-civil-comissao-defende-atualizacao-dos-direitos-de-familia-e-sucessoes",
-      "posted_at": "2026-03-06T01:49:15.187707+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/03/grupo-de-voluntarios-do-senado-envia-duas-toneladas-de-doacoes-para-mg",
       "posted_at": "2026-03-06T08:32:37.988796+00:00"
     },
@@ -132,6 +124,10 @@
     {
       "link": "https://noticias.stf.jus.br/2026/02/25/centro-de-estudos-constitucionais-do-stf-cestf/",
       "posted_at": "2026-03-08T22:19:07.189617+00:00"
+    },
+    {
+      "link": "https://noticias.stf.jus.br/2026/01/08/relatorio-8-de-janeiro/",
+      "posted_at": "2026-03-09T01:49:58.954846+00:00"
     }
   ]
 }
