@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 23,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/06/comissao-vota-projeto-que-reconhece-estagio-como-experiencia-profissional",
-      "posted_at": "2026-03-06T20:26:48.352282+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/programa-jovem-senador-amplia-chances-de-ingresso-na-faculdade",
       "posted_at": "2026-03-06T22:23:23.924907+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/09/mineracao-em-terras-indigenas-sera-debatida-nesta-terca",
       "posted_at": "2026-03-09T18:45:53.673683+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/cpi-do-crime-debate-menores-aliciados-e-ouve-governador-do-rs-e-empresario",
+      "posted_at": "2026-03-09T20:28:52.076903+00:00"
     }
   ]
 }
