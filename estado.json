@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 24,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/projeto-aumenta-de-40-para-50-anos-a-pena-maxima-para-o-feminicidio",
-      "posted_at": "2026-03-07T12:38:17.063403+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/proibicao-de-compra-de-imoveis-em-dinheiro-vivo-vai-a-camara-dos-deputados",
       "posted_at": "2026-03-07T14:20:07.509011+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/09/cesp-vota-reserva-de-assentos-para-autistas-em-arenas-esportivas",
       "posted_at": "2026-03-10T10:34:51.816069+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/ao-vivo-cpi-do-crime-debate-aliciamento-de-adolescentes-2013-10-3-26",
+      "posted_at": "2026-03-10T12:51:57.140003+00:00"
     }
   ]
 }
