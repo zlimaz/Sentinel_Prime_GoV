@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 26,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1251296-comissao-aprova-bpc-vitalicio-para-deficiencia-permanente-e-auxilio-temporario-a-herdeiros/",
-      "posted_at": "2026-03-07T22:18:54.569857+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1251231-comissao-aprova-apoio-federal-para-iluminacao-led-em-cidades-com-baixa-cobertura-e-casos-de-violencia/",
       "posted_at": "2026-03-08T01:48:33.808252+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/10/chico-rodrigues-defende-reintegracao-da-venezuela-ao-mercosul",
       "posted_at": "2026-03-10T20:28:57.605942+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/comissao-de-educacao-aprova-incentivo-a-empreendedorismo-em-escolas-publicas",
+      "posted_at": "2026-03-10T22:24:03.420395+00:00"
     }
   ]
 }
