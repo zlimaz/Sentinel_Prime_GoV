@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 26,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1251008-comissao-debate-acordo-de-reparacao-aos-atingidos-pela-tragedia-de-mariana/",
-      "posted_at": "2026-03-08T16:22:37.744416+00:00"
-    },
-    {
       "link": "https://noticias.stf.jus.br/2026/03/02/stf-restabelece-adicional-de-periculosidade-a-guardas-municipais-de-santo-andre-sp/",
       "posted_at": "2026-03-08T18:27:54.098698+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/11/comissao-de-esporte-aprova-lugar-reservado-nos-estadios-a-pessoas-com-tea",
       "posted_at": "2026-03-11T14:42:09.205018+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/11/cas-aprova-campanhas-e-acoes-publicas-contra-sedentarismo",
+      "posted_at": "2026-03-11T16:45:44.700147+00:00"
     }
   ]
 }
