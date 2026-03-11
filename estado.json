@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 26,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1251187-comissao-aprova-divulgacao-obrigatoria-de-dados-sobre-qualidade-de-agua-e-esgoto/",
-      "posted_at": "2026-03-08T08:26:14.935385+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1251132-comissao-debate-com-ministro-luiz-marinho-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho/",
       "posted_at": "2026-03-08T10:20:51.639361+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/10/homens-engajados-pelo-fim-da-violencia-contra-as-mulheres-terao-reconhecimento-do-senado",
       "posted_at": "2026-03-11T06:46:18.342239+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/10/senado-aprova-programa-antes-que-aconteca-que-previne-violencia-de-genero",
+      "posted_at": "2026-03-11T08:35:49.066799+00:00"
     }
   ]
 }
