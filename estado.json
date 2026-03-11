@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 26,
   "posted_news": [
     {
-      "link": "https://noticias.stf.jus.br/2026/02/26/hotsite-135-anos-do-stf/",
-      "posted_at": "2026-03-08T20:21:01.473331+00:00"
-    },
-    {
       "link": "https://noticias.stf.jus.br/2026/02/25/centro-de-estudos-constitucionais-do-stf-cestf/",
       "posted_at": "2026-03-08T22:19:07.189617+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/sessao-especial-comemora-30-anos-da-tv-senado",
       "posted_at": "2026-03-11T18:48:56.088522+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/antes-que-aconteca-vai-a-camara-projeto-de-prevencao-a-violencia-de-genero",
+      "posted_at": "2026-03-11T20:29:22.777061+00:00"
     }
   ]
 }
