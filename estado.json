@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 26,
   "posted_news": [
     {
-      "link": "https://noticias.stf.jus.br/2025/09/18/audiencia-publica-desafios-economicos-e-sociais-da-pejotizacao-no-brasil-2/",
-      "posted_at": "2026-03-09T10:40:47.259854+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/09/lei-que-da-fim-a-relativizacao-de-estupro-de-vulneraveis-entra-em-vigor",
       "posted_at": "2026-03-09T12:53:55.606501+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/11/em-2025-pelo-menos-1-248-homens-assassinaram-mulheres-no-brasil",
       "posted_at": "2026-03-12T10:34:20.154150+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/12/depoimentos-de-diretores-de-instituicoes-financeiras-a-cpmi-sao-cancelados",
+      "posted_at": "2026-03-12T12:51:40.476255+00:00"
     }
   ]
 }
