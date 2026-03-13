@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 27,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/09/girao-anuncia-representacao-no-conselho-de-etica-contra-davi-alcolumbre",
-      "posted_at": "2026-03-10T06:42:15.197884+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/09/cdh-pode-votar-aumento-de-penas-para-discriminacao-em-estadios-de-futebol",
       "posted_at": "2026-03-10T08:35:59.729872+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1253270-prorrogada-por-mais-60-dias-a-medida-provisoria-que-permite-renovacao-automatica-da-cnh/",
       "posted_at": "2026-03-13T04:08:51.463070+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1253174-comissao-aprova-regra-que-cobra-multas-antigas-do-ex-proprietario-e-cria-novo-seguro-obrigatorio/",
+      "posted_at": "2026-03-13T06:46:35.736285+00:00"
     }
   ]
 }
