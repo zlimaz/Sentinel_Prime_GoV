@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 27,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/09/cesp-vota-reserva-de-assentos-para-autistas-em-arenas-esportivas",
-      "posted_at": "2026-03-10T10:34:51.816069+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/03/ao-vivo-cpi-do-crime-debate-aliciamento-de-adolescentes-2013-10-3-26",
       "posted_at": "2026-03-10T12:51:57.140003+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1253071-comissao-aprova-sala-exclusiva-no-iml-para-atender-criancas-e-adolescentes-vitimas-de-violencia/",
       "posted_at": "2026-03-13T10:31:56.588037+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/comissao-de-educacao-debatera-10-anos-do-marco-legal-da-primeira-infancia",
+      "posted_at": "2026-03-13T12:50:44.020708+00:00"
     }
   ]
 }
