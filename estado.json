@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 30,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/antes-que-aconteca-vai-a-camara-projeto-de-prevencao-a-violencia-de-genero",
-      "posted_at": "2026-03-11T20:29:22.777061+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/11/estatuto-dos-direitos-do-paciente-vai-a-sancao",
       "posted_at": "2026-03-11T22:23:16.034017+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/cdh-analisa-protocolo-em-escolas-para-casos-de-misoginia-e-racismo",
       "posted_at": "2026-03-14T20:23:02.655747+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/violencia-digital-contra-mulher-tambem-e-crime-veja-como-denunciar",
+      "posted_at": "2026-03-14T22:21:00.517399+00:00"
     }
   ]
 }
