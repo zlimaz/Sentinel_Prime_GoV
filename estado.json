@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 29,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/10/senado-aprova-programa-antes-que-aconteca-que-previne-violencia-de-genero",
-      "posted_at": "2026-03-11T08:35:49.066799+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/senado-aprova-reestruturacao-de-carreiras-do-executivo-texto-segue-para-sancao",
       "posted_at": "2026-03-11T10:34:40.051926+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/empreendedorismo-jovem-e-turismo-civico-estao-na-pauta-da-ce",
       "posted_at": "2026-03-14T08:29:42.636290+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/cra-pode-facilitar-exportacao-de-miudos-bovinos",
+      "posted_at": "2026-03-14T10:24:03.376458+00:00"
     }
   ]
 }
