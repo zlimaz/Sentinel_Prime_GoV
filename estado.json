@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 29,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/sessao-especial-comemora-30-anos-da-tv-senado",
-      "posted_at": "2026-03-11T18:48:56.088522+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/antes-que-aconteca-vai-a-camara-projeto-de-prevencao-a-violencia-de-genero",
       "posted_at": "2026-03-11T20:29:22.777061+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/comissao-mista-de-atividades-de-inteligencia-sera-instalada-na-quarta",
       "posted_at": "2026-03-14T18:31:46.467069+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/cdh-analisa-protocolo-em-escolas-para-casos-de-misoginia-e-racismo",
+      "posted_at": "2026-03-14T20:23:02.655747+00:00"
     }
   ]
 }
