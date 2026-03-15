@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 30,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/11/medalha-jk-homenageia-senadores-por-contribuicao-ao-setor-de-transportes",
-      "posted_at": "2026-03-12T08:36:56.611448+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/11/em-2025-pelo-menos-1-248-homens-assassinaram-mulheres-no-brasil",
       "posted_at": "2026-03-12T10:34:20.154150+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1253658-comissao-aprova-ressarcimento-automatico-a-previdencia-por-agressores-em-violencia-domestica/",
       "posted_at": "2026-03-15T08:32:01.869569+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1253671-projeto-restringe-uso-de-medicamentos-manipulados-em-utis-neonatais/",
+      "posted_at": "2026-03-15T10:24:56.292881+00:00"
     }
   ]
 }
