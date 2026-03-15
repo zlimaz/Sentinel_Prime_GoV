@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 30,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/sessao-especial-celebra-30-anos-da-tv-senado",
-      "posted_at": "2026-03-12T04:10:08.076065+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/11/decisoes-monocraticas-prejudicam-trabalho-da-cpmi-diz-carlos-viana",
       "posted_at": "2026-03-12T06:49:03.154636+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/aprovada-ampliacao-da-ordem-do-merito-medico-para-ordem-do-merito-da-saude",
       "posted_at": "2026-03-15T02:00:09.475767+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/parlamentares-da-cpmi-vao-acessar-dados-sigilosos-de-vorcaro-em-sala-cofre",
+      "posted_at": "2026-03-15T04:37:44.564520+00:00"
     }
   ]
 }
