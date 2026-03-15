@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 30,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/11/em-2025-pelo-menos-1-248-homens-assassinaram-mulheres-no-brasil",
-      "posted_at": "2026-03-12T10:34:20.154150+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/12/depoimentos-de-diretores-de-instituicoes-financeiras-a-cpmi-sao-cancelados",
       "posted_at": "2026-03-12T12:51:40.476255+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1253671-projeto-restringe-uso-de-medicamentos-manipulados-em-utis-neonatais/",
       "posted_at": "2026-03-15T10:24:56.292881+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1253715-comissao-aprova-regras-para-busca-de-pessoas-com-deficiencia/",
+      "posted_at": "2026-03-15T12:42:47.588897+00:00"
     }
   ]
 }
