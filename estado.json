@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 30,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/12/depoimentos-de-diretores-de-instituicoes-financeiras-a-cpmi-sao-cancelados",
-      "posted_at": "2026-03-12T12:51:40.476255+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/12/cpmi-remarca-depoimentos-de-diretores-de-instituicoes-financeiras",
       "posted_at": "2026-03-12T14:43:46.606107+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1253715-comissao-aprova-regras-para-busca-de-pessoas-com-deficiencia/",
       "posted_at": "2026-03-15T12:42:47.588897+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1253649-projeto-proibe-entrada-e-residencia-de-estrangeiros-sem-documentacao-no-brasil/",
+      "posted_at": "2026-03-15T14:26:47.031852+00:00"
     }
   ]
 }
