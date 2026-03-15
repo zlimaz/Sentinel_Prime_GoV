@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 31,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/vai-a-camara-projeto-que-cria-campanha-para-prevencao-a-cegueira",
-      "posted_at": "2026-03-12T16:55:24.910055+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1252964-comissoes-de-previdencia-e-trabalho-debatem-trabalho-infantil-digital/",
       "posted_at": "2026-03-12T18:47:39.961882+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1253507-comissao-aprova-proposta-de-servico-de-atendimento-domiciliar-a-pessoa-idosa/",
       "posted_at": "2026-03-15T16:27:20.924950+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1253565-comissao-aprova-descontos-na-cnh-para-pcds-idosos-e-beneficiarios-de-programas-sociais/",
+      "posted_at": "2026-03-15T18:33:03.237964+00:00"
     }
   ]
 }
