@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 32,
   "posted_news": [
     {
-      "link": "https://noticias.stf.jus.br/2026/03/02/stf-restabelece-adicional-de-periculosidade-a-guardas-municipais-de-santo-andre-sp/",
-      "posted_at": "2026-03-13T08:34:53.240424+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1253071-comissao-aprova-sala-exclusiva-no-iml-para-atender-criancas-e-adolescentes-vitimas-de-violencia/",
       "posted_at": "2026-03-13T10:31:56.588037+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://noticias.stf.jus.br/2026/02/25/centro-de-estudos-constitucionais-do-stf-cestf/",
       "posted_at": "2026-03-16T07:10:40.661332+00:00"
+    },
+    {
+      "link": "https://noticias.stf.jus.br/2026/03/02/stf-restabelece-adicional-de-periculosidade-a-guardas-municipais-de-santo-andre-sp/",
+      "posted_at": "2026-03-16T08:51:31.885961+00:00"
     }
   ]
 }
