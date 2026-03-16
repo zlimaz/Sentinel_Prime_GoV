@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 32,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1253199-comissao-aprova-inclusao-de-livros-didaticos-e-juridicos-na-politica-de-logistica-reversa/",
-      "posted_at": "2026-03-13T01:46:47.540112+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1253270-prorrogada-por-mais-60-dias-a-medida-provisoria-que-permite-renovacao-automatica-da-cnh/",
       "posted_at": "2026-03-13T04:08:51.463070+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1253523-ex-dirigente-da-contag-sera-ouvido-nesta-segunda-feira-pela-cpmi-do-inss/",
       "posted_at": "2026-03-15T22:22:49.103203+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1253226-comissao-aprova-deduzir-salario-maternidade-de-tributos-pagos-por-pequena-empresa/",
+      "posted_at": "2026-03-16T02:01:43.216423+00:00"
     }
   ]
 }
