@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 32,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/csp-pode-votar-autorizacao-para-que-estados-legislem-sobre-direito-penal",
-      "posted_at": "2026-03-13T14:39:29.454085+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/cpmi-do-inss-ouve-ex-dirigente-da-contag-nesta-segunda",
       "posted_at": "2026-03-13T16:35:19.489956+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/zenaide-maia-pede-aprovacao-de-proposta-que-limita-juros",
       "posted_at": "2026-03-16T13:02:01.562265+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/16/cpmi-do-inss-pede-prorrogacao-ao-stf",
+      "posted_at": "2026-03-16T14:55:14.986589+00:00"
     }
   ]
 }
