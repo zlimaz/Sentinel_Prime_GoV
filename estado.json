@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 32,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/nanismo-audiencia-discute-inclusao-de-medicamento-para-acondroplasia-no-sus",
-      "posted_at": "2026-03-13T20:29:17.103069+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/comissao-vota-criacao-de-lista-de-proibicao-de-embarque-aereo",
       "posted_at": "2026-03-13T22:24:14.252258+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/16/plenario-vota-na-quarta-feira-medidas-de-protecao-a-mulheres",
       "posted_at": "2026-03-16T18:55:55.439558+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/16/zequinha-marinho-critica-recomendacao-do-tcu-de-suspender-a-ferrograo",
+      "posted_at": "2026-03-16T20:33:51.273227+00:00"
     }
   ]
 }
