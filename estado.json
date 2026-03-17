@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 34,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/comissao-mista-de-atividades-de-inteligencia-sera-instalada-na-quarta",
-      "posted_at": "2026-03-14T18:31:46.467069+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/cdh-analisa-protocolo-em-escolas-para-casos-de-misoginia-e-racismo",
       "posted_at": "2026-03-14T20:23:02.655747+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/17/ce-aprova-consolidacao-de-regras-para-regime-escolar-especial",
       "posted_at": "2026-03-17T17:00:36.855162+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/ao-vivo-deputados-e-senadores-promulgam-acordo-mercosul-uniao-europeia-2013-17-3-26",
+      "posted_at": "2026-03-17T18:56:25.707721+00:00"
     }
   ]
 }
