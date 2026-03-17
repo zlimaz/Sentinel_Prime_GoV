@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 33,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/13/cra-pode-facilitar-exportacao-de-miudos-bovinos",
-      "posted_at": "2026-03-14T10:24:03.376458+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/03/divorcio-pos-morte-familias-multiparentais-guarda-de-pets-o-que-pode-mudar-no-codigo-civil",
       "posted_at": "2026-03-14T12:40:59.709711+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/16/confucio-moura-defende-eja-profissional-e-destaca-novo-secretario-de-educacao",
       "posted_at": "2026-03-17T08:46:52.144650+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/16/girao-cobra-informacoes-sobre-desaparecimento-de-cearense-no-exterior",
+      "posted_at": "2026-03-17T10:45:42.074182+00:00"
     }
   ]
 }
