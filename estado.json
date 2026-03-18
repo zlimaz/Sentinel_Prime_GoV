@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 36,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1253470-medida-provisoria-reduz-prazo-para-acesso-a-beneficio-fiscal-por-importadores-de-cacau/",
-      "posted_at": "2026-03-15T20:24:14.098545+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1253523-ex-dirigente-da-contag-sera-ouvido-nesta-segunda-feira-pela-cpmi-do-inss/",
       "posted_at": "2026-03-15T22:22:49.103203+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/18/vorcaro-era-pau-mandado-de-dono-oculto-do-master-diz-depoente-a-cpi",
       "posted_at": "2026-03-18T18:53:40.364208+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/18/paim-anuncia-debate-sobre-feminicidio-no-senado-no-dia-23",
+      "posted_at": "2026-03-18T20:31:07.915216+00:00"
     }
   ]
 }
