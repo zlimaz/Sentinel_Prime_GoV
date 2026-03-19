@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 38,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/16/cpmi-do-inss-cancela-depoimento-de-ex-presidente-da-contag",
-      "posted_at": "2026-03-16T16:57:39.798719+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/16/plenario-vota-na-quarta-feira-medidas-de-protecao-a-mulheres",
       "posted_at": "2026-03-16T18:55:55.439558+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/roberto-campos-neto-e-gabriel-galipolo-serao-convidados-a-depor-na-cpmi-do-inss",
       "posted_at": "2026-03-19T16:53:57.868774+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/19/congresso-tera-lancamento-da-agenda-legislativa-da-industria-na-terca",
+      "posted_at": "2026-03-19T18:52:34.372711+00:00"
     }
   ]
 }
