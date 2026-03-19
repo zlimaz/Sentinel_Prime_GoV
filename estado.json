@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 37,
   "posted_news": [
     {
-      "link": "https://noticias.stf.jus.br/2026/01/08/relatorio-8-de-janeiro/",
-      "posted_at": "2026-03-16T10:49:59.148599+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/zenaide-maia-pede-aprovacao-de-proposta-que-limita-juros",
       "posted_at": "2026-03-16T13:02:01.562265+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/violencia-contra-mulher-aprovado-uso-de-tornozeleira-eletronica-como-medida-protetiva",
       "posted_at": "2026-03-19T10:35:45.041725+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/ao-vivo-cpmi-do-inss-vota-requerimentos-19-3-26-1",
+      "posted_at": "2026-03-19T12:55:32.055781+00:00"
     }
   ]
 }
