@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 37,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1253226-comissao-aprova-deduzir-salario-maternidade-de-tributos-pagos-por-pequena-empresa/",
-      "posted_at": "2026-03-16T02:01:43.216423+00:00"
-    },
-    {
       "link": "https://noticias.stf.jus.br/2026/02/26/hotsite-135-anos-do-stf/",
       "posted_at": "2026-03-16T05:47:05.584486+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/davi-desmente-valdemar-costa-neto-sobre-dosimetria-e-cpi-do-master",
       "posted_at": "2026-03-19T01:54:23.219644+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/crime-de-assedio-sexual-pode-ter-mudanca-no-prazo-de-prescricao",
+      "posted_at": "2026-03-19T04:21:06.100693+00:00"
     }
   ]
 }
