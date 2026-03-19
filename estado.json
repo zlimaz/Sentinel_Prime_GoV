@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 38,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/16/plenario-vota-na-quarta-feira-medidas-de-protecao-a-mulheres",
-      "posted_at": "2026-03-16T18:55:55.439558+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/16/zequinha-marinho-critica-recomendacao-do-tcu-de-suspender-a-ferrograo",
       "posted_at": "2026-03-16T20:33:51.273227+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/19/congresso-tera-lancamento-da-agenda-legislativa-da-industria-na-terca",
       "posted_at": "2026-03-19T18:52:34.372711+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/19/dia-de-combate-a-violencia-contra-mulheres-indigenas-vai-a-sancao-presidencial",
+      "posted_at": "2026-03-19T20:32:27.522349+00:00"
     }
   ]
 }
