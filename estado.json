@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 39,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/ao-vivo-deputados-e-senadores-promulgam-acordo-mercosul-uniao-europeia-2013-17-3-26",
-      "posted_at": "2026-03-17T18:56:25.707721+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/17/passageiro-indisciplinado-pode-ser-proibido-de-voar-por-ate-10-anos-aprova-ci",
       "posted_at": "2026-03-17T20:34:19.266089+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/20/cra-vota-projeto-para-facilitar-doacao-de-alimentos-e-combater-desperdicio",
       "posted_at": "2026-03-20T18:41:41.325224+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/20/cas-pode-votar-reducao-de-contas-de-luz-e-agua-em-calamidades-publicas",
+      "posted_at": "2026-03-20T20:27:19.166043+00:00"
     }
   ]
 }
