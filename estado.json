@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 40,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/comissao-da-mp-do-seguro-defeso-adia-votacao-do-relatorio-final",
-      "posted_at": "2026-03-18T04:22:17.516106+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/comissao-aprova-avaliacao-remota-para-estudantes-em-regime-domiciliar",
       "posted_at": "2026-03-18T06:57:05.780219+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/20/ex-chefe-de-supervisao-do-banco-central-fala-a-cpi-do-crime-na-terca",
       "posted_at": "2026-03-21T04:02:00.365086+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/22-de-marco-e-o-dia-mundial-da-agua",
+      "posted_at": "2026-03-21T06:37:16.501115+00:00"
     }
   ]
 }
