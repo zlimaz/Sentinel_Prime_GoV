@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 40,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/17/congresso-promulga-acordo-mercosul-uniao-europeia",
-      "posted_at": "2026-03-18T08:42:23.411917+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/03/gas-do-povo-programa-alterado-e-permanente-com-nova-lei",
       "posted_at": "2026-03-18T10:48:02.895373+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/senado-deve-padronizar-regras-sobre-penhora-de-bens",
       "posted_at": "2026-03-21T08:27:49.961451+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/barometro-da-lusofonia-estudo-em-paises-de-idioma-portugues-e-lancado-no-senado",
+      "posted_at": "2026-03-21T10:21:58.741530+00:00"
     }
   ]
 }
