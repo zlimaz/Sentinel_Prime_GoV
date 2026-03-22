@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 41,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/violencia-contra-mulher-aprovado-uso-de-tornozeleira-eletronica-como-medida-protetiva",
-      "posted_at": "2026-03-19T10:35:45.041725+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/03/ao-vivo-cpmi-do-inss-vota-requerimentos-19-3-26-1",
       "posted_at": "2026-03-19T12:55:32.055781+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1256219-comissao-aprova-proposta-que-exige-acessibilidade-digital-em-contratacao-publica/",
       "posted_at": "2026-03-22T10:22:46.756932+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1256311-comissao-aprova-fim-da-compra-obrigatoria-de-creditos-de-carbono-por-seguradoras/",
+      "posted_at": "2026-03-22T12:41:31.081018+00:00"
     }
   ]
 }
