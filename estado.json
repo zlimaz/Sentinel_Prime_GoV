@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 41,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/davi-desmente-valdemar-costa-neto-sobre-dosimetria-e-cpi-do-master",
-      "posted_at": "2026-03-19T01:54:23.219644+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/crime-de-assedio-sexual-pode-ter-mudanca-no-prazo-de-prescricao",
       "posted_at": "2026-03-19T04:21:06.100693+00:00"
     },
@@ -136,6 +132,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1256321-comissao-aprova-sistema-digital-de-rastreamento-para-combater-comercio-ilegal-de-ouro/",
       "posted_at": "2026-03-22T01:53:55.271742+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1256357-sessao-na-camara-marca-dia-da-sindrome-de-down-e-reforca-combate-a-exclusao/",
+      "posted_at": "2026-03-22T04:16:43.499728+00:00"
     }
   ]
 }
