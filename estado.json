@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 43,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/conheca-os-principais-pontos-do-eca-digital-que-ja-esta-em-vigor",
-      "posted_at": "2026-03-20T12:51:35.703495+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/20/governo-edita-mps-para-baratear-diesel-e-garantir-piso-do-frete",
       "posted_at": "2026-03-20T14:39:35.011546+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://noticias.stf.jus.br/2025/11/17/confira-as-materias-especiais-em-celebracao-aos-37-anos-da-constituicao-federal/",
       "posted_at": "2026-03-23T10:50:01.390760+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/infomaterias/2026/03/fim-da-aposentadoria-compulsoria-como-punicao-para-servidores",
+      "posted_at": "2026-03-23T12:58:06.779785+00:00"
     }
   ]
 }
