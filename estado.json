@@ -2,14 +2,6 @@
   "last_processed_deputy_index": 43,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/codigo-civil-comissao-conclui-ciclo-de-debates-sobre-obrigacao-de-reparar-danos",
-      "posted_at": "2026-03-19T22:23:35.316457+00:00"
-    },
-    {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/relatorio-da-ifi-mostra-avanco-do-bpc-e-avalia-cenario-externo-e-nos-municipios",
-      "posted_at": "2026-03-20T01:49:01.520148+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/na-cpmi-do-inss-diretor-do-c6-consignado-nega-irregularidades",
       "posted_at": "2026-03-20T04:10:53.741078+00:00"
     },
@@ -136,6 +128,10 @@
     {
       "link": "https://noticias.stf.jus.br/2026/03/02/stf-restabelece-adicional-de-periculosidade-a-guardas-municipais-de-santo-andre-sp/",
       "posted_at": "2026-03-22T22:21:21.956111+00:00"
+    },
+    {
+      "link": "https://noticias.stf.jus.br/2026/02/26/hotsite-135-anos-do-stf/",
+      "posted_at": "2026-03-23T01:55:08.085824+00:00"
     }
   ]
 }
