@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 43,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/19/barometro-da-lusofonia-e-lancado-no-brasil-em-evento-no-senado",
-      "posted_at": "2026-03-20T10:33:54.341660+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/videos/2026/03/conheca-os-principais-pontos-do-eca-digital-que-ja-esta-em-vigor",
       "posted_at": "2026-03-20T12:51:35.703495+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://noticias.stf.jus.br/2025/12/02/pagina-do-museu-do-stf/",
       "posted_at": "2026-03-23T08:49:58.399308+00:00"
+    },
+    {
+      "link": "https://noticias.stf.jus.br/2025/11/17/confira-as-materias-especiais-em-celebracao-aos-37-anos-da-constituicao-federal/",
+      "posted_at": "2026-03-23T10:50:01.390760+00:00"
     }
   ]
 }
