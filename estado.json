@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 44,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/20/cas-pode-votar-reducao-de-contas-de-luz-e-agua-em-calamidades-publicas",
-      "posted_at": "2026-03-20T20:27:19.166043+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/20/imposto-de-renda-abre-prazo-na-segunda-feira-veja-as-novidades",
       "posted_at": "2026-03-20T22:24:03.640833+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/23/wellington-fagundes-defende-prisao-humanitaria-para-jair-bolsonaro",
       "posted_at": "2026-03-23T18:48:16.114822+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1256598-comissao-aprova-repasse-de-parte-dos-royalties-da-mineracao-a-projetos-ambientais-locais/",
+      "posted_at": "2026-03-23T20:33:48.345697+00:00"
     }
   ]
 }
