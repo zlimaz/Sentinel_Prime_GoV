@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 45,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/20/comissao-de-seguranca-analisa-gravacao-de-visitas-a-presos-do-crime-organizado",
-      "posted_at": "2026-03-21T12:39:17.531972+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/projeto-visa-impedir-cancelamento-de-plano-de-saude-durante-tratamento-continuado",
       "posted_at": "2026-03-21T14:22:44.181635+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1256583-comissao-aprova-multa-e-suspensao-de-rede-social-que-abrigar-pornografia-falsa-gerada-por-ia/",
       "posted_at": "2026-03-24T10:47:36.225727+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/educacao-antirracista-e-destaque-em-debate-na-cdh",
+      "posted_at": "2026-03-24T13:02:35.368460+00:00"
     }
   ]
 }
