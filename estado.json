@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 45,
   "posted_news": [
     {
-      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/barometro-da-lusofonia-estudo-em-paises-de-idioma-portugues-e-lancado-no-senado",
-      "posted_at": "2026-03-21T10:21:58.741530+00:00"
-    },
-    {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/20/comissao-de-seguranca-analisa-gravacao-de-visitas-a-presos-do-crime-organizado",
       "posted_at": "2026-03-21T12:39:17.531972+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www.camara.leg.br/noticias/1255782-cancelado-debate-sobre-a-importancia-das-radios-comunitarias-para-o-comercio-local/",
       "posted_at": "2026-03-24T08:46:27.754306+00:00"
+    },
+    {
+      "link": "https://www.camara.leg.br/noticias/1256583-comissao-aprova-multa-e-suspensao-de-rede-social-que-abrigar-pornografia-falsa-gerada-por-ia/",
+      "posted_at": "2026-03-24T10:47:36.225727+00:00"
     }
   ]
 }
