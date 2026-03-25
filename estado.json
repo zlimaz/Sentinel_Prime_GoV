@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 47,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1256219-comissao-aprova-proposta-que-exige-acessibilidade-digital-em-contratacao-publica/",
-      "posted_at": "2026-03-22T10:22:46.756932+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1256311-comissao-aprova-fim-da-compra-obrigatoria-de-creditos-de-carbono-por-seguradoras/",
       "posted_at": "2026-03-22T12:41:31.081018+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/24/senado-aprova-incentivos-fiscais-para-o-setor-de-reciclagem",
       "posted_at": "2026-03-25T08:43:53.773760+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/24/roberta-acioly-e-eleita-para-vaga-deixada-por-mecias-na-mesa-do-senado",
+      "posted_at": "2026-03-25T10:43:38.450343+00:00"
     }
   ]
 }
