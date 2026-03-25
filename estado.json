@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 47,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1256240-comissao-aprova-isencao-de-taxa-em-concursos-para-beneficiarios-do-fies-e-do-prouni/",
-      "posted_at": "2026-03-22T14:23:32.943446+00:00"
-    },
-    {
       "link": "https://www.camara.leg.br/noticias/1256248-comissao-aprova-aumento-para-8-na-deducao-do-ir-em-doacoes-para-projetos-esportivos-sociais/",
       "posted_at": "2026-03-22T16:24:49.934507+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/25/lei-antifaccao-de-combate-ao-crime-organizado-entra-em-vigor",
       "posted_at": "2026-03-25T12:59:58.137815+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/videos/2026/03/ao-vivo-dch-vota-piso-nacional-para-policiais-militares-2013-25-3-26",
+      "posted_at": "2026-03-25T14:54:48.080173+00:00"
     }
   ]
 }
