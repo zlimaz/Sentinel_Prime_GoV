@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 48,
   "posted_news": [
     {
-      "link": "https://www.camara.leg.br/noticias/1256251-comissao-aprova-uso-do-fundo-de-fiscalizacao-das-telecomunicacoes-em-seguranca-publica/",
-      "posted_at": "2026-03-22T20:22:04.613432+00:00"
-    },
-    {
       "link": "https://noticias.stf.jus.br/2026/03/02/stf-restabelece-adicional-de-periculosidade-a-guardas-municipais-de-santo-andre-sp/",
       "posted_at": "2026-03-22T22:21:21.956111+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/materias/2026/03/25/jovem-senador-vai-reunir-coordenadores-estaduais-em-seminario-de-boas-praticas",
       "posted_at": "2026-03-25T18:51:09.295666+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/materias/2026/03/25/debate-aponta-urgencia-no-combate-ao-racismo-e-a-misoginia-que-vem-crescendo",
+      "posted_at": "2026-03-25T20:34:22.249615+00:00"
     }
   ]
 }
