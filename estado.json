@@ -2,10 +2,6 @@
   "last_processed_deputy_index": 49,
   "posted_news": [
     {
-      "link": "https://noticias.stf.jus.br/2026/02/25/centro-de-estudos-constitucionais-do-stf-cestf/",
-      "posted_at": "2026-03-23T04:26:15.132311+00:00"
-    },
-    {
       "link": "https://noticias.stf.jus.br/2026/01/08/relatorio-8-de-janeiro/",
       "posted_at": "2026-03-23T07:04:28.106698+00:00"
     },
@@ -132,6 +128,10 @@
     {
       "link": "https://www12.senado.leg.br/noticias/audios/2026/03/em-cpi-ex-senador-aponta-fraudes-em-emprestimo-consignado-a-servidores",
       "posted_at": "2026-03-26T01:58:54.894022+00:00"
+    },
+    {
+      "link": "https://www12.senado.leg.br/noticias/audios/2026/03/senado-aprova-custeio-de-viagens-para-tratamento-de-saude-fora-do-domicilio",
+      "posted_at": "2026-03-26T04:36:49.628607+00:00"
     }
   ]
 }
