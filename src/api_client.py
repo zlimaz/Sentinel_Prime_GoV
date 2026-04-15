@@ -32,6 +32,25 @@ class SentinelAPIClient:
             print(f"Erro X Client: {e}")
             return None
 
+    def is_under_rate_limit_lock(self):
+        """Verifica se o bot está em quarentena por erro do X."""
+        try:
+            res = self.db.table("bot_state").select("value").eq("key", "rate_limit_lock").execute()
+            if res.data:
+                lock_time = datetime.datetime.fromisoformat(res.data[0]["value"])
+                if datetime.datetime.now(datetime.timezone.utc) < lock_time:
+                    return True
+        except Exception: pass
+        return False
+
+    def set_rate_limit_lock(self, hours=2):
+        """Bloqueia a execução por X horas em caso de erro crítico."""
+        lock_until = (datetime.datetime.now(datetime.timezone.utc) + 
+                     datetime.timedelta(hours=hours)).isoformat()
+        try:
+            self.db.table("bot_state").upsert({"key": "rate_limit_lock", "value": lock_until}).execute()
+        except Exception: pass
+
     def get_deputies_list(self):
         all_deputies = []
         url = "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome&itens=100"
@@ -59,7 +78,8 @@ class SentinelAPIClient:
             return []
 
     def post_tweet_thread(self, tweets):
-        if not self.x_client:
+        if not self.x_client or self.is_under_rate_limit_lock():
+            print("Execução abortada: Client inativo ou Rate Limit Lock ativo.")
             return None
 
         last_id = None
@@ -73,6 +93,7 @@ class SentinelAPIClient:
                 print(f"Postado: {last_id}")
             
             except TooManyRequests:
+                self.set_rate_limit_lock(2)
                 return "rate_limit"
             except TweepyException as e:
                 if "duplicate content" in str(e).lower():

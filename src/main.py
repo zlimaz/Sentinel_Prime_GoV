@@ -1,6 +1,8 @@
 import datetime
+import logging
 from dotenv import load_dotenv
 from src.api_client import SentinelAPIClient
+from main_noticias import run_news_bot
 
 load_dotenv()
 
@@ -39,6 +41,15 @@ def main():
     client = SentinelAPIClient()
     if not client.db: return
 
+    # 1. VERIFICAÇÃO DE NOTÍCIAS (PRIORIDADE ALTA)
+    print("Verificando se há notícias novas...")
+    if run_news_bot():
+        print("Notícia postada. Finalizando ciclo para respeitar o limite de postagens por hora.")
+        return
+
+    # 2. VERIFICAÇÃO E POSTAGEM DO RANKING
+    print("Sem notícias novas. Verificando fila de ranking...")
+    
     if datetime.datetime.now().weekday() == 0:
         queue = get_state(client, "ranking_queue")
         if not queue: generate_ranking(client)
@@ -46,8 +57,13 @@ def main():
     queue = get_state(client, "ranking_queue")
     if queue:
         deputy = queue.pop()
-        if client.post_tweet_thread(format_tweet(deputy, len(queue) + 1)) not in ["rate_limit", None]:
+        pos = len(queue) + 1
+        print(f"Postando {deputy['nome']} na posição {pos}...")
+        if client.post_tweet_thread(format_tweet(deputy, pos)) not in ["rate_limit", None]:
             save_state(client, "ranking_queue", queue)
+            print("Postagem de ranking concluída.")
+    else:
+        print("Fila de ranking vazia.")
 
 if __name__ == "__main__":
     main()
