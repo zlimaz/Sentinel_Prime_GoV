@@ -2,9 +2,10 @@ name: Agendamento de Postagens (X/Twitter)
 
 on:
   schedule:
-    # Roda a cada 3 horas, das 09h às 21h de Brasília (12, 15, 18, 21, 00 UTC)
-    - cron: '0 12,15,18,21,0 * * *'
-  workflow_dispatch: # Permite postar manualmente para testar
+    # Roda de hora em hora, das 09h às 21h de Brasília
+    # (12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 00 UTC)
+    - cron: '0 12,13,14,15,16,17,18,19,20,21,22,23,0 * * *'
+  workflow_dispatch:
 
 jobs:
   post:
