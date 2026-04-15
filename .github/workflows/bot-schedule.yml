@@ -1,66 +1,33 @@
-# Arquivo de Workflow do GitHub Actions para o Projeto Sentinela
-#
-# Este workflow automatiza a execução do bot de postagens, rodando-o
-# duas vezes ao dia em horários agendados.
-
-name: Automação do Bot Sentinela
+name: Agendamento de Postagens (X/Twitter)
 
 on:
-  # O gatilho 'schedule' permite rodar a automação em horários específicos.
   schedule:
-    # A sintaxe cron '0 15,21 * * *' significa:
-    # - 0: no minuto 0
-    # - 15,21: às 15:00 e 21:00
-    # - * * *: todos os dias, de todos os meses, em qualquer dia da semana.
-    # NOTA: Os horários são em UTC. 15:00 UTC = 12:00 Brasília | 21:00 UTC = 18:00 Brasília
-    - cron: '0 15,21 * * *'
-
-  # O gatilho 'workflow_dispatch' permite que você rode este workflow manualmente
-  # a partir da aba "Actions" no seu repositório do GitHub. Útil para testes.
-  workflow_dispatch:
+    # Roda a cada 3 horas, das 09h às 21h de Brasília (12, 15, 18, 21, 00 UTC)
+    - cron: '0 12,15,18,21,0 * * *'
+  workflow_dispatch: # Permite postar manualmente para testar
 
 jobs:
-  run-bot:
-    # O job vai rodar na versão mais recente do Ubuntu fornecida pelo GitHub.
+  post:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      # Passo 1: Baixar o código do repositório
-      # A action 'checkout' baixa o seu código para dentro do ambiente de execução.
-      - name: 1. Baixando o código do projeto
-        uses: actions/checkout@v3
+      - name: Checkout Código
+        uses: actions/checkout@v4
 
-      # Passo 2: Configurar o ambiente Python
-      # Esta action configura a versão do Python que queremos usar.
-      - name: 2. Configurando o ambiente Python 3.10
-        uses: actions/setup-python@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          cache: 'pip'
 
-      # Passo 3: Instalar as dependências do projeto
-      # Este passo usa o pip para instalar as bibliotecas listadas no requirements.txt.
-      - name: 3. Instalando dependências
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+      - name: Instalar Dependências
+        run: pip install -r requirements.txt
 
-      # Passo 4: Rodando o script principal do bot
-      # Este é o comando principal que roda a sua lógica.
-      # As variáveis de ambiente (env) são preenchidas de forma segura usando
-      # os "Secrets" do GitHub, que você configurará no seu repositório.
-      - name: 4. Rodando o bot Sentinela
-        run: python3 -m src.main
+      - name: Executar Bot
         env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
           X_API_KEY: ${{ secrets.X_API_KEY }}
           X_API_SECRET: ${{ secrets.X_API_SECRET }}
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
-
-      # Passo 5: Salvar o estado atualizado no repositório
-      - name: 5. Commit do estado atualizado
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: 'chore: Atualiza estado do bot'
-          file_pattern: estado.json
+        run: python -m src.main

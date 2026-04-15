@@ -1,5 +1,5 @@
-requests
-tweepy
-python-dotenv
-feedparser
-python-dateutil
+requests>=2.31.0
+tweepy>=4.14.0
+python-dotenv>=1.0.0
+supabase>=2.3.0
+postgrest>=0.10.0

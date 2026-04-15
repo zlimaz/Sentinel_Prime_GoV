@@ -1,130 +1,81 @@
-"""Módulo para interagir com as APIs da Câmara dos Deputados e do X (Twitter)."""
 import os
 import datetime
+import random
+import time
 import requests
 import tweepy
-from tweepy.errors import TooManyRequests
+from tweepy.errors import TooManyRequests, TweepyException
+from supabase import create_client, Client
 
-
-def get_deputies_list():
-    """
-    Busca a lista de todos os deputados em exercício, usando paginação para evitar timeouts.
-
-    Retorna:
-        list: Uma lista de dicionários, onde cada dicionário representa um deputado.
-              Retorna uma lista vazia em caso de erro.
-    """
-    all_deputies = []
-    url = "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome&itens=100"
-    headers = {"Accept": "application/json"}
-
-    while url:
-        try:
-            # Timeout de 30s por página é um valor seguro
-            response = requests.get(url, headers=headers, timeout=30)
-            response.raise_for_status()
-            data = response.json()
-            all_deputies.extend(data["dados"])
-
-            # Procura o link para a próxima página na resposta da API
-            next_link = next((link["href"] for link in data["links"]
-                              if link["rel"] == "next"), None)
-            url = next_link
-        except requests.RequestException as e:
-            print(f"Erro ao buscar página da lista de deputados: {e}")
-            # Retorna o que foi coletado até o momento do erro
-            return all_deputies
-
-    return all_deputies
-
-
-def get_deputy_expenses(deputy_id, months=3):
-    """
-    Busca todas as despesas de um deputado nos últimos X meses.
-
-    Args:
-        deputy_id (int): O ID do deputado.
-        months (int): O número de meses para buscar as despesas (padrão: 3).
-
-    Retorna:
-        list: Uma lista de dicionários, onde cada dicionário representa uma despesa.
-              Retorna uma lista vazia em caso de erro.
-    """
-    all_expenses = []
-    today = datetime.date.today()
-    # Itera pelos meses para fazer buscas mais focadas e evitar timeouts
-    for i in range(months):
-        target_date = today - datetime.timedelta(days=i * 30)
-        url = f"https://dadosabertos.camara.leg.br/api/v2/deputados/{deputy_id}/despesas"
-        params = {
-            "ano": target_date.year,
-            "mes": target_date.month,
-            "itens": 100,
-            "pagina": 1
+class SentinelAPIClient:
+    def __init__(self):
+        self.headers = {
+            "Accept": "application/json",
+            "User-Agent": "SentinelPrimeGov/1.0 (Bot; OpenSource; Transparencia Publica)"
         }
-        headers = {"Accept": "application/json"}
+        
+        sb_url = os.environ.get("SUPABASE_URL")
+        sb_key = os.environ.get("SUPABASE_SERVICE_KEY")
+        self.db: Client = create_client(sb_url, sb_key) if sb_url and sb_key else None
+        self.x_client = self._init_x_client()
 
-        # Loop de paginação para o mês corrente
-        page_url = url
-        while page_url:
-            try:
-                response = requests.get(page_url, headers=headers,
-                                        params=params, timeout=30)
-                response.raise_for_status()
-                data = response.json()
-                all_expenses.extend(data["dados"])
-
-                next_link = next((link["href"] for link in data["links"]
-                                  if link["rel"] == "next"), None)
-                page_url = next_link
-                params = {}  # Params só são necessários na primeira requisição
-            except requests.RequestException:
-                break
-    return all_expenses
-
-
-def post_tweet(text, reply_to_id=None):
-    """
-    Posta um tweet no X (Twitter).
-
-    Args:
-        text (str): O texto do tweet.
-        reply_to_id (str, optional): O ID do tweet ao qual este tweet está respondendo.
-                                     Padrão é None.
-
-    Retorna:
-        str: O ID do tweet postado, "duplicate" se o conteúdo for duplicado, ou None em caso de outro erro.
-    """
-    try:
-        api_key = os.environ.get("X_API_KEY")
-        api_secret = os.environ.get("X_API_SECRET")
-        access_token = os.environ.get("X_ACCESS_TOKEN")
-        access_token_secret = os.environ.get("X_ACCESS_TOKEN_SECRET")
-
-        if not all([api_key, api_secret, access_token, access_token_secret]):
-            print("Erro: As credenciais da API do X não foram encontradas "
-                  "nas variáveis de ambiente.")
+    def _init_x_client(self):
+        try:
+            return tweepy.Client(
+                consumer_key=os.environ.get("X_API_KEY"),
+                consumer_secret=os.environ.get("X_API_SECRET"),
+                access_token=os.environ.get("X_ACCESS_TOKEN"),
+                access_token_secret=os.environ.get("X_ACCESS_TOKEN_SECRET"),
+                wait_on_rate_limit=True
+            )
+        except Exception as e:
+            print(f"Erro X Client: {e}")
             return None
 
-        client = tweepy.Client(
-            consumer_key=api_key,
-            consumer_secret=api_secret,
-            access_token=access_token,
-            access_token_secret=access_token_secret
-        )
-
-        response = client.create_tweet(text=text, in_reply_to_tweet_id=reply_to_id)
-        tweet_id = response.data['id']
-        print(f"Tweet postado com sucesso: {tweet_id}")
-        return tweet_id
-    except TooManyRequests:
-        print("Erro: Limite de taxa da API do X atingido (429 Too Many Requests). "
-              "O ciclo será interrompido para aguardar a liberação.")
-        return "rate_limit"
-    except tweepy.TweepyException as e:
-        if "duplicate content" in str(e):
-            print("Aviso: Conteúdo de tweet duplicado. Marcando como tratado para não repetir.")
-            return "duplicate"
+    def get_deputies_list(self):
+        all_deputies = []
+        url = "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome&itens=100"
         
-        print(f"Erro ao postar tweet: {e}")
-        return None
+        while url:
+            try:
+                response = requests.get(url, headers=self.headers, timeout=30)
+                response.raise_for_status()
+                data = response.json()
+                all_deputies.extend(data["dados"])
+                url = next((link["href"] for link in data["links"] if link["rel"] == "next"), None)
+            except Exception:
+                break
+        return all_deputies
+
+    def get_deputy_expenses(self, deputy_id, year=None, month=None):
+        now = datetime.datetime.now()
+        url = f"https://dadosabertos.camara.leg.br/api/v2/deputados/{deputy_id}/despesas"
+        params = {"ano": year or now.year, "mes": month or now.month, "itens": 100}
+        
+        try:
+            response = requests.get(url, headers=self.headers, params=params, timeout=30)
+            return response.json().get("dados", []) if response.status_code == 200 else []
+        except Exception:
+            return []
+
+    def post_tweet_thread(self, tweets):
+        if not self.x_client:
+            return None
+
+        last_id = None
+        for i, text in enumerate(tweets):
+            try:
+                if i > 0:
+                    time.sleep(random.uniform(10, 30))
+
+                response = self.x_client.create_tweet(text=text, in_reply_to_tweet_id=last_id)
+                last_id = response.data['id']
+                print(f"Postado: {last_id}")
+            
+            except TooManyRequests:
+                return "rate_limit"
+            except TweepyException as e:
+                if "duplicate content" in str(e).lower():
+                    return "duplicate"
+                return None
+        return last_id

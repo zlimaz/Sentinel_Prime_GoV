@@ -1,0 +1,29 @@
+name: Sincronização Diária de Dados
+
+on:
+  schedule:
+    # Roda todos os dias às 07:00 UTC (04:00 Horário de Brasília)
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Permite rodar manualmente pelo painel do GitHub
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Código
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Instalar Dependências
+        run: pip install -r requirements.txt
+
+      - name: Sincronizar com Supabase
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_KEY: ${{ secrets.SUPABASE_SERVICE_KEY }}
+        run: python -m src.sync_data
