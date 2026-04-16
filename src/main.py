@@ -7,11 +7,15 @@ from main_noticias import run_news_bot
 load_dotenv()
 
 def get_state(client, key):
-    res = client.db.table("bot_state").select("value").eq("key", key).execute()
-    return res.data[0]["value"] if res.data else None
+    try:
+        res = client.db.table("bot_state").select("value").eq("key", key).execute()
+        return res.data[0]["value"] if res.data else None
+    except Exception: return None
 
 def save_state(client, key, value):
-    client.db.table("bot_state").upsert({"key": key, "value": value}).execute()
+    try:
+        client.db.table("bot_state").upsert({"key": key, "value": value}).execute()
+    except Exception: pass
 
 def generate_ranking(client):
     start_date = (datetime.datetime.now() - datetime.timedelta(days=7)).date().isoformat()
@@ -27,7 +31,6 @@ def generate_ranking(client):
 def format_tweet(deputy, position):
     emojis = {1: "🥇", 2: "🥈", 3: "🥉", 4: "4️⃣", 5: "5️⃣", 6: "6️⃣", 7: "7️⃣", 8: "8️⃣", 9: "9️⃣", 10: "🔟"}
     emoji = emojis.get(position, "📊")
-    
     return [
         f"{emoji} RANKING SEMANAL: {position}º Lugar\n\n"
         f"Parlamentar: {deputy['nome']} ({deputy['sigla_partido']}-{deputy['sigla_uf']})\n"
@@ -41,15 +44,18 @@ def main():
     client = SentinelAPIClient()
     if not client.db: return
 
-    # 1. VERIFICAÇÃO DE NOTÍCIAS (PRIORIDADE ALTA)
-    print("Verificando se há notícias novas...")
-    if run_news_bot():
-        print("Notícia postada. Finalizando ciclo para respeitar o limite de postagens por hora.")
-        return
-
-    # 2. VERIFICAÇÃO E POSTAGEM DO RANKING
-    print("Sem notícias novas. Verificando fila de ranking...")
+    # 1. VERIFICAÇÃO DE NOTÍCIAS
+    print("--- Verificando Notícias ---")
+    postou_noticia = run_news_bot()
     
+    if postou_noticia:
+        print("Ciclo finalizado com postagem de notícia.")
+        return
+    else:
+        print("Nenhuma notícia postada neste ciclo.")
+
+    # 2. VERIFICAÇÃO DE RANKING
+    print("\n--- Verificando Fila de Ranking ---")
     if datetime.datetime.now().weekday() == 0:
         queue = get_state(client, "ranking_queue")
         if not queue: generate_ranking(client)
@@ -58,12 +64,13 @@ def main():
     if queue:
         deputy = queue.pop()
         pos = len(queue) + 1
-        print(f"Postando {deputy['nome']} na posição {pos}...")
-        if client.post_tweet_thread(format_tweet(deputy, pos)) not in ["rate_limit", None]:
+        print(f"Tentando postar ranking: {deputy['nome']} ({pos}º lugar)")
+        status = client.post_tweet_thread(format_tweet(deputy, pos))
+        if status not in ["rate_limit", None]:
             save_state(client, "ranking_queue", queue)
-            print("Postagem de ranking concluída.")
+            print("Postagem de ranking concluída com sucesso.")
     else:
-        print("Fila de ranking vazia.")
+        print("Fila de ranking vazia ou não é dia de gerar ranking.")
 
 if __name__ == "__main__":
     main()

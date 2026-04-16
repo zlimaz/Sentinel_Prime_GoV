@@ -29,11 +29,10 @@ class SentinelAPIClient:
                 wait_on_rate_limit=True
             )
         except Exception as e:
-            print(f"Erro X Client: {e}")
+            print(f"Erro ao inicializar X Client: {e}")
             return None
 
     def is_under_rate_limit_lock(self):
-        """Verifica se o bot está em quarentena por erro do X."""
         try:
             res = self.db.table("bot_state").select("value").eq("key", "rate_limit_lock").execute()
             if res.data:
@@ -44,7 +43,6 @@ class SentinelAPIClient:
         return False
 
     def set_rate_limit_lock(self, hours=2):
-        """Bloqueia a execução por X horas em caso de erro crítico."""
         lock_until = (datetime.datetime.now(datetime.timezone.utc) + 
                      datetime.timedelta(hours=hours)).isoformat()
         try:
@@ -54,7 +52,6 @@ class SentinelAPIClient:
     def get_deputies_list(self):
         all_deputies = []
         url = "https://dadosabertos.camara.leg.br/api/v2/deputados?ordem=ASC&ordenarPor=nome&itens=100"
-        
         while url:
             try:
                 response = requests.get(url, headers=self.headers, timeout=30)
@@ -62,24 +59,24 @@ class SentinelAPIClient:
                 data = response.json()
                 all_deputies.extend(data["dados"])
                 url = next((link["href"] for link in data["links"] if link["rel"] == "next"), None)
-            except Exception:
-                break
+            except Exception: break
         return all_deputies
 
     def get_deputy_expenses(self, deputy_id, year=None, month=None):
-        now = datetime.datetime.now()
         url = f"https://dadosabertos.camara.leg.br/api/v2/deputados/{deputy_id}/despesas"
-        params = {"ano": year or now.year, "mes": month or now.month, "itens": 100}
-        
+        params = {"ano": year or datetime.datetime.now().year, "mes": month or datetime.datetime.now().month, "itens": 100}
         try:
             response = requests.get(url, headers=self.headers, params=params, timeout=30)
             return response.json().get("dados", []) if response.status_code == 200 else []
-        except Exception:
-            return []
+        except Exception: return []
 
     def post_tweet_thread(self, tweets):
-        if not self.x_client or self.is_under_rate_limit_lock():
-            print("Execução abortada: Client inativo ou Rate Limit Lock ativo.")
+        if not self.x_client:
+            print("Erro: X Client não inicializado. Verifique as credenciais.")
+            return None
+            
+        if self.is_under_rate_limit_lock():
+            print("Execução abortada: Bot em quarentena de Rate Limit.")
             return None
 
         last_id = None
@@ -90,13 +87,19 @@ class SentinelAPIClient:
 
                 response = self.x_client.create_tweet(text=text, in_reply_to_tweet_id=last_id)
                 last_id = response.data['id']
-                print(f"Postado: {last_id}")
+                print(f"Postado com sucesso! ID: {last_id}")
             
             except TooManyRequests:
+                print("Erro: Rate Limit atingido no X.")
                 self.set_rate_limit_lock(2)
                 return "rate_limit"
             except TweepyException as e:
                 if "duplicate content" in str(e).lower():
+                    print("Erro: Conteúdo duplicado no X.")
                     return "duplicate"
+                print(f"Erro ao postar no X: {e}")
+                return None
+            except Exception as e:
+                print(f"Erro inesperado no post: {e}")
                 return None
         return last_id
