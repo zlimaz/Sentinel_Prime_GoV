@@ -14,22 +14,56 @@ class SentinelAPIClient:
             "User-Agent": "SentinelPrimeGov/1.0 (Bot; OpenSource; Transparencia Publica)"
         }
         
+        # Setup Supabase
         sb_url = os.environ.get("SUPABASE_URL")
         sb_key = os.environ.get("SUPABASE_SERVICE_KEY")
         self.db: Client = create_client(sb_url, sb_key) if sb_url and sb_key else None
-        self.x_client = self._init_x_client()
+        
+        # Credenciais OAuth 2.0
+        self.client_id = os.environ.get("X_OAUTH2_CLIENT_ID")
+        self.client_secret = os.environ.get("X_OAUTH2_CLIENT_SECRET")
+        self.redirect_uri = "https://github.com/zlimaz/Sentinel_Prime_GoV"
 
-    def _init_x_client(self):
+        # Inicializa cliente (será populado pelo refresh_token)
+        self.x_client = self._init_x_client_v2()
+
+    def _init_x_client_v2(self):
+        """Inicializa o cliente X usando OAuth 2.0 com Refresh Token do Supabase."""
         try:
-            return tweepy.Client(
-                consumer_key=os.environ.get("X_API_KEY"),
-                consumer_secret=os.environ.get("X_API_SECRET"),
-                access_token=os.environ.get("X_ACCESS_TOKEN"),
-                access_token_secret=os.environ.get("X_ACCESS_TOKEN_SECRET"),
-                wait_on_rate_limit=True
+            # 1. Busca tokens atuais no Supabase
+            res = self.db.table("bot_state").select("value").eq("key", "twitter_tokens").execute()
+            if not res.data:
+                print("Erro: Tokens OAuth 2.0 não encontrados no Supabase.")
+                return None
+            
+            tokens = res.data[0]["value"]
+            
+            # 2. Configura o Handler de OAuth 2.0
+            oauth2_handler = tweepy.OAuth2UserHandler(
+                client_id=self.client_id,
+                redirect_uri=self.redirect_uri,
+                scope=["tweet.read", "tweet.write", "users.read", "offline.access"],
+                client_secret=self.client_secret
             )
+
+            # 3. Faz o Refresh do Token (Garante que temos um access_token válido)
+            # O Tweepy renova automaticamente se passarmos o refresh_token
+            new_tokens = oauth2_handler.refresh_token(
+                "https://api.twitter.com/2/oauth2/token",
+                refresh_token=tokens["refresh_token"]
+            )
+
+            # 4. Salva os novos tokens no Supabase para a próxima execução
+            self.db.table("bot_state").upsert({
+                "key": "twitter_tokens", 
+                "value": new_tokens
+            }).execute()
+
+            # 5. Retorna o cliente autenticado
+            return tweepy.Client(bearer_token=new_tokens["access_token"])
+
         except Exception as e:
-            print(f"Erro ao inicializar X Client: {e}")
+            print(f"Erro ao renovar tokens OAuth 2.0: {e}")
             return None
 
     def is_under_rate_limit_lock(self):
@@ -72,7 +106,7 @@ class SentinelAPIClient:
 
     def post_tweet_thread(self, tweets):
         if not self.x_client:
-            print("Erro: X Client não inicializado. Verifique as credenciais.")
+            print("Erro: X Client não inicializado. Verifique os tokens OAuth 2.0 no Supabase.")
             return None
             
         if self.is_under_rate_limit_lock():
@@ -85,9 +119,10 @@ class SentinelAPIClient:
                 if i > 0:
                     time.sleep(random.uniform(10, 30))
 
+                # Para OAuth 2.0, o Tweepy usa bearer_token internamente no Client
                 response = self.x_client.create_tweet(text=text, in_reply_to_tweet_id=last_id)
                 last_id = response.data['id']
-                print(f"Postado com sucesso! ID: {last_id}")
+                print(f"Postado com sucesso (OAuth 2.0)! ID: {last_id}")
             
             except TooManyRequests:
                 print("Erro: Rate Limit atingido no X.")
@@ -97,9 +132,6 @@ class SentinelAPIClient:
                 if "duplicate content" in str(e).lower():
                     print("Erro: Conteúdo duplicado no X.")
                     return "duplicate"
-                print(f"Erro ao postar no X: {e}")
-                return None
-            except Exception as e:
-                print(f"Erro inesperado no post: {e}")
+                print(f"Erro ao postar no X (OAuth 2.0): {e}")
                 return None
         return last_id
