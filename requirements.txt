@@ -3,3 +3,5 @@ tweepy>=4.14.0
 python-dotenv>=1.0.0
 supabase>=2.3.0
 postgrest>=0.10.0
+feedparser>=6.0.10
+beautifulsoup4>=4.12.0
