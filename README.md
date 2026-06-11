@@ -1,124 +1,134 @@
-# Projeto Sentinela 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python Version" />
+  <img src="https://img.shields.io/badge/Database-Supabase-green.svg" alt="Supabase" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF.svg?logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/License-MIT-purple.svg" alt="License" />
+</div>
 
-**Um bot de transparência que monitora o poder público brasileiro e transforma dados em
-  informação acessível.**
+<br />
+
+<div align="center">
+  <h1>🏛️ Sentinel Prime GoV</h1>
+  <p><b>Bot open-source de transparência governamental. Transformando dados públicos em informação acessível.</b></p>
+</div>
 
 ---
 
-##  O que é o Projeto Sentinela?
+## Sobre o Projeto
 
-O Projeto Sentinela é uma ferramenta de código aberto para fiscalização cívica e transparência. Nossa missão é coletar dados públicos de diversas fontes oficiais, processá-los e apresentá-los de forma clara e acessível no X (antigo Twitter), ajudando a manter o cidadão informado sobre as atividades do governo.
+O **Sentinel Prime GoV** é uma ferramenta autônoma de fiscalização cívica. Sua missão é extrair dados de portais de transparência e fontes oficiais, processá-los e publicá-los na rede X (antigo Twitter). O foco principal é manter o cidadão engajado e informado sobre as movimentações do poder público brasileiro (Legislativo, Executivo e Judiciário).
 
-1.  **Monitor de Gastos:** Divulga os gastos da Cota Parlamentar de deputados federais, transformando dados públicos da Câmara dos Deputados em um ranking claro e acessível.
-2.  **Agregador de Notícias:** Centraliza e publica as últimas notícias de fontes oficiais do Legislativo, Executivo e Judiciário, mantendo o cidadão informado sobre as atividades dos Três Poderes.
+O projeto foi arquitetado com foco em **resiliência**, **escalabilidade** e **boas práticas de engenharia de dados**, utilizando automação em nuvem e persistência em banco de dados para garantir alta disponibilidade.
 
-O objetivo é simples: transformar dados e notícias públicas em conhecimento acessível para todos.
+## Principais Funcionalidades
 
-##  Como Funciona?
+- **Monitor de Gastos (Cota Parlamentar):** Consome a API de Dados Abertos da Câmara dos Deputados, processa gastos granulares, gera um ranking semanal e publica as despesas detalhadas.
+- **Agregador de Notícias Oficiais:** Coleta feeds RSS dinâmicos de agências oficiais (Senado, Câmara, STF, TSE e Agência Brasil) para unificar atualizações políticas.
+- **Postagem Segura & Resiliente:** Sistema de *Drip Feed* (postagens espaçadas) e *Jitter* (intervalos dinâmicos), com tratamento avançado de Rate Limit via `SentinelAPIClient` para evitar bloqueios da plataforma.
+- **Sincronização Automatizada (Supabase):** Substitui arquivos JSON locais por tabelas relacionais em nuvem (`parlamentares`, `despesas`, `bot_state`), garantindo consistência transacional e isolando a aplicação contra problemas de concorrência.
 
-O projeto opera em duas frentes principais, ambas automatizadas com GitHub Actions.
+## Arquitetura e Stack Tecnológica
 
-### 1. Monitor de Gastos de Deputados
+O sistema opera sem intervenção humana, adotando uma infraestrutura *Serverless* com cron jobs:
 
-Este módulo foca na Cota Parlamentar da Câmara dos Deputados.
+* **Linguagem Base:** Python 3.10+
+* **Banco de Dados:** Supabase (PostgreSQL / PostgREST)
+* **Integrações de API:** Câmara dos Deputados (Dados Abertos), X API v2 (`tweepy`), Feeds RSS (`feedparser` / `beautifulsoup4`)
+* **Orquestração e CI/CD:** GitHub Actions
 
--   **Coleta e Ranking:** Um workflow do GitHub Actions (`.github/workflows/generate-ranking.yml`) é executado quinzenalmente. Ele roda o script `src/gerador_de_ranking.py` que busca todos os deputados, calcula seus gastos nos últimos 90 dias e gera um ranking (`ranking_gastos.json`).
--   **Postagem Automática:** Outro workflow (`.github/workflows/bot-schedule.yml`) roda duas vezes ao dia. Ele executa o script `src/main.py`, que lê o ranking, seleciona o próximo deputado da fila, detalha suas despesas e posta uma thread informativa no X. O estado da fila é controlado pelo arquivo `estado.json`.
+## Fluxo de Funcionamento Automático
 
-### 2. Agregador de Notícias
+1. **Sincronização Diária (`sync_data.py`):** Varre as APIs governamentais e atualiza os registros de deputados e despesas no banco de dados, utilizando chaves de identificação únicas (`id_externo`) para evitar duplicações.
+2. **Consolidação (`gerador_de_ranking.py`):** Analisa a base e monta o ranqueamento semanal dos gastos no painel interno.
+3. **Distribuição Controlada (`main.py` & `main_noticias.py`):** Baseado em filas lógicas no Supabase (`bot_state`), scripts são disparados via GitHub Actions. Cada ciclo processa apenas **um registro por vez**, constrói uma *thread* informativa e a publica na rede social com total segurança.
 
-Este módulo coleta notícias de fontes oficiais dos Três Poderes.
+## Como Executar Localmente
 
--   **Fontes Coletadas:**
-    -   **Legislativo:** Agência Senado e Agência Câmara.
-    -   **Judiciário:** Supremo Tribunal Federal (STF) e Tribunal Superior Eleitoral (TSE).
-    -   **Executivo:** Agência Brasil.
--   **Coleta e Postagem:** Um workflow dedicado (`.github/workflows/noticias-bot.yml`) roda em intervalos regulares. Ele executa o script `main_noticias.py`, que:
-    1.  Chama os coletores na pasta `src/coletores/` para buscar as últimas notícias de todas as fontes via feeds RSS.
-    2.  Filtra as notícias para não repetir posts, usando o `estado.json` como referência.
-    3.  Seleciona a notícia mais recente, a formata em uma thread com título, resumo e link, e a publica no X.
+### 1. Pré-requisitos
+- Python 3.10 ou superior
+- Git
+- Uma conta e projeto configurado no [Supabase](https://supabase.com/)
+- Credenciais da API do X (Twitter Developer Portal)
 
-##  Tecnologias Utilizadas
+### 2. Instalação
+```bash
+# Clone o repositório
+git clone https://github.com/zlimaz/Sentinel_Prime_GoV.git
+cd Sentinel_Prime_GoV
 
--   **Linguagem:** Python 3
--   **Bibliotecas Principais:** `requests`, `tweepy`, `python-dotenv`, `feedparser`
--   **Fontes de Dados:**
-    -   [API de Dados Abertos da Câmara dos Deputados](https://dadosabertos.camara.leg.br/)
-    -   Feeds RSS do Senado, Câmara, STF, TSE e Agência Brasil.
--   **Publicação:** API do X (Twitter)
--   **Automação:** GitHub Actions
+# Crie e ative o ambiente virtual
+python3 -m venv .venv
+source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
-##  Como Executar o Projeto Localmente
-
-Embora o bot opere de forma autônoma, você pode executá-lo em sua máquina para testes e desenvolvimento.
-
-**1. Pré-requisitos:**
-   - Python 3.8 ou superior
-   - Git
-
-**2. Clone o Repositório:**
-   ```bash
-   git clone https://github.com/zlimaz/Projeto-Sentinela.git
-   cd Projeto-Sentinela
-   ```
-
-**3. Crie e Ative o Ambiente Virtual:**
-   ```bash
-   python3 -m venv .venv
-   source .venv/bin/activate
-   ```
-
-**4. Instale as Dependências:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-**5. Configure as Credenciais:**
-   - Crie um arquivo `.env` (pode copiar do `.env.example`) e preencha com suas credenciais da API do X.
-
-**6. Execute os Scripts Manualmente:**
-
-   - **Para o Monitor de Gastos:**
-     ```bash
-     # Gerar o ranking de gastos (opcional, para testes)
-     python3 -m src.gerador_de_ranking
-
-     # Postar o próximo deputado do ranking
-     python3 -m src.main
-     ```
-
-   - **Para o Agregador de Notícias:**
-     ```bash
-     # Coletar e postar a última notícia
-     python3 main_noticias.py
-     ```
-
-##  Estrutura de Arquivos
-
+# Instale as dependências
+pip install -r requirements.txt
 ```
+
+### 3. Variáveis de Ambiente
+Crie um arquivo `.env` na raiz do projeto com as credenciais:
+```env
+# X (Twitter) API Keys
+X_API_KEY="sua_api_key"
+X_API_SECRET="seu_api_secret"
+X_ACCESS_TOKEN="seu_access_token"
+X_ACCESS_TOKEN_SECRET="seu_token_secret"
+X_BEARER_TOKEN="seu_bearer_token"
+
+# Supabase
+SUPABASE_URL="https://sua-url.supabase.co"
+SUPABASE_KEY="sua_chave_anon_ou_service"
+```
+
+### 4. Rodando os Scripts
+```bash
+# 1. Alimentar o banco com os dados oficiais (Executar primeiro)
+python -m src.sync_data
+
+# 2. Gerar o ranqueamento lógico
+python -m src.gerador_de_ranking
+
+# 3. Disparar a postagem sobre os gastos
+python -m src.main
+
+# 4. Disparar o agregador de notícias oficiais
+python main_noticias.py
+```
+
+## Estrutura do Repositório
+
+```text
 .
-├── .github/
-│   └── workflows/
-│       ├── bot-schedule.yml       # Workflow para postar gastos
-│       ├── generate-ranking.yml   # Workflow para gerar ranking de gastos
-│       └── noticias-bot.yml       # Workflow para postar notícias
+├── .github/workflows/         # Configuração dos Cron Jobs (GitHub Actions)
 ├── src/
-│   ├── analisador/
-│   │   └── analisador_noticias.py # Filtra e gerencia notícias postadas
-│   ├── api_client.py            # Cliente para a API do X (Twitter)
-│   ├── coletores/               # Scripts que coletam notícias das fontes
-│   │   ├── coleta_agenciabrasil.py
-│   │   ├── coleta_camara.py
-│   │   ├── coleta_senado.py
-│   │   ├── coleta_stf.py
-│   │   └── coleta_tse.py
-│   ├── formatadores/
-│   │   └── formatador_noticias.py # Formata notícias para o X
-│   ├── gerador_de_ranking.py    # Script do monitor de gastos
-│   └── main.py                  # Script principal do monitor de gastos
-├── main_noticias.py             # Script principal do agregador de notícias
-├── estado.json                  # Guarda o estado da aplicação (últimos posts)
-├── ranking_gastos.json          # Ranking de deputados por gastos
-├── requirements.txt             # Dependências Python
-└── README.md                    # Esta documentação
+│   ├── analisador/            # Algoritmos de filtro e controle de estado
+│   ├── coletores/             # Web scrapers e ingestão de feeds RSS
+│   ├── formatadores/          # Processamento textual para threads estruturadas
+│   ├── api_client.py          # Wrapper de resiliência e controle de limites HTTP
+│   ├── sync_data.py           # Rotina ETL (Câmara -> Supabase)
+│   ├── gerador_de_ranking.py  # Consolidadores de métricas
+│   └── main.py                # Entrypoint do Agente de Gastos
+├── main_noticias.py           # Entrypoint do Agente de Notícias
+├── requirements.txt           # Dependências catalogadas
+└── README.md                  # Documentação principal
 ```
+
+##  Como Contribuir
+
+A transparência pública é um trabalho de todos. Cientistas de dados, engenheiros de software, pesquisadores e entusiastas são bem-vindos!
+
+1. Realize um *Fork* deste repositório.
+2. Crie uma branch para a sua feature (`git checkout -b feature/MinhaFeature`).
+3. Siga o estilo de código existente e comite suas mudanças (`git commit -m 'feat: implementando novo coletor'`).
+4. Faça um *Push* para a branch (`git push origin feature/MinhaFeature`).
+5. Abra um *Pull Request* detalhando a melhoria.
+
+> **Regra de Ouro:** Nenhuma credencial deve ser persistida no código. Utilize estritamente variáveis de ambiente.
+
+## Licença
+
+Este projeto encontra-se sob a licença **MIT**. Sinta-se livre para utilizar, modificar e distribuir conforme necessário.
+
+---
+<div align="center">
+  <i>Transformando transparência governamental em código. 🇧🇷</i>
+</div>
